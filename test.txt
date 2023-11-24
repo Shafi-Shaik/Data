@@ -1,0 +1,12 @@
+Database Table, Column Testing
+Let us look into various checks for database and column testing.
+
+Whether the mapping of the database fields and columns in the backend is compatible with those mappings in the front-end?
+Validation of the length and naming convention of the database fields and columns as specified by the requirements.
+Validation of the presence of any unused/unmapped database tables/columns.
+Validation of the compatibility of the
+datatype
+field lengths
+of the back-end database columns with that of those present at the front-end of the application.
+
+Whether the database fields allow the user to provide desired user inputs as required by the business requirement specification documents.
