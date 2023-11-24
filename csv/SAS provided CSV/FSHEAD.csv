@@ -1,0 +1,64 @@
+ext,datatype,filetype,header
+htm,t,e,Content-type: text/html
+html,t,e,Content-type: text/html
+html,t,c,Content-type: text/html
+gif,b,e,Content-type: image/gif
+gif,b,e,Pragma: no-cache
+gif,b,e,"Expires: Thu, 01 Dec 1994 16:00:00 GMT"
+gif,b,c,Content-type: image/gif
+gif,b,c,Pragma: no-cache
+gif,b,c,"Expires: Thu, 01 Dec 1994 16:00:00 GMT"
+jpeg,b,e,Content-type: image/jpeg
+jpeg,b,e,Pragma: no-cache
+jpeg,b,e,"Expires: Thu, 01 Dec 1994 16:00:00 GMT"
+jpeg,b,c,Content-type: image/jpeg
+jpeg,b,c,Pragma: no-cache
+jpeg,b,c,"Expires: Thu, 01 Dec 1994 16:00:00 GMT"
+jpg,b,e,Content-type: image/jpeg
+jpg,b,e,Pragma: no-cache
+jpg,b,e,"Expires: Thu, 01 Dec 1994 16:00:00 GMT"
+txt,t,e,Content-type: text/plain
+text,t,e,Content-type: text/plain
+zip,b,e,Content-type: application/x-zip-compressed
+tar,b,e,Content-type: application/x-tar
+pdf,b,e,Content-type: application/pdf
+pdf,b,e,Content-disposition: attachment; filename=temp.pdf
+ps,t,e,Content-type: application/postscript
+xls,b,e,Content-type: application/vnd.ms-excel
+csv,t,e,Content-type: application/vnd.ms-excel
+csv,t,e,Content-disposition: attachment; filename=temp.csv
+doc,b,e,Content-type: application/msword
+doc,b,e,Content-disposition: attachment; filename=temp.doc
+exe,b,e,Content-type: application/octet-stream
+exe,b,e,Content-disposition: attachment; filename=temp.exe
+bmp,b,e,Content-type: image/bmp
+ppt,b,e,Content-type: application/vnd.ms-powerpoint
+ppt,b,e,Content-disposition: attachment; filename=temp.ppt
+output,t,e,Content-type: text/plain
+output,t,c,Content-type: text/plain
+log,t,e,Content-type: text/plain
+log,t,c,Content-type: text/plain
+lst,t,e,Content-type: text/plain
+css,t,c,Content-type: text/css
+wml,t,c,Content-type: text/vnd.wap.wml
+xml,t,c,Content-type: text/xml
+xsl,t,c,Content-type: text/xml
+rtf,t,c,Content-type: application/msword
+pdf,b,c,Content-type: application/pdf
+pdf,b,c,Content-disposition: attachment; filename=temp.pdf
+ps,t,c,Content-type: application/postscript
+csv,t,c,Content-type: application/vnd.ms-excel
+csv,t,c,Content-disposition: attachment; filename=temp.csv
+js,t,c,Content-type: application/x-javascript
+css,t,e,Content-type: text/css
+wml,t,e,Content-type: text/vnd.wap.wml
+xml,t,e,Content-type: text/xml
+xsl,t,e,Content-type: text/xml
+rtf,t,e,Content-type: application/msword
+js,t,e,Content-type: application/x-javascript
+png,b,e,Content-type: image/png
+png,b,e,Pragma: no-cache
+png,b,e,"Expires: Thu, 01 Dec 1994 16:00:00 GMT"
+png,b,c,Content-type: image/png
+png,b,c,Pragma: no-cache
+png,b,c,"Expires: Thu, 01 Dec 1994 16:00:00 GMT"

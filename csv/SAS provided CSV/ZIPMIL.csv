@@ -1,0 +1,561 @@
+ZIP,X,Y,ZIP_CLASS,CITY,STATE,STATECODE,STATENAME,COUNTY,COUNTYNM,MSA,AREACODE,AREACODES,TIMEZONE,GMTOFFSET,DST,PONAME,ALIAS_CITY,ALIAS_CITYN,CITY2,STATENAME2
+9001.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9003.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9004.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9005.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9006.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9009.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9010.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9011.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9012.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9013.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9014.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9016.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9020.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9021.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9028.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9033.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9034.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9044.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9046.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9049.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9053.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9054.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9055.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9059.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9060.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9067.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9068.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9069.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9075.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9079.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9090.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9094.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9095.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9096.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9103.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9104.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9107.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9112.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9114.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9123.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9125.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9126.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9128.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9131.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9136.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9138.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9139.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9140.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9142.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9143.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9154.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9160.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9161.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9172.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9173.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9177.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9180.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9186.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9203.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9211.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9213.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9214.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9226.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9227.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9245.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9250.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9261.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9263.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9264.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9265.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9301.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9302.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9304.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9305.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9306.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9307.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9308.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9309.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9310.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9311.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9312.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9313.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9315.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9316.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9319.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9320.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9321.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9328.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9330.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9333.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9337.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9340.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9343.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9347.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9348.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9351.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9352.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9354.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9355.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9356.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9357.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9360.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9363.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9364.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9365.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9366.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9368.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9372.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9373.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9378.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9381.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9382.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9397.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9403.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9421.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9447.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9454.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9459.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9461.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9463.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9464.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9468.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9469.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9470.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9494.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9498.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9501.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9502.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9503.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9504.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9505.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9506.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9507.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9508.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9509.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9510.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9511.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9513.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9517.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9520.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9522.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9523.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9524.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9532.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9534.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9543.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9550.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9554.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9556.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9564.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9565.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9566.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9567.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9568.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9569.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9570.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9573.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9574.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9575.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9576.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9577.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9578.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9579.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9581.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9582.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9583.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9586.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9587.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9588.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9589.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9590.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9591.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9592.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9593.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9594.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9595.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9596.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9599.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9600.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9601.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9602.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9603.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9604.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9605.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9606.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9607.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9608.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9609.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9610.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9613.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9617.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9618.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9620.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9621.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9622.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9623.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9624.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9625.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9626.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9627.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9630.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9631.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9633.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9636.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9642.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9643.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9645.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9647.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9648.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9649.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9701.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9702.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9703.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9704.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9705.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9706.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9707.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9708.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9709.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9710.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9711.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9712.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9714.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9715.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9716.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9717.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9718.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9719.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9720.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9722.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9723.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9724.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9725.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9726.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9727.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9728.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9729.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9730.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9731.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9732.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9733.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9734.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9735.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9736.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9737.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9738.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9739.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9741.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9742.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9743.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9744.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9745.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9747.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9748.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9749.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9750.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9751.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9752.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9753.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9754.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9755.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9756.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9758.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9759.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9760.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9761.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9762.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9769.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9777.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9780.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9789.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9801.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9802.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9803.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9804.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9805.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9806.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9807.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9808.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9809.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9810.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9811.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9812.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9813.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9814.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9815.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9816.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9817.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9818.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9820.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9821.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9822.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9823.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9824.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9825.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9826.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9827.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9828.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9829.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9830.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9831.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9832.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9833.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9834.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9835.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9836.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9837.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9838.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9839.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9841.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9842.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9843.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9844.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9845.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9846.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9847.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9848.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9851.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9852.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9853.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9854.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9855.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9858.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9859.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9861.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9863.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9865.0,,,M,FPO,36.0,NY,New York,,none,,,,,,N,FPO,Fleet Post Office,,FPO,NEWYORK
+9868.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9870.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9873.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9874.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9875.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9880.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9890.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+9892.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9895.0,,,M,DPO,36.0,NY,New York,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,NEWYORK
+9898.0,,,M,APO,36.0,NY,New York,,none,,,,,,N,APO,Army Post Office,,APO,NEWYORK
+34001.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34002.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34004.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34007.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34008.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34011.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34020.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34021.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34022.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34023.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34024.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34025.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34030.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34031.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34032.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34033.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34034.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34035.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34036.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34037.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34038.0,,,M,APO,12.0,FL,Florida,,none,,,,,,N,APO,Army Post Office,,APO,FLORIDA
+34039.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34041.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34042.0,,,M,APO,12.0,FL,Florida,,none,,,,,,N,APO,Army Post Office,,APO,FLORIDA
+34044.0,,,M,APO,12.0,FL,Florida,,none,,,,,,N,APO,Army Post Office,,APO,FLORIDA
+34055.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34058.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34060.0,,,M,DPO,12.0,FL,Florida,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,FLORIDA
+34078.0,,,M,APO,12.0,FL,Florida,,none,,,,,,N,APO,Army Post Office,,APO,FLORIDA
+34080.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34081.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34082.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34083.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34084.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34085.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34086.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34087.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34088.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34089.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34090.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34091.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34092.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34093.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34094.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34095.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34096.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34098.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+34099.0,,,M,FPO,12.0,FL,Florida,,none,,,,,,N,FPO,Fleet Post Office,,FPO,FLORIDA
+96201.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96202.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96203.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96204.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96205.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96206.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96207.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96208.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96209.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96210.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96212.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96213.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96214.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96218.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96224.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96251.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96257.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96258.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96260.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96264.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96266.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96267.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96269.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96271.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96275.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96276.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96278.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96283.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96284.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96301.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96303.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96306.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96309.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96310.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96319.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96321.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96322.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96323.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96326.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96328.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96330.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96331.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96336.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96337.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96338.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96339.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96343.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96346.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96347.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96349.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96350.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96351.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96362.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96365.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96367.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96368.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96370.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96372.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96373.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96374.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96375.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96376.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96377.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96378.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96379.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96380.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96382.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96384.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96385.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96386.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96387.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96388.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96389.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96401.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96427.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96447.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96501.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96502.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96504.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96505.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96507.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96510.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96511.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96515.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96516.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96517.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96520.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96521.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96522.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96530.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96531.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96532.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96534.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96535.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96537.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96538.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96540.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96541.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96542.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96543.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96546.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96548.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96549.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96550.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96551.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96552.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96553.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96554.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96555.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96557.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96562.0,,,M,DPO,6.0,CA,California,,none,,,,,,N,DPO,Diplomatic Post Office,,DPO,CALIFORNIA
+96577.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96578.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96595.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96598.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96599.0,,,M,APO,6.0,CA,California,,none,,,,,,N,APO,Army Post Office,,APO,CALIFORNIA
+96601.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96602.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96603.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96604.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96605.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96606.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96607.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96608.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96609.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96610.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96611.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96612.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96613.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96615.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96616.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96617.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96619.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96620.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96621.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96622.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96624.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96628.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96629.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96631.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96632.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96643.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96649.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96650.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96657.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96660.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96661.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96662.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96663.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96664.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96665.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96666.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96667.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96668.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96669.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96670.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96671.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96672.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96673.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96674.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96675.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96677.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96678.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96679.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96681.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96682.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96683.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96686.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96691.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96692.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96693.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96694.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96695.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96696.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA
+96698.0,,,M,FPO,6.0,CA,California,,none,,,,,,N,FPO,Fleet Post Office,,FPO,CALIFORNIA

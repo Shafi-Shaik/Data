@@ -1,0 +1,15 @@
+product,feedcls,itemname,title
+,foldfd,name,Name
+,foldfd,type,Type
+,foldfd,modified,Modified
+,logfeed,name,Name
+,logfeed,type,Type
+,logfeed,engine,Subtype
+,logfeed,path,Path
+,libfeed,memname,Name
+,libfeed,memtype,Type
+,libfeed,type,Data Set Type
+,catfeed,objname,Name
+,catfeed,objtype,Type
+,catfeed,modified,Modified
+,catfeed,objdesc,Description

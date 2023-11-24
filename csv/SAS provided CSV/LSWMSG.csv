@@ -1,0 +1,51 @@
+MSGID,MNEMONIC,LINENO,LEVEL,TEXT,PBUTTONS
+3654.0,IN_SELECT_LANG,1.0,O,Select a language.,SASHELP.FSP.OK.SLIST
+3668.0,IN_NOT_WRITE_REMOTE,1.0,E,%lNot able to write the remote machine list.,SASHELP.FSP.OK.SLIST
+3669.0,IN_SPECIFY_REMOTE,1.0,O,Please specify a name for the remote host.,SASHELP.FSP.OK.SLIST
+3670.0,IN_SPECIFY_SCRIPT,1.0,O,Please specify a script.,SASHELP.FSP.OK.SLIST
+3671.0,IN_HIGH_DELETE,1.0,O,Make selections in listbox and then press Delete,SASHELP.FSP.OK.SLIST
+3672.0,IN_EXIST_REPLACE,1.0,Q,%l%$ already exists. Do you want to replace it?,SASHELP.FSP.YN.SLIST
+3680.0,IO_COPIED_TO,1.0,N,%l%1$ copied to %2$,SASHELP.FSP.OK.SLIST
+3687.0,IN_NO_DEFAULT_HOST,1.0,N,%lNo default TRANTABS for host %$.,SASHELP.FSP.OK.SLIST
+3741.0,IN_ACTIVE_REMOTE,1.0,N,%nThere is no active remote session available.,SASHELP.FSP.OK.SLIST
+3742.0,IN_MAKE_REMOTE,1.0,N,%nMake a remote connection and try again.,SASHELP.FSP.OK.SLIST
+4026.0,IN_EXISTS_NOOVER,1.0,N,%l%$ already exists. No need to overwrite.,SASHELP.FSP.OK.SLIST
+4391.0,IN_RESTORE_DEFAULTS,3.0,Q,Do you want to continue?,SASHELP.FSP.YN.SLIST
+4514.0,IO_HALT,1.0,E,Unable to perform function. Program halted due to,SASHELP.FSP.OK.SLIST
+4514.0,IO_HALT,2.0,E,an internal error.,SASHELP.FSP.OK.SLIST
+7057.0,IN_LOCK_TRANTAB_LOAD,1.0,W,Locale Setup window cannot load trantabs because%N,SASHELP.FSP.OK.SLIST
+7057.0,IN_LOCK_TRANTAB_LOAD,2.0,W,update lock is not available for SASUSER.PROFILE.CATALOG.%N,SASHELP.FSP.OK.SLIST
+7057.0,IN_LOCK_TRANTAB_LOAD,3.0,W,Lock held by another process.,SASHELP.FSP.OK.SLIST
+7305.0,CL_GENERAL,1.0,L,General,
+7306.0,CL_LANG,1.0,L,Languages,
+7307.0,CL_LOCALE,1.0,L,Locale,
+7308.0,CL_ENCODING,1.0,L,Encoding,
+7309.0,CL_EBCDIC,1.0,L,EBCDIC Settings,
+7310.0,CL_TRADITIONAL_EBCDIC,1.0,L,Traditional EBCDIC,
+7311.0,CL_OPEN_EBCDIC,1.0,L,Open Edition EBCDIC,
+7312.0,CL_SCANNER,1.0,L,Use scanner trantabs,
+7314.0,CL_REMOTE_SUBMIT_TRANTABS,1.0,L,Remote submit trantabs,
+7316.0,CL_USE_TRABASE_NAME,1.0,L,Use Trabase naming convention,
+7319.0,CL_OTHER_OPTIONS,1.0,L,Other Options,
+7324.0,CL_LOCALE_SETUP,1.0,L,Locale Setup,
+7325.0,CL_OK,1.0,L,OK,
+7327.0,CL_RESET,1.0,L,Reset,
+7329.0,CL_CANCEL,1.0,L,Cancel,
+7330.0,CL_HELP,1.0,L,Help,
+7367.0,IN_ENCODING_MISMATCH,1.0,Q,The encoding that you have chosen does not match%N,SASHELP.FSP.YN.SLIST
+7367.0,IN_ENCODING_MISMATCH,2.0,Q,"the session encoding. If you choose to continue,%N",SASHELP.FSP.YN.SLIST
+7367.0,IN_ENCODING_MISMATCH,3.0,Q,you may get undesirable results since any trantabs%N,SASHELP.FSP.YN.SLIST
+7367.0,IN_ENCODING_MISMATCH,4.0,Q,copied to sasuser.profile will be based on the encoding%N,SASHELP.FSP.YN.SLIST
+7367.0,IN_ENCODING_MISMATCH,5.0,Q,you have chosen.%N%N,SASHELP.FSP.YN.SLIST
+7367.0,IN_ENCODING_MISMATCH,6.0,Q,Do you want to continue?,SASHELP.FSP.YN.SLIST
+7368.0,IN_V9_NOT_SUPPORTED,1.0,W,%LSetting the trantabs on a version 9 remote session%N,SASHELP.FSP.OK.SLIST
+7368.0,IN_V9_NOT_SUPPORTED,2.0,W,is not supported in Locale Setup Window.,SASHELP.FSP.OK.SLIST
+7369.0,IN_INVALID_HOST,1.0,E,%LInvalid host id.,
+7370.0,IN_NO_RANK,1.0,E,%LNo encoding for the specified rank.,
+7371.0,TB_DO_NOT_EXIST,1.0,E,%L%$ does not exist.,
+7372.0,IN_INVALID_LOCALE,1.0,E,%LInvalid locale value.,
+7373.0,IN_LSWB_ACT_REM,1.0,E,%LThere is no active remote session available.,
+7374.0,IN_LSWB_MAKE_REM,1.0,E,%LMake a remote connection and try again.,
+7375.0,IN_LSWB_V9_NOTSUPP,1.0,W,%LSetting the trantabs on a version 9 remote session%N,
+7375.0,IN_LSWB_V9_NOTSUPP,2.0,W,is not supported in Locale Setup Window.,
+7376.0,LOC_NOT_SUPPORTED,1.0,E,"The locale ""%$"" is not supported by the %%LS macro.",

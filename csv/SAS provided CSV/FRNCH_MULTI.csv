@@ -1,0 +1,1925 @@
+role,Term,numdocs
+Prep,a cause de,5.0
+Prep,a cause d’,1.0
+Adv,a ce jour,10.0
+Adv,a ce stade,20.0
+Prep,a ce stade des,1.0
+Prep,a compter de,5.0
+Prep,a compter du,8.0
+Prep,a condition d’,2.0
+Conj,a condition qu',1.0
+Conj,a condition que,2.0
+Adv,a contrario,13.0
+Adv,a court terme,4.0
+Prep,a côté des,2.0
+Prep,a défaut d',1.0
+Prep,a défaut de,13.0
+Prep,a défaut d’,5.0
+Adv,a fortiori,28.0
+Adv,a gauche,1.0
+Prep,a l'aide de,2.0
+Prep,a l'aide des,1.0
+Prep,a l'aide du,1.0
+Prep,a l'encontre de,1.0
+Prep,a l'exception d',2.0
+Prep,a l'exception de,4.0
+Prep,a l'exception des,6.0
+Prep,a l'exception du,2.0
+Prep,a l'exclusion de,1.0
+Prep,a l'exclusion des,7.0
+Prep,a l'exclusion du,1.0
+Adv,a l'heure actuelle,10.0
+Prep,a l'image de,2.0
+Prep,a l'initiative d',1.0
+Prep,a l'instar de,1.0
+Prep,a l'intérieur de,2.0
+Prep,a l'inverse du,1.0
+Prep,a l'issue d',2.0
+Prep,a l'issue de,9.0
+Prep,a l'issue du,1.0
+Prep,a l'occasion de,2.0
+Prep,a l'occasion des,1.0
+Adv,a l'origine,2.0
+Prep,a l'égard de,1.0
+Prep,a l'égard des,1.0
+Adv,a l'évidence,1.0
+Prep,a la demande d',2.0
+Prep,a la demande de,8.0
+Prep,a la demande des,1.0
+Prep,a la demande du,2.0
+Prep,a la demande d’,5.0
+Prep,a la fin de,25.0
+Prep,a la fin des,1.0
+Prep,a la fin du,1.0
+Adv,a la fois,1.0
+Prep,a la lumière de,16.0
+Prep,a la lumière des,5.0
+Prep,a la lumière du,2.0
+Prep,a la place de,1.0
+Prep,a la suite d',3.0
+Prep,a la suite de,20.0
+Prep,a la suite des,11.0
+Prep,a la suite du,2.0
+Adv,a long terme,3.0
+Adv,a l’arrière,1.0
+Prep,a l’exception des,1.0
+Adv,a l’heure actuelle,12.0
+Prep,a l’image de,1.0
+Prep,a l’image du,1.0
+Prep,a l’instar de,3.0
+Prep,a l’instar des,3.0
+Prep,a l’instar du,1.0
+Prep,a l’instar d’,2.0
+Prep,a l’intérieur de,1.0
+Prep,a l’intérieur du,8.0
+Prep,a l’issue de,14.0
+Prep,a l’issue des,2.0
+Prep,a l’issue du,2.0
+Prep,a l’occasion de,2.0
+Prep,a l’occasion des,1.0
+Prep,a l’occasion du,1.0
+Adv,a l’opposé,2.0
+Prep,a l’égard des,1.0
+Adv,a mesure que,1.0
+Adv,a minima,4.0
+Adv,a moins que,7.0
+Adv,a moyen terme,3.0
+Prep,a part,2.0
+Prep,a partir d',2.0
+Prep,a partir de,24.0
+Prep,a partir des,2.0
+Prep,a partir du,33.0
+Adv,a plusieurs reprises,1.0
+Adv,a point,71.0
+Adv,a posteriori,347.0
+Adv,a priori,118.0
+Prep,a propos de,1.0
+Prep,a propos du,1.0
+Prep,a proximité des,1.0
+Adv,a présent,1.0
+Adv,a son tour,3.0
+Adv,a terme,1.0
+Prep,a titre d',17.0
+Prep,a titre de,6.0
+Prep,a titre d’,4.0
+Adv,a tout moment,1.0
+Prep,a travers,4.0
+Adj,ad hoc,495.0
+Adv,ad libitum,6.0
+Prep,afin d',4031.0
+Prep,afin de,6713.0
+Prep,afin d’,901.0
+Conj,afin qu,1.0
+Conj,afin qu',485.0
+Conj,afin que,1362.0
+Conj,afin qu’,96.0
+Adv,ainsi de suite,12.0
+Adv,ainsi donc,3.0
+Conj,ainsi qu,5.0
+Conj,ainsi qu',3869.0
+Conj,ainsi que,10119.0
+Conj,ainsi qu’,862.0
+Conj,alors même qu',29.0
+Conj,alors même que,78.0
+Conj,alors même qu’,9.0
+Conj,alors qu',324.0
+Conj,alors que,1140.0
+Conj,alors qu’,119.0
+Adv,après coup,7.0
+Adv,après mûre réflexion,4.0
+Conj,après qu',122.0
+Conj,après que,564.0
+Conj,après qu’,13.0
+Adv,après tout,24.0
+Conj,attendu qu',4.0
+Conj,attendu que,20.0
+Conj,attendu qu’,1.0
+Prep,au bord de,12.0
+Prep,au bord des,5.0
+Prep,au bord du,10.0
+Adv,au bout du compte,12.0
+Conj,au cas où,1070.0
+Prep,au chapitre de,7.0
+Prep,au chapitre des,3.0
+Prep,au chapitre du,1.0
+Adv,au choix,285.0
+Prep,au coeur de,9.0
+Prep,au coeur des,4.0
+Prep,au coeur du,9.0
+Adv,au contraire,328.0
+Prep,au contraire d',8.0
+Prep,au contraire de,17.0
+Prep,au contraire des,4.0
+Prep,au contraire du,1.0
+Adv,au coup par coup,4.0
+Prep,au cours d',921.0
+Prep,au cours de,3567.0
+Prep,au cours des,1893.0
+Prep,au cours du,809.0
+Prep,au cours d’,134.0
+Prep,au cœur d',2.0
+Prep,au cœur de,106.0
+Prep,au cœur des,38.0
+Prep,au cœur du,39.0
+Prep,au cœur d’,1.0
+Prep,au côté de,2.0
+Prep,au côté des,2.0
+Prep,au côté du,3.0
+Adv,au dehors,4.0
+Prep,au delà d',4.0
+Prep,au delà de,35.0
+Prep,au delà des,21.0
+Prep,au delà du,13.0
+Prep,au delà d’,2.0
+Adv,au demeurant,32.0
+Prep,au dire de,2.0
+Adv,au début,107.0
+Prep,au début d',27.0
+Prep,au début de,641.0
+Prep,au début des,76.0
+Prep,au début du,107.0
+Prep,au début d’,5.0
+Adv,au départ,438.0
+Prep,au détriment d',19.0
+Prep,au détriment de,103.0
+Prep,au détriment des,117.0
+Prep,au détriment du,47.0
+Prep,au détriment d’,5.0
+Prep,au fond d',2.0
+Prep,au fond de,26.0
+Prep,au fond des,5.0
+Prep,au fond du,18.0
+Adv,au fur et à mesure,23.0
+Prep,au fur et à mesure de,69.0
+Prep,au fur et à mesure des,27.0
+Prep,au fur et à mesure du,19.0
+Conj,au fur et à mesure qu',9.0
+Conj,au fur et à mesure que,70.0
+Conj,au fur et à mesure qu’,4.0
+Prep,au gré de,4.0
+Prep,au gré des,8.0
+Prep,au gré du,12.0
+Adv,au jour le jour,19.0
+Adv,au large,29.0
+Prep,au large d',5.0
+Prep,au large de,78.0
+Prep,au large des,58.0
+Prep,au large du,20.0
+Prep,au lieu d',214.0
+Prep,au lieu de,686.0
+Prep,au lieu des,107.0
+Prep,au lieu du,93.0
+Prep,au lieu d’,31.0
+Adv,au long,5.0
+Prep,au long de,14.0
+Prep,au long des,3.0
+Prep,au long d’,1.0
+Adv,au mieux,291.0
+Prep,au milieu d',6.0
+Prep,au milieu de,70.0
+Prep,au milieu des,20.0
+Prep,au milieu du,31.0
+Adv,au moins,4875.0
+Prep,au moment d',44.0
+Prep,au moment de,1816.0
+Prep,au moment des,40.0
+Prep,au moment du,325.0
+Prep,au moment d’,14.0
+Adv,au moment opportun,23.0
+Conj,au moment où,632.0
+Adv,au moment voulu,7.0
+Prep,au moyen d',1159.0
+Prep,au moyen de,1212.0
+Prep,au moyen des,346.0
+Prep,au moyen du,355.0
+Prep,au moyen d’,225.0
+Adv,au même moment,137.0
+Prep,au niveau d',96.0
+Prep,au niveau de,1604.0
+Prep,au niveau des,933.0
+Prep,au niveau du,581.0
+Prep,au niveau d’,37.0
+Prep,au nom d',70.0
+Prep,au nom de,1862.0
+Prep,au nom des,168.0
+Prep,au nom du,221.0
+Prep,au nom d’,17.0
+Prep,au nord d',6.0
+Prep,au nord de,78.0
+Prep,au nord des,1.0
+Prep,au nord du,34.0
+Adv,au passage,83.0
+Adv,au pire,10.0
+Adv,au pis,2.0
+Adv,au plus,5266.0
+Adv,au plus vite,51.0
+Prep,au point de vue de,14.0
+Prep,au point de vue des,1.0
+Prep,au point de vue du,4.0
+Conj,au point où,33.0
+Conj,au point qu',13.0
+Conj,au point que,26.0
+Adv,au possible,2.0
+Prep,au pouvoir d',8.0
+Prep,au pouvoir de,4.0
+Prep,au pouvoir d’,1.0
+Prep,au prix d',149.0
+Prep,au prix de,141.0
+Prep,au prix des,54.0
+Prep,au prix du,85.0
+Prep,au prix d’,30.0
+Prep,au profit d',110.0
+Prep,au profit de,233.0
+Prep,au profit des,230.0
+Prep,au profit du,80.0
+Prep,au profit d’,36.0
+Prep,au prorata d',1.0
+Prep,au prorata de,187.0
+Prep,au prorata des,149.0
+Prep,au prorata du,82.0
+Adv,au préalable,444.0
+Prep,au préjudice de,4.0
+Prep,au préjudice des,7.0
+Prep,au préjudice du,1.0
+Prep,au rang d',3.0
+Prep,au rang de,19.0
+Prep,au rang des,14.0
+Prep,au rang d’,2.0
+Prep,au ras du,2.0
+Prep,au regard d',18.0
+Prep,au regard de,722.0
+Prep,au regard des,650.0
+Prep,au regard du,236.0
+Prep,au regard d’,9.0
+Adv,au reste,62.0
+Prep,au risque d',32.0
+Prep,au risque de,77.0
+Prep,au risque des,5.0
+Prep,au risque du,6.0
+Prep,au risque d’,5.0
+Prep,au sein d',382.0
+Prep,au sein de,1717.0
+Prep,au sein des,654.0
+Prep,au sein du,1677.0
+Prep,au sein d’,88.0
+Prep,au sortir d',1.0
+Prep,au sortir de,3.0
+Prep,au sujet d',74.0
+Prep,au sujet de,548.0
+Prep,au sujet des,442.0
+Prep,au sujet du,192.0
+Prep,au sujet d’,17.0
+Prep,au terme d',111.0
+Prep,au terme de,395.0
+Prep,au terme des,56.0
+Prep,au terme du,90.0
+Prep,au terme d’,48.0
+Prep,au titre d',381.0
+Prep,au titre de,3978.0
+Prep,au titre des,1239.0
+Prep,au titre du,2082.0
+Prep,au titre d’,66.0
+Prep,au travers d',72.0
+Prep,au travers de,186.0
+Prep,au travers des,83.0
+Prep,au travers du,54.0
+Prep,au travers d’,29.0
+Prep,au vu d',11.0
+Prep,au vu de,280.0
+Prep,au vu des,278.0
+Prep,au vu du,169.0
+Prep,au vu d’,4.0
+Prep,au-dessous d',24.0
+Prep,au-dessous de,160.0
+Prep,au-dessous des,30.0
+Prep,au-dessous du,126.0
+Prep,au-dessous d’,3.0
+Prep,au-dessus d',42.0
+Prep,au-dessus de,210.0
+Prep,au-dessus des,75.0
+Prep,au-dessus du,233.0
+Prep,au-dessus d’,6.0
+Prep,auprès d',461.0
+Prep,auprès de,1554.0
+Prep,auprès des,1443.0
+Prep,auprès du,726.0
+Prep,auprès d’,100.0
+Conj,aussi bien qu,1.0
+Conj,aussi bien qu',21.0
+Conj,aussi bien que,70.0
+Conj,aussi bien qu’,10.0
+Conj,aussitôt qu',22.0
+Conj,aussitôt que,98.0
+Conj,autant qu',26.0
+Conj,autant que,80.0
+Adv,autant que faire se peut,54.0
+Adv,autant que possible,544.0
+Conj,autant qu’,6.0
+Prep,autour d',80.0
+Prep,autour de,364.0
+Prep,autour des,135.0
+Prep,autour du,118.0
+Prep,autour d’,29.0
+Adv,autre part,4.0
+Adv,autrement dit,157.0
+Adv,aux alentours,14.0
+Prep,aux alentours de,69.0
+Prep,aux alentours des,5.0
+Prep,aux alentours du,4.0
+Prep,aux alentours d’,2.0
+Prep,aux confins de,4.0
+Prep,aux dires de,5.0
+Prep,aux dires des,1.0
+Prep,aux dires du,1.0
+Prep,aux dépens d',5.0
+Prep,aux dépens de,37.0
+Prep,aux dépens des,22.0
+Prep,aux dépens du,14.0
+Prep,aux environs de,23.0
+Prep,aux environs des,1.0
+Prep,aux environs du,2.0
+Adv,aux trois quarts,27.0
+Adv,aux trois-quarts,4.0
+Prep,avant d',649.0
+Prep,avant de,1016.0
+Prep,avant d’,160.0
+Adv,avant la lettre,3.0
+Conj,avant qu',298.0
+Conj,avant que,808.0
+Conj,avant qu’,44.0
+Adv,avant tout,324.0
+Adv,avant toute chose,10.0
+Adj,bas de gamme,18.0
+Det,beaucoup de,159.0
+Adv,bel et bien,20.0
+Adv,bien au contraire,21.0
+Adv,bien entendu,86.0
+Adv,bien plus,132.0
+Conj,bien qu',524.0
+Conj,bien que,1132.0
+Conj,bien qu’,169.0
+Adv,bien sûr,39.0
+Adj,bon marché,42.0
+Adv,bon nombre de,81.0
+Conj,c'est pourquoi,492.0
+Conj,c'est-à-dire qu',172.0
+Conj,c'est-à-dire que,115.0
+Conj,c'est-à-dire qu’,4.0
+Adv,ce faisant,223.0
+Adv,ce jour-là,16.0
+Adv,ceci dit,3.0
+Adv,cela dit,9.0
+Conj,cependant qu',45.0
+Conj,cependant que,194.0
+Conj,cependant qu’,18.0
+Adv,certainement pas,45.0
+Adv,cette fois,28.0
+Adv,cette fois-ci,4.0
+Conj,chaque fois qu',182.0
+Conj,chaque fois que,480.0
+Conj,chaque fois qu’,43.0
+Adv,comme d'habitude,3.0
+Adv,comme d’habitude,2.0
+Adv,comme prévu,489.0
+Conj,comme s',103.0
+Conj,comme si,116.0
+Adv,comme suit,4925.0
+Conj,comme s’,13.0
+Prep,compte non tenu de,19.0
+Prep,compte non tenu des,20.0
+Prep,compte non tenu du,5.0
+Prep,compte tenu d',53.0
+Prep,compte tenu de,2434.0
+Prep,compte tenu des,2282.0
+Prep,compte tenu du,1003.0
+Prep,compte tenu d’,18.0
+Prep,conformément au,4424.0
+Prep,conformément aux,6266.0
+Prep,conformément à,10362.0
+Adv,consécutivement à,29.0
+Prep,contrairement au,47.0
+Prep,contrairement aux,157.0
+Prep,contrairement à,243.0
+Adv,contre le gré de,2.0
+Adv,contre toute attente,2.0
+Conj,c’est pourquoi,211.0
+Conj,c’est-à-dire que,21.0
+Conj,c’est-à-dire qu’,30.0
+Adv,d'année en année,26.0
+Adv,d'autant moins,2.0
+Adv,d'autant plus,154.0
+Conj,d'autant plus qu',14.0
+Conj,d'autant plus que,49.0
+Conj,d'autant qu',6.0
+Conj,d'autant que,28.0
+Adv,d'autre part,2396.0
+Adv,d'ici là,22.0
+Adv,d'ores et déjà,140.0
+Prep,d'un bout à l'autre d',1.0
+Prep,d'un bout à l'autre de,12.0
+Prep,d'un bout à l'autre du,4.0
+Adv,d'un commun accord,418.0
+Adv,d'un trait,16.0
+Adv,d'une façon générale,63.0
+Adv,d'une manière générale,372.0
+Adv,d'une part,2389.0
+Adv,dans ce cadre,359.0
+Adv,dans ce cas,2061.0
+Adv,dans ces conditions,396.0
+Adv,dans cette optique,86.0
+Prep,dans l'attente d',92.0
+Prep,dans l'attente de,323.0
+Prep,dans l'attente des,74.0
+Prep,dans l'attente du,45.0
+Adv,dans l'exercice de ses fonctions,91.0
+Adv,dans l'immédiat,38.0
+Prep,dans l'optique d',30.0
+Prep,dans l'optique de,46.0
+Prep,dans l'optique des,8.0
+Prep,dans l'optique du,12.0
+Prep,dans la direction d',7.0
+Prep,dans la direction de,28.0
+Prep,dans la direction des,2.0
+Prep,dans la direction du,12.0
+Prep,dans la direction d’,1.0
+Adv,dans la foulée,23.0
+Adv,dans la mesure de leurs moyens,3.0
+Adv,dans la mesure de ses moyens,9.0
+Conj,dans la mesure où,2830.0
+Prep,dans le but d',383.0
+Prep,dans le but de,757.0
+Prep,dans le but d’,103.0
+Prep,dans le cadre d',1863.0
+Prep,dans le cadre de,6272.0
+Prep,dans le cadre des,3068.0
+Prep,dans le cadre du,3403.0
+Prep,dans le cadre d’,450.0
+Prep,dans le cas d',1232.0
+Prep,dans le cas de,1548.0
+Prep,dans le cas des,1440.0
+Prep,dans le cas du,442.0
+Prep,dans le cas d’,206.0
+Conj,dans le cas où,2068.0
+Prep,dans le contexte d',116.0
+Prep,dans le contexte de,648.0
+Prep,dans le contexte des,212.0
+Prep,dans le contexte du,239.0
+Prep,dans le contexte d’,62.0
+Prep,dans le cours d',6.0
+Prep,dans le cours de,9.0
+Prep,dans le cours d’,1.0
+Prep,dans le domaine d',26.0
+Prep,dans le domaine de,2331.0
+Prep,dans le domaine des,1448.0
+Prep,dans le domaine du,513.0
+Prep,dans le domaine d’,7.0
+Adv,dans le nombre,37.0
+Adv,dans le passé,247.0
+Prep,dans le prolongement de,38.0
+Prep,dans le prolongement des,27.0
+Prep,dans le prolongement du,10.0
+Prep,dans le prolongement d’,3.0
+Prep,dans le sillage d',2.0
+Prep,dans le sillage de,6.0
+Prep,dans le sillage des,3.0
+Prep,dans le sillage du,7.0
+Adv,dans le vif du sujet,2.0
+Adv,dans les circonstances actuelles,20.0
+Adv,dans les grandes lignes,32.0
+Adv,dans les parages,2.0
+Adv,dans les prochaines années,32.0
+Adv,dans les prochains mois,14.0
+Adv,dans les règles,113.0
+Adv,dans les règles de l'art,8.0
+Prep,dans l’attente de,93.0
+Prep,dans l’attente des,12.0
+Prep,dans l’attente du,15.0
+Prep,dans l’attente d’,12.0
+Adv,dans l’exercice de ses fonctions,19.0
+Adv,dans l’immédiat,10.0
+Prep,dans l’optique de,13.0
+Prep,dans l’optique des,1.0
+Prep,dans l’optique du,4.0
+Prep,dans l’optique d’,22.0
+Adv,dans son ensemble,684.0
+Adv,dans un premier temps,302.0
+Adv,dans une certaine mesure,193.0
+Adv,dans une moindre mesure,94.0
+Adv,de a à z,2.0
+Adv,de bout en bout,25.0
+Conj,de ce qu',68.0
+Conj,de ce que,245.0
+Conj,de ce qu’,21.0
+Prep,de chez,5.0
+Adv,de concert,112.0
+Adv,de conserve,29.0
+Prep,de crainte d',3.0
+Prep,de crainte de,1.0
+Adv,de dos,29.0
+Adv,de facto,119.0
+Adv,de façon générale,59.0
+Conj,de façon qu',82.0
+Conj,de façon que,190.0
+Conj,de façon qu’,3.0
+Prep,de façon à,1095.0
+Conj,de façon à ce qu',63.0
+Conj,de façon à ce que,146.0
+Conj,de façon à ce qu’,9.0
+Adv,de force,406.0
+Adv,de front,10.0
+Adv,de gré à gré,38.0
+Adv,de jure,20.0
+Adv,de justesse,7.0
+Adv,de l'avis général,8.0
+Prep,de l'ordre d',13.0
+Prep,de l'ordre de,252.0
+Prep,de l'ordre des,19.0
+Prep,de l'ordre du,56.0
+Adv,de la sorte,106.0
+Adv,de leur plein gré,9.0
+Adv,de loin,149.0
+Adv,de l’avis général,8.0
+Prep,de l’ordre d',1.0
+Prep,de l’ordre de,92.0
+Prep,de l’ordre des,5.0
+Prep,de l’ordre du,20.0
+Prep,de l’ordre d’,2.0
+Adv,de manière générale,240.0
+Conj,de manière qu',93.0
+Conj,de manière que,259.0
+Conj,de manière qu’,17.0
+Prep,de manière à,2206.0
+Conj,de manière à ce qu',119.0
+Conj,de manière à ce que,312.0
+Conj,de manière à ce qu’,23.0
+Adv,de moins en moins,31.0
+Adv,de même,1436.0
+Conj,de même qu',109.0
+Conj,de même que,833.0
+Conj,de même qu’,44.0
+Prep,de nature à,1130.0
+Adv,de nouveau,408.0
+Adj,de nuit,85.0
+Prep,de par,261.0
+Adv,de part en part,8.0
+Adv,de part et d'autre,46.0
+Prep,de part et d'autre d',11.0
+Prep,de part et d'autre de,44.0
+Prep,de part et d'autre des,17.0
+Prep,de part et d'autre du,27.0
+Adv,de part et d’autre,7.0
+Prep,de part et d’autre de,15.0
+Prep,de part et d’autre des,5.0
+Prep,de part et d’autre du,2.0
+Prep,de part et d’autre d’,2.0
+Adv,de peu,23.0
+Prep,de peur de,1.0
+Prep,de peur d’,1.0
+Conj,de peur que,3.0
+Adv,de plain-pied,5.0
+Adv,de plein fouet,4.0
+Adv,de plus,2428.0
+Adv,de plus en plus,700.0
+Adv,de prime abord,10.0
+Adv,de son côté,43.0
+Adv,de son plein gré,7.0
+Adv,de son temps,13.0
+Conj,de sorte qu',225.0
+Conj,de sorte que,553.0
+Conj,de sorte qu’,46.0
+Adv,de suite,46.0
+Conj,de telle façon qu',97.0
+Conj,de telle façon que,165.0
+Conj,de telle façon qu’,9.0
+Conj,de telle manière qu',110.0
+Conj,de telle manière que,205.0
+Conj,de telle manière qu’,9.0
+Conj,de telle sorte qu',213.0
+Conj,de telle sorte que,401.0
+Conj,de telle sorte qu’,30.0
+Adv,de temps en temps,35.0
+Adv,de temps à autre,51.0
+Adv,de tous côtés,7.0
+Adv,de toute façon,94.0
+Adv,de toute évidence,71.0
+Adv,de visu,3.0
+Adv,de vive voix,6.0
+Adv,depuis lors,195.0
+Adv,depuis peu,29.0
+Conj,depuis qu',16.0
+Conj,depuis que,67.0
+Adv,depuis quelque temps,6.0
+Conj,depuis qu’,5.0
+Pron,des leurs,6.0
+Pron,des siennes,1.0
+Adv,deux par deux,2.0
+Prep,du côté d',3.0
+Prep,du côté de,87.0
+Prep,du côté des,39.0
+Prep,du côté du,32.0
+Prep,du fait d',154.0
+Prep,du fait de,1113.0
+Prep,du fait des,309.0
+Prep,du fait du,169.0
+Prep,du fait d’,22.0
+Conj,du fait qu',313.0
+Conj,du fait que,1040.0
+Conj,du fait qu’,64.0
+Prep,du haut d',1.0
+Prep,du haut de,7.0
+Prep,du haut du,8.0
+Pron,du leur,1.0
+Adv,du moins,219.0
+Conj,du moment où,22.0
+Conj,du moment qu',3.0
+Conj,du moment que,5.0
+Adv,du même coup,13.0
+Prep,du point de vue d',7.0
+Prep,du point de vue de,443.0
+Prep,du point de vue des,156.0
+Prep,du point de vue du,104.0
+Prep,du point de vue d’,1.0
+Adv,du reste,180.0
+Pron,du sien,2.0
+Adv,d’année en année,6.0
+Adv,d’autant moins,1.0
+Adv,d’autant plus,57.0
+Conj,d’autant plus que,14.0
+Conj,d’autant plus qu’,7.0
+Conj,d’autant que,11.0
+Conj,d’autant qu’,3.0
+Adv,d’autre part,629.0
+Adv,d’ici là,4.0
+Adv,d’ores et déjà,62.0
+Prep,d’un bout à l’autre de,4.0
+Prep,d’un bout à l’autre du,1.0
+Adv,d’un commun accord,113.0
+Adv,d’une façon générale,21.0
+Adv,d’une manière générale,112.0
+Adv,d’une part,613.0
+Adv,d´ores et déjà,1.0
+Conj,dès l'instant où,2.0
+Adv,dès lors,3315.0
+Conj,dès lors qu',344.0
+Conj,dès lors que,721.0
+Conj,dès lors qu’,58.0
+Conj,dès l’instant où,4.0
+Conj,dès qu',343.0
+Conj,dès que,1241.0
+Conj,dès qu’,40.0
+Adv,dès à présent,116.0
+Adv,en abondance,4.0
+Prep,en amont d',5.0
+Prep,en amont de,57.0
+Prep,en amont des,24.0
+Prep,en amont du,37.0
+Adv,en arrière,47.0
+Prep,en arrière d',4.0
+Prep,en arrière de,15.0
+Prep,en arrière des,7.0
+Prep,en arrière du,20.0
+Conj,en attendant qu',27.0
+Conj,en attendant que,63.0
+Conj,en attendant qu’,3.0
+Adv,en aucun cas,710.0
+Adv,en aucune façon,93.0
+Prep,en aval d',7.0
+Prep,en aval de,80.0
+Prep,en aval des,12.0
+Prep,en aval du,47.0
+Prep,en aval d’,1.0
+Adv,en avance,7.0
+Adv,en avant,155.0
+Prep,en avant d',3.0
+Prep,en avant de,32.0
+Prep,en avant des,11.0
+Prep,en avant du,31.0
+Adv,en bas,101.0
+Prep,en bas de,96.0
+Prep,en bas du,3.0
+Adv,en bloc,27.0
+Prep,en bordure d',1.0
+Prep,en bordure de,9.0
+Adv,en bref,24.0
+Prep,en cas d',1938.0
+Prep,en cas de,4238.0
+Adv,en cas de besoin,269.0
+Prep,en cas d’,378.0
+Prep,en ce qui concerne,9840.0
+Adv,en ce sens,380.0
+Conj,en ce sens qu',200.0
+Conj,en ce sens que,215.0
+Conj,en ce sens qu’,31.0
+Adv,en commun,676.0
+Prep,en compagnie de,4.0
+Prep,en conformité avec,1532.0
+Adv,en connaissance de cause,98.0
+Prep,en considération d',33.0
+Prep,en considération de,84.0
+Prep,en considération des,157.0
+Prep,en considération du,21.0
+Prep,en considération d’,7.0
+Adv,en conséquence,4871.0
+Prep,en conséquence d',62.0
+Prep,en conséquence de,183.0
+Prep,en conséquence des,23.0
+Prep,en conséquence du,4.0
+Prep,en conséquence d’,28.0
+Adv,en contrebas,2.0
+Prep,en cours d',405.0
+Prep,en cours de,697.0
+Prep,en cours des,26.0
+Prep,en cours du,23.0
+Prep,en cours d’,127.0
+Adv,en croix,3.0
+Adv,en d'autres termes,165.0
+Prep,en dehors d',62.0
+Prep,en dehors de,894.0
+Prep,en dehors des,459.0
+Prep,en dehors du,408.0
+Prep,en dehors d’,11.0
+Adv,en deçà,33.0
+Prep,en deçà d',5.0
+Prep,en deçà de,116.0
+Prep,en deçà des,37.0
+Prep,en deçà du,27.0
+Prep,en deçà d’,2.0
+Prep,en direction d',11.0
+Prep,en direction de,52.0
+Prep,en direction des,29.0
+Prep,en direction du,30.0
+Prep,en direction d’,2.0
+Adv,en d’autres termes,62.0
+Adv,en définitive,118.0
+Prep,en dépit d',45.0
+Prep,en dépit de,225.0
+Prep,en dépit des,221.0
+Prep,en dépit du,70.0
+Prep,en dépit d’,18.0
+Adv,en effet,1252.0
+Adv,en entier,22.0
+Adv,en face,6.0
+Prep,en face d',5.0
+Prep,en face de,10.0
+Prep,en face des,26.0
+Prep,en face du,10.0
+Prep,en faveur d',429.0
+Prep,en faveur de,1496.0
+Prep,en faveur des,1323.0
+Prep,en faveur du,543.0
+Prep,en faveur d’,128.0
+Prep,en fin d',64.0
+Prep,en fin de,150.0
+Adv,en fin de compte,108.0
+Prep,en fin d’,26.0
+Prep,en fonction d',82.0
+Prep,en fonction de,2253.0
+Prep,en fonction des,1534.0
+Prep,en fonction du,849.0
+Prep,en fonction d’,28.0
+Prep,en forme d',24.0
+Prep,en forme de,80.0
+Prep,en forme des,7.0
+Prep,en forme du,8.0
+Prep,en forme d’,4.0
+Adv,en grand,14.0
+Prep,en guise d',11.0
+Prep,en guise de,23.0
+Prep,en guise d’,8.0
+Adv,en général,1085.0
+Adv,en harmonie,32.0
+Adv,en haut,39.0
+Prep,en haut de,19.0
+Prep,en haut des,1.0
+Prep,en haut du,3.0
+Adv,en instance,64.0
+Prep,en instance de,7.0
+Prep,en instance d’,1.0
+Adv,en kit,5.0
+Prep,en l'absence d',791.0
+Prep,en l'absence de,782.0
+Prep,en l'absence des,23.0
+Prep,en l'absence du,40.0
+Prep,en l'absence d’,6.0
+Adv,en l'occurrence,315.0
+Prep,en l’absence d',6.0
+Prep,en l’absence de,171.0
+Prep,en l’absence des,6.0
+Prep,en l’absence du,10.0
+Prep,en l’absence d’,129.0
+Adv,en l’occurrence,86.0
+Adv,en moins,134.0
+Adv,en moyenne,581.0
+Prep,en mémoire de,5.0
+Adv,en même temps,597.0
+Prep,en même temps qu',88.0
+Prep,en même temps que,539.0
+Prep,en même temps qu’,14.0
+Adv,en ordre dispersé,5.0
+Adv,en outre,4555.0
+Adv,en pareil cas,251.0
+Adv,en partance,10.0
+Adv,en particulier,4771.0
+Adv,en partie,1386.0
+Prep,en passe d',10.0
+Prep,en passe de,17.0
+Prep,en passe d’,4.0
+Adv,en permanence,537.0
+Adv,en peu de temps,14.0
+Adv,en plein air,70.0
+Adv,en plus,222.0
+Prep,en plus d',39.0
+Prep,en plus de,322.0
+Prep,en plus des,328.0
+Prep,en plus du,134.0
+Prep,en plus d’,17.0
+Adv,en pratique,379.0
+Adv,en principe,1090.0
+Adv,en priorité,357.0
+Prep,en présence d',161.0
+Prep,en présence de,180.0
+Prep,en présence des,23.0
+Prep,en présence du,47.0
+Prep,en présence d’,22.0
+Adv,en public,4.0
+Prep,en qualité d',311.0
+Prep,en qualité de,240.0
+Prep,en qualité d’,53.0
+Adv,en quelque sorte,9.0
+Adv,en quelques jours,4.0
+Prep,en raison d',412.0
+Prep,en raison de,2314.0
+Prep,en raison des,902.0
+Prep,en raison du,602.0
+Prep,en raison d’,105.0
+Adv,en rase campagne,3.0
+Prep,en regard d',3.0
+Prep,en regard de,93.0
+Prep,en regard des,41.0
+Prep,en regard du,35.0
+Adv,en revanche,701.0
+Adv,en rien,286.0
+Adv,en règle générale,585.0
+Adv,en réalité,221.0
+Adv,en résumé,58.0
+Adv,en secret,2.0
+Adv,en semaine,8.0
+Adv,en somme,13.0
+Conj,en sorte qu',108.0
+Conj,en sorte que,1001.0
+Conj,en sorte qu’,28.0
+Adv,en surplomb,3.0
+Adv,en série,96.0
+Prep,en tant qu',1257.0
+Prep,en tant que,2783.0
+Prep,en tant qu’,272.0
+Adv,en temps réel,146.0
+Adv,en temps voulu,279.0
+Adv,en théorie,41.0
+Adv,en titre,5.0
+Adv,en totalité,391.0
+Adv,en tout cas,411.0
+Adv,en tout état de cause,845.0
+Adv,en toute occasion,2.0
+Prep,en train d',67.0
+Prep,en train de,125.0
+Prep,en train d’,23.0
+Prep,en travers de,9.0
+Prep,en travers des,2.0
+Prep,en travers du,8.0
+Adv,en tête,60.0
+Adv,en vain,8.0
+Adv,en vase clos,3.0
+Prep,en vertu d',455.0
+Prep,en vertu de,4003.0
+Prep,en vertu des,1527.0
+Prep,en vertu du,2017.0
+Prep,en vertu d’,71.0
+Adv,en vigueur,15039.0
+Prep,en voie d',79.0
+Prep,en voie de,131.0
+Prep,en voie des,2.0
+Prep,en voie d’,45.0
+Adv,en vrac,372.0
+Prep,en vue d',2749.0
+Prep,en vue de,5558.0
+Prep,en vue des,143.0
+Prep,en vue du,450.0
+Prep,en vue d’,627.0
+Prep,en âge d',5.0
+Prep,en âge de,48.0
+Prep,en âge d’,1.0
+Prep,en état d',25.0
+Prep,en état de,124.0
+Prep,en état des,23.0
+Prep,en état du,21.0
+Prep,en état d’,3.0
+Prep,en-dessous d',2.0
+Prep,en-dessous de,31.0
+Prep,en-dessous des,2.0
+Prep,en-dessous du,10.0
+Prep,en-deçà d',1.0
+Prep,en-deçà de,5.0
+Prep,en-deçà des,1.0
+Prep,en-deçà du,4.0
+Adv,encore pas,3.0
+Conj,encore qu',21.0
+Conj,encore que,74.0
+Conj,encore qu’,5.0
+Adv,entre temps,13.0
+Adv,et des poussières,2.0
+Adv,et vice versa,52.0
+Prep,etant donné,10.0
+Conj,etant donné qu',4.0
+Conj,etant donné que,33.0
+Prep,eu égard au,186.0
+Prep,eu égard aux,467.0
+Prep,eu égard à,640.0
+Adv,ex aequo,18.0
+Adv,ex nihilo,4.0
+Prep,exception faite d',1.0
+Prep,exception faite de,46.0
+Prep,exception faite des,76.0
+Prep,exception faite du,9.0
+Prep,exception faite d’,1.0
+Adv,extra muros,81.0
+Prep,face au,121.0
+Prep,face aux,508.0
+Prep,face à,725.0
+Adv,face à face,3.0
+Prep,faute d',85.0
+Prep,faute de,155.0
+Conj,faute de quoi,49.0
+Adv,faute de temps,6.0
+Prep,faute des,3.0
+Prep,faute du,7.0
+Prep,faute d’,33.0
+Adv,fin août,9.0
+Adv,fin avril,11.0
+Adv,fin décembre,21.0
+Adv,fin février,30.0
+Adv,fin janvier,7.0
+Adv,fin juillet,8.0
+Adv,fin juin,31.0
+Adv,fin mai,5.0
+Adv,fin mars,22.0
+Adv,fin novembre,11.0
+Adv,fin octobre,11.0
+Adv,fin septembre,10.0
+Pron,grand chose,3.0
+Adv,grosso modo,17.0
+Prep,grâce au,262.0
+Prep,grâce aux,314.0
+Prep,grâce à,1355.0
+Adj,haut de gamme,36.0
+Prep,hors d',127.0
+Prep,hors de,566.0
+Prep,hors des,73.0
+Prep,hors du,204.0
+Prep,hors d’,22.0
+Adv,in absentia,3.0
+Adv,in extenso,18.0
+Adv,in fine,46.0
+Adv,in situ,74.0
+Adv,in utero,7.0
+Adv,in vitro,101.0
+Adv,in vivo,49.0
+Prep,indépendamment d',25.0
+Prep,indépendamment de,501.0
+Prep,indépendamment des,221.0
+Prep,indépendamment du,254.0
+Prep,indépendamment d’,2.0
+Adv,infiniment plus,3.0
+Adv,intra muros,84.0
+Adv,ipso facto,41.0
+Adv,jusqu'à aujourd'hui,3.0
+Conj,jusqu'à ce qu',379.0
+Conj,jusqu'à ce que,600.0
+Conj,jusqu'à ce qu’,4.0
+Adv,jusqu'à maintenant,10.0
+Adv,jusqu'à preuve du contraire,13.0
+Adv,jusqu'à présent,346.0
+Prep,jusques et y compris,6.0
+Conj,jusqu’à ce que,88.0
+Conj,jusqu’à ce qu’,42.0
+Adv,jusqu’à maintenant,5.0
+Adv,jusqu’à preuve du contraire,1.0
+Adv,jusqu’à présent,104.0
+Pron,la leur,20.0
+Pron,la nôtre,2.0
+Adv,la plupart du temps,63.0
+Pron,la sienne,23.0
+Adv,le cas échéant,4757.0
+Pron,le leur,63.0
+Prep,le long d',28.0
+Prep,le long de,137.0
+Prep,le long des,84.0
+Prep,le long du,51.0
+Prep,le long d’,4.0
+Adv,le moins,226.0
+Pron,le nôtre,1.0
+Adv,le plus,2553.0
+Pron,le sien,27.0
+Pron,les leurs,23.0
+Pron,les nôtres,6.0
+Pron,les siennes,19.0
+Pron,les siens,6.0
+Pron,les unes,126.0
+Pron,les uns,186.0
+Prep,loin d',84.0
+Prep,loin de,66.0
+Prep,loin des,12.0
+Prep,loin du,15.0
+Prep,loin d’,35.0
+Conj,loin qu',2.0
+Conj,loin que,40.0
+Prep,lors d',614.0
+Prep,lors de,5936.0
+Prep,lors des,1222.0
+Prep,lors du,1134.0
+Prep,lors d’,119.0
+Prep,made in,27.0
+Adv,main dans la main,6.0
+Conj,maintenant qu',9.0
+Conj,maintenant que,22.0
+Conj,maintenant qu’,1.0
+Conj,mais encore,48.0
+Conj,malgré qu',2.0
+Conj,malgré que,2.0
+Conj,malgré qu’,1.0
+Adv,malgré tout,28.0
+Adj,meilleur marché,14.0
+Prep,mis à part,64.0
+Adv,mot pour mot,2.0
+Adv,mutatis mutandis,543.0
+Pron,n'importe qui,1.0
+Part,ne jamais,18.0
+Part,ne pas,3604.0
+Part,ne pas toujours,7.0
+Part,ne plus,183.0
+Adv,ni plus ni moins,2.0
+Adv,noir sur blanc,2.0
+Adv,non pas,319.0
+Conj,non que,4.0
+Conj,non qu’,1.0
+Adv,non seulement,1210.0
+Adv,nulle part,14.0
+Adj,numéro un,3.0
+Pron,n’importe qui,1.0
+Conj,ou bien,464.0
+Adv,outre mesure,17.0
+Conj,outre qu',23.0
+Conj,outre que,7.0
+Conj,outre qu’,7.0
+Conj,où qu',31.0
+Conj,où que,9.0
+Conj,où qu’,14.0
+Adv,par ailleurs,1878.0
+Adv,par avance,23.0
+Adv,par conséquent,3289.0
+Adv,par contre,215.0
+Prep,par crainte de,4.0
+Adv,par essence,27.0
+Prep,par ex.,86.0
+Adv,par exemple,2871.0
+Adv,par extension,10.0
+Adv,par hasard,7.0
+Adv,par inadvertance,29.0
+Adv,par intermittence,4.0
+Prep,par l'entremise d',18.0
+Prep,par l'entremise de,46.0
+Prep,par l'entremise des,9.0
+Prep,par l'entremise du,14.0
+Prep,par l'intermédiaire d',313.0
+Prep,par l'intermédiaire de,572.0
+Prep,par l'intermédiaire des,184.0
+Prep,par l'intermédiaire du,243.0
+Prep,par l'intermédiaire d’,3.0
+Adv,par la bande,6.0
+Adv,par la force,26.0
+Adv,par la suite,841.0
+Prep,par le biais d',401.0
+Prep,par le biais de,623.0
+Prep,par le biais des,187.0
+Prep,par le biais du,162.0
+Prep,par le biais d’,87.0
+Prep,par le canal d',2.0
+Prep,par le canal de,11.0
+Prep,par le canal des,7.0
+Prep,par le canal du,8.0
+Prep,par le fait même de,2.0
+Prep,par le moyen d',14.0
+Prep,par le moyen de,101.0
+Prep,par le moyen des,5.0
+Prep,par le moyen du,6.0
+Adv,par le passé,193.0
+Prep,par le truchement d',16.0
+Prep,par le truchement de,35.0
+Prep,par le truchement des,13.0
+Prep,par le truchement du,11.0
+Prep,par le truchement d’,8.0
+Prep,par l’entremise d',1.0
+Prep,par l’entremise de,5.0
+Prep,par l’entremise du,1.0
+Prep,par l’entremise d’,2.0
+Prep,par l’intermédiaire d',1.0
+Prep,par l’intermédiaire de,138.0
+Prep,par l’intermédiaire des,57.0
+Prep,par l’intermédiaire du,75.0
+Prep,par l’intermédiaire d’,87.0
+Adv,par moments,2.0
+Adv,par mégarde,7.0
+Adv,par principe,42.0
+Prep,par rapport au,933.0
+Prep,par rapport aux,1421.0
+Prep,par rapport à,1941.0
+Adv,par ricochet,2.0
+Adv,par suite,457.0
+Adv,par trop,8.0
+Adv,par tête,60.0
+Adv,par voie de conséquence,90.0
+Prep,par égard pour,3.0
+Conj,parce qu',443.0
+Conj,parce que,637.0
+Conj,parce qu’,132.0
+Conj,partout où,31.0
+Adv,pas du tout,72.0
+Adv,pas encore,1483.0
+Adv,pas mal,3.0
+Conj,pas plus qu',32.0
+Conj,pas plus que,40.0
+Conj,pas plus qu’,9.0
+Adv,pas spécialement,6.0
+Adv,pas à pas,16.0
+Adv,pendant ce temps,17.0
+Conj,pendant qu',44.0
+Conj,pendant que,63.0
+Conj,pendant qu’,3.0
+Adv,per capita,6.0
+Adv,petit à petit,8.0
+Adv,peu après,31.0
+Adv,peu ou prou,5.0
+Adv,peu à peu,26.0
+Adv,plus du tout,2.0
+Adv,plus ou moins,293.0
+Adv,plus tard,212.0
+Prep,plutôt qu',167.0
+Prep,plutôt que,352.0
+Prep,plutôt que d',54.0
+Prep,plutôt que de,152.0
+Prep,plutôt que d’,10.0
+Prep,plutôt qu’,57.0
+Adv,pour ainsi dire,9.0
+Adv,pour autant,532.0
+Conj,pour autant qu,1.0
+Conj,pour autant qu',1014.0
+Conj,pour autant que,2357.0
+Conj,pour autant qu’,151.0
+Prep,pour cause d',30.0
+Prep,pour cause de,109.0
+Prep,pour cause d’,3.0
+Adv,pour ce faire,396.0
+Prep,pour ce qui concerne,885.0
+Prep,pour ce qui est d',26.0
+Prep,pour ce qui est de,567.0
+Prep,pour ce qui est des,501.0
+Prep,pour ce qui est du,165.0
+Prep,pour ce qui est d’,6.0
+Adv,pour changer,12.0
+Adv,pour conclure,91.0
+Adv,pour l'heure,23.0
+Adv,pour l'instant,74.0
+Adv,pour la forme,6.0
+Adv,pour la plupart,211.0
+Conj,pour le cas où,99.0
+Adv,pour le moins,26.0
+Adv,pour le principe,6.0
+Adv,pour l’heure,13.0
+Adv,pour l’instant,32.0
+Adv,pour mémoire,59.0
+Prep,pour ou contre,2.0
+Conj,pour peu qu',1.0
+Conj,pour peu que,4.0
+Conj,pour qu',617.0
+Conj,pour que,2017.0
+Conj,pour qu’,148.0
+Adv,pour sa part,143.0
+Conj,pourvu qu',72.0
+Conj,pourvu que,176.0
+Conj,pourvu qu’,18.0
+Adv,pro forma,26.0
+Prep,près d',34.0
+Prep,près de,518.0
+Prep,près des,50.0
+Prep,près du,59.0
+Prep,près d’,17.0
+Adv,purement et simplement,16.0
+Conj,quand bien même,25.0
+Adv,quand même,24.0
+Prep,quant au,629.0
+Prep,quant aux,648.0
+Prep,quant à,1789.0
+Pron,quelque chose,16.0
+Adv,quelque peu,141.0
+Adv,qui plus est,112.0
+Pron,qui que ce soit,5.0
+Adv,quitte à,12.0
+Adv,quoi qu'il en soit,45.0
+Pron,quoi que ce soit,8.0
+Adv,quoi qu’il en soit,42.0
+Prep,rapport au,466.0
+Prep,rapport aux,41.0
+Prep,rapport à,343.0
+Adv,recto verso,15.0
+Prep,relativement au,17.0
+Prep,relativement aux,39.0
+Prep,relativement à,84.0
+Prep,s'agissant d',82.0
+Prep,s'agissant de,302.0
+Prep,s'agissant des,253.0
+Prep,s'agissant du,100.0
+Prep,s'agissant d’,1.0
+Adv,sans ambages,2.0
+Adv,sans ambiguïté,83.0
+Adv,sans arrêt,2.0
+Adv,sans aucun doute,58.0
+Adv,sans aucune ambiguïté,4.0
+Adv,sans cesse,87.0
+Adv,sans compter,34.0
+Adv,sans conséquence,8.0
+Adv,sans conteste,18.0
+Adv,sans contrepartie,25.0
+Adv,sans discontinuer,16.0
+Adv,sans doute,120.0
+Adv,sans défense,26.0
+Adv,sans délai,1209.0
+Adv,sans désemparer,4.0
+Adv,sans effort,6.0
+Adv,sans effusion de sang,2.0
+Adv,sans faille,16.0
+Adv,sans interruption,126.0
+Adv,sans partage,3.0
+Adv,sans plus,19.0
+Adv,sans précédent,61.0
+Prep,sans préjudice d',220.0
+Prep,sans préjudice de,2020.0
+Prep,sans préjudice des,2025.0
+Prep,sans préjudice du,605.0
+Prep,sans préjudice d’,26.0
+Conj,sans qu',448.0
+Conj,sans que,713.0
+Conj,sans quoi,17.0
+Conj,sans qu’,73.0
+Adv,sans raison,12.0
+Adv,sans relâche,19.0
+Adv,sans restriction,120.0
+Prep,sauf au,13.0
+Prep,sauf aux,11.0
+Conj,sauf qu',7.0
+Conj,sauf que,34.0
+Conj,sauf qu’,1.0
+Conj,sauf s',310.0
+Conj,sauf si,896.0
+Conj,sauf s’,32.0
+Prep,sauf à,71.0
+Conj,selon qu',160.0
+Conj,selon que,163.0
+Conj,selon qu’,38.0
+Adv,si besoin est,166.0
+Conj,si bien qu',44.0
+Conj,si bien que,109.0
+Conj,si bien qu’,34.0
+Prep,si ce n'est,120.0
+Conj,si ce n'est qu',9.0
+Conj,si ce n'est que,28.0
+Prep,si ce n’est,21.0
+Conj,si ce n’est que,1.0
+Conj,si jamais,8.0
+Adv,si nécessaire,1474.0
+Adv,si peu,8.0
+Conj,si seulement,4.0
+Conj,si tant est qu',8.0
+Conj,si tant est qu’,1.0
+Adj,sine qua non,63.0
+Conj,sinon qu',1.0
+Conj,sinon que,2.0
+Conj,sitôt que,2.0
+Conj,soit qu',44.0
+Conj,soit que,48.0
+Conj,soit qu’,4.0
+Adv,sous clé,9.0
+Adv,sous condition,39.0
+Prep,sous couvert d',46.0
+Prep,sous couvert de,28.0
+Prep,sous couvert des,19.0
+Prep,sous couvert du,27.0
+Prep,sous couvert d’,3.0
+Prep,sous forme d',958.0
+Prep,sous forme de,1457.0
+Prep,sous forme des,6.0
+Prep,sous forme du,7.0
+Prep,sous forme d’,207.0
+Prep,sous l'égide d',3.0
+Prep,sous l'égide de,58.0
+Prep,sous l'égide des,18.0
+Prep,sous l'égide du,16.0
+Prep,sous le coup d',4.0
+Prep,sous le coup de,42.0
+Prep,sous le coup des,15.0
+Prep,sous le coup du,4.0
+Prep,sous le coup d’,5.0
+Prep,sous le couvert d',74.0
+Prep,sous le couvert de,48.0
+Prep,sous le couvert des,11.0
+Prep,sous le couvert du,32.0
+Prep,sous le couvert d’,6.0
+Prep,sous le rapport de,2.0
+Prep,sous le toit du,4.0
+Prep,sous l’égide de,20.0
+Prep,sous l’égide des,5.0
+Prep,sous l’égide du,6.0
+Prep,sous peine d',20.0
+Prep,sous peine de,67.0
+Prep,sous peine d’,6.0
+Adv,sous peu,25.0
+Prep,sous prétexte d',1.0
+Prep,sous prétexte de,2.0
+Prep,sous prétexte d’,1.0
+Prep,sous réserve d',269.0
+Prep,sous réserve de,1215.0
+Prep,sous réserve des,1095.0
+Prep,sous réserve du,381.0
+Prep,sous réserve d’,90.0
+Adj,sri lankaise,1.0
+Adj,sri lankaises,1.0
+Adv,stricto sensu,20.0
+Adj,sui generis,20.0
+Prep,suite au,144.0
+Prep,suite aux,616.0
+Prep,suite à,1317.0
+Conj,suivant qu',5.0
+Conj,suivant que,16.0
+Conj,supposé qu',2.0
+Conj,supposé que,28.0
+Conj,supposé qu’,2.0
+Adv,sur commande,29.0
+Adv,sur demande,1352.0
+Prep,sur le point d',43.0
+Prep,sur le point de,99.0
+Prep,sur le point d’,18.0
+Adv,sur le tas,4.0
+Adv,sur le terrain,306.0
+Adv,sur mesure,70.0
+Adv,sur place,1051.0
+Adv,sur sa lancée,4.0
+Adv,surtout pas,3.0
+Prep,s’agissant d',1.0
+Prep,s’agissant de,99.0
+Prep,s’agissant des,78.0
+Prep,s’agissant du,31.0
+Prep,s’agissant d’,24.0
+Conj,tandis qu',97.0
+Conj,tandis que,968.0
+Conj,tandis qu’,49.0
+Conj,tant qu,1.0
+Conj,tant qu',145.0
+Conj,tant que,467.0
+Conj,tant qu’,14.0
+Conj,tel qu,1.0
+Conj,tel qu',1560.0
+Conj,tel que,1793.0
+Adj,tel quel,86.0
+Conj,tel qu’,313.0
+Adj,telle quelle,31.0
+Adj,telles quelles,26.0
+Adj,tels quels,68.0
+Adj,top secret,4.0
+Adv,toujours pas,179.0
+Adv,tour à tour,11.0
+Det,tous ces,449.0
+Pron,tous ceux,74.0
+Det,tous les,7081.0
+Det,tous leurs,108.0
+Det,tous nos,3.0
+Det,tous ses,9354.0
+Adv,tout au long,2.0
+Prep,tout au long d',16.0
+Prep,tout au long de,581.0
+Prep,tout au long des,34.0
+Prep,tout au long du,95.0
+Prep,tout au long d’,1.0
+Adv,tout au moins,68.0
+Adv,tout au plus,55.0
+Adv,tout autant,20.0
+Conj,tout autant que,6.0
+Conj,tout autant qu’,1.0
+Adv,tout bien considéré,7.0
+Adv,tout bien pesé,5.0
+Pron,tout ce,178.0
+Pron,tout ceci,19.0
+Pron,tout cela,52.0
+Adv,tout compte fait,2.0
+Adv,tout d'abord,260.0
+Adv,tout de même,21.0
+Adv,tout de suite,8.0
+Adv,tout d’abord,102.0
+Adv,tout entier,46.0
+Adv,tout juste,24.0
+Det,tout le,684.0
+Prep,tout le long de,5.0
+Prep,tout le long du,4.0
+Det,tout leur,36.0
+Det,tout son,65.0
+Adv,tout à fait,257.0
+Det,toute cette,39.0
+Det,toute la,1556.0
+Det,toute leur,104.0
+Det,toute notre,1.0
+Det,toute sa,86.0
+Det,toute son,20.0
+Pron,toutes celles,16.0
+Det,toutes ces,358.0
+Adv,toutes choses égales par ailleurs,7.0
+Det,toutes les,7032.0
+Det,toutes leurs,104.0
+Det,toutes nos,2.0
+Det,toutes ses,338.0
+Adv,trop tard,20.0
+Adv,trop tôt,35.0
+Adv,tôt ou tard,2.0
+Adv,un par un,2.0
+Adv,un peu,67.0
+Adv,un peu moins,42.0
+Adv,un peu plus,90.0
+Adv,un à un,3.0
+Adv,une fois,1831.0
+Adv,une fois pour toutes,10.0
+Adv,une nouvelle fois,139.0
+Adv,vice versa,21.0
+Prep,vis-à-vis d',43.0
+Prep,vis-à-vis de,349.0
+Prep,vis-à-vis des,374.0
+Prep,vis-à-vis du,175.0
+Prep,vis-à-vis d’,11.0
+Conj,vu qu',22.0
+Conj,vu que,86.0
+Conj,vu qu’,7.0
+Prep,y compris,5360.0
+Prep,à base d',144.0
+Prep,à base de,1255.0
+Prep,à base des,3.0
+Prep,à base d’,19.0
+Adv,à bon escient,13.0
+Adv,à brève échéance,48.0
+Prep,à cause d',46.0
+Prep,à cause de,185.0
+Prep,à cause des,71.0
+Prep,à cause du,37.0
+Prep,à cause d’,9.0
+Adv,à ce jour,353.0
+Adv,à ce prix,10.0
+Conj,à ce qu',755.0
+Conj,à ce que,2935.0
+Conj,à ce qu’,136.0
+Adv,à ce stade,338.0
+Prep,à ce stade d',7.0
+Prep,à ce stade de,73.0
+Prep,à ce stade des,9.0
+Prep,à ce stade du,5.0
+Prep,à ce stade d’,6.0
+Adv,à charge,352.0
+Adv,à ciel ouvert,24.0
+Adv,à claire-voie,11.0
+Adv,à clé,39.0
+Prep,à commencer par,40.0
+Prep,à compter d',22.0
+Prep,à compter de,3245.0
+Prep,à compter des,15.0
+Prep,à compter du,1952.0
+Prep,à compter d’,7.0
+Prep,à condition d',133.0
+Prep,à condition de,260.0
+Prep,à condition d’,8.0
+Conj,à condition qu',743.0
+Conj,à condition que,1864.0
+Conj,à condition qu’,94.0
+Adv,à contre-courant,13.0
+Adv,à contre-jour,3.0
+Adv,à contresens,2.0
+Adv,à court terme,603.0
+Prep,à côté d',10.0
+Prep,à côté de,78.0
+Prep,à côté des,56.0
+Prep,à côté du,46.0
+Adv,à demi,5.0
+Adv,à domicile,110.0
+Prep,à défaut d',146.0
+Prep,à défaut de,197.0
+Prep,à défaut des,4.0
+Prep,à défaut du,5.0
+Prep,à défaut d’,12.0
+Adv,à fond,100.0
+Prep,à force d',1.0
+Prep,à force de,1.0
+Adv,à gauche,107.0
+Adv,à grands frais,2.0
+Adv,à grands pas,2.0
+Adv,à géométrie variable,11.0
+Prep,à hauteur d',41.0
+Prep,à hauteur de,227.0
+Prep,à hauteur des,24.0
+Prep,à hauteur du,33.0
+Prep,à hauteur d’,8.0
+Adv,à huis clos,7.0
+Adv,à jeun,4.0
+Adv,à jour,1713.0
+Adv,à juste titre,78.0
+Prep,à l'adresse de,34.0
+Prep,à l'adresse des,22.0
+Prep,à l'adresse du,10.0
+Prep,à l'aide d',637.0
+Prep,à l'aide de,651.0
+Prep,à l'aide des,223.0
+Prep,à l'aide du,176.0
+Adv,à l'air libre,31.0
+Adv,à l'amiable,49.0
+Adv,à l'arrière,56.0
+Prep,à l'arrière d',8.0
+Prep,à l'arrière de,27.0
+Prep,à l'arrière des,7.0
+Prep,à l'arrière du,41.0
+Adv,à l'avance,770.0
+Prep,à l'avant d',7.0
+Prep,à l'avant de,20.0
+Prep,à l'avant des,11.0
+Prep,à l'avant du,34.0
+Adv,à l'avenant,4.0
+Adv,à l'encontre,25.0
+Prep,à l'encontre d',119.0
+Prep,à l'encontre de,540.0
+Prep,à l'encontre des,358.0
+Prep,à l'encontre du,131.0
+Adv,à l'envers,1.0
+Prep,à l'exception d',71.0
+Prep,à l'exception de,1175.0
+Prep,à l'exception des,1326.0
+Prep,à l'exception du,486.0
+Prep,à l'exception d’,1.0
+Prep,à l'exclusion d',21.0
+Prep,à l'exclusion de,670.0
+Prep,à l'exclusion des,764.0
+Prep,à l'exclusion du,220.0
+Adv,à l'extérieur,486.0
+Adv,à l'heure actuelle,266.0
+Adv,à l'horizon,102.0
+Prep,à l'image d',1.0
+Prep,à l'image de,14.0
+Prep,à l'image des,3.0
+Prep,à l'image du,2.0
+Adv,à l'improviste,10.0
+Prep,à l'initiative d',36.0
+Prep,à l'initiative de,472.0
+Prep,à l'initiative des,58.0
+Prep,à l'initiative du,52.0
+Conj,à l'instant où,4.0
+Prep,à l'instar d',8.0
+Prep,à l'instar de,79.0
+Prep,à l'instar des,48.0
+Prep,à l'instar du,23.0
+Prep,à l'insu de,3.0
+Prep,à l'insu des,2.0
+Adv,à l'intérieur,411.0
+Prep,à l'intérieur d',306.0
+Prep,à l'intérieur de,1229.0
+Prep,à l'intérieur des,305.0
+Prep,à l'intérieur du,359.0
+Prep,à l'intérieur d’,1.0
+Prep,à l'inverse d',1.0
+Prep,à l'inverse de,2.0
+Prep,à l'inverse des,13.0
+Prep,à l'inverse du,1.0
+Prep,à l'issue d',198.0
+Prep,à l'issue de,402.0
+Prep,à l'issue des,102.0
+Prep,à l'issue du,85.0
+Prep,à l'issue d’,1.0
+Adv,à l'occasion,29.0
+Prep,à l'occasion d',145.0
+Prep,à l'occasion de,511.0
+Prep,à l'occasion des,111.0
+Prep,à l'occasion du,84.0
+Prep,à l'occasion d’,1.0
+Adv,à l'oeil,31.0
+Adv,à l'ombre,2.0
+Adv,à l'opposé,5.0
+Prep,à l'opposé de,3.0
+Prep,à l'opposé du,4.0
+Adv,à l'ordre du jour,127.0
+Adv,à l'origine,268.0
+Prep,à l'origine d',78.0
+Prep,à l'origine de,324.0
+Prep,à l'origine des,70.0
+Prep,à l'origine du,73.0
+Prep,à l'origine d’,1.0
+Adv,à l'unanimité,371.0
+Adv,à l'œil,5.0
+Prep,à l'égard d',221.0
+Prep,à l'égard de,923.0
+Prep,à l'égard des,829.0
+Prep,à l'égard du,423.0
+Prep,à l'égard d’,2.0
+Prep,à l'épreuve d',9.0
+Prep,à l'épreuve de,20.0
+Prep,à l'épreuve des,17.0
+Prep,à l'épreuve du,2.0
+Adv,à l'étranger,252.0
+Adv,à l'évidence,58.0
+Conj,à la condition qu',88.0
+Conj,à la condition que,278.0
+Conj,à la condition qu’,13.0
+Prep,à la demande d',581.0
+Prep,à la demande de,1104.0
+Prep,à la demande des,296.0
+Prep,à la demande du,562.0
+Prep,à la demande d’,84.0
+Prep,à la discrétion d',1.0
+Prep,à la discrétion de,41.0
+Prep,à la discrétion des,39.0
+Prep,à la discrétion du,15.0
+Prep,à la discrétion d’,1.0
+Prep,à la faveur d',8.0
+Prep,à la faveur de,19.0
+Prep,à la faveur des,4.0
+Prep,à la faveur d’,4.0
+Prep,à la fin d',53.0
+Prep,à la fin de,1346.0
+Prep,à la fin des,128.0
+Prep,à la fin du,559.0
+Prep,à la fin d’,14.0
+Adv,à la fois,1599.0
+Prep,à la hauteur d',6.0
+Prep,à la hauteur de,56.0
+Prep,à la hauteur des,33.0
+Prep,à la hauteur du,21.0
+Prep,à la hauteur d’,1.0
+Adv,à la lettre,73.0
+Adv,à la longue,10.0
+Adv,à la loupe,3.0
+Prep,à la lumière d',54.0
+Prep,à la lumière de,799.0
+Prep,à la lumière des,840.0
+Prep,à la lumière du,152.0
+Prep,à la lumière d’,13.0
+Adv,à la main,271.0
+Prep,à la manière d',6.0
+Prep,à la manière de,7.0
+Prep,à la manière d’,2.0
+Prep,à la mémoire de,3.0
+Prep,à la place d',21.0
+Prep,à la place de,80.0
+Prep,à la place des,34.0
+Prep,à la place du,32.0
+Prep,à la place d’,3.0
+Prep,à la portée d',4.0
+Prep,à la portée de,8.0
+Prep,à la portée des,9.0
+Prep,à la portée du,7.0
+Prep,à la suite d',849.0
+Prep,à la suite de,1950.0
+Prep,à la suite des,430.0
+Prep,à la suite du,229.0
+Prep,à la suite d’,268.0
+Prep,à la tête d',8.0
+Prep,à la tête de,27.0
+Prep,à la tête des,3.0
+Prep,à la tête du,7.0
+Prep,à la tête d’,1.0
+Prep,à la veille de,7.0
+Prep,à la veille des,1.0
+Prep,à la veille du,6.0
+Prep,à la veille d’,2.0
+Adv,à leur encontre,20.0
+Adv,à leur insu,2.0
+Adv,à leur portée,3.0
+Adv,à long terme,1386.0
+Adv,à longue échéance,22.0
+Adv,à l’accoutumée,2.0
+Prep,à l’adresse de,6.0
+Prep,à l’adresse des,1.0
+Prep,à l’adresse du,2.0
+Prep,à l’aide d',2.0
+Prep,à l’aide de,102.0
+Prep,à l’aide des,31.0
+Prep,à l’aide du,33.0
+Prep,à l’aide d’,71.0
+Adv,à l’air libre,3.0
+Adv,à l’amiable,19.0
+Adv,à l’arrière,2.0
+Prep,à l’arrière de,2.0
+Prep,à l’arrière des,1.0
+Prep,à l’arrière du,3.0
+Prep,à l’arrière d’,1.0
+Adv,à l’avance,98.0
+Prep,à l’avant de,2.0
+Prep,à l’avant des,3.0
+Prep,à l’avant du,1.0
+Adv,à l’encontre,4.0
+Prep,à l’encontre de,151.0
+Prep,à l’encontre des,113.0
+Prep,à l’encontre du,42.0
+Prep,à l’encontre d’,33.0
+Adv,à l’envers,1.0
+Prep,à l’exception d',2.0
+Prep,à l’exception de,236.0
+Prep,à l’exception des,240.0
+Prep,à l’exception du,103.0
+Prep,à l’exception d’,22.0
+Prep,à l’exclusion de,122.0
+Prep,à l’exclusion des,131.0
+Prep,à l’exclusion du,31.0
+Adv,à l’extérieur,108.0
+Adv,à l’heure actuelle,120.0
+Adv,à l’horizon,48.0
+Prep,à l’image de,2.0
+Prep,à l’image des,1.0
+Prep,à l’image du,3.0
+Prep,à l’initiative de,57.0
+Prep,à l’initiative des,19.0
+Prep,à l’initiative du,12.0
+Prep,à l’initiative d’,16.0
+Prep,à l’instar de,37.0
+Prep,à l’instar des,21.0
+Prep,à l’instar du,6.0
+Prep,à l’instar d’,1.0
+Prep,à l’insu de,2.0
+Prep,à l’insu du,1.0
+Adv,à l’intérieur,81.0
+Prep,à l’intérieur d',3.0
+Prep,à l’intérieur de,195.0
+Prep,à l’intérieur des,62.0
+Prep,à l’intérieur du,61.0
+Prep,à l’intérieur d’,47.0
+Prep,à l’inverse de,1.0
+Prep,à l’inverse des,1.0
+Prep,à l’issue d',1.0
+Prep,à l’issue de,92.0
+Prep,à l’issue des,32.0
+Prep,à l’issue du,16.0
+Prep,à l’issue d’,68.0
+Adv,à l’occasion,7.0
+Prep,à l’occasion d',1.0
+Prep,à l’occasion de,116.0
+Prep,à l’occasion des,14.0
+Prep,à l’occasion du,28.0
+Prep,à l’occasion d’,25.0
+Adv,à l’opposé,4.0
+Adv,à l’ordre du jour,47.0
+Adv,à l’origine,59.0
+Prep,à l’origine d',1.0
+Prep,à l’origine de,96.0
+Prep,à l’origine des,8.0
+Prep,à l’origine du,21.0
+Prep,à l’origine d’,23.0
+Adv,à l’unanimité,99.0
+Adv,à l’œil,5.0
+Prep,à l’égard d',5.0
+Prep,à l’égard de,166.0
+Prep,à l’égard des,158.0
+Prep,à l’égard du,89.0
+Prep,à l’égard d’,22.0
+Prep,à l’épreuve de,1.0
+Prep,à l’épreuve du,1.0
+Adv,à l’étranger,68.0
+Adv,à l’évidence,11.0
+Prep,à l´exclusion des,1.0
+Adv,à main levée,5.0
+Adv,à mesure que,78.0
+Adv,à mi-chemin,12.0
+Adv,à mi-chemin de,6.0
+Adv,à mi-course,7.0
+Adv,à mi-hauteur,18.0
+Adv,à mi-parcours,262.0
+Prep,à moins d',50.0
+Prep,à moins de,269.0
+Prep,à moins d’,14.0
+Adv,à moins que,863.0
+Adv,à moitié,7.0
+Adv,à moyen terme,429.0
+Adv,à nouveau,629.0
+Adv,à part,163.0
+Prep,à partir d',677.0
+Prep,à partir de,3656.0
+Prep,à partir des,822.0
+Prep,à partir du,4695.0
+Conj,à partir du moment où,126.0
+Prep,à partir d’,130.0
+Adv,à peine,105.0
+Adv,à peu de frais,3.0
+Adv,à peu près,103.0
+Adj,à pic,2.0
+Adv,à plein temps,39.0
+Adv,à plus forte raison,8.0
+Adv,à plusieurs reprises,467.0
+Adv,à point,47.0
+Adv,à point nommé,8.0
+Prep,à portée d',2.0
+Prep,à portée de,10.0
+Prep,à portée des,2.0
+Adj,à propos,49.0
+Prep,à propos d',37.0
+Prep,à propos de,217.0
+Prep,à propos des,135.0
+Prep,à propos du,63.0
+Prep,à propos d’,33.0
+Adv,à proximité,145.0
+Prep,à proximité d',19.0
+Prep,à proximité de,181.0
+Prep,à proximité des,85.0
+Prep,à proximité du,109.0
+Prep,à proximité d’,4.0
+Adv,à présent,324.0
+Conj,à présent qu',1.0
+Conj,à présent que,16.0
+Conj,à présent qu’,1.0
+Prep,à raison d',94.0
+Prep,à raison de,186.0
+Prep,à raison des,22.0
+Prep,à raison du,9.0
+Prep,à raison d’,10.0
+Adv,à ras bord,3.0
+Adv,à rebours,3.0
+Adv,à sa convenance,7.0
+Adv,à sa portée,2.0
+Conj,à savoir,2290.0
+Adv,à ses frais,44.0
+Adv,à son détriment,3.0
+Adv,à son encontre,26.0
+Adv,à son sens,5.0
+Adv,à son tour,157.0
+Conj,à tel point qu',2.0
+Conj,à tel point que,8.0
+Conj,à tel point qu’,2.0
+Adv,à temps partiel,129.0
+Adv,à terme,369.0
+Prep,à titre d',452.0
+Prep,à titre de,504.0
+Prep,à titre d’,108.0
+Adv,à titre gracieux,14.0
+Adv,à titre onéreux,141.0
+Adv,à tort ou à raison,2.0
+Adv,à tour de rôle,62.0
+Adv,à tout instant,15.0
+Adv,à tout moment,984.0
+Adv,à tout prix,12.0
+Adv,à toute épreuve,2.0
+Prep,à travers,830.0
+Adv,à trois reprises,43.0
+Adv,à usage externe,2.0
+Adv,à usage interne,6.0
+Adv,à usage unique,38.0
+Adv,à volonté,8.0
+Adv,à vrai dire,3.0
+Prep,étant donné,541.0
+Conj,étant donné qu',397.0
+Conj,étant donné que,1302.0
+Conj,étant donné qu’,140.0

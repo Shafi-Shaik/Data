@@ -1,0 +1,28 @@
+name,desc,category,begin,end,month,day,rule
+BOXING,Boxing Day,en_CA,,,12.0,26.0,0.0
+CANADA,Canadian Independence Day,en_CA,,,7.0,1.0,0.0
+CANADAOBSERVED,Canadian Independence Day observed,en_CA,,,7.0,1.0,8.0
+CHRISTMAS,Christmas,en_US,,,12.0,25.0,0.0
+CHRISTMAS,Christmas,en_CA,,,12.0,25.0,0.0
+COLUMBUS,Columbus Day,en_US,,,10.0,2.0,2.0
+EASTER,Easter Sunday,en_US,,,0.0,0.0,11.0
+FATHERS,Father's Day,en_US,,,6.0,3.0,1.0
+HALLOWEEN,Halloween,en_US,,,10.0,31.0,0.0
+LABOR,Labor Day,en_US,,,9.0,1.0,2.0
+LABOR,Labor Day,en_CA,,,9.0,1.0,2.0
+MLK,"Martin Luther King, Jr.'s birthday",en_US,1986.0,,1.0,3.0,2.0
+MEMORIAL,Memorial Day,en_US,1971.0,,5.0,-1.0,2.0
+MOTHERS,Mother's Day,en_US,,,5.0,2.0,1.0
+NEWYEAR,New Year's Day,en_US,,,1.0,1.0,0.0
+NEWYEAR,New Year's Day,en_CA,,,1.0,1.0,0.0
+THANKSGIVING,U.S. Thanksgiving Day,en_US,,,11.0,4.0,5.0
+THANKSGIVINGCANADA,Canadian Thanksgiving Day,en_CA,,,10.0,2.0,2.0
+USINDEPENDENCE,U.S. Independence Day,en_US,,,7.0,4.0,0.0
+USPRESIDENTS,Abraham Lincoln's and George Washington's birthdays,en_US,1971.0,,2.0,3.0,2.0
+VALENTINES,Valentine's Day,en_US,,,2.0,14.0,0.0
+VETERANS,Veterans Day,en_US,1938.0,1971.0,11.0,11.0,0.0
+VETERANS,Veterans Day,en_US,1971.0,1978.0,10.0,4.0,1.0
+VETERANS,Veterans Day,en_US,1978.0,,11.0,11.0,0.0
+VETERANSUSG,Veterans Day - U.S. government-observed,en_US,,,11.0,11.0,9.0
+VETERANSUSPS,Veterans Day - U.S. post office-observed,en_US,,,11.0,11.0,8.0
+VICTORIA,Victoria Day,en_CA,,,5.0,24.0,10.0

@@ -1,0 +1,1921 @@
+locale,key,lineno,text
+en,ABSCOEFF_VLABEL,1.0,Absolute Coefficient
+en,ABSTVALUE_VLABEL,1.0,Absolute T-value
+en,ACCEPTEVENTCOUNT_VLABEL,1.0,Accepts Event Count
+en,ACCEPTEVENTRATE_VLABEL,1.0,Accepts Event Rate
+en,ACCEPTNEVENTCOUNT_VLABEL,1.0,Accepts Non-Event Count
+en,ACCEPTTOTAL_VLABEL,1.0,Accepts Total
+en,ACTUALINFERRED_VLABEL,1.0,Accepts / Inferred
+en,ADAVGMARGPROFIT_VLABEL,1.0,Adjusted Average Marginal Profit
+en,ADAVGTOTALPROFIT_VLABEL,1.0,Adjusted Average Total Profit
+en,ADCOUNT_VLABEL,1.0,Adjusted Count
+en,ADCUMAPPROVALRATE_VLABEL,1.0,Adjusted Cumulative Approval Rate
+en,ADCUMCOUNT,1.0,Adjusted Cumulative Count
+en,ADCUMEVENTRATE_VLABEL,1.0,Adjusted Cumulative Event Rate
+en,ADCUMNEVENTCOUNT_VLABEL,1.0,Adjusted Cumulative Non-Event Count
+en,ADCUMNEVENTRATE_VLABEL,1.0,Adjusted Cumulative Non-Event Rate
+en,ADEMPIRICALODDS_VLABEL,1.0,Adjusted Empirical Odds
+en,ADEVENTODDS_VLABEL,1.0,Adjusted Event Odds
+en,ADJCUMINDETRATE_VLABEL,1.0,Adjusted Cumulative Indeterminate Rate
+en,ADJMARGINDETRATE_VLABEL,1.0,Adjusted Marginal Indeterminate Rate
+en,ADLOGEVENTODDS_VLABEL,1.0,Adjusted Log(Event Odds)
+en,ADMAREVENTRATE_VLABEL,1.0,Adjusted Marginal Event Rate
+en,ADMARNEVENTRATE_VLABEL,1.0,Adjusted Marginal Non-Event Rate
+en,ADNEVENTCOUNT_VLABEL,1.0,Adjusted Non-Event Count
+en,ADPOPPERCENTAGE_VLABEL,1.0,Adjusted Population Percentage
+en,ADPROPPOP_VLABEL,1.0,Adjusted Proportion of Population
+en,ADPROPTOTEVENTCOUNT_VLABEL,1.0,Adjusted Proportion of Total Event Count
+en,ADVERSECOUNT_VLABEL,1.0,Adverse Reason %s Count
+en,ADVERSE_RULE_VLABEL,1.0,Adverse Rule %s
+en,ADVERSE_VALUE_VLABEL,1.0,Adverse Difference %s
+en,ADVERSE_VLABEL,1.0,Adverse Variable %s
+en,APPLYMAXBINTOTAL_VLABEL,1.0,Apply Maximum Total Count
+en,APPLYMAXBINWIDTH_VLABEL,1.0,Apply Maximum Cutoff Difference
+en,APPLYMAXNUMBINS_VLABEL,1.0,Apply Maximum Groups
+en,APPLYMINBINDIFF_VLABEL,1.0,Apply Minimum WOE Difference
+en,APPLYMINBINTOTAL_VLABEL,1.0,Apply Minimum Total Count
+en,APPLYMINBINWIDTH_VLABEL,1.0,Apply Minimum Cutoff Difference
+en,APPLYMINNUMBINS_VLABEL,1.0,Apply Minimum Groups
+en,APPLYMINNUMEVENT_VLABEL,1.0,Apply Minimum Event Count
+en,APPLYMINNUMNONEVENT_VLABEL,1.0,Apply Minimum Non-Event Count
+en,APPLYMONOTONICITY_VLABEL,1.0,Apply WOE Monotonicity
+en,ARATIO_VLABEL,1.0,Accuracy Ratio
+en,ATTEVENTRATE_TITLE,1.0,Attribute Event Rate and Average Score
+en,ATTPROPBYSCORE_TITLE,1.0,Attribute Proportion by Score
+en,AUGEVENTRATE_VLABEL,1.0,Augmented Data Event Rate
+en,AVGMARGPROFIT_VLABEL,1.0,Average Marginal Profit
+en,AVGSCPTS_VLABEL,1.0,Average Scorecard Points
+en,AVGTOTALPROFIT_VLABEL,1.0,Average Total Profit
+en,BASELINE_VLABEL,1.0,Baseline
+en,BUCKET_VLABEL,1.0,Bucket
+en,CALCROLE_VLABEL,1.0,Calculated Role
+en,CALCWOE_VLABEL,1.0,Calculated WOE
+en,CCFVAR_VLABEL,1.0,CCF Variable
+en,CHARANALYSIS_TITLE,1.0,Characteristic Analysis: %s
+en,CODESWRONGTYPE_ERROR,1.0,Error:  Variables expected in the Codes Dataset are not of the correct type or do not exist.
+en,COEFF_VLABEL,1.0,Coefficient
+en,COUNT_VLABEL,1.0,Count
+en,CUMAPPROVALRATE_VLABEL,1.0,Cumulative Approval Rate
+en,CUMCOUNT_VLABEL,1.0,Cumulative Count
+en,CUMEVENTCOUNT_VLABEL,1.0,Cumulative Event Count
+en,CUMEVENTRATE_TITLE,1.0,Cumulative Event Rate by Score
+en,CUMEVENTRATE_VLABEL,1.0,Cumulative Event Rate
+en,CUMINDETCOUNT_VLABEL,1.0,Cumulative Indeterminate Count
+en,CUMINDETRATE_VLABEL,1.0,Cumulative Indeterminate Rate
+en,CUMNEVENTCOUNT_VLABEL,1.0,Cumulative Non-Event Count
+en,CUMNEVENTRATE_VLABEL,1.0,Cumulative Non-Event Rate
+en,CUTOFFOUTOFRANGE_ERROR,1.0,"Error:  The user-specified cutoff value must be in the range of the target values, [%#1s,%#2s)."
+en,CUTOFFSCORE_VLABEL,1.0,Cutoff Score
+en,DATAROLE_VLABEL,1.0,Data Role
+en,DISPVAR_VLABEL,1.0,Variable
+en,DISPWOE_VLABEL,1.0,New WOE
+en,EFFECTNUM_VLABEL,1.0,Effect Number
+en,EFFECT_VLABEL,1.0,Effect
+en,EFFLABEL_VLABEL,1.0,Effect Label
+en,EMCCF_VLABEL,1.0,Average CCF
+en,EMEXPOSURE_VLABEL,1.0,Average Exposure
+en,EMLGD_VLABEL,1.0,Average LGD
+en,EMPD_VLABEL,1.0,Average Predicted Probability
+en,EMPIRICALODDS_VLABEL,1.0,Empirical Odds
+en,ERATE_VLABEL,1.0,Event Rate
+en,EVENTCOUNT_VLABEL,1.0,Event Count
+en,EVENTODDS_VLABEL,1.0,Event Odds
+en,EVENTRATETARGET_VLABEL,1.0,Event Rate %#1s = %#2s
+en,EVENTRATE_VLABEL,1.0,Event Rate
+en,EXPORTROLE_VLABEL,1.0,Exported Role
+en,EXPOSUREVAR_VLABEL,1.0,Exposure Variable
+en,FORMAT_VLABEL,1.0,Format
+en,FREQ_VLABEL,1.0,Frequency
+en,GENERATEBINS_NOTE,1.0,Generating Bins for interval variables
+en,GENERATEFROZENBINS_NOTE,1.0,Generating Bins for interval variables defined in frozen grouping definitions
+en,GENERATEIMPORTBINS_NOTE,1.0,Generating Bins for interval variables defined in imported grouping definitions
+en,GINIORDER_VLABEL,1.0,Gini Ordering
+en,GINI_VLABEL,1.0,Gini Statistic
+en,GNRESPRATE_VLABEL,1.0,Group Non-Event Rate
+en,GRESPRATE_VLABEL,1.0,Group Event Rate
+en,GROUP_VLABEL,1.0,Group
+en,GRPVAR_VLABEL,1.0,Group Variable
+en,GRP_VLABEL,1.0,Group
+en,GVALUES_VLABEL,1.0,Group Values
+en,HEADER_BUCKETLOG_TITLE,1.0,Interactive Score Ranges Log
+en,HEADER_BUCKETOUT_TITLE,1.0,Interactive Score Ranges Output
+en,HEADER_SCORECARDLOG_TITLE,1.0,Interactive Scorecard Points Log
+en,HEADER_SCORECARDOUT_TITLE,1.0,Interactive Scorecard Points Output
+en,HIGHPREDPROB_VLABEL,1.0,High Predicted Probability Threshold
+en,HIGHRANGE_VLABEL,1.0,High Range
+en,HIGHTHRESHOLD_VLABEL,1.0,High Score Threshold
+en,INDETCOUNT_VLABEL,1.0,Indeterminate Count
+en,INDEX_VLABEL,1.0,Index
+en,INFEVENTCOUNT_VLABEL,1.0,Rejects Inferred Event Count
+en,INFEVENTRATE_VLABEL,1.0,Rejects Inferred Event Rate
+en,INFNEVENTCOUNT_VLABEL,1.0,Rejects Inferred Non-Event Count
+en,INFOVALORDER_VLABEL,1.0,Information Value Ordering
+en,INFOVAL_VLABEL,1.0,Information Value
+en,INPUTVAR_VLABEL,1.0,Input Variable
+en,INPUT_VLABEL,1.0,Input Variable
+en,INTERCEPT_VLABEL,1.0,Intercept
+en,INVALID_NOTE,1.0,Note: The specified value for %s is not Valid.
+en,LABEL_VLABEL,1.0,Label
+en,LEVEL_VLABEL,1.0,Level
+en,LGDVAR_VLABEL,1.0,LGD Variable
+en,LOGEVENTODDS_VLABEL,1.0,Log(Event Odds)
+en,LOWPREDPROB_VLABEL,1.0,Low Predicted Probability Threshold
+en,LOWRANGE_VLABEL,1.0,Low Range
+en,LOWTHRESHOLD_VLABEL,1.0,Low Score Threshold
+en,MANUALWOE_VLABEL,1.0,Manual WOE
+en,MAPPINGSPECIALVALUES_NOTE,1.0,Mapping of special coded values
+en,MAREVENTRATE_VLABEL,1.0,Marginal Event Rate
+en,MARGINDETRATE_VLABEL,1.0,Marginal Indeterminate Rate
+en,MARNEVENTRATE_VLABEL,1.0,Marginal Non-Event Rate
+en,MAXBINTOTAL_VLABEL,1.0,Maximum Total Count
+en,MAXBINWIDTH_VLABEL,1.0,Maximum Cutoff Difference
+en,MAXNUMBINS_VLABEL,1.0,Maximum Number of Groups
+en,MIDPOINT_VLABEL,1.0,Midpoint
+en,MINBINDIFF_VLABEL,1.0,Minimum WOE Difference
+en,MINBINTOTAL_VLABEL,1.0,Minimum Total Count
+en,MINBINWIDTH_VLABEL,1.0,Minimum Cutoff Difference
+en,MINNUMBINS_VLABEL,1.0,Minimum Number of Groups
+en,MINNUMEVENT_VLABEL,1.0,Minimum Event Count
+en,MINNUMNONEVENT_VLABEL,1.0,Minimum Non-Event Count
+en,MISSING_VLABEL,1.0,Missing
+en,NAME_VLABEL,1.0,Name
+en,NEUTRAL_VLABEL,1.0,Neutral Score
+en,NEVENTCOUNT_VLABEL,1.0,Non-Event Count
+en,NEWGINI_VLABEL,1.0,New Gini
+en,NEWINFOVAL_VLABEL,1.0,New Information Value
+en,NEWROLE_VLABEL,1.0,New Role
+en,NOCODESDATA_ERROR,1.0,Error:  Must specify a Codes Dataset if Use Special Codes is set to Yes.
+en,NOFINEDETAIL_ERROR,1.0,Error:  No finedetail dataset exists.  Must run node prior to setting Freeze=Y to create initial values.
+en,NONBINTARGETTRANS_ERROR,1.0,Error:  A non-binary target was created from the interval target.  Please change an Interval Target Options property.
+en,NONEVENTRATE_VLABEL,1.0,Non Event Rate
+en,NORMVALUE_VLABEL,1.0,Normalized Value
+en,ORIGGINI_VLABEL,1.0,Original Gini
+en,ORIGINFOVAL_VLABEL,1.0,Original Information Value
+en,PARCELING_ERROR,1.0,ERROR: Parceling could not be performed.  Please try increasing the value for the Event Rate Increase property.
+en,PERCENTEVENTCOUNT_VLABEL,1.0,Percent Event Count
+en,PERCENTSAMPLE_VLABEL,1.0,Percent Sample
+en,PERCENT_VLABEL,1.0,Percent
+en,POPPERCENTAGE_VLABEL,1.0,Population Percentage
+en,POSTERIORVAR_VLABEL,1.0,Posterior Variable
+en,PPERCENT_VLABEL,1.0,Percentage of Population
+en,PREDEFINED_VLABEL,1.0,Pre-Defined Grouping
+en,PREDICTEDODDS_VLABEL,1.0,Predicted Odds
+en,PROCGRPVAR_VLABEL,1.0,Group var generated by Arbor
+en,PROCLEVEL_VLABEL,1.0,Level for Interactive
+en,PROCVAR_VLABEL,1.0,Input use by Arbor
+en,PROCWOEVAR_VLABEL,1.0,WOE var generated by Arbor
+en,PROPPOP_VLABEL,1.0,Proportion of Population
+en,PROPTOTEVENTCOUNT_VLABEL,1.0,Proportion of Total Event Count
+en,RANGETOOSMALL_NOTE,1.0,Range is too small for the number of specified buckets
+en,REJECTTOTAL_VLABEL,1.0,Rejects Total
+en,REJEVENTRATE_TITLE,1.0,Reject Inference : Event Rates
+en,RESETNUMBUCKETS_NOTE,1.0,The number of buckets will be reset from %#1s to %#2s
+en,RESET_NOTE,1.0,The value for %s has been reset to the default value.
+en,ROLE_VLABEL,1.0,Role
+en,SATURATED_VLABEL,1.0,Saturated
+en,SCOREBUCKET_VLABEL,1.0,Score Bucket
+en,SCORECARD_TITLE,1.0,Scorecard
+en,SCPTS_VLABEL,1.0,Scorecard Points
+en,SIGN_VLABEL,1.0,Sign
+en,SPECIALCODEVALUES_NOTE,1.0,Special Code Values
+en,SUMSTATS_TITLE,1.0,Summary Statistics
+en,TARGETOUTOFRANGE_ERROR,1.0,Error:  There are values of the interval target outside of the range specified.
+en,TEFFECTNUM_VLABEL,1.0,TScore Number
+en,TESTEVENTRATE_VLABEL,1.0,Test Data Event Rate
+en,TRAINEVENTRATE_VLABEL,1.0,Training Data Event Rate
+en,TVALUE_VLABEL,1.0,T-value
+en,TYPE_VLABEL,1.0,Type
+en,VALIDEVENTRATE_VLABEL,1.0,Validation Data Event Rate
+en,VALUE_VLABEL,1.0,Value
+en,VARIABLE_VLABEL,1.0,Variable
+en,WOEVAR_VLABEL,1.0,WOE Variable
+en,WTAVG_VLABEL,1.0,Weighted Average
+en,WTEV_VLABEL,1.0,Weight of Evidence
+es,ABSCOEFF_VLABEL,1.0,Coeficiente absoluto
+es,ABSTVALUE_VLABEL,1.0,T-valor absoluto
+es,ACCEPTEVENTCOUNT_VLABEL,1.0,N\u00famero de eventos aceptados
+es,ACCEPTEVENTRATE_VLABEL,1.0,Tasa de eventos aceptada
+es,ACCEPTNEVENTCOUNT_VLABEL,1.0,N\u00famero de no eventos aceptados
+es,ACCEPTTOTAL_VLABEL,1.0,Total aceptado
+es,ACTUALINFERRED_VLABEL,1.0,Aceptados / Inferidos
+es,ADAVGMARGPROFIT_VLABEL,1.0,Beneficio marginal de promedio ajustado
+es,ADAVGTOTALPROFIT_VLABEL,1.0,Beneficio total de promedio ajustado
+es,ADCOUNT_VLABEL,1.0,N\u00famero ajustado
+es,ADCUMAPPROVALRATE_VLABEL,1.0,Tasa de aprobaci\u00f3n acumulada ajustada
+es,ADCUMCOUNT,1.0,N\u00famero acumulado ajustado
+es,ADCUMEVENTRATE_VLABEL,1.0,Tasa de evento acumulado ajustado
+es,ADCUMNEVENTCOUNT_VLABEL,1.0,N\u00famero de no evento acumulado ajustado
+es,ADCUMNEVENTRATE_VLABEL,1.0,Tasa de no evento acumulado ajustado
+es,ADEMPIRICALODDS_VLABEL,1.0,Probabilidad emp\u00edrica ajustada
+es,ADEVENTODDS_VLABEL,1.0,Probabilidad de evento no ajustada
+es,ADJCUMINDETRATE_VLABEL,1.0,Tasa acumulada ajustada indeterminada
+es,ADJMARGINDETRATE_VLABEL,1.0,Tasa marginal ajustada indeterminada
+es,ADLOGEVENTODDS_VLABEL,1.0,Log ajustada(Probabilidades de evento)
+es,ADMAREVENTRATE_VLABEL,1.0,Tasa de evento marginal ajustado
+es,ADMARNEVENTRATE_VLABEL,1.0,Tasa de no evento marginal ajustado
+es,ADNEVENTCOUNT_VLABEL,1.0,N\u00famero de no evento ajustado
+es,ADPOPPERCENTAGE_VLABEL,1.0,Porcentaje de poblaci\u00f3n ajustado
+es,ADPROPPOP_VLABEL,1.0,Proporci\u00f3n de poblaci\u00f3n ajustada
+es,ADPROPTOTEVENTCOUNT_VLABEL,1.0,Proporci\u00f3n ajustada de n\u00famero de eventos totales
+es,ADVERSECOUNT_VLABEL,1.0,Raz\u00f3n adversa n\u00famero %s
+es,ADVERSE_RULE_VLABEL,1.0,Regla adversa %s
+es,ADVERSE_VALUE_VLABEL,1.0,Diferencia adversa %s
+es,ADVERSE_VLABEL,1.0,Variable adversa %s
+es,APPLYMAXBINTOTAL_VLABEL,1.0,Aplicar n\u00famero total m\u00e1ximo
+es,APPLYMAXBINWIDTH_VLABEL,1.0,Aplicar diferencia de corte m\u00e1xima
+es,APPLYMAXNUMBINS_VLABEL,1.0,Aplicar grupos m\u00e1ximos
+es,APPLYMINBINDIFF_VLABEL,1.0,Aplicar diferencia WOE m\u00ednima
+es,APPLYMINBINTOTAL_VLABEL,1.0,Aplicar n\u00famero total m\u00ednimo
+es,APPLYMINBINWIDTH_VLABEL,1.0,Aplicar diferencia de corte m\u00ednima
+es,APPLYMINNUMBINS_VLABEL,1.0,Aplicar grupos m\u00ednimos
+es,APPLYMINNUMEVENT_VLABEL,1.0,Aplicar n\u00famero de evento m\u00ednimo
+es,APPLYMINNUMNONEVENT_VLABEL,1.0,Aplicar n\u00famero de no evento m\u00ednimo
+es,APPLYMONOTONICITY_VLABEL,1.0,Aplicar monotonicidad WOE
+es,ARATIO_VLABEL,1.0,Ratio de exactitud
+es,ATTEVENTRATE_TITLE,1.0,Tasa de evento de atributo y puntuaci\u00f3n de promedio
+es,ATTPROPBYSCORE_TITLE,1.0,Proporci\u00f3n de atributo por puntuaci\u00f3n
+es,AUGEVENTRATE_VLABEL,1.0,Tasa de evento de datos aumentada
+es,AVGMARGPROFIT_VLABEL,1.0,Beneficio marginal de promedio
+es,AVGSCPTS_VLABEL,1.0,Puntos de scorecard de promedio
+es,AVGTOTALPROFIT_VLABEL,1.0,Beneficio total de promedio
+es,BASELINE_VLABEL,1.0,B\u00e1sico
+es,BUCKET_VLABEL,1.0,Agrupaci\u00f3n
+es,CALCROLE_VLABEL,1.0,Rol calculado
+es,CALCWOE_VLABEL,1.0,WOE calculado
+es,CCFVAR_VLABEL,1.0,Variable CCF
+es,CHARANALYSIS_TITLE,1.0,An\u00e1lisis de caracter\u00edstica:%s
+es,CODESWRONGTYPE_ERROR,1.0,Error: las variables del conjunto de datos Codes no son del tipo correcto o no existen.
+es,COEFF_VLABEL,1.0,Coeficiente
+es,COUNT_VLABEL,1.0,N\u00famero
+es,CUMAPPROVALRATE_VLABEL,1.0,Tasa de aprobaci\u00f3n acumulada
+es,CUMCOUNT_VLABEL,1.0,N\u00famero acumulado
+es,CUMEVENTCOUNT_VLABEL,1.0,N\u00famero de evento acumulado
+es,CUMEVENTRATE_TITLE,1.0,Tasa de evento acumulado por puntuaci\u00f3n
+es,CUMEVENTRATE_VLABEL,1.0,Tasa de evento acumulado
+es,CUMINDETCOUNT_VLABEL,1.0,Cantidad acumulada indeterminada
+es,CUMINDETRATE_VLABEL,1.0,Tasa acumulada indeterminada
+es,CUMNEVENTCOUNT_VLABEL,1.0,N\u00famero de no evento acumulado
+es,CUMNEVENTRATE_VLABEL,1.0,Tasa de no evento acumulado
+es,CUTOFFOUTOFRANGE_ERROR,1.0,"Error:  el valor de corte especificado por el usuario debe estar en el rango de los valores target, [%#1s,%#2s)."
+es,CUTOFFSCORE_VLABEL,1.0,Puntuaci\u00f3n de corte
+es,DATAROLE_VLABEL,1.0,Rol de los datos
+es,DISPVAR_VLABEL,1.0,Variable
+es,DISPWOE_VLABEL,1.0,Nuevo WOE
+es,EFFECTNUM_VLABEL,1.0,N\u00famero de efecto
+es,EFFECT_VLABEL,1.0,Efecto
+es,EFFLABEL_VLABEL,1.0,Etiqueta de efecto
+es,EMCCF_VLABEL,1.0,CCF de promedio
+es,EMEXPOSURE_VLABEL,1.0,Exposici\u00f3n media
+es,EMLGD_VLABEL,1.0,LGD de promedio
+es,EMPD_VLABEL,1.0,Probabilidad predicha de promedio
+es,EMPIRICALODDS_VLABEL,1.0,Probabilidad emp\u00edrica
+es,ERATE_VLABEL,1.0,Tasa de eventos
+es,EVENTCOUNT_VLABEL,1.0,N\u00famero de eventos
+es,EVENTODDS_VLABEL,1.0,Probabilidades de evento
+es,EVENTRATETARGET_VLABEL,1.0,Tasa de eventos %#1s =%#2s
+es,EVENTRATE_VLABEL,1.0,Tasa de eventos
+es,EXPORTROLE_VLABEL,1.0,Rol exportado
+es,EXPOSUREVAR_VLABEL,1.0,Variable de exposici\u00f3n
+es,FORMAT_VLABEL,1.0,Formato
+es,FREQ_VLABEL,1.0,Frecuencia
+es,GENERATEBINS_NOTE,1.0,Generando clases para las variables de intervalo
+es,GENERATEFROZENBINS_NOTE,1.0,Generando clases para las variables de intervalo definidas en las definiciones de agrupamiento fijas
+es,GENERATEIMPORTBINS_NOTE,1.0,Generando clases para variables de intervalo definidas en las definiciones de agrupamiento importadas
+es,GINIORDER_VLABEL,1.0,Ordenaci\u00f3n Gini
+es,GINI_VLABEL,1.0,Estad\u00edstico de Gini
+es,GNRESPRATE_VLABEL,1.0,Tasa de no evento de grupo
+es,GRESPRATE_VLABEL,1.0,Tasa de eventos del grupo
+es,GROUP_VLABEL,1.0,Grupo
+es,GRPVAR_VLABEL,1.0,Variable de grupo
+es,GRP_VLABEL,1.0,Grupo
+es,GVALUES_VLABEL,1.0,Valores de grupo
+es,HEADER_BUCKETLOG_TITLE,1.0,Log de rangos de puntuaci\u00f3n interactivo
+es,HEADER_BUCKETOUT_TITLE,1.0,Salida de rangos de puntuaci\u00f3n interactiva
+es,HEADER_SCORECARDLOG_TITLE,1.0,Log de puntos de scorecard interactivo
+es,HEADER_SCORECARDOUT_TITLE,1.0,Salida de puntos de scorecard interactiva
+es,HIGHPREDPROB_VLABEL,1.0,Umbral alto de probabilidad predicha
+es,HIGHRANGE_VLABEL,1.0,Rango alto
+es,HIGHTHRESHOLD_VLABEL,1.0,Umbral de puntuaci\u00f3n alto
+es,INDETCOUNT_VLABEL,1.0,Cantidad indeterminada
+es,INDEX_VLABEL,1.0,\u00cdndice
+es,INFEVENTCOUNT_VLABEL,1.0,Cantidad de evento inferida de rechazos
+es,INFEVENTRATE_VLABEL,1.0,Tasa de evento inferida de rechazos
+es,INFNEVENTCOUNT_VLABEL,1.0,Cantidad de no evento inferida de rechazos
+es,INFOVALORDER_VLABEL,1.0,Ordenaci\u00f3n del valor de la informaci\u00f3n
+es,INFOVAL_VLABEL,1.0,Valor de informaci\u00f3n
+es,INPUTVAR_VLABEL,1.0,Variable input
+es,INPUT_VLABEL,1.0,Variable input
+es,INTERCEPT_VLABEL,1.0,T\u00e9rmino independiente
+es,INVALID_NOTE,1.0,Note: el valor especificado para %s no es v\u00e1lido.
+es,LABEL_VLABEL,1.0,Etiqueta
+es,LEVEL_VLABEL,1.0,Nivel
+es,LGDVAR_VLABEL,1.0,Variable LGD
+es,LOGEVENTODDS_VLABEL,1.0,Log(Probabilidades de evento)
+es,LOWPREDPROB_VLABEL,1.0,Umbral bajo de probabilidad predicha
+es,LOWRANGE_VLABEL,1.0,Rango bajo
+es,LOWTHRESHOLD_VLABEL,1.0,Umbral de puntuaci\u00f3n bajo
+es,MANUALWOE_VLABEL,1.0,WOE manual
+es,MAPPINGSPECIALVALUES_NOTE,1.0,Mapeo de valores codificados especiales
+es,MAREVENTRATE_VLABEL,1.0,Tasa de evento marginal
+es,MARGINDETRATE_VLABEL,1.0,Tasa marginal indeterminada
+es,MARNEVENTRATE_VLABEL,1.0,Tasa de no evento marginal
+es,MAXBINTOTAL_VLABEL,1.0,N\u00famero total m\u00e1ximo
+es,MAXBINWIDTH_VLABEL,1.0,Diferencia de corte m\u00e1xima
+es,MAXNUMBINS_VLABEL,1.0,N\u00famero m\u00e1ximo de grupos
+es,MIDPOINT_VLABEL,1.0,Punto medio
+es,MINBINDIFF_VLABEL,1.0,Diferencia WOE m\u00ednima
+es,MINBINTOTAL_VLABEL,1.0,N\u00famero total m\u00ednimo
+es,MINBINWIDTH_VLABEL,1.0,Diferencia de corte m\u00ednima
+es,MINNUMBINS_VLABEL,1.0,N\u00famero m\u00ednimo de grupos
+es,MINNUMEVENT_VLABEL,1.0,N\u00famero de evento m\u00ednimo
+es,MINNUMNONEVENT_VLABEL,1.0,N\u00famero de no eventos m\u00ednimo
+es,MISSING_VLABEL,1.0,Ausente
+es,NAME_VLABEL,1.0,Nombre
+es,NEUTRAL_VLABEL,1.0,Puntuaci\u00f3n neutral
+es,NEVENTCOUNT_VLABEL,1.0,N\u00famero de no eventos
+es,NEWGINI_VLABEL,1.0,Gini nuevo
+es,NEWINFOVAL_VLABEL,1.0,Valor de nueva informaci\u00f3n
+es,NEWROLE_VLABEL,1.0,Nuevo rol
+es,NOCODESDATA_ERROR,1.0,Error: debe especificar el conjunto de datos Codes si Usar c\u00f3digos especiales se ha establecido en Yes.
+es,NOFINEDETAIL_ERROR,1.0,Error: no existe el conjunto de datos finedetail. Debe ejecutar el nodo antes de establecer Freeze=Y para crear valores iniciales.
+es,NONBINTARGETTRANS_ERROR,1.0,Error:  se ha creado una variable target no binaria a partir de una variable target tipo intervalo. Cambie una propiedad de Opciones target de intervalo.
+es,NONEVENTRATE_VLABEL,1.0,Tasa de no evento
+es,NORMVALUE_VLABEL,1.0,Valor normalizado
+es,ORIGGINI_VLABEL,1.0,Gini original
+es,ORIGINFOVAL_VLABEL,1.0,Valor de informaci\u00f3n original
+es,PARCELING_ERROR,1.0,ERROR: No se ha podido realizar parceling. Intente aumentar el valor para la propiedad Tasa de evento.
+es,PERCENTEVENTCOUNT_VLABEL,1.0,N\u00famero de eventos de porcentaje
+es,PERCENTSAMPLE_VLABEL,1.0,Muestra de porcentaje
+es,PERCENT_VLABEL,1.0,Porcentaje
+es,POPPERCENTAGE_VLABEL,1.0,Porcentaje de poblaci\u00f3n
+es,POSTERIORVAR_VLABEL,1.0,Variable posterior
+es,PPERCENT_VLABEL,1.0,Porcentaje de poblaci\u00f3n
+es,PREDEFINED_VLABEL,1.0,Agrupamiento predefinido
+es,PREDICTEDODDS_VLABEL,1.0,Probabilidad predicha
+es,PROCGRPVAR_VLABEL,1.0,Var de grupo generada por Arbor
+es,PROCLEVEL_VLABEL,1.0,Nivel para Interactivo
+es,PROCVAR_VLABEL,1.0,Input usada por Arbor
+es,PROCWOEVAR_VLABEL,1.0,Var WOE generada por Arbor
+es,PROPPOP_VLABEL,1.0,Proporci\u00f3n de poblaci\u00f3n
+es,PROPTOTEVENTCOUNT_VLABEL,1.0,Proporci\u00f3n de n\u00famero de eventos totales
+es,RANGETOOSMALL_NOTE,1.0,El rango es demasiado peque\u00f1o para el n\u00famero de agrupaciones especificadas
+es,REJECTTOTAL_VLABEL,1.0,Total rechazado
+es,REJEVENTRATE_TITLE,1.0,Inferencia de rechazos : tasas de evento
+es,RESETNUMBUCKETS_NOTE,1.0,El n\u00famero de agrupaciones se restablecer\u00e1 de %#1s a%#2s
+es,RESET_NOTE,1.0,El valor para %s se ha restablecido a su valor predeterminado.
+es,ROLE_VLABEL,1.0,Rol
+es,SATURATED_VLABEL,1.0,Saturada
+es,SCOREBUCKET_VLABEL,1.0,Clase de puntuaci\u00f3n
+es,SCORECARD_TITLE,1.0,Scorecard
+es,SCPTS_VLABEL,1.0,Puntos de scorecard
+es,SIGN_VLABEL,1.0,Signo
+es,SPECIALCODEVALUES_NOTE,1.0,Valores de c\u00f3digo especiales
+es,SUMSTATS_TITLE,1.0,Estad\u00edsticos de sumarizaci\u00f3n
+es,TARGETOUTOFRANGE_ERROR,1.0,Error:  hay valores de la variable target tipo intervalo fuera del rango especificado.
+es,TEFFECTNUM_VLABEL,1.0,N\u00famero TScore
+es,TESTEVENTRATE_VLABEL,1.0,Tasa de evento de datos de test
+es,TRAINEVENTRATE_VLABEL,1.0,Tasa de evento de datos de entrenamiento
+es,TVALUE_VLABEL,1.0,T-valor
+es,TYPE_VLABEL,1.0,Tipo
+es,VALIDEVENTRATE_VLABEL,1.0,Tasa de evento de datos de validaci\u00f3n
+es,VALUE_VLABEL,1.0,Valor
+es,VARIABLE_VLABEL,1.0,Variable
+es,WOEVAR_VLABEL,1.0,Variable WOE
+es,WTAVG_VLABEL,1.0,Media ponderada
+es,WTEV_VLABEL,1.0,Peso de la evidencia
+fr,ABSCOEFF_VLABEL,1.0,Coefficient absolu
+fr,ABSTVALUE_VLABEL,1.0,T-value absolue
+fr,ACCEPTEVENTCOUNT_VLABEL,1.0,Accepte le nombre d'\u00e9v\u00e9nements
+fr,ACCEPTEVENTRATE_VLABEL,1.0,Accepte le taux d'\u00e9v\u00e9nement
+fr,ACCEPTNEVENTCOUNT_VLABEL,1.0,Accepte le nombre de non-\u00e9v\u00e9nements
+fr,ACCEPTTOTAL_VLABEL,1.0,Accepte le total
+fr,ACTUALINFERRED_VLABEL,1.0,Acceptations / D\u00e9ductions
+fr,ADAVGMARGPROFIT_VLABEL,1.0,B\u00e9n\u00e9fice marginal moyen ajust\u00e9
+fr,ADAVGTOTALPROFIT_VLABEL,1.0,B\u00e9n\u00e9fice total moyen ajust\u00e9
+fr,ADCOUNT_VLABEL,1.0,Nombre ajust\u00e9
+fr,ADCUMAPPROVALRATE_VLABEL,1.0,Taux d'approbation cumul\u00e9 ajust\u00e9
+fr,ADCUMCOUNT,1.0,Nombre cumul\u00e9 ajust\u00e9
+fr,ADCUMEVENTRATE_VLABEL,1.0,Taux d'\u00e9v\u00e9nement cumul\u00e9 ajust\u00e9
+fr,ADCUMNEVENTCOUNT_VLABEL,1.0,Nombre cumul\u00e9 ajust\u00e9 de non-\u00e9v\u00e9nements
+fr,ADCUMNEVENTRATE_VLABEL,1.0,Taux de non-\u00e9v\u00e9nement cumul\u00e9 ajust\u00e9
+fr,ADEMPIRICALODDS_VLABEL,1.0,Cotes empiriques ajust\u00e9es
+fr,ADEVENTODDS_VLABEL,1.0,Ratio de cotes ajust\u00e9
+fr,ADJCUMINDETRATE_VLABEL,1.0,Taux ind\u00e9termin\u00e9 cumul\u00e9 ajust\u00e9
+fr,ADJMARGINDETRATE_VLABEL,1.0,Taux ind\u00e9termin\u00e9 marginal ajust\u00e9
+fr,ADLOGEVENTODDS_VLABEL,1.0,Log ajust\u00e9 (ratio de cotes)
+fr,ADMAREVENTRATE_VLABEL,1.0,Taux d'\u00e9v\u00e9nement marginal ajust\u00e9
+fr,ADMARNEVENTRATE_VLABEL,1.0,Taux de non-\u00e9v\u00e9nement marginal ajust\u00e9
+fr,ADNEVENTCOUNT_VLABEL,1.0,Nombre ajust\u00e9 de non-\u00e9v\u00e9nements
+fr,ADPOPPERCENTAGE_VLABEL,1.0,Pourcentage de population ajust\u00e9
+fr,ADPROPPOP_VLABEL,1.0,Proportion ajust\u00e9e de remplissage
+fr,ADPROPTOTEVENTCOUNT_VLABEL,1.0,Proportion ajust\u00e9e du nombre total d'\u00e9v\u00e9nements
+fr,ADVERSECOUNT_VLABEL,1.0,Raison d\u00e9favorable %s - Total
+fr,ADVERSE_RULE_VLABEL,1.0,R\u00e8gle contraire %s
+fr,ADVERSE_VALUE_VLABEL,1.0,Diff\u00e9rence contraire %s
+fr,ADVERSE_VLABEL,1.0,Variable contraire %s
+fr,APPLYMAXBINTOTAL_VLABEL,1.0,Appliquer le nombre total maximal
+fr,APPLYMAXBINWIDTH_VLABEL,1.0,Appliquer la diff\u00e9rence de seuil maximale
+fr,APPLYMAXNUMBINS_VLABEL,1.0,Appliquer les groupes maximaux
+fr,APPLYMINBINDIFF_VLABEL,1.0,Appliquer la diff\u00e9rence du poids d'\u00e9vidence minimale
+fr,APPLYMINBINTOTAL_VLABEL,1.0,Appliquer le nombre total minimal
+fr,APPLYMINBINWIDTH_VLABEL,1.0,Appliquer la diff\u00e9rence de seuil minimale
+fr,APPLYMINNUMBINS_VLABEL,1.0,Appliquer les groupes minimaux
+fr,APPLYMINNUMEVENT_VLABEL,1.0,Appliquer le nombre minimal d'\u00e9v\u00e9nements
+fr,APPLYMINNUMNONEVENT_VLABEL,1.0,Appliquer le nombre minimal de non-\u00e9v\u00e9nements
+fr,APPLYMONOTONICITY_VLABEL,1.0,Appliquer la distribution monotone du poids d'\u00e9vidence
+fr,ARATIO_VLABEL,1.0,Taux d'exactitude
+fr,ATTEVENTRATE_TITLE,1.0,Attribuer le score moyen et le taux d'\u00e9v\u00e9nement
+fr,ATTPROPBYSCORE_TITLE,1.0,Attribuer la proportion par score
+fr,AUGEVENTRATE_VLABEL,1.0,Taux d'\u00e9v\u00e9nement des donn\u00e9es augment\u00e9
+fr,AVGMARGPROFIT_VLABEL,1.0,B\u00e9n\u00e9fice marginal moyen
+fr,AVGSCPTS_VLABEL,1.0,Points de scorecard moyens
+fr,AVGTOTALPROFIT_VLABEL,1.0,B\u00e9n\u00e9fice total moyen
+fr,BASELINE_VLABEL,1.0,R\u00e9f\u00e9rence
+fr,BUCKET_VLABEL,1.0,Classe
+fr,CALCROLE_VLABEL,1.0,R\u00f4le calcul\u00e9
+fr,CALCWOE_VLABEL,1.0,Poids d'\u00e9vidence calcul\u00e9s
+fr,CCFVAR_VLABEL,1.0,Variable CCF
+fr,CHARANALYSIS_TITLE,1.0,Analyse des caract\u00e9ristiques : %s
+fr,CODESWRONGTYPE_ERROR,1.0,Error:  les variables attendues dans la table de scripts n'ont pas le bon type ou n'existent pas.
+fr,COEFF_VLABEL,1.0,Coefficient
+fr,COUNT_VLABEL,1.0,Effectif
+fr,CUMAPPROVALRATE_VLABEL,1.0,Taux d'approbation cumul\u00e9
+fr,CUMCOUNT_VLABEL,1.0,Effectif cumul\u00e9
+fr,CUMEVENTCOUNT_VLABEL,1.0,Nombre cumul\u00e9 d'\u00e9v\u00e9nements
+fr,CUMEVENTRATE_TITLE,1.0,Taux d'\u00e9v\u00e9nement cumul\u00e9 par score
+fr,CUMEVENTRATE_VLABEL,1.0,Taux d'\u00e9v\u00e9nement cumul\u00e9
+fr,CUMINDETCOUNT_VLABEL,1.0,Effectif ind\u00e9termin\u00e9 cumul\u00e9
+fr,CUMINDETRATE_VLABEL,1.0,Taux ind\u00e9termin\u00e9 cumul\u00e9
+fr,CUMNEVENTCOUNT_VLABEL,1.0,Nombre cumul\u00e9 de non-\u00e9v\u00e9nements
+fr,CUMNEVENTRATE_VLABEL,1.0,Taux de non-\u00e9v\u00e9nement cumul\u00e9
+fr,CUTOFFOUTOFRANGE_ERROR,1.0,"Error:  la valeur du seuil personnalis\u00e9 doit \u00eatre dans l'intervalle des valeurs cibles, [%#1s,%#2s)."
+fr,CUTOFFSCORE_VLABEL,1.0,Score de seuil
+fr,DATAROLE_VLABEL,1.0,R\u00f4le des donn\u00e9es
+fr,DISPVAR_VLABEL,1.0,Variable
+fr,DISPWOE_VLABEL,1.0,Nouveau poids d'\u00e9vidence
+fr,EFFECTNUM_VLABEL,1.0,Num\u00e9ro de l'effet
+fr,EFFECT_VLABEL,1.0,Effet
+fr,EFFLABEL_VLABEL,1.0,Libell\u00e9 de l'effet
+fr,EMCCF_VLABEL,1.0,CCF moyen
+fr,EMEXPOSURE_VLABEL,1.0,Exposition moyenne
+fr,EMLGD_VLABEL,1.0,LGD moyen
+fr,EMPD_VLABEL,1.0,Graphique de probabilit\u00e9 pr\u00e9dite moyenne
+fr,EMPIRICALODDS_VLABEL,1.0,Cotes empiriques
+fr,ERATE_VLABEL,1.0,Taux d'\u00e9v\u00e9nement
+fr,EVENTCOUNT_VLABEL,1.0,Nombre d'\u00e9v\u00e9nements
+fr,EVENTODDS_VLABEL,1.0,Ratio de cotes (\u00e9v\u00e9nement)
+fr,EVENTRATETARGET_VLABEL,1.0,Taux d'\u00e9v\u00e9nement %#1s = %#2s
+fr,EVENTRATE_VLABEL,1.0,Taux d'\u00e9v\u00e9nement
+fr,EXPORTROLE_VLABEL,1.0,R\u00f4le export\u00e9
+fr,EXPOSUREVAR_VLABEL,1.0,Variable d'exposition
+fr,FORMAT_VLABEL,1.0,Format
+fr,FREQ_VLABEL,1.0,Fr\u00e9quence
+fr,GENERATEBINS_NOTE,1.0,G\u00e9n\u00e9ration de classes pour les variables continues
+fr,GENERATEFROZENBINS_NOTE,1.0,G\u00e9n\u00e9ration de classes pour les variables continues d\u00e9crites dans les d\u00e9finitions de regroupement fig\u00e9es
+fr,GENERATEIMPORTBINS_NOTE,1.0,G\u00e9n\u00e9ration de classes pour les variables continues d\u00e9crites dans les d\u00e9finitions de regroupement import\u00e9es
+fr,GINIORDER_VLABEL,1.0,Classement des donn\u00e9es de Gini
+fr,GINI_VLABEL,1.0,Statistiques de Gini
+fr,GNRESPRATE_VLABEL,1.0,Taux de non-\u00e9v\u00e9nement de groupe
+fr,GRESPRATE_VLABEL,1.0,Taux d'\u00e9v\u00e9nement de groupe
+fr,GROUP_VLABEL,1.0,Groupe
+fr,GRPVAR_VLABEL,1.0,Variable de groupe
+fr,GRP_VLABEL,1.0,Groupe
+fr,GVALUES_VLABEL,1.0,Valeurs de groupe
+fr,HEADER_BUCKETLOG_TITLE,1.0,Journal des intervalles de scoring interactif
+fr,HEADER_BUCKETOUT_TITLE,1.0,Sortie des intervalles de scoring interactive
+fr,HEADER_SCORECARDLOG_TITLE,1.0,Journal des points de scorecard interactif
+fr,HEADER_SCORECARDOUT_TITLE,1.0,Sortie des points de scorecard interactive
+fr,HIGHPREDPROB_VLABEL,1.0,Seuil de probabilit\u00e9 pr\u00e9dite sup\u00e9rieur
+fr,HIGHRANGE_VLABEL,1.0,Intervalle haut
+fr,HIGHTHRESHOLD_VLABEL,1.0,Seuil de score haut
+fr,INDETCOUNT_VLABEL,1.0,Effectif ind\u00e9termin\u00e9
+fr,INDEX_VLABEL,1.0,Index
+fr,INFEVENTCOUNT_VLABEL,1.0,Rejette le nombre d'\u00e9v\u00e9nements d\u00e9duit
+fr,INFEVENTRATE_VLABEL,1.0,Rejette le taux d'\u00e9v\u00e9nement d\u00e9duit
+fr,INFNEVENTCOUNT_VLABEL,1.0,Rejette le nombre de non-\u00e9v\u00e9nements d\u00e9duit
+fr,INFOVALORDER_VLABEL,1.0,Classement des valeurs d'information
+fr,INFOVAL_VLABEL,1.0,Valeur d'information
+fr,INPUTVAR_VLABEL,1.0,Variable explicative
+fr,INPUT_VLABEL,1.0,Variable explicative
+fr,INTERCEPT_VLABEL,1.0,Constante
+fr,INVALID_NOTE,1.0,Note: la valeur indiqu\u00e9e pour %s n'est pas valide.
+fr,LABEL_VLABEL,1.0,Libell\u00e9
+fr,LEVEL_VLABEL,1.0,Niveau
+fr,LGDVAR_VLABEL,1.0,Variable LGD
+fr,LOGEVENTODDS_VLABEL,1.0,Log (ratio de cotes)
+fr,LOWPREDPROB_VLABEL,1.0,Seuil de probabilit\u00e9 pr\u00e9dite inf\u00e9rieur
+fr,LOWRANGE_VLABEL,1.0,Intervalle bas
+fr,LOWTHRESHOLD_VLABEL,1.0,Seuil de score bas
+fr,MANUALWOE_VLABEL,1.0,Poids d'\u00e9vidence manuels
+fr,MAPPINGSPECIALVALUES_NOTE,1.0,Mise en correspondance de valeurs cod\u00e9es sp\u00e9ciales
+fr,MAREVENTRATE_VLABEL,1.0,Taux d'\u00e9v\u00e9nement marginal
+fr,MARGINDETRATE_VLABEL,1.0,Taux ind\u00e9termin\u00e9 marginal
+fr,MARNEVENTRATE_VLABEL,1.0,Taux de non-\u00e9v\u00e9nement marginal
+fr,MAXBINTOTAL_VLABEL,1.0,Nombre total maximal
+fr,MAXBINWIDTH_VLABEL,1.0,Diff\u00e9rence de seuil maximale
+fr,MAXNUMBINS_VLABEL,1.0,Nombre maximal de groupes
+fr,MIDPOINT_VLABEL,1.0,Milieu
+fr,MINBINDIFF_VLABEL,1.0,Diff\u00e9rence du poids d'\u00e9vidence minimale
+fr,MINBINTOTAL_VLABEL,1.0,Nombre total minimal
+fr,MINBINWIDTH_VLABEL,1.0,Diff\u00e9rence de seuil minimale
+fr,MINNUMBINS_VLABEL,1.0,Nombre minimal de groupes
+fr,MINNUMEVENT_VLABEL,1.0,Nombre minimal d'\u00e9v\u00e9nements
+fr,MINNUMNONEVENT_VLABEL,1.0,Nombre minimal de non-\u00e9v\u00e9nements
+fr,MISSING_VLABEL,1.0,Manquante
+fr,NAME_VLABEL,1.0,Nom
+fr,NEUTRAL_VLABEL,1.0,Score neutre
+fr,NEVENTCOUNT_VLABEL,1.0,Nombre de non-\u00e9v\u00e9nements
+fr,NEWGINI_VLABEL,1.0,Nouvelle donn\u00e9e de Gini
+fr,NEWINFOVAL_VLABEL,1.0,Nouvelle valeur d'information
+fr,NEWROLE_VLABEL,1.0,Nouveau r\u00f4le
+fr,NOCODESDATA_ERROR,1.0,Error:  vous devez indiquer une table de scripts si Oui est s\u00e9lectionn\u00e9 pour l'option Utiliser des scripts sp\u00e9ciaux.
+fr,NOFINEDETAIL_ERROR,1.0,Error:  aucune table de d\u00e9tail n'existe. Vous devez ex\u00e9cuter le noeud avant de s\u00e9lectionner Freeze=Y afin de cr\u00e9er les valeurs initiales.
+fr,NONBINTARGETTRANS_ERROR,1.0,Error:  une variable non binaire \u00e0 expliquer a \u00e9t\u00e9 cr\u00e9\u00e9e \u00e0 partir de la variable continue \u00e0 expliquer. Veuillez changer une propri\u00e9t\u00e9 des Options de la variable continue \u00e0 expliquer.
+fr,NONEVENTRATE_VLABEL,1.0,Taux de non \u00e9v\u00e9nement
+fr,NORMVALUE_VLABEL,1.0,Valeur normalis\u00e9e
+fr,ORIGGINI_VLABEL,1.0,Donn\u00e9e originale de Gini
+fr,ORIGINFOVAL_VLABEL,1.0,Valeur d'information originale
+fr,PARCELING_ERROR,1.0,ERROR: impossible de r\u00e9aliser la fragmentation. Veuillez essayer d'augmenter la valeur de la propri\u00e9t\u00e9 Augmentation du taux d'\u00e9v\u00e9nements.
+fr,PERCENTEVENTCOUNT_VLABEL,1.0,Nombre d'occurrences d'\u00e9v\u00e9nements du pourcentage
+fr,PERCENTSAMPLE_VLABEL,1.0,Echantillon du pourcentage
+fr,PERCENT_VLABEL,1.0,Pourcentage
+fr,POPPERCENTAGE_VLABEL,1.0,Pourcentage de population
+fr,POSTERIORVAR_VLABEL,1.0,Variable a posteriori
+fr,PPERCENT_VLABEL,1.0,Pourcentage de population
+fr,PREDEFINED_VLABEL,1.0,Regroupement pr\u00e9d\u00e9fini
+fr,PREDICTEDODDS_VLABEL,1.0,Cotes pr\u00e9dites
+fr,PROCGRPVAR_VLABEL,1.0,Var de groupe g\u00e9n\u00e9r\u00e9e par Arbor
+fr,PROCLEVEL_VLABEL,1.0,Niveau pour le graphique interactif
+fr,PROCVAR_VLABEL,1.0,Variable explicative utilis\u00e9e par Arbor
+fr,PROCWOEVAR_VLABEL,1.0,Var de poids d'\u00e9vidence g\u00e9n\u00e9r\u00e9e par Arbor
+fr,PROPPOP_VLABEL,1.0,Proportion de remplissage
+fr,PROPTOTEVENTCOUNT_VLABEL,1.0,Proportion du nombre total d'\u00e9v\u00e9nements
+fr,RANGETOOSMALL_NOTE,1.0,L'intervalle est trop petit pour le nombre de classes sp\u00e9cifi\u00e9
+fr,REJECTTOTAL_VLABEL,1.0,Rejette le total
+fr,REJEVENTRATE_TITLE,1.0,Inf\u00e9rence des rejet\u00e9s : taux d'\u00e9v\u00e9nement
+fr,RESETNUMBUCKETS_NOTE,1.0,Le nombre de classe va \u00eatre r\u00e9initialis\u00e9 \u00e0 %#2s (au lieu de %#1s)
+fr,RESET_NOTE,1.0,La valeur de %s a \u00e9t\u00e9 r\u00e9initialis\u00e9e.
+fr,ROLE_VLABEL,1.0,R\u00f4le
+fr,SATURATED_VLABEL,1.0,Satur\u00e9
+fr,SCOREBUCKET_VLABEL,1.0,Classe de score
+fr,SCORECARD_TITLE,1.0,Scorecard
+fr,SCPTS_VLABEL,1.0,Points du scorecard
+fr,SIGN_VLABEL,1.0,Signe
+fr,SPECIALCODEVALUES_NOTE,1.0,Valeurs de script sp\u00e9cial
+fr,SUMSTATS_TITLE,1.0,Statistiques descriptives
+fr,TARGETOUTOFRANGE_ERROR,1.0,Error:  certaines des valeurs de la variable continue \u00e0 expliquer sont en dehors de l'intervalle sp\u00e9cifi\u00e9.
+fr,TEFFECTNUM_VLABEL,1.0,Nombre de TScore
+fr,TESTEVENTRATE_VLABEL,1.0,Taux d'\u00e9v\u00e9nement de donn\u00e9es de test
+fr,TRAINEVENTRATE_VLABEL,1.0,Taux d'\u00e9v\u00e9nement des donn\u00e9es d'apprentissage
+fr,TVALUE_VLABEL,1.0,T-value
+fr,TYPE_VLABEL,1.0,Type
+fr,VALIDEVENTRATE_VLABEL,1.0,Taux d'\u00e9v\u00e9nement de donn\u00e9es de validation
+fr,VALUE_VLABEL,1.0,Valeur
+fr,VARIABLE_VLABEL,1.0,Variable
+fr,WOEVAR_VLABEL,1.0,Variable de poids d'\u00e9vidence
+fr,WTAVG_VLABEL,1.0,Moyenne pond\u00e9r\u00e9e
+fr,WTEV_VLABEL,1.0,Poids d'\u00e9vidence
+it,ABSCOEFF_VLABEL,1.0,Coefficiente assoluto
+it,ABSTVALUE_VLABEL,1.0,Valore t assoluto
+it,ACCEPTEVENTCOUNT_VLABEL,1.0,Accetta conteggio degli eventi
+it,ACCEPTEVENTRATE_VLABEL,1.0,Accetta tasso di eventi
+it,ACCEPTNEVENTCOUNT_VLABEL,1.0,Accetta conteggio dei non eventi
+it,ACCEPTTOTAL_VLABEL,1.0,Accetta totale
+it,ACTUALINFERRED_VLABEL,1.0,Accettati/Inferiti
+it,ADAVGMARGPROFIT_VLABEL,1.0,Profitto marginale medio corretto
+it,ADAVGTOTALPROFIT_VLABEL,1.0,Profitto totale medio corretto
+it,ADCOUNT_VLABEL,1.0,Conteggio corretto
+it,ADCUMAPPROVALRATE_VLABEL,1.0,Tasso di approvazione cumulativo corretto
+it,ADCUMCOUNT,1.0,Conteggio cumulativo corretto
+it,ADCUMEVENTRATE_VLABEL,1.0,Tasso di eventi cumulativo corretto
+it,ADCUMNEVENTCOUNT_VLABEL,1.0,Conteggio dei non eventi cumulativo corretto
+it,ADCUMNEVENTRATE_VLABEL,1.0,Tasso di non eventi cumulativo corretto
+it,ADEMPIRICALODDS_VLABEL,1.0,Odds empirico corretto
+it,ADEVENTODDS_VLABEL,1.0,Odds dell'evento corretto
+it,ADJCUMINDETRATE_VLABEL,1.0,Tasso indeterminato cumulativo corretto
+it,ADJMARGINDETRATE_VLABEL,1.0,Tasso indeterminato marginale corretto
+it,ADLOGEVENTODDS_VLABEL,1.0,Log(Odds evento) corretto
+it,ADMAREVENTRATE_VLABEL,1.0,Tasso di eventi marginale corretto
+it,ADMARNEVENTRATE_VLABEL,1.0,Tasso di non eventi marginale corretto
+it,ADNEVENTCOUNT_VLABEL,1.0,Conteggio dei non eventi corretto
+it,ADPOPPERCENTAGE_VLABEL,1.0,Percentuale della popolazione corretta
+it,ADPROPPOP_VLABEL,1.0,Proporzione corretta della popolazione
+it,ADPROPTOTEVENTCOUNT_VLABEL,1.0,Proporzione corretta del conteggio degli eventi totale
+it,ADVERSECOUNT_VLABEL,1.0,Conteggio motivo avverso %s
+it,ADVERSE_RULE_VLABEL,1.0,Regola avversa %s
+it,ADVERSE_VALUE_VLABEL,1.0,Differenza avversa %s
+it,ADVERSE_VLABEL,1.0,Variabile avversa %s
+it,APPLYMAXBINTOTAL_VLABEL,1.0,Applica conteggio totale massimo
+it,APPLYMAXBINWIDTH_VLABEL,1.0,Applica differenza di cutoff massima
+it,APPLYMAXNUMBINS_VLABEL,1.0,Applica gruppi massimi
+it,APPLYMINBINDIFF_VLABEL,1.0,Applica differenza WOE minima
+it,APPLYMINBINTOTAL_VLABEL,1.0,Applica conteggio totale minimo
+it,APPLYMINBINWIDTH_VLABEL,1.0,Applica differenza di cutoff minima
+it,APPLYMINNUMBINS_VLABEL,1.0,Applica gruppi minimi
+it,APPLYMINNUMEVENT_VLABEL,1.0,Applica conteggio degli eventi minimo
+it,APPLYMINNUMNONEVENT_VLABEL,1.0,Applica conteggio dei non eventi minimo
+it,APPLYMONOTONICITY_VLABEL,1.0,Applica monotonicit\u00e0 WOE
+it,ARATIO_VLABEL,1.0,Tasso di accuratezza
+it,ATTEVENTRATE_TITLE,1.0,Tasso di eventi degli attributi e score medio
+it,ATTPROPBYSCORE_TITLE,1.0,Proporzione degli attributi per score
+it,AUGEVENTRATE_VLABEL,1.0,Tasso di eventi dei dati aumentati
+it,AVGMARGPROFIT_VLABEL,1.0,Profitto marginale medio
+it,AVGSCPTS_VLABEL,1.0,Scorecard point medi
+it,AVGTOTALPROFIT_VLABEL,1.0,Profitto totale medio
+it,BASELINE_VLABEL,1.0,Baseline
+it,BUCKET_VLABEL,1.0,Bucket
+it,CALCROLE_VLABEL,1.0,Ruolo calcolato
+it,CALCWOE_VLABEL,1.0,WOE calcolato
+it,CCFVAR_VLABEL,1.0,Variabile CCF
+it,CHARANALYSIS_TITLE,1.0,Analisi delle caratteristiche: %s
+it,CODESWRONGTYPE_ERROR,1.0,Error: le variabili attese nel data set dei codici non sono del tipo corretto o non esistono.
+it,COEFF_VLABEL,1.0,Coefficiente
+it,COUNT_VLABEL,1.0,Conteggio
+it,CUMAPPROVALRATE_VLABEL,1.0,Tasso di approvazione cumulativo
+it,CUMCOUNT_VLABEL,1.0,Conteggio cumulativo
+it,CUMEVENTCOUNT_VLABEL,1.0,Conteggio degli eventi cumulativo
+it,CUMEVENTRATE_TITLE,1.0,Tasso di eventi cumulativo per score
+it,CUMEVENTRATE_VLABEL,1.0,Tasso di eventi cumulativo
+it,CUMINDETCOUNT_VLABEL,1.0,Conteggio indeterminato cumulativo
+it,CUMINDETRATE_VLABEL,1.0,Tasso indeterminato cumulativo
+it,CUMNEVENTCOUNT_VLABEL,1.0,Conteggio dei non eventi cumulativo
+it,CUMNEVENTRATE_VLABEL,1.0,Tasso di non eventi cumulativo
+it,CUTOFFOUTOFRANGE_ERROR,1.0,"Error: il valore di cutoff specificato dall'utente deve essere nel range dei valori target, [%#1s,%#2s)."
+it,CUTOFFSCORE_VLABEL,1.0,Score di cutoff
+it,DATAROLE_VLABEL,1.0,Ruolo dei dati
+it,DISPVAR_VLABEL,1.0,Variabile
+it,DISPWOE_VLABEL,1.0,Nuovo WOE
+it,EFFECTNUM_VLABEL,1.0,Numero effetti
+it,EFFECT_VLABEL,1.0,Effetto
+it,EFFLABEL_VLABEL,1.0,Etichetta effetto
+it,EMCCF_VLABEL,1.0,CCF media
+it,EMEXPOSURE_VLABEL,1.0,Esposizione media
+it,EMLGD_VLABEL,1.0,LGD media
+it,EMPD_VLABEL,1.0,Probabilit\u00e0 prevista media
+it,EMPIRICALODDS_VLABEL,1.0,Odds empirico
+it,ERATE_VLABEL,1.0,Tasso di eventi
+it,EVENTCOUNT_VLABEL,1.0,Conteggio degli eventi
+it,EVENTODDS_VLABEL,1.0,Odds dell'evento
+it,EVENTRATETARGET_VLABEL,1.0,Tasso di eventi %#1s = %#2s
+it,EVENTRATE_VLABEL,1.0,Tasso di eventi
+it,EXPORTROLE_VLABEL,1.0,Ruolo esportato
+it,EXPOSUREVAR_VLABEL,1.0,Variabile di esposizione
+it,FORMAT_VLABEL,1.0,Formato
+it,FREQ_VLABEL,1.0,Frequenza
+it,GENERATEBINS_NOTE,1.0,Generazione di raggruppamenti per variabili continue
+it,GENERATEFROZENBINS_NOTE,1.0,Generazione di raggruppamenti per variabili continue in definizioni dei raggruppamenti bloccati
+it,GENERATEIMPORTBINS_NOTE,1.0,Generazione di raggruppamenti per variabili continue in definizioni dei raggruppamenti importati
+it,GINIORDER_VLABEL,1.0,Ordinamento di Gini
+it,GINI_VLABEL,1.0,Statistica di Gini
+it,GNRESPRATE_VLABEL,1.0,Tasso di non eventi del gruppo
+it,GRESPRATE_VLABEL,1.0,Tasso di eventi del gruppo
+it,GROUP_VLABEL,1.0,Gruppo
+it,GRPVAR_VLABEL,1.0,Variabile di raggruppamento
+it,GRP_VLABEL,1.0,Gruppo
+it,GVALUES_VLABEL,1.0,Valori gruppi
+it,HEADER_BUCKETLOG_TITLE,1.0,Log dei range degli score interattivi
+it,HEADER_BUCKETOUT_TITLE,1.0,Output dei range degli score interattivi
+it,HEADER_SCORECARDLOG_TITLE,1.0,Log degli scorecard point interattivi
+it,HEADER_SCORECARDOUT_TITLE,1.0,Output degli scorecard point interattivi
+it,HIGHPREDPROB_VLABEL,1.0,Soglia probabilit\u00e0 prevista alta
+it,HIGHRANGE_VLABEL,1.0,Range alto
+it,HIGHTHRESHOLD_VLABEL,1.0,Soglia di scoring alta
+it,INDETCOUNT_VLABEL,1.0,Conteggio indeterminato
+it,INDEX_VLABEL,1.0,Indice
+it,INFEVENTCOUNT_VLABEL,1.0,Conteggio eventi inferiti rifiutati
+it,INFEVENTRATE_VLABEL,1.0,Tasso di eventi inferito rifiutato
+it,INFNEVENTCOUNT_VLABEL,1.0,Conteggio non eventi inferiti rifiutati
+it,INFOVALORDER_VLABEL,1.0,Ordinamento dei valori delle informazioni
+it,INFOVAL_VLABEL,1.0,Valore delle informazioni
+it,INPUTVAR_VLABEL,1.0,Variabile di input
+it,INPUT_VLABEL,1.0,Variabile di input
+it,INTERCEPT_VLABEL,1.0,Intercetta
+it,INVALID_NOTE,1.0,Note: il valore specificato per %s non \u00e8 valido.
+it,LABEL_VLABEL,1.0,Etichetta
+it,LEVEL_VLABEL,1.0,Livello
+it,LGDVAR_VLABEL,1.0,Variabile LGD
+it,LOGEVENTODDS_VLABEL,1.0,Log(Odds evento)
+it,LOWPREDPROB_VLABEL,1.0,Soglia probabilit\u00e0 prevista bassa
+it,LOWRANGE_VLABEL,1.0,Range basso
+it,LOWTHRESHOLD_VLABEL,1.0,Soglia di scoring bassa
+it,MANUALWOE_VLABEL,1.0,WOE manuale
+it,MAPPINGSPECIALVALUES_NOTE,1.0,Mappatura di valori codificati speciali
+it,MAREVENTRATE_VLABEL,1.0,Tasso di eventi marginale
+it,MARGINDETRATE_VLABEL,1.0,Tasso indeterminato marginale
+it,MARNEVENTRATE_VLABEL,1.0,Tasso di non eventi marginale
+it,MAXBINTOTAL_VLABEL,1.0,Conteggio totale massimo
+it,MAXBINWIDTH_VLABEL,1.0,Differenza di cutoff massima
+it,MAXNUMBINS_VLABEL,1.0,Numero massimo di gruppi
+it,MIDPOINT_VLABEL,1.0,Punto medio
+it,MINBINDIFF_VLABEL,1.0,Differenza WOE minima
+it,MINBINTOTAL_VLABEL,1.0,Conteggio totale minimo
+it,MINBINWIDTH_VLABEL,1.0,Differenza di cutoff minima
+it,MINNUMBINS_VLABEL,1.0,Numero minimo di gruppi
+it,MINNUMEVENT_VLABEL,1.0,Conteggio minimo di eventi
+it,MINNUMNONEVENT_VLABEL,1.0,Conteggio minimo di non eventi
+it,MISSING_VLABEL,1.0,Mancante
+it,NAME_VLABEL,1.0,Nome
+it,NEUTRAL_VLABEL,1.0,Score neutro
+it,NEVENTCOUNT_VLABEL,1.0,Conteggio dei non eventi
+it,NEWGINI_VLABEL,1.0,Nuovo Gini
+it,NEWINFOVAL_VLABEL,1.0,Nuovo valore delle informazioni
+it,NEWROLE_VLABEL,1.0,Nuovo ruolo
+it,NOCODESDATA_ERROR,1.0,Error: specificare un data set dei codici se Usa codici speciali \u00e8 impostato a S\u00ec.
+it,NOFINEDETAIL_ERROR,1.0,Error: non esiste alcun data set finedetail. Si deve eseguire il nodo prima di impostare Freeze=Y per creare i valori iniziali.
+it,NONBINTARGETTRANS_ERROR,1.0,Error: \u00e8 stato creato un target non binario dal target continuo. Cambiare una propriet\u00e0 Opzioni per target continui.
+it,NONEVENTRATE_VLABEL,1.0,Tasso di non eventi
+it,NORMVALUE_VLABEL,1.0,Valore normalizzato
+it,ORIGGINI_VLABEL,1.0,Gini originale
+it,ORIGINFOVAL_VLABEL,1.0,Valore delle informazioni originale
+it,PARCELING_ERROR,1.0,ERROR: impossibile eseguire il parceling. Provare ad aumentare il valore per la propriet\u00e0 Aumento del tasso di eventi.
+it,PERCENTEVENTCOUNT_VLABEL,1.0,Conteggio degli eventi percentuale
+it,PERCENTSAMPLE_VLABEL,1.0,Campione percentuale
+it,PERCENT_VLABEL,1.0,Percentuale
+it,POPPERCENTAGE_VLABEL,1.0,Percentuale della popolazione
+it,POSTERIORVAR_VLABEL,1.0,Variabile a posteriori
+it,PPERCENT_VLABEL,1.0,Percentuale della popolazione
+it,PREDEFINED_VLABEL,1.0,Raggruppamento gi\u00e0 definito
+it,PREDICTEDODDS_VLABEL,1.0,Odds previsto
+it,PROCGRPVAR_VLABEL,1.0,Var raggruppamento generata da Arbor
+it,PROCLEVEL_VLABEL,1.0,Livello per interattivo
+it,PROCVAR_VLABEL,1.0,Input utilizzato da Arbor
+it,PROCWOEVAR_VLABEL,1.0,Var WOE generata da Arbor
+it,PROPPOP_VLABEL,1.0,Proporzione della popolazione
+it,PROPTOTEVENTCOUNT_VLABEL,1.0,Proporzione del conteggio degli eventi totale
+it,RANGETOOSMALL_NOTE,1.0,Range troppo piccolo per il numero di bucket specificato
+it,REJECTTOTAL_VLABEL,1.0,Rifiuta totale
+it,REJEVENTRATE_TITLE,1.0,Reject Inference: tassi di eventi
+it,RESETNUMBUCKETS_NOTE,1.0,Il numero di bucket sar\u00e0 reimpostato da %#1s a %#2s
+it,RESET_NOTE,1.0,Il valore per %s \u00e8 stato reimpostato al valore predefinito.
+it,ROLE_VLABEL,1.0,Ruolo
+it,SATURATED_VLABEL,1.0,Saturato
+it,SCOREBUCKET_VLABEL,1.0,Score Bucket
+it,SCORECARD_TITLE,1.0,Scorecard
+it,SCPTS_VLABEL,1.0,Scorecard point
+it,SIGN_VLABEL,1.0,Segno
+it,SPECIALCODEVALUES_NOTE,1.0,Valori di codice speciali
+it,SUMSTATS_TITLE,1.0,Statistiche di riepilogo
+it,TARGETOUTOFRANGE_ERROR,1.0,Error: sono presenti valori del target continuo che sono esterni al range specificato.
+it,TEFFECTNUM_VLABEL,1.0,Numero TScore
+it,TESTEVENTRATE_VLABEL,1.0,Tasso di eventi dei dati di test
+it,TRAINEVENTRATE_VLABEL,1.0,Tasso di eventi dei dati di training
+it,TVALUE_VLABEL,1.0,Valore t
+it,TYPE_VLABEL,1.0,Tipo
+it,VALIDEVENTRATE_VLABEL,1.0,Tasso di eventi dei dati di validazione
+it,VALUE_VLABEL,1.0,Valore
+it,VARIABLE_VLABEL,1.0,Variabile
+it,WOEVAR_VLABEL,1.0,Variabile WOE
+it,WTAVG_VLABEL,1.0,Media pesata
+it,WTEV_VLABEL,1.0,Peso di evidenza
+ja,ABSCOEFF_VLABEL,1.0,\u7d76\u5bfe\u4fc2\u6570
+ja,ABSTVALUE_VLABEL,1.0,\u7d76\u5bfe T \u5024
+ja,ACCEPTEVENTCOUNT_VLABEL,1.0,\u627f\u8a8d\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,ACCEPTEVENTRATE_VLABEL,1.0,\u627f\u8a8d\u30a4\u30d9\u30f3\u30c8\u7387
+ja,ACCEPTNEVENTCOUNT_VLABEL,1.0,\u627f\u8a8d\u975e\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,ACCEPTTOTAL_VLABEL,1.0,\u627f\u8a8d\u5408\u8a08
+ja,ACTUALINFERRED_VLABEL,1.0,\u627f\u8a8d / \u63a8\u5b9a
+ja,ADAVGMARGPROFIT_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u5e73\u5747\u9650\u754c\u5229\u76ca
+ja,ADAVGTOTALPROFIT_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u5e73\u5747\u5408\u8a08\u5229\u76ca
+ja,ADCOUNT_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u5ea6\u6570
+ja,ADCUMAPPROVALRATE_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u7d2f\u7a4d\u627f\u8a8d\u7387
+ja,ADCUMCOUNT,1.0,\u8abf\u6574\u6e08\u307f\u7d2f\u7a4d\u5ea6\u6570
+ja,ADCUMEVENTRATE_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u7d2f\u7a4d\u30a4\u30d9\u30f3\u30c8\u7387
+ja,ADCUMNEVENTCOUNT_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u7d2f\u7a4d\u975e\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,ADCUMNEVENTRATE_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u7d2f\u7a4d\u975e\u30a4\u30d9\u30f3\u30c8\u7387
+ja,ADEMPIRICALODDS_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u7d4c\u9a13\u30aa\u30c3\u30ba
+ja,ADEVENTODDS_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u306e\u8abf\u6574\u6e08\u307f\u30aa\u30c3\u30ba
+ja,ADJCUMINDETRATE_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u7d2f\u7a4d\u4e0d\u5b9a\u7387
+ja,ADJMARGINDETRATE_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u9650\u754c\u4e0d\u5b9a\u7387
+ja,ADLOGEVENTODDS_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u306e\u8abf\u6574\u6e08\u307f\u5bfe\u6570\u30aa\u30c3\u30ba
+ja,ADMAREVENTRATE_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u9650\u754c\u30a4\u30d9\u30f3\u30c8\u7387
+ja,ADMARNEVENTRATE_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u9650\u754c\u975e\u30a4\u30d9\u30f3\u30c8\u7387
+ja,ADNEVENTCOUNT_VLABEL,1.0,\u8abf\u6574\u6e08\u307f\u975e\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,ADPOPPERCENTAGE_VLABEL,1.0,\u6bcd\u96c6\u56e3\u306e\u8abf\u6574\u6e08\u307f\u30d1\u30fc\u30bb\u30f3\u30c8
+ja,ADPROPPOP_VLABEL,1.0,\u6bcd\u96c6\u56e3\u306e\u8abf\u6574\u6e08\u307f\u6bd4\u7387
+ja,ADPROPTOTEVENTCOUNT_VLABEL,1.0,\u5408\u8a08\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570\u306e\u8abf\u6574\u6e08\u307f\u6bd4\u7387
+ja,ADVERSECOUNT_VLABEL,1.0,\u9006\u7406\u7531 %s \u5ea6\u6570
+ja,ADVERSE_RULE_VLABEL,1.0,\u9006\u30eb\u30fc\u30eb %s
+ja,ADVERSE_VALUE_VLABEL,1.0,\u9006\u5dee\u5206 %s
+ja,ADVERSE_VLABEL,1.0,\u9006\u5909\u6570 %s
+ja,APPLYMAXBINTOTAL_VLABEL,1.0,\u6700\u5927\u7dcf\u6570\u306e\u9069\u7528
+ja,APPLYMAXBINWIDTH_VLABEL,1.0,\u6700\u5927\u30ab\u30c3\u30c8\u30aa\u30d5\u5dee\u5206\u306e\u9069\u7528
+ja,APPLYMAXNUMBINS_VLABEL,1.0,\u6700\u5927\u30b0\u30eb\u30fc\u30d7\u306e\u9069\u7528
+ja,APPLYMINBINDIFF_VLABEL,1.0,\u6700\u5c0f WOE \u5dee\u5206\u306e\u9069\u7528
+ja,APPLYMINBINTOTAL_VLABEL,1.0,\u6700\u5c0f\u7dcf\u6570\u306e\u9069\u7528
+ja,APPLYMINBINWIDTH_VLABEL,1.0,\u6700\u5c0f\u30ab\u30c3\u30c8\u30aa\u30d5\u5dee\u5206\u306e\u9069\u7528
+ja,APPLYMINNUMBINS_VLABEL,1.0,\u6700\u5c0f\u30b0\u30eb\u30fc\u30d7\u306e\u9069\u7528
+ja,APPLYMINNUMEVENT_VLABEL,1.0,\u6700\u5c0f\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570\u306e\u9069\u7528
+ja,APPLYMINNUMNONEVENT_VLABEL,1.0,\u6700\u5c0f\u975e\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570\u306e\u9069\u7528
+ja,APPLYMONOTONICITY_VLABEL,1.0,WOE \u5358\u8abf\u6027\u306e\u9069\u7528
+ja,ARATIO_VLABEL,1.0,AR \u5024
+ja,ATTEVENTRATE_TITLE,1.0,\u5c5e\u6027\u306e\u30a4\u30d9\u30f3\u30c8\u7387\u3068\u5e73\u5747\u30b9\u30b3\u30a2
+ja,ATTPROPBYSCORE_TITLE,1.0,\u5c5e\u6027\u306e\u30b9\u30b3\u30a2\u5225\u306e\u6bd4\u7387
+ja,AUGEVENTRATE_VLABEL,1.0,\u62e1\u5927\u30c7\u30fc\u30bf\u30a4\u30d9\u30f3\u30c8\u7387
+ja,AVGMARGPROFIT_VLABEL,1.0,\u5e73\u5747\u9650\u754c\u5229\u76ca
+ja,AVGSCPTS_VLABEL,1.0,\u5e73\u5747\u30b9\u30b3\u30a2\u30ab\u30fc\u30c9\u30dd\u30a4\u30f3\u30c8
+ja,AVGTOTALPROFIT_VLABEL,1.0,\u5e73\u5747\u5408\u8a08\u5229\u76ca
+ja,BASELINE_VLABEL,1.0,\u30d9\u30fc\u30b9\u30e9\u30a4\u30f3
+ja,BUCKET_VLABEL,1.0,\u30d0\u30b1\u30c3\u30c8
+ja,CALCROLE_VLABEL,1.0,\u8a08\u7b97\u3055\u308c\u305f\u5f79\u5272
+ja,CALCWOE_VLABEL,1.0,\u8a08\u7b97\u3055\u308c\u305f WOE
+ja,CCFVAR_VLABEL,1.0,CCF \u5909\u6570
+ja,CHARANALYSIS_TITLE,1.0,\u7279\u6027\u5206\u6790: %s
+ja,CODESWRONGTYPE_ERROR,1.0,Error:  Codes \u30c7\u30fc\u30bf\u30bb\u30c3\u30c8\u306b\u5fc5\u8981\u306a\u5909\u6570\u304c\u5b58\u5728\u3057\u306a\u3044\u304b\u3001\u9069\u5207\u306a\u7a2e\u985e\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002
+ja,COEFF_VLABEL,1.0,\u4fc2\u6570
+ja,COUNT_VLABEL,1.0,\u5ea6\u6570
+ja,CUMAPPROVALRATE_VLABEL,1.0,\u7d2f\u7a4d\u627f\u8a8d\u7387
+ja,CUMCOUNT_VLABEL,1.0,\u7d2f\u7a4d\u5ea6\u6570
+ja,CUMEVENTCOUNT_VLABEL,1.0,\u7d2f\u7a4d\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,CUMEVENTRATE_TITLE,1.0,\u30b9\u30b3\u30a2\u5225\u306e\u7d2f\u7a4d\u30a4\u30d9\u30f3\u30c8\u7387
+ja,CUMEVENTRATE_VLABEL,1.0,\u7d2f\u7a4d\u30a4\u30d9\u30f3\u30c8\u7387
+ja,CUMINDETCOUNT_VLABEL,1.0,\u7d2f\u7a4d\u4e0d\u5b9a\u5ea6\u6570
+ja,CUMINDETRATE_VLABEL,1.0,\u7d2f\u7a4d\u4e0d\u5b9a\u7387
+ja,CUMNEVENTCOUNT_VLABEL,1.0,\u7d2f\u7a4d\u975e\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,CUMNEVENTRATE_VLABEL,1.0,\u7d2f\u7a4d\u975e\u30a4\u30d9\u30f3\u30c8\u7387
+ja,CUTOFFOUTOFRANGE_ERROR,1.0,"Error:  \u30e6\u30fc\u30b6\u30fc\u6307\u5b9a\u306e\u30ab\u30c3\u30c8\u30aa\u30d5\u5024\u306f\u30bf\u30fc\u30b2\u30c3\u30c8\u5024\u306e\u7bc4\u56f2 [%#1s,%#2s) \u5185\u306e\u5024\u3067\u3042\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002"
+ja,CUTOFFSCORE_VLABEL,1.0,\u30ab\u30c3\u30c8\u30aa\u30d5\u30b9\u30b3\u30a2
+ja,DATAROLE_VLABEL,1.0,\u30c7\u30fc\u30bf\u306e\u5f79\u5272
+ja,DISPVAR_VLABEL,1.0,\u5909\u6570
+ja,DISPWOE_VLABEL,1.0,\u65b0\u3057\u3044 WOE
+ja,EFFECTNUM_VLABEL,1.0,\u52b9\u679c\u756a\u53f7
+ja,EFFECT_VLABEL,1.0,\u52b9\u679c
+ja,EFFLABEL_VLABEL,1.0,\u52b9\u679c\u306e\u30e9\u30d9\u30eb
+ja,EMCCF_VLABEL,1.0,\u5e73\u5747 CCF
+ja,EMEXPOSURE_VLABEL,1.0,\u5e73\u5747\u30a8\u30af\u30b9\u30dd\u30fc\u30b8\u30e3
+ja,EMLGD_VLABEL,1.0,\u5e73\u5747 LGD
+ja,EMPD_VLABEL,1.0,\u5e73\u5747\u4e88\u6e2c\u78ba\u7387
+ja,EMPIRICALODDS_VLABEL,1.0,\u7d4c\u9a13\u30aa\u30c3\u30ba
+ja,ERATE_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u7387
+ja,EVENTCOUNT_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,EVENTODDS_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u306e\u30aa\u30c3\u30ba
+ja,EVENTRATETARGET_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u7387 %#1s = %#2s
+ja,EVENTRATE_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u7387
+ja,EXPORTROLE_VLABEL,1.0,\u30a8\u30af\u30b9\u30dd\u30fc\u30c8\u3055\u308c\u308b\u5f79\u5272
+ja,EXPOSUREVAR_VLABEL,1.0,\u30a8\u30af\u30b9\u30dd\u30fc\u30b8\u30e3\u5909\u6570
+ja,FORMAT_VLABEL,1.0,\u51fa\u529b\u5f62\u5f0f
+ja,FREQ_VLABEL,1.0,\u5ea6\u6570
+ja,GENERATEBINS_NOTE,1.0,\u9593\u9694\u5909\u6570\u306e\u30d3\u30f3\u3092\u751f\u6210\u4e2d
+ja,GENERATEFROZENBINS_NOTE,1.0,\u56fa\u5b9a\u306e\u30b0\u30eb\u30fc\u30d4\u30f3\u30b0\u5b9a\u7fa9\u306b\u5b9a\u7fa9\u3055\u308c\u305f\u9593\u9694\u5909\u6570\u306e\u30d3\u30f3\u3092\u751f\u6210\u4e2d
+ja,GENERATEIMPORTBINS_NOTE,1.0,\u30a4\u30f3\u30dd\u30fc\u30c8\u3055\u308c\u305f\u30b0\u30eb\u30fc\u30d4\u30f3\u30b0\u5b9a\u7fa9\u306b\u5b9a\u7fa9\u3055\u308c\u3066\u3044\u308b\u9593\u9694\u5909\u6570\u306e\u30d3\u30f3\u3092\u751f\u6210\u4e2d
+ja,GINIORDER_VLABEL,1.0,Gini \u306e\u9806\u5e8f
+ja,GINI_VLABEL,1.0,Gini \u7d71\u8a08\u91cf
+ja,GNRESPRATE_VLABEL,1.0,\u30b0\u30eb\u30fc\u30d7\u975e\u30a4\u30d9\u30f3\u30c8\u7387
+ja,GRESPRATE_VLABEL,1.0,\u30b0\u30eb\u30fc\u30d7\u30a4\u30d9\u30f3\u30c8\u7387
+ja,GROUP_VLABEL,1.0,\u30b0\u30eb\u30fc\u30d7
+ja,GRPVAR_VLABEL,1.0,\u30b0\u30eb\u30fc\u30d7\u5909\u6570
+ja,GRP_VLABEL,1.0,\u30b0\u30eb\u30fc\u30d7
+ja,GVALUES_VLABEL,1.0,\u30b0\u30eb\u30fc\u30d7\u5024
+ja,HEADER_BUCKETLOG_TITLE,1.0,\u5bfe\u8a71\u578b\u306e\u30b9\u30b3\u30a2\u7bc4\u56f2\u30ed\u30b0
+ja,HEADER_BUCKETOUT_TITLE,1.0,\u5bfe\u8a71\u578b\u306e\u30b9\u30b3\u30a2\u7bc4\u56f2\u51fa\u529b
+ja,HEADER_SCORECARDLOG_TITLE,1.0,\u5bfe\u8a71\u578b\u306e\u30b9\u30b3\u30a2\u30ab\u30fc\u30c9\u30dd\u30a4\u30f3\u30c8\u30ed\u30b0
+ja,HEADER_SCORECARDOUT_TITLE,1.0,\u5bfe\u8a71\u578b\u306e\u30b9\u30b3\u30a2\u30ab\u30fc\u30c9\u30dd\u30a4\u30f3\u30c8\u51fa\u529b
+ja,HIGHPREDPROB_VLABEL,1.0,\u4e88\u6e2c\u78ba\u7387\u306e\u4e0a\u9650\u3044\u304d\u5024
+ja,HIGHRANGE_VLABEL,1.0,\u4e0a\u9650\u7bc4\u56f2
+ja,HIGHTHRESHOLD_VLABEL,1.0,\u30b9\u30b3\u30a2\u306e\u4e0a\u9650\u3044\u304d\u5024
+ja,INDETCOUNT_VLABEL,1.0,\u4e0d\u5b9a\u5ea6\u6570
+ja,INDEX_VLABEL,1.0,\u30a4\u30f3\u30c7\u30c3\u30af\u30b9
+ja,INFEVENTCOUNT_VLABEL,1.0,\u30ea\u30b8\u30a7\u30af\u30c8\u63a8\u5b9a\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,INFEVENTRATE_VLABEL,1.0,\u30ea\u30b8\u30a7\u30af\u30c8\u63a8\u5b9a\u30a4\u30d9\u30f3\u30c8\u7387
+ja,INFNEVENTCOUNT_VLABEL,1.0,\u30ea\u30b8\u30a7\u30af\u30c8\u63a8\u5b9a\u975e\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,INFOVALORDER_VLABEL,1.0,\u60c5\u5831\u5024\u306e\u9806\u5e8f
+ja,INFOVAL_VLABEL,1.0,\u60c5\u5831\u5024
+ja,INPUTVAR_VLABEL,1.0,\u5165\u529b\u5909\u6570
+ja,INPUT_VLABEL,1.0,\u5165\u529b\u5909\u6570
+ja,INTERCEPT_VLABEL,1.0,\u5207\u7247
+ja,INVALID_NOTE,1.0,Note: %s \u306b\u6307\u5b9a\u3057\u305f\u5024\u306f\u7121\u52b9\u3067\u3059\u3002
+ja,LABEL_VLABEL,1.0,\u30e9\u30d9\u30eb
+ja,LEVEL_VLABEL,1.0,\u6c34\u6e96
+ja,LGDVAR_VLABEL,1.0,LGD \u5909\u6570
+ja,LOGEVENTODDS_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u306e\u5bfe\u6570\u30aa\u30c3\u30ba
+ja,LOWPREDPROB_VLABEL,1.0,\u4e88\u6e2c\u78ba\u7387\u306e\u4e0b\u9650\u3044\u304d\u5024
+ja,LOWRANGE_VLABEL,1.0,\u4e0b\u9650\u7bc4\u56f2
+ja,LOWTHRESHOLD_VLABEL,1.0,\u30b9\u30b3\u30a2\u306e\u4e0b\u9650\u3044\u304d\u5024
+ja,MANUALWOE_VLABEL,1.0,\u624b\u52d5\u3067\u306e WOE
+ja,MAPPINGSPECIALVALUES_NOTE,1.0,\u7279\u6b8a\u30b3\u30fc\u30c9\u5024\u306e\u30de\u30c3\u30d4\u30f3\u30b0
+ja,MAREVENTRATE_VLABEL,1.0,\u9650\u754c\u30a4\u30d9\u30f3\u30c8\u7387
+ja,MARGINDETRATE_VLABEL,1.0,\u9650\u754c\u4e0d\u5b9a\u7387
+ja,MARNEVENTRATE_VLABEL,1.0,\u9650\u754c\u975e\u30a4\u30d9\u30f3\u30c8\u7387
+ja,MAXBINTOTAL_VLABEL,1.0,\u6700\u5927\u7dcf\u6570
+ja,MAXBINWIDTH_VLABEL,1.0,\u6700\u5927\u30ab\u30c3\u30c8\u30aa\u30d5\u5dee\u5206
+ja,MAXNUMBINS_VLABEL,1.0,\u6700\u5927\u30b0\u30eb\u30fc\u30d7\u6570
+ja,MIDPOINT_VLABEL,1.0,\u4e2d\u9593\u70b9
+ja,MINBINDIFF_VLABEL,1.0,\u6700\u5c0f WOE \u5dee\u5206
+ja,MINBINTOTAL_VLABEL,1.0,\u6700\u5c0f\u7dcf\u6570
+ja,MINBINWIDTH_VLABEL,1.0,\u6700\u5c0f\u30ab\u30c3\u30c8\u30aa\u30d5\u5dee\u5206
+ja,MINNUMBINS_VLABEL,1.0,\u6700\u5c0f\u30b0\u30eb\u30fc\u30d7\u6570
+ja,MINNUMEVENT_VLABEL,1.0,\u6700\u5c0f\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,MINNUMNONEVENT_VLABEL,1.0,\u6700\u5c0f\u975e\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,MISSING_VLABEL,1.0,\u6b20\u640d
+ja,NAME_VLABEL,1.0,\u540d\u524d
+ja,NEUTRAL_VLABEL,1.0,\u30cb\u30e5\u30fc\u30c8\u30e9\u30eb\u30b9\u30b3\u30a2
+ja,NEVENTCOUNT_VLABEL,1.0,\u975e\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,NEWGINI_VLABEL,1.0,\u65b0\u3057\u3044 Gini
+ja,NEWINFOVAL_VLABEL,1.0,\u65b0\u3057\u3044\u60c5\u5831\u5024
+ja,NEWROLE_VLABEL,1.0,\u65b0\u3057\u3044\u5f79\u5272
+ja,NOCODESDATA_ERROR,1.0,Error:  \u7279\u6b8a\u30b3\u30fc\u30c9\u306e\u4f7f\u7528\u3092\u306f\u3044\u306b\u8a2d\u5b9a\u3055\u308c\u3066\u3044\u308b\u5834\u5408\u3001Codes \u30c7\u30fc\u30bf\u30bb\u30c3\u30c8\u3092\u6307\u5b9a\u3057\u3066\u304f\u3060\u3055\u3044\u3002
+ja,NOFINEDETAIL_ERROR,1.0,Error:  \u8a73\u7d30\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8\u304c\u5b58\u5728\u3057\u307e\u305b\u3093\u3002\u30ce\u30fc\u30c9\u3092\u5b9f\u884c\u3057\u3066\u304b\u3089\u3001Freeze=Y \u3092\u8a2d\u5b9a\u3057\u3066\u521d\u671f\u5024\u3092\u4f5c\u6210\u3057\u3066\u304f\u3060\u3055\u3044\u3002
+ja,NONBINTARGETTRANS_ERROR,1.0,Error:  \u9593\u9694\u5c3a\u5ea6\u306e\u30bf\u30fc\u30b2\u30c3\u30c8\u5909\u6570\u304b\u3089\u4e8c\u5024\u3067\u306a\u3044\u30bf\u30fc\u30b2\u30c3\u30c8\u5909\u6570\u304c\u4f5c\u6210\u3055\u308c\u307e\u3057\u305f\u3002\u9593\u9694\u5c3a\u5ea6\u306e\u30bf\u30fc\u30b2\u30c3\u30c8\u5909\u6570\u30aa\u30d7\u30b7\u30e7\u30f3\u30d7\u30ed\u30d1\u30c6\u30a3\u3092\u5909\u66f4\u3057\u3066\u304f\u3060\u3055\u3044\u3002
+ja,NONEVENTRATE_VLABEL,1.0,\u975e\u30a4\u30d9\u30f3\u30c8\u7387
+ja,NORMVALUE_VLABEL,1.0,\u6b63\u898f\u5316\u3055\u308c\u305f\u5024
+ja,ORIGGINI_VLABEL,1.0,\u30aa\u30ea\u30b8\u30ca\u30eb Gini
+ja,ORIGINFOVAL_VLABEL,1.0,\u30aa\u30ea\u30b8\u30ca\u30eb\u60c5\u5831\u5024
+ja,PARCELING_ERROR,1.0,ERROR: \u30d1\u30fc\u30bb\u30ea\u30f3\u30b0\u306f\u5b9f\u884c\u3067\u304d\u307e\u305b\u3093\u3067\u3057\u305f\u3002[\u30a4\u30d9\u30f3\u30c8\u7387\u306e\u5897\u52a0] \u30d7\u30ed\u30d1\u30c6\u30a3\u306e\u5024\u3092\u5897\u52a0\u3057\u3066\u304f\u3060\u3055\u3044\u3002
+ja,PERCENTEVENTCOUNT_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570\u7387
+ja,PERCENTSAMPLE_VLABEL,1.0,\u30b5\u30f3\u30d7\u30eb\u7387
+ja,PERCENT_VLABEL,1.0,\u30d1\u30fc\u30bb\u30f3\u30c8
+ja,POPPERCENTAGE_VLABEL,1.0,\u6bcd\u96c6\u56e3\u306e\u30d1\u30fc\u30bb\u30f3\u30c8
+ja,POSTERIORVAR_VLABEL,1.0,\u4e8b\u5f8c\u5909\u6570
+ja,PPERCENT_VLABEL,1.0,\u6bcd\u96c6\u56e3\u306e\u30d1\u30fc\u30bb\u30f3\u30c8
+ja,PREDEFINED_VLABEL,1.0,\u4e8b\u524d\u5b9a\u7fa9\u3055\u308c\u305f\u30b0\u30eb\u30fc\u30d4\u30f3\u30b0
+ja,PREDICTEDODDS_VLABEL,1.0,\u4e88\u6e2c\u30aa\u30c3\u30ba
+ja,PROCGRPVAR_VLABEL,1.0,Arbor \u751f\u6210\u306e\u30b0\u30eb\u30fc\u30d7\u5909\u6570
+ja,PROCLEVEL_VLABEL,1.0,\u5bfe\u8a71\u578b\u306e\u6c34\u6e96
+ja,PROCVAR_VLABEL,1.0,Arbor \u306e\u5165\u529b\u5909\u6570
+ja,PROCWOEVAR_VLABEL,1.0,Arbor \u751f\u6210\u306e WOE \u5909\u6570
+ja,PROPPOP_VLABEL,1.0,\u6bcd\u96c6\u56e3\u306e\u6bd4\u7387
+ja,PROPTOTEVENTCOUNT_VLABEL,1.0,\u5408\u8a08\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570\u306e\u6bd4\u7387
+ja,RANGETOOSMALL_NOTE,1.0,\u6307\u5b9a\u3057\u305f\u30d0\u30b1\u30c3\u30c8\u6570\u306b\u5bfe\u3057\u3066\u3001\u7bc4\u56f2\u304c\u72ed\u3059\u304e\u307e\u3059
+ja,REJECTTOTAL_VLABEL,1.0,\u30ea\u30b8\u30a7\u30af\u30c8\u5408\u8a08
+ja,REJEVENTRATE_TITLE,1.0,\u30ea\u30b8\u30a7\u30af\u30c8\u30a4\u30f3\u30d5\u30a1\u30ec\u30f3\u30b9: \u30a4\u30d9\u30f3\u30c8\u7387
+ja,RESETNUMBUCKETS_NOTE,1.0,\u30d0\u30b1\u30c3\u30c8\u6570\u306f %#1s \u304b\u3089 %#2s \u306b\u30ea\u30bb\u30c3\u30c8\u3055\u308c\u307e\u3059
+ja,RESET_NOTE,1.0,%s \u306e\u5024\u306f\u30c7\u30d5\u30a9\u30eb\u30c8\u5024\u306b\u30ea\u30bb\u30c3\u30c8\u3055\u308c\u307e\u3059\u3002
+ja,ROLE_VLABEL,1.0,\u5f79\u5272
+ja,SATURATED_VLABEL,1.0,\u98fd\u548c
+ja,SCOREBUCKET_VLABEL,1.0,\u30b9\u30b3\u30a2\u30d0\u30b1\u30c3\u30c8
+ja,SCORECARD_TITLE,1.0,\u30b9\u30b3\u30a2\u30ab\u30fc\u30c9
+ja,SCPTS_VLABEL,1.0,\u30b9\u30b3\u30a2\u30ab\u30fc\u30c9\u30dd\u30a4\u30f3\u30c8
+ja,SIGN_VLABEL,1.0,\u7b26\u53f7
+ja,SPECIALCODEVALUES_NOTE,1.0,\u7279\u6b8a\u30b3\u30fc\u30c9\u5024
+ja,SUMSTATS_TITLE,1.0,\u8981\u7d04\u7d71\u8a08\u91cf
+ja,TARGETOUTOFRANGE_ERROR,1.0,Error:  \u6307\u5b9a\u7bc4\u56f2\u5916\u306b\u9593\u9694\u5c3a\u5ea6\u306e\u30bf\u30fc\u30b2\u30c3\u30c8\u5909\u6570\u306e\u5024\u304c\u3042\u308a\u307e\u3059\u3002
+ja,TEFFECTNUM_VLABEL,1.0,Tscore \u306e\u756a\u53f7
+ja,TESTEVENTRATE_VLABEL,1.0,\u30c6\u30b9\u30c8\u30c7\u30fc\u30bf\u30d9\u30f3\u30c8\u7387
+ja,TRAINEVENTRATE_VLABEL,1.0,\u5b66\u7fd2\u30c7\u30fc\u30bf\u30a4\u30d9\u30f3\u30c8\u7387
+ja,TVALUE_VLABEL,1.0,T \u5024
+ja,TYPE_VLABEL,1.0,\u7a2e\u985e
+ja,VALIDEVENTRATE_VLABEL,1.0,\u691c\u8a3c\u30c7\u30fc\u30bf\u30a4\u30d9\u30f3\u30c8\u7387
+ja,VALUE_VLABEL,1.0,\u5024
+ja,VARIABLE_VLABEL,1.0,\u5909\u6570
+ja,WOEVAR_VLABEL,1.0,WOE \u5909\u6570
+ja,WTAVG_VLABEL,1.0,\u52a0\u91cd\u5e73\u5747
+ja,WTEV_VLABEL,1.0,\u6839\u62e0\u306e\u91cd\u307f (WOE)
+ko,ABSCOEFF_VLABEL,1.0,\uc808\ub300 \uacc4\uc218
+ko,ABSTVALUE_VLABEL,1.0,\uc808\ub300 T \uac12
+ko,ACCEPTEVENTCOUNT_VLABEL,1.0,\uc2b9\uc778 \uc774\ubca4\ud2b8 \uc218
+ko,ACCEPTEVENTRATE_VLABEL,1.0,\uc2b9\uc778 \uc774\ubca4\ud2b8 \ube44\uc728
+ko,ACCEPTNEVENTCOUNT_VLABEL,1.0,\uc2b9\uc778 \ube44\uc774\ubca4\ud2b8 \uc218
+ko,ACCEPTTOTAL_VLABEL,1.0,\uc2b9\uc778 \ucd1d \ud569\uacc4
+ko,ACTUALINFERRED_VLABEL,1.0,\uc2b9\uc778 / \ucd94\ub860
+ko,ADAVGMARGPROFIT_VLABEL,1.0,\ubcf4\uc815 \ud3c9\uade0 \uc8fc\ubcc0 \uc774\uc775
+ko,ADAVGTOTALPROFIT_VLABEL,1.0,\ubcf4\uc815 \ud3c9\uade0 \ucd1d \uc774\uc775
+ko,ADCOUNT_VLABEL,1.0,\ubcf4\uc815 \uc218
+ko,ADCUMAPPROVALRATE_VLABEL,1.0,\ubcf4\uc815 \ub204\uc801 \uc2b9\uc778 \ube44\uc728
+ko,ADCUMCOUNT,1.0,\ubcf4\uc815 \ub204\uc801 \uc218
+ko,ADCUMEVENTRATE_VLABEL,1.0,\ubcf4\uc815 \ub204\uc801 \uc774\ubca4\ud2b8 \ube44\uc728
+ko,ADCUMNEVENTCOUNT_VLABEL,1.0,\ubcf4\uc815 \ub204\uc801 \ube44\uc774\ubca4\ud2b8 \uc218
+ko,ADCUMNEVENTRATE_VLABEL,1.0,\ubcf4\uc815 \ub204\uc801 \ube44\uc774\ubca4\ud2b8 \ube44\uc728
+ko,ADEMPIRICALODDS_VLABEL,1.0,\ubcf4\uc815 \uacbd\ud5d8\uc801 \uc624\uc988
+ko,ADEVENTODDS_VLABEL,1.0,\ubcf4\uc815 \uc774\ubca4\ud2b8 \uc624\uc988
+ko,ADJCUMINDETRATE_VLABEL,1.0,\ubcf4\uc815 \ub204\uc801 \ubd88\ud655\uc815 \ube44\uc728
+ko,ADJMARGINDETRATE_VLABEL,1.0,\ubcf4\uc815 \uc8fc\ubcc0 \ubd88\ud655\uc815 \ube44\uc728
+ko,ADLOGEVENTODDS_VLABEL,1.0,\ubcf4\uc815 \ub85c\uadf8(\uc774\ubca4\ud2b8 \uc624\uc988)
+ko,ADMAREVENTRATE_VLABEL,1.0,\ubcf4\uc815 \uc8fc\ubcc0 \uc774\ubca4\ud2b8 \ube44\uc728
+ko,ADMARNEVENTRATE_VLABEL,1.0,\ubcf4\uc815 \uc8fc\ubcc0 \ube44\uc774\ubca4\ud2b8 \ube44\uc728
+ko,ADNEVENTCOUNT_VLABEL,1.0,\ubcf4\uc815 \ube44\uc774\ubca4\ud2b8 \uc218
+ko,ADPOPPERCENTAGE_VLABEL,1.0,\ubcf4\uc815 \ubaa8\uc9d1\ub2e8 \ubc31\ubd84\uc728
+ko,ADPROPPOP_VLABEL,1.0,\ubaa8\uc9d1\ub2e8 \ubcf4\uc815 \ube44\uc728
+ko,ADPROPTOTEVENTCOUNT_VLABEL,1.0,\ucd1d \uc774\ubca4\ud2b8 \uc218\uc758 \ubcf4\uc815 \ube44\uc728
+ko,ADVERSECOUNT_VLABEL,1.0,Adverse \uc6d0\uc778 %s \ube48\ub3c4
+ko,ADVERSE_RULE_VLABEL,1.0,Adverse \uaddc\uce59 %s
+ko,ADVERSE_VALUE_VLABEL,1.0,Adverse \ucc28\ubd84 %s
+ko,ADVERSE_VLABEL,1.0,Adverse \ubcc0\uc218 %s
+ko,APPLYMAXBINTOTAL_VLABEL,1.0,\ucd5c\ub300 \ucd1d \ud69f\uc218 \uc801\uc6a9
+ko,APPLYMAXBINWIDTH_VLABEL,1.0,\ucd5c\ub300 \uc808\uc0ac\uac12 \ucc28\ubd84 \uc801\uc6a9
+ko,APPLYMAXNUMBINS_VLABEL,1.0,\ucd5c\ub300 \uadf8\ub8f9 \uc801\uc6a9
+ko,APPLYMINBINDIFF_VLABEL,1.0,\ucd5c\uc18c WOE \ucc28\ubd84 \uc801\uc6a9
+ko,APPLYMINBINTOTAL_VLABEL,1.0,\ucd5c\uc18c \ucd1d \ud69f\uc218 \uc801\uc6a9
+ko,APPLYMINBINWIDTH_VLABEL,1.0,\ucd5c\uc18c \uc808\uc0ac\uac12 \ucc28\ubd84 \uc801\uc6a9
+ko,APPLYMINNUMBINS_VLABEL,1.0,\ucd5c\uc18c \uadf8\ub8f9 \uc801\uc6a9
+ko,APPLYMINNUMEVENT_VLABEL,1.0,\ucd5c\uc18c \uc774\ubca4\ud2b8 \uc218 \uc801\uc6a9
+ko,APPLYMINNUMNONEVENT_VLABEL,1.0,\ucd5c\uc18c \ube44\uc774\ubca4\ud2b8 \uc218 \uc801\uc6a9
+ko,APPLYMONOTONICITY_VLABEL,1.0,WOE \ub2e8\uc870\uc131 \uc801\uc6a9
+ko,ARATIO_VLABEL,1.0,\uc815\ud655\ub3c4
+ko,ATTEVENTRATE_TITLE,1.0,\uc18d\uc131 \uc774\ubca4\ud2b8 \ube44\uc728 \ubc0f \ud3c9\uade0 \uc2a4\ucf54\uc5b4
+ko,ATTPROPBYSCORE_TITLE,1.0,\uc2a4\ucf54\uc5b4\ubcc4 \uc18d\uc131 \ube44\uc728
+ko,AUGEVENTRATE_VLABEL,1.0,\ud655\ub300 \ub370\uc774\ud130 \uc774\ubca4\ud2b8 \ube44\uc728
+ko,AVGMARGPROFIT_VLABEL,1.0,\ud3c9\uade0 \uc8fc\ubcc0 \uc774\uc775
+ko,AVGSCPTS_VLABEL,1.0,\ud3c9\uade0 \uc2a4\ucf54\uc5b4\uce74\ub4dc \ud3ec\uc778\ud2b8
+ko,AVGTOTALPROFIT_VLABEL,1.0,\ud3c9\uade0 \ucd1d \uc774\uc775
+ko,BASELINE_VLABEL,1.0,\uae30\uc900\uc120
+ko,BUCKET_VLABEL,1.0,\ubc84\ud0b7
+ko,CALCROLE_VLABEL,1.0,\uacc4\uc0b0\ub41c \uc5ed\ud560
+ko,CALCWOE_VLABEL,1.0,\uacc4\uc0b0\ub41c WOE
+ko,CCFVAR_VLABEL,1.0,CCF \ubcc0\uc218
+ko,CHARANALYSIS_TITLE,1.0,\ud2b9\uc131 \ubd84\uc11d: %s
+ko,CODESWRONGTYPE_ERROR,1.0,\uc624\ub958: \ucf54\ub4dc \ub370\uc774\ud130\uc5d0\uc11c \uc608\uce21\ub41c \ubcc0\uc218\ub294 \uc62c\ubc14\ub978 \uc720\ud615\uc774 \uc544\ub2c8\uac70\ub098 \uc874\uc7ac\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.
+ko,COEFF_VLABEL,1.0,\uacc4\uc218
+ko,COUNT_VLABEL,1.0,\uac1c\uc218
+ko,CUMAPPROVALRATE_VLABEL,1.0,\ub204\uc801 \uc2b9\uc778 \ube44\uc728
+ko,CUMCOUNT_VLABEL,1.0,\ub204\uc801 \uc218
+ko,CUMEVENTCOUNT_VLABEL,1.0,\ub204\uc801 \uc774\ubca4\ud2b8 \uc218
+ko,CUMEVENTRATE_TITLE,1.0,\uc2a4\ucf54\uc5b4\ubcc4 \ub204\uc801 \uc774\ubca4\ud2b8 \ube44\uc728
+ko,CUMEVENTRATE_VLABEL,1.0,\ub204\uc801 \uc774\ubca4\ud2b8 \ube44\uc728
+ko,CUMINDETCOUNT_VLABEL,1.0,\ub204\uc801 \ubd88\ud655\uc815 \uac1c\uc218
+ko,CUMINDETRATE_VLABEL,1.0,\ub204\uc801 \ubd88\ud655\uc815 \ube44\uc728
+ko,CUMNEVENTCOUNT_VLABEL,1.0,\ub204\uc801 \ube44\uc774\ubca4\ud2b8 \uc218
+ko,CUMNEVENTRATE_VLABEL,1.0,\ub204\uc801 \ube44\uc774\ubca4\ud2b8 \ube44\uc728
+ko,CUTOFFOUTOFRANGE_ERROR,1.0,"\uc624\ub958:  \uc0ac\uc6a9\uc790 \uc815\uc758\ub41c \uc808\uc0ac\uac12\uc740 \ud0c0\uac9f \uac12 \ubc94\uc704 [%#1s,%#2s) \uc548\uc5d0 \uc788\uc5b4\uc57c \ud569\ub2c8\ub2e4."
+ko,CUTOFFSCORE_VLABEL,1.0,\uc808\uc0ac\uac12 \uc2a4\ucf54\uc5b4
+ko,DATAROLE_VLABEL,1.0,\ub370\uc774\ud130 \uc5ed\ud560
+ko,DISPVAR_VLABEL,1.0,\ubcc0\uc218
+ko,DISPWOE_VLABEL,1.0,\uc0c8\ub85c\uc6b4 WOE
+ko,EFFECTNUM_VLABEL,1.0,\ud6a8\uacfc \ubc88\ud638
+ko,EFFECT_VLABEL,1.0,\ud6a8\uacfc
+ko,EFFLABEL_VLABEL,1.0,\ud6a8\uacfc \ub808\uc774\ube14
+ko,EMCCF_VLABEL,1.0,\ud3c9\uade0 CCF
+ko,EMEXPOSURE_VLABEL,1.0,\ud3c9\uade0 Exposure
+ko,EMLGD_VLABEL,1.0,\ud3c9\uade0 LGD
+ko,EMPD_VLABEL,1.0,\ud3c9\uade0 \uc608\uce21 \ud655\ub960
+ko,EMPIRICALODDS_VLABEL,1.0,\uacbd\ud5d8\uc801 \uc624\uc988
+ko,ERATE_VLABEL,1.0,\uc774\ubca4\ud2b8 \ube44\uc728
+ko,EVENTCOUNT_VLABEL,1.0,\uc774\ubca4\ud2b8 \uc218
+ko,EVENTODDS_VLABEL,1.0,\uc774\ubca4\ud2b8 \uc624\uc988
+ko,EVENTRATETARGET_VLABEL,1.0,\uc774\ubca4\ud2b8 \ube44\uc728 %#1s = %#2s
+ko,EVENTRATE_VLABEL,1.0,\uc774\ubca4\ud2b8 \ube44\uc728
+ko,EXPORTROLE_VLABEL,1.0,\ub0b4\ubcf4\ub0b8 \uc5ed\ud560
+ko,EXPOSUREVAR_VLABEL,1.0,Exposure \ubcc0\uc218
+ko,FORMAT_VLABEL,1.0,\ucd9c\ub825\ud615\uc2dd
+ko,FREQ_VLABEL,1.0,\ube48\ub3c4
+ko,GENERATEBINS_NOTE,1.0,Interval \ubcc0\uc218\uc758 \ubc94\uc8fc \uc0dd\uc131
+ko,GENERATEFROZENBINS_NOTE,1.0,\uae30\uc874 \uadf8\ub8f9\ud654 \uc815\uc758\uc5d0 \uc815\uc758\ub41c Interval \ubcc0\uc218\uc758 \ubc94\uc8fc \uc0dd\uc131
+ko,GENERATEIMPORTBINS_NOTE,1.0,\uac00\uc838\uc628 \uadf8\ub8f9\ud654 \uc815\uc758\uc5d0 \uc815\uc758\ub41c Interval \ubcc0\uc218\uc758 \ubc94\uc8fc \uc0dd\uc131
+ko,GINIORDER_VLABEL,1.0,Gini \uc21c\uc11c
+ko,GINI_VLABEL,1.0,Gini \ud1b5\uacc4\ub7c9
+ko,GNRESPRATE_VLABEL,1.0,\uadf8\ub8f9 \ube44\uc774\ubca4\ud2b8 \ube44\uc728
+ko,GRESPRATE_VLABEL,1.0,\uadf8\ub8f9 \uc774\ubca4\ud2b8 \ube44\uc728
+ko,GROUP_VLABEL,1.0,\uadf8\ub8f9
+ko,GRPVAR_VLABEL,1.0,Group \ubcc0\uc218
+ko,GRP_VLABEL,1.0,\uadf8\ub8f9
+ko,GVALUES_VLABEL,1.0,\uadf8\ub8f9 \ubcc0\uc218
+ko,HEADER_BUCKETLOG_TITLE,1.0,\ub300\ud654\uc2dd \uc2a4\ucf54\uc5b4 \ubc94\uc704 \ub85c\uadf8
+ko,HEADER_BUCKETOUT_TITLE,1.0,\ub300\ud654\uc2dd \uc2a4\ucf54\uc5b4 \ubc94\uc704 \ucd9c\ub825
+ko,HEADER_SCORECARDLOG_TITLE,1.0,\ub300\ud654\uc2dd \uc2a4\ucf54\uc5b4\uce74\ub4dc \ud3ec\uc778\ud2b8 \ub85c\uadf8
+ko,HEADER_SCORECARDOUT_TITLE,1.0,\ub300\ud654\uc2dd \uc2a4\ucf54\uc5b4\uce74\ub4dc \ud3ec\uc778\ud2b8 \ucd9c\ub825
+ko,HIGHPREDPROB_VLABEL,1.0,\uc608\uce21\ud655\ub960 \uc0c1\ud55c
+ko,HIGHRANGE_VLABEL,1.0,\ub192\uc740 \ubc94\uc704
+ko,HIGHTHRESHOLD_VLABEL,1.0,\uc2a4\ucf54\uc5b4 \uc0c1\ud55c
+ko,INDETCOUNT_VLABEL,1.0,\ubd88\ud655\uc815 \uac1c\uc218
+ko,INDEX_VLABEL,1.0,\uc778\ub371\uc2a4
+ko,INFEVENTCOUNT_VLABEL,1.0,\uae30\uac01\ucd94\ub860\ub41c \uc774\ubca4\ud2b8 \uc218
+ko,INFEVENTRATE_VLABEL,1.0,\uae30\uac01\ucd94\ub860\ub41c \uc774\ubca4\ud2b8 \ube44\uc728
+ko,INFNEVENTCOUNT_VLABEL,1.0,\uae30\uac01\ucd94\ub860\ub41c \ube44\uc774\ubca4\ud2b8 \uc218
+ko,INFOVALORDER_VLABEL,1.0,Information Value \uc21c\uc11c
+ko,INFOVAL_VLABEL,1.0,Information Value
+ko,INPUTVAR_VLABEL,1.0,Input \ubcc0\uc218
+ko,INPUT_VLABEL,1.0,Input \ubcc0\uc218
+ko,INTERCEPT_VLABEL,1.0,\uc808\ud3b8
+ko,INVALID_NOTE,1.0,\uc8fc: %s\uc5d0 \ub300\ud574 \uc9c0\uc815\ub41c \uac12\uc774 \uc62c\ubc14\ub974\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.
+ko,LABEL_VLABEL,1.0,\ub808\uc774\ube14
+ko,LEVEL_VLABEL,1.0,\ub808\ubca8
+ko,LGDVAR_VLABEL,1.0,LGD \ubcc0\uc218
+ko,LOGEVENTODDS_VLABEL,1.0,\ub85c\uadf8(\uc774\ubca4\ud2b8 \uc624\uc988)
+ko,LOWPREDPROB_VLABEL,1.0,\uc608\uce21\ud655\ub960 \ud558\ud55c
+ko,LOWRANGE_VLABEL,1.0,\ub0ae\uc740 \ubc94\uc704
+ko,LOWTHRESHOLD_VLABEL,1.0,\uc2a4\ucf54\uc5b4 \ud558\ud55c
+ko,MANUALWOE_VLABEL,1.0,\uc218\ub3d9 WOE
+ko,MAPPINGSPECIALVALUES_NOTE,1.0,\ud2b9\uc218 \ucf54\ub529 \uac12\uc744 \ub9e4\ud551
+ko,MAREVENTRATE_VLABEL,1.0,\uc8fc\ubcc0 \uc774\ubca4\ud2b8 \ube44\uc728
+ko,MARGINDETRATE_VLABEL,1.0,\uc8fc\ubcc0 \ubd88\ud655\uc815 \ube44\uc728
+ko,MARNEVENTRATE_VLABEL,1.0,\uc8fc\ubcc0 \ube44\uc774\ubca4\ud2b8 \ube44\uc728
+ko,MAXBINTOTAL_VLABEL,1.0,\ucd5c\ub300 \ucd1d \ud69f\uc218
+ko,MAXBINWIDTH_VLABEL,1.0,\ucd5c\ub300 \uc808\uc0ac\uac12 \ucc28\ubd84
+ko,MAXNUMBINS_VLABEL,1.0,\ucd5c\ub300 \uadf8\ub8f9 \uc218
+ko,MIDPOINT_VLABEL,1.0,\uc911\uac04\uc810
+ko,MINBINDIFF_VLABEL,1.0,\ucd5c\uc18c WOE \ucc28\ubd84
+ko,MINBINTOTAL_VLABEL,1.0,\ucd5c\uc18c \ucd1d \ud69f\uc218
+ko,MINBINWIDTH_VLABEL,1.0,\ucd5c\uc18c \uc808\uc0ac\uac12 \ucc28\ubd84
+ko,MINNUMBINS_VLABEL,1.0,\ucd5c\uc18c \uadf8\ub8f9 \uc218
+ko,MINNUMEVENT_VLABEL,1.0,\ucd5c\uc18c \uc774\ubca4\ud2b8 \uc218
+ko,MINNUMNONEVENT_VLABEL,1.0,\ucd5c\uc18c \ube44\uc774\ubca4\ud2b8 \uc218
+ko,MISSING_VLABEL,1.0,\uc5c6\uc74c
+ko,NAME_VLABEL,1.0,\uc774\ub984
+ko,NEUTRAL_VLABEL,1.0,Neutral \uc2a4\ucf54\uc5b4
+ko,NEVENTCOUNT_VLABEL,1.0,\ube44\uc774\ubca4\ud2b8 \uc218
+ko,NEWGINI_VLABEL,1.0,\uc0c8\ub85c\uc6b4 Gini
+ko,NEWINFOVAL_VLABEL,1.0,\uc0c8\ub85c\uc6b4 Information Value
+ko,NEWROLE_VLABEL,1.0,\uc0c8\ub85c\uc6b4 \uc5ed\ud560
+ko,NOCODESDATA_ERROR,1.0,\uc624\ub958: \ud2b9\uc218 \ucf54\ub4dc \uc0ac\uc6a9\uc774 '\uc608'\ub85c \uc124\uc815\ub418\uc5b4 \uc788\ub294 \uacbd\uc6b0 \ucf54\ub4dc \ub370\uc774\ud130\uc14b\uc744 \uc9c0\uc815\ud574\uc57c \ud569\ub2c8\ub2e4.
+ko,NOFINEDETAIL_ERROR,1.0,\uc624\ub958: finedetail \ub370\uc774\ud130\uc14b\uc774 \uc874\uc7ac\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. Freeze=Y\ub97c \uc124\uc815\ud558\uae30 \uc804\uc5d0 \ub178\ub4dc\ub97c \uc2e4\ud589\ud574\uc11c \ucd08\uae30\uac12\uc744 \uc0dd\uc131\ud569\ub2c8\ub2e4.
+ko,NONBINTARGETTRANS_ERROR,1.0,\uc624\ub958: Binary\uac00 \uc544\ub2cc \ud0c0\uac9f\uc774 \uad6c\uac04 \ud0c0\uac9f\uc5d0\uc11c \uc0dd\uc131\ub418\uc5c8\uc2b5\ub2c8\ub2e4.  \uad6c\uac04 \ud0c0\uac9f \uc635\uc158 \uc18d\uc131\uc744 \ubcc0\uacbd\ud558\uc2ed\uc2dc\uc624.
+ko,NONEVENTRATE_VLABEL,1.0,\ube44\uc774\ubca4\ud2b8 \ube44\uc728
+ko,NORMVALUE_VLABEL,1.0,\uc815\uaddc\ud654 \uac12
+ko,ORIGGINI_VLABEL,1.0,\uc6d0\ub798 Gini
+ko,ORIGINFOVAL_VLABEL,1.0,\uc6d0\ub798 Information Value
+ko,PARCELING_ERROR,1.0,ERROR: \ud30c\uc2ac\ub9c1(Parceling)\uc744 \uc218\ud589\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \uc774\ubca4\ud2b8 \ube44\uc728 \uc99d\uac00 \uc18d\uc131\uc5d0 \ub300\ud55c \uac12\uc744 \ub298\ub824\ubcf4\uc2ed\uc2dc\uc624.
+ko,PERCENTEVENTCOUNT_VLABEL,1.0,\uc774\ubca4\ud2b8 \uc218 \ubc31\ubd84\uc728
+ko,PERCENTSAMPLE_VLABEL,1.0,\ud45c\ubcf8 \ubc31\ubd84\uc728
+ko,PERCENT_VLABEL,1.0,\ubc31\ubd84\uc728
+ko,POPPERCENTAGE_VLABEL,1.0,\ubaa8\uc9d1\ub2e8 \ubc31\ubd84\uc728
+ko,POSTERIORVAR_VLABEL,1.0,\uc0ac\ud6c4 \ubcc0\uc218
+ko,PPERCENT_VLABEL,1.0,\ubaa8\uc9d1\ub2e8 \ubc31\ubd84\uc728
+ko,PREDEFINED_VLABEL,1.0,\uc0ac\uc804 \uc815\uc758\ub41c \uadf8\ub8f9\ud654
+ko,PREDICTEDODDS_VLABEL,1.0,\uc608\uce21 \uc624\uc988
+ko,PROCGRPVAR_VLABEL,1.0,Arbor\uc5d0\uc11c \uc0dd\uc131\ub41c Group \ubcc0\uc218
+ko,PROCLEVEL_VLABEL,1.0,\ub300\ud654\uc2dd \ub808\ubca8
+ko,PROCVAR_VLABEL,1.0,Arbor\uc5d0\uc11c \uc0ac\uc6a9\ub418\ub294 Input
+ko,PROCWOEVAR_VLABEL,1.0,Arbor\uc5d0\uc11c \uc0dd\uc131\ub41c WOE \ubcc0\uc218
+ko,PROPPOP_VLABEL,1.0,\ubaa8\uc9d1\ub2e8 \ube44\uc728
+ko,PROPTOTEVENTCOUNT_VLABEL,1.0,\ucd1d \uc774\ubca4\ud2b8 \uc218\uc758 \ube44\uc728
+ko,RANGETOOSMALL_NOTE,1.0,\ubc94\uc704\uac00 \uc9c0\uc815\ub41c \ubc84\ud0b7\uc758 \uc218\uc5d0 \ube44\ud574 \ub108\ubb34 \uc791\uc74c
+ko,REJECTTOTAL_VLABEL,1.0,\uae30\uac01 \ucd1d \ud569\uacc4
+ko,REJEVENTRATE_TITLE,1.0,\uae30\uac01 \ucd94\ub860 : \uc774\ubca4\ud2b8 \ube44\uc728
+ko,RESETNUMBUCKETS_NOTE,1.0,\ubc84\ud0b7 \uc218\ub294 %#1s\uc5d0\uc11c %#2s(\uc73c)\ub85c \uc7ac\uc124\uc815\ub429\ub2c8\ub2e4.
+ko,RESET_NOTE,1.0,%s\uc5d0 \ub300\ud55c \uac12\uc774 \uae30\ubcf8\uac12\uc73c\ub85c \uc7ac\uc124\uc815\ub429\ub2c8\ub2e4.
+ko,ROLE_VLABEL,1.0,\uc5ed\ud560
+ko,SATURATED_VLABEL,1.0,\ud3ec\ud654
+ko,SCOREBUCKET_VLABEL,1.0,\uc2a4\ucf54\uc5b4 \ubc84\ud0b7
+ko,SCORECARD_TITLE,1.0,\uc2a4\ucf54\uc5b4\uce74\ub4dc
+ko,SCPTS_VLABEL,1.0,\uc2a4\ucf54\uc5b4\uce74\ub4dc \ud3ec\uc778\ud2b8
+ko,SIGN_VLABEL,1.0,\uc0ac\uc778
+ko,SPECIALCODEVALUES_NOTE,1.0,\ud2b9\uc218 \ucf54\ub4dc \uac12
+ko,SUMSTATS_TITLE,1.0,\uc694\uc57d\ud1b5\uacc4\ub7c9
+ko,TARGETOUTOFRANGE_ERROR,1.0,\uc624\ub958:  \uc9c0\uc815\ub41c \ubc94\uc704 \ubc16\uc5d0 \uad6c\uac04 \ud0c0\uac9f \uac12\uc774 \uc788\uc2b5\ub2c8\ub2e4.
+ko,TEFFECTNUM_VLABEL,1.0,TScore \ubc88\ud638
+ko,TESTEVENTRATE_VLABEL,1.0,\ud14c\uc2a4\ud2b8\uc6a9 \ub370\uc774\ud130 \uc774\ubca4\ud2b8 \ube44\uc728
+ko,TRAINEVENTRATE_VLABEL,1.0,\ud559\uc2b5\uc6a9 \ub370\uc774\ud130 \uc774\ubca4\ud2b8 \ube44\uc728
+ko,TVALUE_VLABEL,1.0,T \uac12
+ko,TYPE_VLABEL,1.0,\uc720\ud615
+ko,VALIDEVENTRATE_VLABEL,1.0,\uac80\uc99d\uc6a9 \ub370\uc774\ud130 \uc774\ubca4\ud2b8 \ube44\uc728
+ko,VALUE_VLABEL,1.0,\uac12
+ko,VARIABLE_VLABEL,1.0,\ubcc0\uc218
+ko,WOEVAR_VLABEL,1.0,WOE \ubcc0\uc218
+ko,WTAVG_VLABEL,1.0,\uac00\uc911 \ud3c9\uade0
+ko,WTEV_VLABEL,1.0,WOE(Weight of Evidence)
+pl,ABSCOEFF_VLABEL,1.0,Wsp\u00f3\u0142czynnik bezwzgl\u0119dny
+pl,ABSTVALUE_VLABEL,1.0,Bezwzgl\u0119dna warto\u015b\u0107 T
+pl,ACCEPTEVENTCOUNT_VLABEL,1.0,Liczba akceptacji
+pl,ACCEPTEVENTRATE_VLABEL,1.0,Cz\u0119sto\u015b\u0107 akceptacji
+pl,ACCEPTNEVENTCOUNT_VLABEL,1.0,Liczba nieakceptacji
+pl,ACCEPTTOTAL_VLABEL,1.0,Razem akceptacji
+pl,ACTUALINFERRED_VLABEL,1.0,Akceptacje / Domniemane
+pl,ADAVGMARGPROFIT_VLABEL,1.0,Skorygowany zysk kra\u0144cowy
+pl,ADAVGTOTALPROFIT_VLABEL,1.0,Skorygowany zysk ca\u0142kowity
+pl,ADCOUNT_VLABEL,1.0,Skorygowana liczba wyst\u0105pie\u0144
+pl,ADCUMAPPROVALRATE_VLABEL,1.0,Skorygowana stopa aprobaty
+pl,ADCUMCOUNT,1.0,Skorygowana skumulowana liczba wyst\u0105pie\u0144
+pl,ADCUMEVENTRATE_VLABEL,1.0,Skorygowana cz\u0119sto\u015b\u0107 wyst\u0119powania
+pl,ADCUMNEVENTCOUNT_VLABEL,1.0,Skorygowana skumulowana liczba niewyst\u0105pie\u0144
+pl,ADCUMNEVENTRATE_VLABEL,1.0,Skorygowana skumulowana cz\u0119sto\u015b\u0107 niewyst\u0119powania
+pl,ADEMPIRICALODDS_VLABEL,1.0,Skorygowane prawdopodobie\u0144stwo empiryczne
+pl,ADEVENTODDS_VLABEL,1.0,Skorygowane prawdopodobie\u0144stwo zdarzenia
+pl,ADJCUMINDETRATE_VLABEL,1.0,Skorygowany skumulowany wsp\u00f3\u0142czynnik nieokre\u015blono\u015bci
+pl,ADJMARGINDETRATE_VLABEL,1.0,Skorygowany brzegowy wsp\u00f3\u0142czynnik nieokre\u015blono\u015bci
+pl,ADLOGEVENTODDS_VLABEL,1.0,Skorygowany log(prawdopodobie\u0144stwo zdarzenia)
+pl,ADMAREVENTRATE_VLABEL,1.0,Skorygowana brzegowa cz\u0119sto\u015b\u0107 wyst\u0119powania
+pl,ADMARNEVENTRATE_VLABEL,1.0,Skorygowana brzegowa cz\u0119sto\u015b\u0107 niewyst\u0119powania
+pl,ADNEVENTCOUNT_VLABEL,1.0,Skorygowana liczba niewyst\u0105pie\u0144
+pl,ADPOPPERCENTAGE_VLABEL,1.0,Skorygowany procent populacji
+pl,ADPROPPOP_VLABEL,1.0,Skorygowany u\u0142amek populacji
+pl,ADPROPTOTEVENTCOUNT_VLABEL,1.0,Skorygowany u\u0142amek ca\u0142kowitej liczby wyst\u0105pie\u0144
+pl,ADVERSECOUNT_VLABEL,1.0,Liczba niesprzyjaj\u0105cych przyczyn %s
+pl,ADVERSE_RULE_VLABEL,1.0,Niesprzyjaj\u0105ca regu\u0142a %s
+pl,ADVERSE_VALUE_VLABEL,1.0,Niesprzyjaj\u0105ca r\u00f3\u017cnica %s
+pl,ADVERSE_VLABEL,1.0,Niesprzyjaj\u0105ca zmienna %s
+pl,APPLYMAXBINTOTAL_VLABEL,1.0,Zastosuj maksymaln\u0105 ca\u0142kowit\u0105 liczb\u0119
+pl,APPLYMAXBINWIDTH_VLABEL,1.0,Zastosuj maksymaln\u0105 r\u00f3\u017cnic\u0119 obci\u0119cia
+pl,APPLYMAXNUMBINS_VLABEL,1.0,Zastosuj maksimum grup
+pl,APPLYMINBINDIFF_VLABEL,1.0,Zastosuj minimaln\u0105 r\u00f3\u017cnic\u0119 WOE
+pl,APPLYMINBINTOTAL_VLABEL,1.0,Zastosuj minimaln\u0105 ca\u0142kowit\u0105 liczb\u0119
+pl,APPLYMINBINWIDTH_VLABEL,1.0,Zastosuj minimaln\u0105 r\u00f3\u017cnic\u0119 odci\u0119cia
+pl,APPLYMINNUMBINS_VLABEL,1.0,Zastosuj minimum grup
+pl,APPLYMINNUMEVENT_VLABEL,1.0,Zastosuj minimaln\u0105 liczb\u0119 wyst\u0105pie\u0144
+pl,APPLYMINNUMNONEVENT_VLABEL,1.0,Zastosuj minimaln\u0105 liczb\u0119 niewyst\u0105pie\u0144
+pl,APPLYMONOTONICITY_VLABEL,1.0,Zastosuj monotoniczne WOE
+pl,ARATIO_VLABEL,1.0,Wsp\u00f3\u0142czynnik dok\u0142adno\u015bci
+pl,ATTEVENTRATE_TITLE,1.0,Cz\u0119sto\u015b\u0107 wyst\u0119powania cechy i \u015bredni wynik punktowy
+pl,ATTPROPBYSCORE_TITLE,1.0,Udzia\u0142 cechy od wyniku punktowego
+pl,AUGEVENTRATE_VLABEL,1.0,Rozszerzona cz\u0119sto\u015b\u0107 wyst\u0119powania w danych
+pl,AVGMARGPROFIT_VLABEL,1.0,\u015aredni zysk kra\u0144cowy
+pl,AVGSCPTS_VLABEL,1.0,\u015arednia punktacja karty wynik\u00f3w
+pl,AVGTOTALPROFIT_VLABEL,1.0,\u015aredni zysk ca\u0142kowity
+pl,BASELINE_VLABEL,1.0,Podstawa
+pl,BUCKET_VLABEL,1.0,Kube\u0142ek
+pl,CALCROLE_VLABEL,1.0,Wyliczana rola
+pl,CALCWOE_VLABEL,1.0,WOE wyliczane
+pl,CCFVAR_VLABEL,1.0,Zmienna CCF
+pl,CHARANALYSIS_TITLE,1.0,Analiza charakterystyki: %s
+pl,CODESWRONGTYPE_ERROR,1.0,Error:  Variables expected in the Codes Dataset are not of the correct type or do not exist.
+pl,COEFF_VLABEL,1.0,Wsp\u00f3\u0142czynnik
+pl,COUNT_VLABEL,1.0,Liczba
+pl,CUMAPPROVALRATE_VLABEL,1.0,Skumulowana stopa aprobaty
+pl,CUMCOUNT_VLABEL,1.0,\u0141\u0105czna liczba
+pl,CUMEVENTCOUNT_VLABEL,1.0,Skumulowana liczba wyst\u0105pie\u0144
+pl,CUMEVENTRATE_TITLE,1.0,Skumulowana cz\u0119sto\u015b\u0107 wyst\u0119powania od wyniku punktowego
+pl,CUMEVENTRATE_VLABEL,1.0,Skumulowana cz\u0119sto\u015b\u0107 wyst\u0119powania
+pl,CUMINDETCOUNT_VLABEL,1.0,Skumulowana liczba nieokre\u015blonych
+pl,CUMINDETRATE_VLABEL,1.0,Skumulowany wsp\u00f3\u0142czynnik nieokre\u015blono\u015bci
+pl,CUMNEVENTCOUNT_VLABEL,1.0,Skumulowana liczba niewyst\u0105pie\u0144
+pl,CUMNEVENTRATE_VLABEL,1.0,Skumulowana cz\u0119sto\u015b\u0107 niewyst\u0119powania
+pl,CUTOFFOUTOFRANGE_ERROR,1.0,"Error: Podana przez u\u017cytkownika warto\u015b\u0107 obci\u0119cia musi mie\u015bci\u0107 si\u0119 w zakresie warto\u015bci docelowych, [%#1s,%#2s)."
+pl,CUTOFFSCORE_VLABEL,1.0,Wynik punktowy obci\u0119cia
+pl,DATAROLE_VLABEL,1.0,Rola danych
+pl,DISPVAR_VLABEL,1.0,Zmienna
+pl,DISPWOE_VLABEL,1.0,Nowe WOE
+pl,EFFECTNUM_VLABEL,1.0,Numer efektu
+pl,EFFECT_VLABEL,1.0,Efekt
+pl,EFFLABEL_VLABEL,1.0,Etykieta efektu
+pl,EMCCF_VLABEL,1.0,\u015arednie CCF
+pl,EMEXPOSURE_VLABEL,1.0,\u015arednia ekspozycja
+pl,EMLGD_VLABEL,1.0,\u015arednie LGD
+pl,EMPD_VLABEL,1.0,\u015arednie prawdopodobie\u0144stwo przewidywane
+pl,EMPIRICALODDS_VLABEL,1.0,Prawdopodobie\u0144stwo empiryczne
+pl,ERATE_VLABEL,1.0,Cz\u0119sto\u015b\u0107 wyst\u0119powania
+pl,EVENTCOUNT_VLABEL,1.0,Liczba wyst\u0105pie\u0144
+pl,EVENTODDS_VLABEL,1.0,Prawdopodobie\u0144stwo zdarzenia
+pl,EVENTRATETARGET_VLABEL,1.0,Cz\u0119sto\u015b\u0107 wyst\u0119powania %#1s = %#2s
+pl,EVENTRATE_VLABEL,1.0,Cz\u0119sto\u015b\u0107 wyst\u0119powania
+pl,EXPORTROLE_VLABEL,1.0,Eksportowana rola
+pl,EXPOSUREVAR_VLABEL,1.0,Zmienna ekspozycji
+pl,FORMAT_VLABEL,1.0,Format
+pl,FREQ_VLABEL,1.0,Liczebno\u015b\u0107
+pl,GENERATEBINS_NOTE,1.0,Generowanie klas zmiennych przedzia\u0142owych
+pl,GENERATEFROZENBINS_NOTE,1.0,Generowanie klas zmiennych przedzia\u0142owych zdefiniowanych w zablokowanych definicjach grupowa\u0144
+pl,GENERATEIMPORTBINS_NOTE,1.0,Generowanie klas zmiennych przedzia\u0142owych zdefiniowanych w importowanych definicjach grupowa\u0144
+pl,GINIORDER_VLABEL,1.0,Porz\u0105dek Giniego
+pl,GINI_VLABEL,1.0,Statystyka Giniego
+pl,GNRESPRATE_VLABEL,1.0,Cz\u0119sto\u015b\u0107 niewyst\u0119powania w grupie
+pl,GRESPRATE_VLABEL,1.0,Cz\u0119sto\u015b\u0107 wyst\u0119powania w grupie
+pl,GROUP_VLABEL,1.0,Grupa
+pl,GRPVAR_VLABEL,1.0,Zmienna grupuj\u0105ca
+pl,GRP_VLABEL,1.0,Grupa
+pl,GVALUES_VLABEL,1.0,Warto\u015bci grup
+pl,HEADER_BUCKETLOG_TITLE,1.0,Interaktywny log zakres\u00f3w punktacji
+pl,HEADER_BUCKETOUT_TITLE,1.0,Interaktywne wyniki zakres\u00f3w punktacji
+pl,HEADER_SCORECARDLOG_TITLE,1.0,Interaktywny log punkt\u00f3w karty wynik\u00f3w
+pl,HEADER_SCORECARDOUT_TITLE,1.0,Interaktywne wyniki punkt\u00f3w karty wynik\u00f3w
+pl,HIGHPREDPROB_VLABEL,1.0,G\u00f3rny pr\u00f3g prawdopodobie\u0144stwa przewidywanego
+pl,HIGHRANGE_VLABEL,1.0,G\u00f3rny zakres
+pl,HIGHTHRESHOLD_VLABEL,1.0,G\u00f3rny pr\u00f3g wyniku punktowego
+pl,INDETCOUNT_VLABEL,1.0,Liczba nieokre\u015blonych
+pl,INDEX_VLABEL,1.0,Indeks
+pl,INFEVENTCOUNT_VLABEL,1.0,Domniemana liczba odrzuce\u0144
+pl,INFEVENTRATE_VLABEL,1.0,Domniemana cz\u0119sto\u015b\u0107 odrzuce\u0144
+pl,INFNEVENTCOUNT_VLABEL,1.0,Domniemana liczba nieodrzuce\u0144
+pl,INFOVALORDER_VLABEL,1.0,Porz\u0105dek warto\u015bci informacji
+pl,INFOVAL_VLABEL,1.0,Warto\u015b\u0107 informacji
+pl,INPUTVAR_VLABEL,1.0,Zmienna wej\u015bciowa
+pl,INPUT_VLABEL,1.0,Zmienna wej\u015bciowa
+pl,INTERCEPT_VLABEL,1.0,Wyraz wolny
+pl,INVALID_NOTE,1.0,Note: Warto\u015b\u0107 podana dla %s nie jest prawid\u0142owa.
+pl,LABEL_VLABEL,1.0,Etykieta
+pl,LEVEL_VLABEL,1.0,Poziom
+pl,LGDVAR_VLABEL,1.0,Zmienna LGD
+pl,LOGEVENTODDS_VLABEL,1.0,Log(prawdopodobie\u0144stwo zdarzenia)
+pl,LOWPREDPROB_VLABEL,1.0,Dolny pr\u00f3g prawdopodobie\u0144stwa przewidywanego
+pl,LOWRANGE_VLABEL,1.0,Dolny zakres
+pl,LOWTHRESHOLD_VLABEL,1.0,Dolny pr\u00f3g wyniku punktowego
+pl,MANUALWOE_VLABEL,1.0,WOE r\u0119czne
+pl,MAPPINGSPECIALVALUES_NOTE,1.0,Mapowanie zakodowanych warto\u015bci specjalnych
+pl,MAREVENTRATE_VLABEL,1.0,Brzegowa cz\u0119sto\u015b\u0107 wyst\u0119powania
+pl,MARGINDETRATE_VLABEL,1.0,Brzegowy wsp\u00f3\u0142czynnik nieokre\u015blono\u015bci
+pl,MARNEVENTRATE_VLABEL,1.0,Brzegowa cz\u0119sto\u015b\u0107 niewyst\u0119powania
+pl,MAXBINTOTAL_VLABEL,1.0,Maksymalna ca\u0142kowita liczba
+pl,MAXBINWIDTH_VLABEL,1.0,Maksymalna r\u00f3\u017cnica obci\u0119cia
+pl,MAXNUMBINS_VLABEL,1.0,Maksymalna liczba grup
+pl,MIDPOINT_VLABEL,1.0,Punkt \u015brodkowy
+pl,MINBINDIFF_VLABEL,1.0,Minimalna r\u00f3\u017cnica WOE
+pl,MINBINTOTAL_VLABEL,1.0,Minimalna ca\u0142kowita liczba
+pl,MINBINWIDTH_VLABEL,1.0,Minimalna r\u00f3\u017cnica obci\u0119cia
+pl,MINNUMBINS_VLABEL,1.0,Minimalna liczba grup
+pl,MINNUMEVENT_VLABEL,1.0,Minimalna liczba wyst\u0105pie\u0144
+pl,MINNUMNONEVENT_VLABEL,1.0,Minimalna liczba niewyst\u0105pie\u0144
+pl,MISSING_VLABEL,1.0,Brak danych
+pl,NAME_VLABEL,1.0,Nazwa
+pl,NEUTRAL_VLABEL,1.0,Neutralny wynik punktowy
+pl,NEVENTCOUNT_VLABEL,1.0,Liczba niewyst\u0105pie\u0144
+pl,NEWGINI_VLABEL,1.0,Gini nowy
+pl,NEWINFOVAL_VLABEL,1.0,Warto\u015b\u0107 informacji nowa
+pl,NEWROLE_VLABEL,1.0,Nowa rola
+pl,NOCODESDATA_ERROR,1.0,Error:  Must specify a Codes Dataset if Use Special Codes is set to Yes.
+pl,NOFINEDETAIL_ERROR,1.0,Error:  No finedetail dataset exists.  Must run node prior to setting Freeze= Y to create initial values.
+pl,NONBINTARGETTRANS_ERROR,1.0,Error: Z przedzia\u0142owej zmiennej celu utworzono niebinarn\u0105 zmienn\u0105 celu. Zmodyfikuj w\u0142a\u015bciwo\u015b\u0107 Opcje przedzia\u0142owych zmiennych celu.
+pl,NONEVENTRATE_VLABEL,1.0,Cz\u0119sto\u015b\u0107 niewyst\u0119powania
+pl,NORMVALUE_VLABEL,1.0,Warto\u015b\u0107 znormalizowana
+pl,ORIGGINI_VLABEL,1.0,Gini pierwotny
+pl,ORIGINFOVAL_VLABEL,1.0,Warto\u015bci informacji pierwotna
+pl,PARCELING_ERROR,1.0,ERROR: Parcelacji nie uda\u0142o si\u0119 wykona\u0107. Spr\u00f3buj zwi\u0119kszy\u0107 warto\u015b\u0107 w\u0142a\u015bciwo\u015bci Wzrost cz\u0119sto\u015bci wyst\u0119powania.
+pl,PERCENTEVENTCOUNT_VLABEL,1.0,Procentowa liczba wyst\u0105pie\u0144
+pl,PERCENTSAMPLE_VLABEL,1.0,Pr\u00f3ba procentowa
+pl,PERCENT_VLABEL,1.0,Procent
+pl,POPPERCENTAGE_VLABEL,1.0,Procent populacji
+pl,POSTERIORVAR_VLABEL,1.0,Zmienna prawdopodobie\u0144stwa a posteriori
+pl,PPERCENT_VLABEL,1.0,Procent populacji
+pl,PREDEFINED_VLABEL,1.0,Predefiniowane grupowanie
+pl,PREDICTEDODDS_VLABEL,1.0,Prawdopodobie\u0144stwo przewidywane
+pl,PROCGRPVAR_VLABEL,1.0,Zmienna grupuj\u0105ca wygenerowana przez Arbor
+pl,PROCLEVEL_VLABEL,1.0,Poziom interakcyjno\u015bci
+pl,PROCVAR_VLABEL,1.0,Zmienna wej\u015bciowa u\u017cywana przez Arbor
+pl,PROCWOEVAR_VLABEL,1.0,Zmienna WOE wygenerowana przez Arbor
+pl,PROPPOP_VLABEL,1.0,U\u0142amek populacji
+pl,PROPTOTEVENTCOUNT_VLABEL,1.0,U\u0142amek ca\u0142kowitej liczby wyst\u0105pie\u0144
+pl,RANGETOOSMALL_NOTE,1.0,Zakres za ma\u0142y dla podanej liczby kube\u0142k\u00f3w
+pl,REJECTTOTAL_VLABEL,1.0,Razem odrzuce\u0144
+pl,REJEVENTRATE_TITLE,1.0,Wnioskowanie o odrzuceniu: Cz\u0119sto\u015bci wyst\u0119powania
+pl,RESETNUMBUCKETS_NOTE,1.0,Liczba kube\u0142k\u00f3w zostanie przywr\u00f3cona z %#1s do %#2s
+pl,RESET_NOTE,1.0,%s przywr\u00f3cono warto\u015b\u0107 domy\u015bln\u0105.
+pl,ROLE_VLABEL,1.0,Rola
+pl,SATURATED_VLABEL,1.0,Nasycony
+pl,SCOREBUCKET_VLABEL,1.0,Kube\u0142ek wyniku punktowego
+pl,SCORECARD_TITLE,1.0,Karta wynik\u00f3w
+pl,SCPTS_VLABEL,1.0,Punkty karty wynik\u00f3w
+pl,SIGN_VLABEL,1.0,Znak
+pl,SPECIALCODEVALUES_NOTE,1.0,Specjalne warto\u015bci kodowe
+pl,SUMSTATS_TITLE,1.0,Statystyki opisowe
+pl,TARGETOUTOFRANGE_ERROR,1.0,Error: Niekt\u00f3re warto\u015bci przedzia\u0142owej zmiennej celu nie mieszcz\u0105 si\u0119 w podanym zakresie.
+pl,TEFFECTNUM_VLABEL,1.0,Numer TScore
+pl,TESTEVENTRATE_VLABEL,1.0,Cz\u0119sto\u015b\u0107 wyst\u0119powania w danych testowych
+pl,TRAINEVENTRATE_VLABEL,1.0,Cz\u0119sto\u015b\u0107 wyst\u0119powania w danych ucz\u0105cych
+pl,TVALUE_VLABEL,1.0,Warto\u015b\u0107 T
+pl,TYPE_VLABEL,1.0,Typ
+pl,VALIDEVENTRATE_VLABEL,1.0,Cz\u0119sto\u015b\u0107 wyst\u0119powania w danych walidacyjnych
+pl,VALUE_VLABEL,1.0,Warto\u015b\u0107
+pl,VARIABLE_VLABEL,1.0,Zmienna
+pl,WOEVAR_VLABEL,1.0,Zmienna WOE
+pl,WTAVG_VLABEL,1.0,\u015arednia wa\u017cona
+pl,WTEV_VLABEL,1.0,Miara WOE
+zh_CN,ABSCOEFF_VLABEL,1.0,\u7edd\u5bf9\u7cfb\u6570
+zh_CN,ABSTVALUE_VLABEL,1.0,\u7edd\u5bf9 T \u503c
+zh_CN,ACCEPTEVENTCOUNT_VLABEL,1.0,\u63a5\u53d7\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,ACCEPTEVENTRATE_VLABEL,1.0,\u63a5\u53d7\u4e8b\u4ef6\u7387
+zh_CN,ACCEPTNEVENTCOUNT_VLABEL,1.0,\u63a5\u53d7\u975e\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,ACCEPTTOTAL_VLABEL,1.0,\u603b\u63a5\u53d7\u6570
+zh_CN,ACTUALINFERRED_VLABEL,1.0,\u63a5\u53d7 / \u63a8\u65ad
+zh_CN,ADAVGMARGPROFIT_VLABEL,1.0,\u8c03\u6574\u7684\u5e73\u5747\u8fb9\u9645\u5229\u6da6
+zh_CN,ADAVGTOTALPROFIT_VLABEL,1.0,\u8c03\u6574\u7684\u5e73\u5747\u603b\u5229\u6da6
+zh_CN,ADCOUNT_VLABEL,1.0,\u8c03\u6574\u7684\u8ba1\u6570
+zh_CN,ADCUMAPPROVALRATE_VLABEL,1.0,\u8c03\u6574\u7684\u7d2f\u79ef\u6279\u51c6\u7387
+zh_CN,ADCUMCOUNT,1.0,\u8c03\u6574\u7684\u7d2f\u79ef\u8ba1\u6570
+zh_CN,ADCUMEVENTRATE_VLABEL,1.0,\u8c03\u6574\u7684\u7d2f\u79ef\u4e8b\u4ef6\u7387
+zh_CN,ADCUMNEVENTCOUNT_VLABEL,1.0,\u8c03\u6574\u7684\u7d2f\u79ef\u975e\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,ADCUMNEVENTRATE_VLABEL,1.0,\u8c03\u6574\u7684\u7d2f\u79ef\u975e\u4e8b\u4ef6\u7387
+zh_CN,ADEMPIRICALODDS_VLABEL,1.0,\u8c03\u6574\u7684\u7ecf\u9a8c\u4f18\u6bd4
+zh_CN,ADEVENTODDS_VLABEL,1.0,\u8c03\u6574\u7684\u4e8b\u4ef6\u4f18\u6bd4
+zh_CN,ADJCUMINDETRATE_VLABEL,1.0,\u8c03\u6574\u7d2f\u79ef\u4e0d\u786e\u5b9a\u7387
+zh_CN,ADJMARGINDETRATE_VLABEL,1.0,\u8c03\u6574\u8fb9\u9645\u4e0d\u786e\u5b9a\u7387
+zh_CN,ADLOGEVENTODDS_VLABEL,1.0,\u8c03\u6574\u7684\u5bf9\u6570\uff08\u4e8b\u4ef6\u4f18\u6bd4\uff09
+zh_CN,ADMAREVENTRATE_VLABEL,1.0,\u8c03\u6574\u7684\u8fb9\u9645\u4e8b\u4ef6\u7387
+zh_CN,ADMARNEVENTRATE_VLABEL,1.0,\u8c03\u6574\u7684\u8fb9\u9645\u975e\u4e8b\u4ef6\u7387
+zh_CN,ADNEVENTCOUNT_VLABEL,1.0,\u8c03\u6574\u7684\u975e\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,ADPOPPERCENTAGE_VLABEL,1.0,\u8c03\u6574\u7684\u603b\u4f53\u767e\u5206\u6bd4
+zh_CN,ADPROPPOP_VLABEL,1.0,\u8c03\u6574\u7684\u5360\u603b\u4f53\u7684\u6bd4\u4f8b
+zh_CN,ADPROPTOTEVENTCOUNT_VLABEL,1.0,\u8c03\u6574\u7684\u5360\u603b\u4e8b\u4ef6\u8ba1\u6570\u7684\u6bd4\u4f8b
+zh_CN,ADVERSECOUNT_VLABEL,1.0,\u4e0d\u826f\u539f\u56e0 %s \u8ba1\u6570
+zh_CN,ADVERSE_RULE_VLABEL,1.0,\u4e0d\u826f\u89c4\u5219 %s
+zh_CN,ADVERSE_VALUE_VLABEL,1.0,\u4e0d\u826f\u5dee\u5f02 %s
+zh_CN,ADVERSE_VLABEL,1.0,\u4e0d\u826f\u53d8\u91cf %s
+zh_CN,APPLYMAXBINTOTAL_VLABEL,1.0,\u5e94\u7528\u6700\u5927\u603b\u8ba1\u6570
+zh_CN,APPLYMAXBINWIDTH_VLABEL,1.0,\u5e94\u7528\u6700\u5927\u622a\u6b62\u503c\u5dee
+zh_CN,APPLYMAXNUMBINS_VLABEL,1.0,\u5e94\u7528\u6700\u5927\u7ec4\u6570
+zh_CN,APPLYMINBINDIFF_VLABEL,1.0,\u5e94\u7528\u6700\u5c0f WOE \u5dee
+zh_CN,APPLYMINBINTOTAL_VLABEL,1.0,\u5e94\u7528\u6700\u5c0f\u603b\u8ba1\u6570
+zh_CN,APPLYMINBINWIDTH_VLABEL,1.0,\u5e94\u7528\u6700\u5c0f\u622a\u6b62\u503c\u5dee
+zh_CN,APPLYMINNUMBINS_VLABEL,1.0,\u5e94\u7528\u6700\u5c0f\u7ec4\u6570
+zh_CN,APPLYMINNUMEVENT_VLABEL,1.0,\u5e94\u7528\u6700\u5c0f\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,APPLYMINNUMNONEVENT_VLABEL,1.0,\u5e94\u7528\u6700\u5c0f\u975e\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,APPLYMONOTONICITY_VLABEL,1.0,\u5e94\u7528 WOE \u5355\u8c03\u6027
+zh_CN,ARATIO_VLABEL,1.0,\u51c6\u786e\u7387
+zh_CN,ATTEVENTRATE_TITLE,1.0,\u4e8b\u4ef6\u7387\u548c\u5e73\u5747\u8bc4\u5206\u5c5e\u6027
+zh_CN,ATTPROPBYSCORE_TITLE,1.0,\u8bc4\u5206\u6bd4\u4f8b\u5c5e\u6027
+zh_CN,AUGEVENTRATE_VLABEL,1.0,\u589e\u5927\u6570\u636e\u4e8b\u4ef6\u7387
+zh_CN,AVGMARGPROFIT_VLABEL,1.0,\u5e73\u5747\u8fb9\u9645\u5229\u6da6
+zh_CN,AVGSCPTS_VLABEL,1.0,\u5e73\u5747\u8bb0\u5206\u5361\u70b9\u6570
+zh_CN,AVGTOTALPROFIT_VLABEL,1.0,\u5e73\u5747\u603b\u5229\u6da6
+zh_CN,BASELINE_VLABEL,1.0,\u57fa\u7ebf
+zh_CN,BUCKET_VLABEL,1.0,\u6876
+zh_CN,CALCROLE_VLABEL,1.0,\u8ba1\u7b97\u7684\u89d2\u8272
+zh_CN,CALCWOE_VLABEL,1.0,\u8ba1\u7b97\u7684 WOE
+zh_CN,CCFVAR_VLABEL,1.0,CCF \u53d8\u91cf
+zh_CN,CHARANALYSIS_TITLE,1.0,\u7279\u5f81\u5206\u6790: %s
+zh_CN,CODESWRONGTYPE_ERROR,1.0,ERROR: \u4ee3\u7801\u6570\u636e\u96c6\u4e2d\u9884\u671f\u7684\u53d8\u91cf\u7684\u7c7b\u578b\u4e0d\u6b63\u786e\u6216\u4e0d\u5b58\u5728\u3002
+zh_CN,COEFF_VLABEL,1.0,\u7cfb\u6570
+zh_CN,COUNT_VLABEL,1.0,\u8ba1\u6570
+zh_CN,CUMAPPROVALRATE_VLABEL,1.0,\u7d2f\u79ef\u6279\u51c6\u7387
+zh_CN,CUMCOUNT_VLABEL,1.0,\u7d2f\u79ef\u8ba1\u6570
+zh_CN,CUMEVENTCOUNT_VLABEL,1.0,\u7d2f\u79ef\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,CUMEVENTRATE_TITLE,1.0,\u8bc4\u5206\u7d2f\u79ef\u4e8b\u4ef6\u7387
+zh_CN,CUMEVENTRATE_VLABEL,1.0,\u7d2f\u79ef\u4e8b\u4ef6\u7387
+zh_CN,CUMINDETCOUNT_VLABEL,1.0,\u7d2f\u79ef\u4e0d\u786e\u5b9a\u8ba1\u6570
+zh_CN,CUMINDETRATE_VLABEL,1.0,\u7d2f\u79ef\u4e0d\u786e\u5b9a\u7387
+zh_CN,CUMNEVENTCOUNT_VLABEL,1.0,\u7d2f\u79ef\u975e\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,CUMNEVENTRATE_VLABEL,1.0,\u7d2f\u79ef\u975e\u4e8b\u4ef6\u7387
+zh_CN,CUTOFFOUTOFRANGE_ERROR,1.0,"ERROR:  \u7528\u6237\u6307\u5b9a\u7684\u622a\u6b62\u503c\u5fc5\u987b\u5728\u76ee\u6807\u503c\u7684\u8303\u56f4\u5185\uff0c[%#1s,%#2s)\u3002"
+zh_CN,CUTOFFSCORE_VLABEL,1.0,\u622a\u6b62\u8bc4\u5206
+zh_CN,DATAROLE_VLABEL,1.0,\u6570\u636e\u89d2\u8272
+zh_CN,DISPVAR_VLABEL,1.0,\u53d8\u91cf
+zh_CN,DISPWOE_VLABEL,1.0,\u65b0\u5efa WOE
+zh_CN,EFFECTNUM_VLABEL,1.0,\u6548\u5e94\u6570
+zh_CN,EFFECT_VLABEL,1.0,\u6548\u5e94
+zh_CN,EFFLABEL_VLABEL,1.0,\u6548\u5e94\u6807\u7b7e
+zh_CN,EMCCF_VLABEL,1.0,\u5e73\u5747 CCF
+zh_CN,EMEXPOSURE_VLABEL,1.0,\u5e73\u5747\u655e\u53e3
+zh_CN,EMLGD_VLABEL,1.0,\u5e73\u5747 LGD
+zh_CN,EMPD_VLABEL,1.0,\u5e73\u5747\u9884\u6d4b\u6982\u7387
+zh_CN,EMPIRICALODDS_VLABEL,1.0,\u7ecf\u9a8c\u4f18\u6bd4
+zh_CN,ERATE_VLABEL,1.0,\u4e8b\u4ef6\u7387
+zh_CN,EVENTCOUNT_VLABEL,1.0,\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,EVENTODDS_VLABEL,1.0,\u4e8b\u4ef6\u4f18\u6bd4
+zh_CN,EVENTRATETARGET_VLABEL,1.0,\u4e8b\u4ef6\u7387 %#1s = %#2s
+zh_CN,EVENTRATE_VLABEL,1.0,\u4e8b\u4ef6\u7387
+zh_CN,EXPORTROLE_VLABEL,1.0,\u5bfc\u51fa\u7684\u89d2\u8272
+zh_CN,EXPOSUREVAR_VLABEL,1.0,\u655e\u53e3\u53d8\u91cf
+zh_CN,FORMAT_VLABEL,1.0,\u683c\u5f0f
+zh_CN,FREQ_VLABEL,1.0,\u9891\u6570
+zh_CN,GENERATEBINS_NOTE,1.0,\u4e3a\u533a\u95f4\u578b\u53d8\u91cf\u751f\u6210\u7bb1
+zh_CN,GENERATEFROZENBINS_NOTE,1.0,\u4e3a\u51bb\u7ed3\u7684\u5206\u7ec4\u5b9a\u4e49\u4e2d\u5b9a\u4e49\u7684\u533a\u95f4\u578b\u53d8\u91cf\u751f\u6210\u7bb1
+zh_CN,GENERATEIMPORTBINS_NOTE,1.0,\u4e3a\u5bfc\u5165\u7684\u5206\u7ec4\u5b9a\u4e49\u4e2d\u5b9a\u4e49\u7684\u533a\u95f4\u578b\u53d8\u91cf\u751f\u6210\u7bb1
+zh_CN,GINIORDER_VLABEL,1.0,Gini \u6392\u5e8f
+zh_CN,GINI_VLABEL,1.0,Gini \u7edf\u8ba1\u91cf
+zh_CN,GNRESPRATE_VLABEL,1.0,\u7ec4\u975e\u4e8b\u4ef6\u7387
+zh_CN,GRESPRATE_VLABEL,1.0,\u7ec4\u4e8b\u4ef6\u7387
+zh_CN,GROUP_VLABEL,1.0,\u5206\u7ec4
+zh_CN,GRPVAR_VLABEL,1.0,\u5206\u7ec4\u53d8\u91cf
+zh_CN,GRP_VLABEL,1.0,\u5206\u7ec4
+zh_CN,GVALUES_VLABEL,1.0,\u5206\u7ec4\u503c
+zh_CN,HEADER_BUCKETLOG_TITLE,1.0,\u4ea4\u4e92\u5f0f\u8bc4\u5206\u8303\u56f4\u65e5\u5fd7
+zh_CN,HEADER_BUCKETOUT_TITLE,1.0,\u4ea4\u4e92\u5f0f\u8bc4\u5206\u8303\u56f4\u8f93\u51fa
+zh_CN,HEADER_SCORECARDLOG_TITLE,1.0,\u4ea4\u4e92\u5f0f\u8bb0\u5206\u5361\u70b9\u65e5\u5fd7
+zh_CN,HEADER_SCORECARDOUT_TITLE,1.0,\u4ea4\u4e92\u5f0f\u8bb0\u5206\u5361\u70b9\u8f93\u51fa
+zh_CN,HIGHPREDPROB_VLABEL,1.0,\u9884\u6d4b\u6982\u7387\u9608\u503c\u4e0a\u9650
+zh_CN,HIGHRANGE_VLABEL,1.0,\u8303\u56f4\u4e0a\u9650
+zh_CN,HIGHTHRESHOLD_VLABEL,1.0,\u9ad8\u5206\u9608\u503c
+zh_CN,INDETCOUNT_VLABEL,1.0,\u4e0d\u786e\u5b9a\u8ba1\u6570
+zh_CN,INDEX_VLABEL,1.0,\u7d22\u5f15
+zh_CN,INFEVENTCOUNT_VLABEL,1.0,\u62d2\u7edd\u63a8\u65ad\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,INFEVENTRATE_VLABEL,1.0,\u62d2\u7edd\u63a8\u65ad\u4e8b\u4ef6\u7387
+zh_CN,INFNEVENTCOUNT_VLABEL,1.0,\u62d2\u7edd\u63a8\u65ad\u7684\u975e\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,INFOVALORDER_VLABEL,1.0,\u4fe1\u606f\u503c\u6392\u5e8f
+zh_CN,INFOVAL_VLABEL,1.0,\u4fe1\u606f\u503c
+zh_CN,INPUTVAR_VLABEL,1.0,\u8f93\u5165\u53d8\u91cf
+zh_CN,INPUT_VLABEL,1.0,\u8f93\u5165\u53d8\u91cf
+zh_CN,INTERCEPT_VLABEL,1.0,\u622a\u8ddd
+zh_CN,INVALID_NOTE,1.0,NOTE: \u4e3a\u201c%s\u201d\u6307\u5b9a\u7684\u503c\u65e0\u6548\u3002
+zh_CN,LABEL_VLABEL,1.0,\u6807\u7b7e
+zh_CN,LEVEL_VLABEL,1.0,\u6c34\u5e73
+zh_CN,LGDVAR_VLABEL,1.0,LGD \u53d8\u91cf
+zh_CN,LOGEVENTODDS_VLABEL,1.0,\u5bf9\u6570\uff08\u4e8b\u4ef6\u4f18\u6bd4\uff09
+zh_CN,LOWPREDPROB_VLABEL,1.0,\u9884\u6d4b\u6982\u7387\u9608\u503c\u4e0b\u9650
+zh_CN,LOWRANGE_VLABEL,1.0,\u8303\u56f4\u4e0b\u9650
+zh_CN,LOWTHRESHOLD_VLABEL,1.0,\u4f4e\u5206\u9608\u503c
+zh_CN,MANUALWOE_VLABEL,1.0,\u624b\u52a8 WOE
+zh_CN,MAPPINGSPECIALVALUES_NOTE,1.0,\u7279\u6b8a\u7f16\u7801\u503c\u7684\u6620\u5c04
+zh_CN,MAREVENTRATE_VLABEL,1.0,\u8fb9\u9645\u4e8b\u4ef6\u7387
+zh_CN,MARGINDETRATE_VLABEL,1.0,\u8fb9\u9645\u4e0d\u786e\u5b9a\u7387
+zh_CN,MARNEVENTRATE_VLABEL,1.0,\u8fb9\u9645\u975e\u4e8b\u4ef6\u7387
+zh_CN,MAXBINTOTAL_VLABEL,1.0,\u6700\u5927\u603b\u8ba1\u6570
+zh_CN,MAXBINWIDTH_VLABEL,1.0,\u6700\u5927\u622a\u6b62\u503c\u5dee
+zh_CN,MAXNUMBINS_VLABEL,1.0,\u6700\u5927\u7ec4\u6570
+zh_CN,MIDPOINT_VLABEL,1.0,\u4e2d\u70b9
+zh_CN,MINBINDIFF_VLABEL,1.0,\u6700\u5c0f WOE \u5dee
+zh_CN,MINBINTOTAL_VLABEL,1.0,\u6700\u5c0f\u603b\u8ba1\u6570
+zh_CN,MINBINWIDTH_VLABEL,1.0,\u6700\u5c0f\u622a\u6b62\u503c\u5dee
+zh_CN,MINNUMBINS_VLABEL,1.0,\u6700\u5c0f\u7ec4\u6570
+zh_CN,MINNUMEVENT_VLABEL,1.0,\u6700\u5c0f\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,MINNUMNONEVENT_VLABEL,1.0,\u6700\u5c0f\u975e\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,MISSING_VLABEL,1.0,\u7f3a\u5931\u503c
+zh_CN,NAME_VLABEL,1.0,\u540d\u79f0
+zh_CN,NEUTRAL_VLABEL,1.0,\u4e2d\u7acb\u8bc4\u5206
+zh_CN,NEVENTCOUNT_VLABEL,1.0,\u975e\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,NEWGINI_VLABEL,1.0,\u65b0 Gini
+zh_CN,NEWINFOVAL_VLABEL,1.0,\u65b0\u4fe1\u606f\u503c
+zh_CN,NEWROLE_VLABEL,1.0,\u65b0\u89d2\u8272
+zh_CN,NOCODESDATA_ERROR,1.0,ERROR: \u82e5\u201c\u4f7f\u7528\u7279\u6b8a\u4ee3\u7801\u201d\u8bbe\u7f6e\u4e3a\u201c\u662f\u201d\uff0c\u5219\u5fc5\u987b\u6307\u5b9a\u4ee3\u7801\u6570\u636e\u96c6\u3002
+zh_CN,NOFINEDETAIL_ERROR,1.0,ERROR: \u6570\u636e\u96c6 finedetail \u4e0d\u5b58\u5728\u3002\u5fc5\u987b\u5148\u8fd0\u884c\u8282\u70b9\uff0c\u7136\u540e\u624d\u80fd\u5c06\u201c\u51bb\u7ed3\u201d\u8bbe\u7f6e\u4e3a\u201c\u662f\u201d\u521b\u5efa\u521d\u59cb\u503c\u3002
+zh_CN,NONBINTARGETTRANS_ERROR,1.0,ERROR: \u975e\u4e8c\u503c\u578b\u76ee\u6807\u662f\u57fa\u4e8e\u533a\u95f4\u578b\u76ee\u6807\u521b\u5efa\u7684\u3002\u8bf7\u66f4\u6539\u533a\u95f4\u578b\u76ee\u6807\u9009\u9879\u5c5e\u6027\u3002
+zh_CN,NONEVENTRATE_VLABEL,1.0,\u975e\u4e8b\u4ef6\u7387
+zh_CN,NORMVALUE_VLABEL,1.0,\u6807\u51c6\u5316\u503c
+zh_CN,ORIGGINI_VLABEL,1.0,\u539f\u59cb Gini
+zh_CN,ORIGINFOVAL_VLABEL,1.0,\u539f\u59cb\u4fe1\u606f\u503c
+zh_CN,PARCELING_ERROR,1.0,ERROR: \u65e0\u6cd5\u8fdb\u884c\u5206\u914d\u3002\u8bf7\u5c1d\u8bd5\u589e\u52a0\u201c\u4e8b\u4ef6\u7387\u589e\u52a0\u201d\u5c5e\u6027\u7684\u503c\u3002
+zh_CN,PERCENTEVENTCOUNT_VLABEL,1.0,\u4e8b\u4ef6\u8ba1\u6570\u767e\u5206\u6bd4
+zh_CN,PERCENTSAMPLE_VLABEL,1.0,\u62bd\u6837\u767e\u5206\u6bd4
+zh_CN,PERCENT_VLABEL,1.0,\u767e\u5206\u6bd4
+zh_CN,POPPERCENTAGE_VLABEL,1.0,\u603b\u4f53\u767e\u5206\u6bd4
+zh_CN,POSTERIORVAR_VLABEL,1.0,\u540e\u9a8c\u53d8\u91cf
+zh_CN,PPERCENT_VLABEL,1.0,\u5360\u603b\u4f53\u7684\u767e\u5206\u6bd4
+zh_CN,PREDEFINED_VLABEL,1.0,\u9884\u5b9a\u4e49\u5206\u7ec4
+zh_CN,PREDICTEDODDS_VLABEL,1.0,\u9884\u6d4b\u4f18\u6bd4
+zh_CN,PROCGRPVAR_VLABEL,1.0,Arbor \u751f\u6210\u7684\u5206\u7ec4\u53d8\u91cf
+zh_CN,PROCLEVEL_VLABEL,1.0,\u4ea4\u4e92\u6c34\u5e73
+zh_CN,PROCVAR_VLABEL,1.0,Arbor \u4f7f\u7528\u7684\u8f93\u5165
+zh_CN,PROCWOEVAR_VLABEL,1.0,Arbor \u751f\u6210\u7684 WOE \u53d8\u91cf
+zh_CN,PROPPOP_VLABEL,1.0,\u5360\u603b\u4f53\u7684\u6bd4\u4f8b
+zh_CN,PROPTOTEVENTCOUNT_VLABEL,1.0,\u5360\u603b\u4e8b\u4ef6\u8ba1\u6570\u7684\u6bd4\u4f8b
+zh_CN,RANGETOOSMALL_NOTE,1.0,\u5bf9\u6307\u5b9a\u7684\u6876\u6570\u800c\u8a00\u8303\u56f4\u592a\u5c0f
+zh_CN,REJECTTOTAL_VLABEL,1.0,\u603b\u62d2\u7edd\u6570
+zh_CN,REJEVENTRATE_TITLE,1.0,\u62d2\u7edd\u63a8\u65ad: \u4e8b\u4ef6\u7387
+zh_CN,RESETNUMBUCKETS_NOTE,1.0,\u6876\u6570\u5c06\u4ece %#1s \u91cd\u7f6e\u4e3a %#2s
+zh_CN,RESET_NOTE,1.0,\u201c%s\u201d\u7684\u503c\u5df2\u91cd\u7f6e\u4e3a\u9ed8\u8ba4\u503c\u3002
+zh_CN,ROLE_VLABEL,1.0,\u89d2\u8272
+zh_CN,SATURATED_VLABEL,1.0,\u9971\u548c
+zh_CN,SCOREBUCKET_VLABEL,1.0,\u8bc4\u5206\u6876
+zh_CN,SCORECARD_TITLE,1.0,\u8bb0\u5206\u5361
+zh_CN,SCPTS_VLABEL,1.0,\u8bb0\u5206\u5361\u70b9\u6570
+zh_CN,SIGN_VLABEL,1.0,\u6807\u8bb0
+zh_CN,SPECIALCODEVALUES_NOTE,1.0,\u7279\u6b8a\u4ee3\u7801\u503c
+zh_CN,SUMSTATS_TITLE,1.0,\u6c47\u603b\u7edf\u8ba1\u91cf
+zh_CN,TARGETOUTOFRANGE_ERROR,1.0,ERROR: \u533a\u95f4\u578b\u76ee\u6807\u503c\u51fa\u73b0\u5728\u6307\u5b9a\u7684\u8303\u56f4\u4e4b\u5916\u3002
+zh_CN,TEFFECTNUM_VLABEL,1.0,TScore \u6570
+zh_CN,TESTEVENTRATE_VLABEL,1.0,\u6d4b\u8bd5\u6570\u636e\u4e8b\u4ef6\u7387
+zh_CN,TRAINEVENTRATE_VLABEL,1.0,\u8bad\u7ec3\u6570\u636e\u4e8b\u4ef6\u7387
+zh_CN,TVALUE_VLABEL,1.0,T \u503c
+zh_CN,TYPE_VLABEL,1.0,\u7c7b\u578b
+zh_CN,VALIDEVENTRATE_VLABEL,1.0,\u9a8c\u8bc1\u6570\u636e\u4e8b\u4ef6\u7387
+zh_CN,VALUE_VLABEL,1.0,\u503c
+zh_CN,VARIABLE_VLABEL,1.0,\u53d8\u91cf
+zh_CN,WOEVAR_VLABEL,1.0,WOE \u53d8\u91cf
+zh_CN,WTAVG_VLABEL,1.0,\u52a0\u6743\u5e73\u5747\u503c
+zh_CN,WTEV_VLABEL,1.0,\u8bc1\u636e\u6743\u91cd
+zh_HK,ABSCOEFF_VLABEL,1.0,\u7d55\u5c0d\u4fc2\u6578
+zh_HK,ABSTVALUE_VLABEL,1.0,\u7d55\u5c0d T \u503c
+zh_HK,ACCEPTEVENTCOUNT_VLABEL,1.0,\u63a5\u53d7\u4e8b\u4ef6\u8a08\u6578
+zh_HK,ACCEPTEVENTRATE_VLABEL,1.0,\u63a5\u53d7\u4e8b\u4ef6\u7387
+zh_HK,ACCEPTNEVENTCOUNT_VLABEL,1.0,\u63a5\u53d7\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_HK,ACCEPTTOTAL_VLABEL,1.0,\u63a5\u53d7\u7e3d\u8a08
+zh_HK,ACTUALINFERRED_VLABEL,1.0,\u63a5\u53d7 / \u63a8\u8ad6
+zh_HK,ADAVGMARGPROFIT_VLABEL,1.0,\u8abf\u6574\u5e73\u5747\u908a\u969b\u5229\u6f64
+zh_HK,ADAVGTOTALPROFIT_VLABEL,1.0,\u8abf\u6574\u5e73\u5747\u7e3d\u5229\u6f64
+zh_HK,ADCOUNT_VLABEL,1.0,\u8abf\u6574\u8a08\u6578
+zh_HK,ADCUMAPPROVALRATE_VLABEL,1.0,\u8abf\u6574\u7d2f\u8a08\u6838\u51c6\u7387
+zh_HK,ADCUMCOUNT,1.0,\u8abf\u6574\u7d2f\u8a08\u8a08\u6578
+zh_HK,ADCUMEVENTRATE_VLABEL,1.0,\u8abf\u6574\u7d2f\u8a08\u4e8b\u4ef6\u7387
+zh_HK,ADCUMNEVENTCOUNT_VLABEL,1.0,\u8abf\u6574\u7d2f\u8a08\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_HK,ADCUMNEVENTRATE_VLABEL,1.0,\u8abf\u6574\u7d2f\u8a08\u975e\u4e8b\u4ef6\u7387
+zh_HK,ADEMPIRICALODDS_VLABEL,1.0,\u8abf\u6574\u7d93\u9a57\u52dd\u7b97\u6bd4
+zh_HK,ADEVENTODDS_VLABEL,1.0,\u8abf\u6574\u4e8b\u4ef6\u52dd\u7b97\u6bd4
+zh_HK,ADJCUMINDETRATE_VLABEL,1.0,\u8abf\u6574\u7d2f\u8a08\u4e0d\u78ba\u5b9a\u6bd4\u7387
+zh_HK,ADJMARGINDETRATE_VLABEL,1.0,\u8abf\u6574\u908a\u969b\u4e0d\u78ba\u5b9a\u6bd4\u7387
+zh_HK,ADLOGEVENTODDS_VLABEL,1.0,\u8abf\u6574\u5c0d\u6578 (\u4e8b\u4ef6\u52dd\u7b97\u6bd4)
+zh_HK,ADMAREVENTRATE_VLABEL,1.0,\u8abf\u6574\u908a\u969b\u4e8b\u4ef6\u7387
+zh_HK,ADMARNEVENTRATE_VLABEL,1.0,\u8abf\u6574\u908a\u969b\u975e\u4e8b\u4ef6\u7387
+zh_HK,ADNEVENTCOUNT_VLABEL,1.0,\u8abf\u6574\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_HK,ADPOPPERCENTAGE_VLABEL,1.0,\u8abf\u6574\u6bcd\u9ad4\u767e\u5206\u6bd4
+zh_HK,ADPROPPOP_VLABEL,1.0,\u8abf\u6574\u6bcd\u9ad4\u6bd4\u4f8b
+zh_HK,ADPROPTOTEVENTCOUNT_VLABEL,1.0,\u8abf\u6574\u7e3d\u4e8b\u4ef6\u8a08\u6578\u7684\u6bd4\u4f8b
+zh_HK,ADVERSECOUNT_VLABEL,1.0,\u4e0d\u826f\u539f\u56e0 %s \u8a08\u6578
+zh_HK,ADVERSE_RULE_VLABEL,1.0,\u4e0d\u826f\u898f\u5247 %s
+zh_HK,ADVERSE_VALUE_VLABEL,1.0,\u4e0d\u826f\u5dee\u7570 %s
+zh_HK,ADVERSE_VLABEL,1.0,\u4e0d\u826f\u8b8a\u6578 %s
+zh_HK,APPLYMAXBINTOTAL_VLABEL,1.0,\u5957\u7528\u6700\u5927\u7e3d\u8a08\u6578
+zh_HK,APPLYMAXBINWIDTH_VLABEL,1.0,\u5957\u7528\u6700\u5927\u622a\u6b62\u503c\u5dee\u7570
+zh_HK,APPLYMAXNUMBINS_VLABEL,1.0,\u5957\u7528\u6700\u5927\u7fa4\u7d44
+zh_HK,APPLYMINBINDIFF_VLABEL,1.0,\u5957\u7528\u6700\u5c0f WOE \u5dee\u7570
+zh_HK,APPLYMINBINTOTAL_VLABEL,1.0,\u5957\u7528\u6700\u5c0f\u7e3d\u8a08\u6578
+zh_HK,APPLYMINBINWIDTH_VLABEL,1.0,\u5957\u7528\u6700\u5c0f\u622a\u6b62\u503c\u5dee\u7570
+zh_HK,APPLYMINNUMBINS_VLABEL,1.0,\u5957\u7528\u6700\u5c0f\u7fa4\u7d44
+zh_HK,APPLYMINNUMEVENT_VLABEL,1.0,\u5957\u7528\u6700\u5c0f\u4e8b\u4ef6\u8a08\u6578
+zh_HK,APPLYMINNUMNONEVENT_VLABEL,1.0,\u5957\u7528\u6700\u5c0f\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_HK,APPLYMONOTONICITY_VLABEL,1.0,\u5957\u7528 WOE \u55ae\u8abf\u6027
+zh_HK,ARATIO_VLABEL,1.0,\u6e96\u78ba\u5ea6\u6bd4\u4f8b
+zh_HK,ATTEVENTRATE_TITLE,1.0,\u7279\u6027\u4e8b\u4ef6\u7387\u548c\u5e73\u5747\u8a55\u5206
+zh_HK,ATTPROPBYSCORE_TITLE,1.0,\u8a55\u5206\u7684\u7279\u6027\u6bd4\u4f8b
+zh_HK,AUGEVENTRATE_VLABEL,1.0,\u589e\u52a0\u7684\u8cc7\u6599\u4e8b\u4ef6\u7387
+zh_HK,AVGMARGPROFIT_VLABEL,1.0,\u5e73\u5747\u908a\u969b\u5229\u6f64
+zh_HK,AVGSCPTS_VLABEL,1.0,\u5e73\u5747\u8a08\u5206\u5361\u9ede\u6578
+zh_HK,AVGTOTALPROFIT_VLABEL,1.0,\u5e73\u5747\u7e3d\u5229\u6f64
+zh_HK,BASELINE_VLABEL,1.0,\u57fa\u7dda
+zh_HK,BUCKET_VLABEL,1.0,\u7b49\u8ddd\u5206\u7d44
+zh_HK,CALCROLE_VLABEL,1.0,\u8a08\u7b97\u7684\u89d2\u8272
+zh_HK,CALCWOE_VLABEL,1.0,\u8a08\u7b97\u7684 WOE
+zh_HK,CCFVAR_VLABEL,1.0,CCF \u8b8a\u6578
+zh_HK,CHARANALYSIS_TITLE,1.0,\u7279\u5fb5\u5206\u6790: %s
+zh_HK,CODESWRONGTYPE_ERROR,1.0,ERROR: Codes \u8cc7\u6599\u96c6\u4e2d\u9810\u671f\u7684\u8b8a\u6578\u985e\u578b\u4e0d\u6b63\u78ba\u6216\u4e0d\u5b58\u5728\u3002
+zh_HK,COEFF_VLABEL,1.0,\u4fc2\u6578
+zh_HK,COUNT_VLABEL,1.0,\u8a08\u6578
+zh_HK,CUMAPPROVALRATE_VLABEL,1.0,\u7d2f\u8a08\u6838\u51c6\u7387
+zh_HK,CUMCOUNT_VLABEL,1.0,\u7d2f\u8a08\u8a08\u6578
+zh_HK,CUMEVENTCOUNT_VLABEL,1.0,\u7d2f\u8a08\u4e8b\u4ef6\u8a08\u6578
+zh_HK,CUMEVENTRATE_TITLE,1.0,\u8a55\u5206\u7684\u7d2f\u8a08\u4e8b\u4ef6\u7387
+zh_HK,CUMEVENTRATE_VLABEL,1.0,\u7d2f\u8a08\u4e8b\u4ef6\u7387
+zh_HK,CUMINDETCOUNT_VLABEL,1.0,\u7d2f\u8a08\u4e0d\u78ba\u5b9a\u8a08\u6578
+zh_HK,CUMINDETRATE_VLABEL,1.0,\u7d2f\u8a08\u4e0d\u78ba\u5b9a\u6bd4\u7387
+zh_HK,CUMNEVENTCOUNT_VLABEL,1.0,\u7d2f\u8a08\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_HK,CUMNEVENTRATE_VLABEL,1.0,\u7d2f\u8a08\u975e\u4e8b\u4ef6\u7387
+zh_HK,CUTOFFOUTOFRANGE_ERROR,1.0,"Error:  \u4f7f\u7528\u8005\u6307\u5b9a\u7684\u622a\u6b62\u503c\u5fc5\u9808\u5728\u76ee\u6a19\u503c\u7684\u7bc4\u570d\u4e2d\uff0c[%#1s,%#2s)\u3002"
+zh_HK,CUTOFFSCORE_VLABEL,1.0,\u622a\u6b62\u8a55\u5206
+zh_HK,DATAROLE_VLABEL,1.0,\u8cc7\u6599\u89d2\u8272
+zh_HK,DISPVAR_VLABEL,1.0,\u8b8a\u6578
+zh_HK,DISPWOE_VLABEL,1.0,\u65b0\u589e WOE
+zh_HK,EFFECTNUM_VLABEL,1.0,\u6548\u679c\u6578\u76ee
+zh_HK,EFFECT_VLABEL,1.0,\u6548\u679c
+zh_HK,EFFLABEL_VLABEL,1.0,\u6548\u679c\u6a19\u7c64
+zh_HK,EMCCF_VLABEL,1.0,\u5e73\u5747 CCF
+zh_HK,EMEXPOSURE_VLABEL,1.0,\u5e73\u5747\u66dd\u96aa\u984d
+zh_HK,EMLGD_VLABEL,1.0,\u5e73\u5747 LGD
+zh_HK,EMPD_VLABEL,1.0,\u5e73\u5747\u9810\u6e2c\u6a5f\u7387
+zh_HK,EMPIRICALODDS_VLABEL,1.0,\u7d93\u9a57\u52dd\u7b97\u6bd4
+zh_HK,ERATE_VLABEL,1.0,\u4e8b\u4ef6\u7387
+zh_HK,EVENTCOUNT_VLABEL,1.0,\u4e8b\u4ef6\u8a08\u6578
+zh_HK,EVENTODDS_VLABEL,1.0,\u4e8b\u4ef6\u52dd\u7b97\u6bd4
+zh_HK,EVENTRATETARGET_VLABEL,1.0,\u4e8b\u4ef6\u7387 %#1s = %#2s
+zh_HK,EVENTRATE_VLABEL,1.0,\u4e8b\u4ef6\u7387
+zh_HK,EXPORTROLE_VLABEL,1.0,\u532f\u51fa\u7684\u89d2\u8272
+zh_HK,EXPOSUREVAR_VLABEL,1.0,\u66dd\u96aa\u984d\u8b8a\u6578
+zh_HK,FORMAT_VLABEL,1.0,\u683c\u5f0f
+zh_HK,FREQ_VLABEL,1.0,\u6b21\u6578
+zh_HK,GENERATEBINS_NOTE,1.0,\u6b63\u5728\u70ba\u9593\u9694\u8b8a\u6578\u7522\u751f\u7b49\u8ddd\u7bb1\u6578
+zh_HK,GENERATEFROZENBINS_NOTE,1.0,\u6b63\u5728\u51cd\u7d50\u7684\u7fa4\u7d44\u5b9a\u7fa9\u4e2d\u70ba\u5b9a\u7fa9\u7684\u9593\u9694\u8b8a\u6578\u7522\u751f\u7b49\u8ddd\u7bb1\u6578
+zh_HK,GENERATEIMPORTBINS_NOTE,1.0,\u6b63\u5728\u532f\u5165\u7684\u7fa4\u7d44\u5b9a\u7fa9\u4e2d\u70ba\u5b9a\u7fa9\u7684\u9593\u9694\u8b8a\u6578\u7522\u751f\u7b49\u8ddd\u7bb1\u6578
+zh_HK,GINIORDER_VLABEL,1.0,Gini \u9806\u5e8f
+zh_HK,GINI_VLABEL,1.0,Gini \u7d71\u8a08
+zh_HK,GNRESPRATE_VLABEL,1.0,\u7fa4\u7d44\u975e\u4e8b\u4ef6\u7387
+zh_HK,GRESPRATE_VLABEL,1.0,\u7fa4\u7d44\u4e8b\u4ef6\u7387
+zh_HK,GROUP_VLABEL,1.0,\u7fa4\u7d44
+zh_HK,GRPVAR_VLABEL,1.0,\u7fa4\u7d44\u8b8a\u6578
+zh_HK,GRP_VLABEL,1.0,\u7fa4\u7d44
+zh_HK,GVALUES_VLABEL,1.0,\u7fa4\u7d44\u503c
+zh_HK,HEADER_BUCKETLOG_TITLE,1.0,\u4e92\u52d5\u5f0f\u8a08\u5206\u5361\u7bc4\u570d\u65e5\u8a8c
+zh_HK,HEADER_BUCKETOUT_TITLE,1.0,\u4e92\u52d5\u5f0f\u8a08\u5206\u5361\u7bc4\u570d\u8f38\u51fa
+zh_HK,HEADER_SCORECARDLOG_TITLE,1.0,\u4e92\u52d5\u5f0f\u8a08\u5206\u5361\u9ede\u6578\u65e5\u8a8c
+zh_HK,HEADER_SCORECARDOUT_TITLE,1.0,\u4e92\u52d5\u5f0f\u8a08\u5206\u5361\u9ede\u6578\u8f38\u51fa
+zh_HK,HIGHPREDPROB_VLABEL,1.0,\u9810\u6e2c\u6a5f\u7387\u81e8\u754c\u503c\u4e0a\u9650
+zh_HK,HIGHRANGE_VLABEL,1.0,\u7bc4\u570d\u4e0a\u9650
+zh_HK,HIGHTHRESHOLD_VLABEL,1.0,\u9ad8\u5206\u81e8\u754c\u503c
+zh_HK,INDETCOUNT_VLABEL,1.0,\u4e0d\u78ba\u5b9a\u8a08\u6578
+zh_HK,INDEX_VLABEL,1.0,\u7d22\u5f15
+zh_HK,INFEVENTCOUNT_VLABEL,1.0,\u62d2\u7d55\u63a8\u8ad6\u4e8b\u4ef6\u8a08\u6578
+zh_HK,INFEVENTRATE_VLABEL,1.0,\u62d2\u7d55\u63a8\u8ad6\u4e8b\u4ef6\u7387
+zh_HK,INFNEVENTCOUNT_VLABEL,1.0,\u62d2\u7d55\u63a8\u8ad6\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_HK,INFOVALORDER_VLABEL,1.0,\u8cc7\u8a0a\u503c\u9806\u5e8f
+zh_HK,INFOVAL_VLABEL,1.0,\u8cc7\u8a0a\u503c
+zh_HK,INPUTVAR_VLABEL,1.0,\u8f38\u5165\u8b8a\u6578
+zh_HK,INPUT_VLABEL,1.0,\u8f38\u5165\u8b8a\u6578
+zh_HK,INTERCEPT_VLABEL,1.0,\u622a\u8ddd
+zh_HK,INVALID_NOTE,1.0,NOTE: \u300c%s\u300d\u7684\u6307\u5b9a\u503c\u7121\u6548\u3002
+zh_HK,LABEL_VLABEL,1.0,\u6a19\u7c64
+zh_HK,LEVEL_VLABEL,1.0,\u5c64\u7d1a
+zh_HK,LGDVAR_VLABEL,1.0,LGD \u8b8a\u6578
+zh_HK,LOGEVENTODDS_VLABEL,1.0,\u5c0d\u6578 (\u4e8b\u4ef6\u52dd\u7b97\u6bd4)
+zh_HK,LOWPREDPROB_VLABEL,1.0,\u9810\u6e2c\u6a5f\u7387\u81e8\u754c\u503c\u4e0b\u9650
+zh_HK,LOWRANGE_VLABEL,1.0,\u7bc4\u570d\u4e0b\u9650
+zh_HK,LOWTHRESHOLD_VLABEL,1.0,\u4f4e\u5206\u81e8\u754c\u503c
+zh_HK,MANUALWOE_VLABEL,1.0,\u624b\u52d5 WOE
+zh_HK,MAPPINGSPECIALVALUES_NOTE,1.0,\u7279\u6b8a\u7de8\u78bc\u503c\u7684\u5c0d\u61c9
+zh_HK,MAREVENTRATE_VLABEL,1.0,\u908a\u969b\u4e8b\u4ef6\u7387
+zh_HK,MARGINDETRATE_VLABEL,1.0,\u908a\u969b\u4e0d\u78ba\u5b9a\u6bd4\u7387
+zh_HK,MARNEVENTRATE_VLABEL,1.0,\u908a\u969b\u975e\u4e8b\u4ef6\u7387
+zh_HK,MAXBINTOTAL_VLABEL,1.0,\u6700\u5927\u7e3d\u8a08\u6578
+zh_HK,MAXBINWIDTH_VLABEL,1.0,\u6700\u5927\u622a\u6b62\u503c\u5dee\u7570
+zh_HK,MAXNUMBINS_VLABEL,1.0,\u6700\u5927\u7fa4\u7d44\u6578\u76ee
+zh_HK,MIDPOINT_VLABEL,1.0,\u4e2d\u9ede
+zh_HK,MINBINDIFF_VLABEL,1.0,\u6700\u5c0f WOE \u5dee\u7570
+zh_HK,MINBINTOTAL_VLABEL,1.0,\u6700\u5c0f\u7e3d\u8a08\u6578
+zh_HK,MINBINWIDTH_VLABEL,1.0,\u6700\u5c0f\u622a\u6b62\u503c\u5dee\u7570
+zh_HK,MINNUMBINS_VLABEL,1.0,\u6700\u5c0f\u7fa4\u7d44\u6578\u76ee
+zh_HK,MINNUMEVENT_VLABEL,1.0,\u6700\u5c0f\u4e8b\u4ef6\u8a08\u6578
+zh_HK,MINNUMNONEVENT_VLABEL,1.0,\u6700\u5c0f\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_HK,MISSING_VLABEL,1.0,\u907a\u6f0f
+zh_HK,NAME_VLABEL,1.0,\u540d\u7a31
+zh_HK,NEUTRAL_VLABEL,1.0,\u4e2d\u7acb\u8a55\u5206
+zh_HK,NEVENTCOUNT_VLABEL,1.0,\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_HK,NEWGINI_VLABEL,1.0,\u65b0\u589e Gini
+zh_HK,NEWINFOVAL_VLABEL,1.0,\u65b0\u589e\u8cc7\u8a0a\u503c
+zh_HK,NEWROLE_VLABEL,1.0,\u65b0\u589e\u89d2\u8272
+zh_HK,NOCODESDATA_ERROR,1.0,ERROR: \u5982\u679c\u300c\u4f7f\u7528\u7279\u6b8a\u7a0b\u5f0f\u78bc\u300d\u8a2d\u5b9a\u70ba\u300c\u662f\u300d\uff0c\u5fc5\u9808\u6307\u5b9a Codes \u8cc7\u6599\u96c6\u3002
+zh_HK,NOFINEDETAIL_ERROR,1.0,ERROR: finedetail \u8cc7\u6599\u96c6\u4e0d\u5b58\u5728\u3002\u5fc5\u9808\u5148\u57f7\u884c\u7bc0\u9ede\uff0c\u7136\u5f8c\u5c07\u300c\u51cd\u7d50\u300d\u8a2d\u5b9a\u70ba\u300c\u662f\u300d\uff0c\u5efa\u7acb\u521d\u59cb\u503c\u3002
+zh_HK,NONBINTARGETTRANS_ERROR,1.0,Error:  \u5f9e\u9593\u9694\u76ee\u6a19\u5efa\u7acb\u975e\u4e8c\u5143\u76ee\u6a19\u3002\u8acb\u8b8a\u66f4\u9593\u9694\u76ee\u6a19\u9078\u9805\u5c6c\u6027\u3002
+zh_HK,NONEVENTRATE_VLABEL,1.0,\u975e\u4e8b\u4ef6\u7387
+zh_HK,NORMVALUE_VLABEL,1.0,\u6b63\u898f\u5316\u503c
+zh_HK,ORIGGINI_VLABEL,1.0,\u539f\u59cb Gini
+zh_HK,ORIGINFOVAL_VLABEL,1.0,\u539f\u59cb\u8cc7\u8a0a\u503c
+zh_HK,PARCELING_ERROR,1.0,ERROR: \u7121\u6cd5\u57f7\u884c\u90e8\u4efd\u3002\u8acb\u5617\u8a66\u589e\u52a0\u4e8b\u4ef6\u7387\u589e\u52a0\u5c6c\u6027\u7684\u503c\u3002
+zh_HK,PERCENTEVENTCOUNT_VLABEL,1.0,\u4e8b\u4ef6\u8a08\u6578\u767e\u5206\u6bd4
+zh_HK,PERCENTSAMPLE_VLABEL,1.0,\u6a23\u672c\u767e\u5206\u6bd4
+zh_HK,PERCENT_VLABEL,1.0,\u767e\u5206\u6bd4
+zh_HK,POPPERCENTAGE_VLABEL,1.0,\u6bcd\u9ad4\u767e\u5206\u6bd4
+zh_HK,POSTERIORVAR_VLABEL,1.0,\u4e8b\u5f8c\u8b8a\u6578
+zh_HK,PPERCENT_VLABEL,1.0,\u6bcd\u9ad4\u7684\u767e\u5206\u6bd4
+zh_HK,PREDEFINED_VLABEL,1.0,\u9810\u5148\u5b9a\u7fa9\u7684\u7fa4\u7d44
+zh_HK,PREDICTEDODDS_VLABEL,1.0,\u9810\u6e2c\u52dd\u7b97\u6bd4
+zh_HK,PROCGRPVAR_VLABEL,1.0,Arbor \u7522\u751f\u7684\u7fa4\u7d44\u8b8a\u6578
+zh_HK,PROCLEVEL_VLABEL,1.0,\u4e92\u52d5\u5f0f\u5c64\u7d1a
+zh_HK,PROCVAR_VLABEL,1.0,Arbor \u4f7f\u7528\u7684\u8f38\u5165
+zh_HK,PROCWOEVAR_VLABEL,1.0,Arbor \u7522\u751f\u7684 WOE \u8b8a\u6578
+zh_HK,PROPPOP_VLABEL,1.0,\u6bcd\u9ad4\u6bd4\u4f8b
+zh_HK,PROPTOTEVENTCOUNT_VLABEL,1.0,\u7e3d\u4e8b\u4ef6\u8a08\u6578\u7684\u6bd4\u4f8b
+zh_HK,RANGETOOSMALL_NOTE,1.0,\u7bc4\u570d\u5c0d\u65bc\u6307\u5b9a\u7684\u7b49\u8ddd\u5206\u7d44\u6578\u76ee\u800c\u8a00\u592a\u5c0f
+zh_HK,REJECTTOTAL_VLABEL,1.0,\u62d2\u7d55\u7e3d\u8a08
+zh_HK,REJEVENTRATE_TITLE,1.0,\u62d2\u7d55\u63a8\u8ad6: \u4e8b\u4ef6\u7387
+zh_HK,RESETNUMBUCKETS_NOTE,1.0,\u7b49\u8ddd\u5206\u7d44\u6578\u76ee\u6703\u5f9e %#1s \u91cd\u8a2d\u70ba %#2s
+zh_HK,RESET_NOTE,1.0,\u300c%s\u300d\u7684\u503c\u5df2\u91cd\u8a2d\u70ba\u9810\u8a2d\u503c\u3002
+zh_HK,ROLE_VLABEL,1.0,\u89d2\u8272
+zh_HK,SATURATED_VLABEL,1.0,\u98fd\u548c
+zh_HK,SCOREBUCKET_VLABEL,1.0,\u8a55\u5206\u7b49\u8ddd\u5206\u7d44
+zh_HK,SCORECARD_TITLE,1.0,\u8a08\u5206\u5361
+zh_HK,SCPTS_VLABEL,1.0,\u8a08\u5206\u5361\u9ede\u6578
+zh_HK,SIGN_VLABEL,1.0,\u7b26\u865f
+zh_HK,SPECIALCODEVALUES_NOTE,1.0,\u7279\u6b8a\u7a0b\u5f0f\u78bc\u503c
+zh_HK,SUMSTATS_TITLE,1.0,\u6458\u8981\u7d71\u8a08
+zh_HK,TARGETOUTOFRANGE_ERROR,1.0,Error:  \u9593\u9694\u76ee\u6a19\u7684\u503c\u5728\u6307\u5b9a\u7bc4\u570d\u4e4b\u5916\u3002
+zh_HK,TEFFECTNUM_VLABEL,1.0,TScore \u6578\u76ee
+zh_HK,TESTEVENTRATE_VLABEL,1.0,\u6e2c\u8a66\u8cc7\u6599\u4e8b\u4ef6\u7387
+zh_HK,TRAINEVENTRATE_VLABEL,1.0,\u8a13\u7df4\u8cc7\u6599\u4e8b\u4ef6\u7387
+zh_HK,TVALUE_VLABEL,1.0,T \u503c
+zh_HK,TYPE_VLABEL,1.0,\u985e\u578b
+zh_HK,VALIDEVENTRATE_VLABEL,1.0,\u9a57\u8b49\u8cc7\u6599\u4e8b\u4ef6\u7387
+zh_HK,VALUE_VLABEL,1.0,\u503c
+zh_HK,VARIABLE_VLABEL,1.0,\u8b8a\u6578
+zh_HK,WOEVAR_VLABEL,1.0,WOE \u8b8a\u6578
+zh_HK,WTAVG_VLABEL,1.0,\u52a0\u6b0a\u5e73\u5747
+zh_HK,WTEV_VLABEL,1.0,\u8b49\u64da\u6b0a\u6578
+zh_TW,ABSCOEFF_VLABEL,1.0,\u7d55\u5c0d\u4fc2\u6578
+zh_TW,ABSTVALUE_VLABEL,1.0,\u7d55\u5c0d T \u503c
+zh_TW,ACCEPTEVENTCOUNT_VLABEL,1.0,\u63a5\u53d7\u4e8b\u4ef6\u8a08\u6578
+zh_TW,ACCEPTEVENTRATE_VLABEL,1.0,\u63a5\u53d7\u4e8b\u4ef6\u7387
+zh_TW,ACCEPTNEVENTCOUNT_VLABEL,1.0,\u63a5\u53d7\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_TW,ACCEPTTOTAL_VLABEL,1.0,\u63a5\u53d7\u7e3d\u8a08
+zh_TW,ACTUALINFERRED_VLABEL,1.0,\u63a5\u53d7 / \u63a8\u8ad6
+zh_TW,ADAVGMARGPROFIT_VLABEL,1.0,\u8abf\u6574\u5e73\u5747\u908a\u969b\u5229\u6f64
+zh_TW,ADAVGTOTALPROFIT_VLABEL,1.0,\u8abf\u6574\u5e73\u5747\u7e3d\u5229\u6f64
+zh_TW,ADCOUNT_VLABEL,1.0,\u8abf\u6574\u8a08\u6578
+zh_TW,ADCUMAPPROVALRATE_VLABEL,1.0,\u8abf\u6574\u7d2f\u8a08\u6838\u51c6\u7387
+zh_TW,ADCUMCOUNT,1.0,\u8abf\u6574\u7d2f\u8a08\u8a08\u6578
+zh_TW,ADCUMEVENTRATE_VLABEL,1.0,\u8abf\u6574\u7d2f\u8a08\u4e8b\u4ef6\u7387
+zh_TW,ADCUMNEVENTCOUNT_VLABEL,1.0,\u8abf\u6574\u7d2f\u8a08\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_TW,ADCUMNEVENTRATE_VLABEL,1.0,\u8abf\u6574\u7d2f\u8a08\u975e\u4e8b\u4ef6\u7387
+zh_TW,ADEMPIRICALODDS_VLABEL,1.0,\u8abf\u6574\u7d93\u9a57\u52dd\u7b97\u6bd4
+zh_TW,ADEVENTODDS_VLABEL,1.0,\u8abf\u6574\u4e8b\u4ef6\u52dd\u7b97\u6bd4
+zh_TW,ADJCUMINDETRATE_VLABEL,1.0,\u8abf\u6574\u7d2f\u8a08\u4e0d\u78ba\u5b9a\u6bd4\u7387
+zh_TW,ADJMARGINDETRATE_VLABEL,1.0,\u8abf\u6574\u908a\u969b\u4e0d\u78ba\u5b9a\u6bd4\u7387
+zh_TW,ADLOGEVENTODDS_VLABEL,1.0,\u8abf\u6574\u5c0d\u6578 (\u4e8b\u4ef6\u52dd\u7b97\u6bd4)
+zh_TW,ADMAREVENTRATE_VLABEL,1.0,\u8abf\u6574\u908a\u969b\u4e8b\u4ef6\u7387
+zh_TW,ADMARNEVENTRATE_VLABEL,1.0,\u8abf\u6574\u908a\u969b\u975e\u4e8b\u4ef6\u7387
+zh_TW,ADNEVENTCOUNT_VLABEL,1.0,\u8abf\u6574\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_TW,ADPOPPERCENTAGE_VLABEL,1.0,\u8abf\u6574\u6bcd\u9ad4\u767e\u5206\u6bd4
+zh_TW,ADPROPPOP_VLABEL,1.0,\u8abf\u6574\u6bcd\u9ad4\u6bd4\u4f8b
+zh_TW,ADPROPTOTEVENTCOUNT_VLABEL,1.0,\u8abf\u6574\u7e3d\u4e8b\u4ef6\u8a08\u6578\u7684\u6bd4\u4f8b
+zh_TW,ADVERSECOUNT_VLABEL,1.0,\u4e0d\u826f\u539f\u56e0 %s \u8a08\u6578
+zh_TW,ADVERSE_RULE_VLABEL,1.0,\u4e0d\u826f\u898f\u5247 %s
+zh_TW,ADVERSE_VALUE_VLABEL,1.0,\u4e0d\u826f\u5dee\u7570 %s
+zh_TW,ADVERSE_VLABEL,1.0,\u4e0d\u826f\u8b8a\u6578 %s
+zh_TW,APPLYMAXBINTOTAL_VLABEL,1.0,\u5957\u7528\u6700\u5927\u7e3d\u8a08\u6578
+zh_TW,APPLYMAXBINWIDTH_VLABEL,1.0,\u5957\u7528\u6700\u5927\u622a\u6b62\u503c\u5dee\u7570
+zh_TW,APPLYMAXNUMBINS_VLABEL,1.0,\u5957\u7528\u6700\u5927\u7fa4\u7d44
+zh_TW,APPLYMINBINDIFF_VLABEL,1.0,\u5957\u7528\u6700\u5c0f WOE \u5dee\u7570
+zh_TW,APPLYMINBINTOTAL_VLABEL,1.0,\u5957\u7528\u6700\u5c0f\u7e3d\u8a08\u6578
+zh_TW,APPLYMINBINWIDTH_VLABEL,1.0,\u5957\u7528\u6700\u5c0f\u622a\u6b62\u503c\u5dee\u7570
+zh_TW,APPLYMINNUMBINS_VLABEL,1.0,\u5957\u7528\u6700\u5c0f\u7fa4\u7d44
+zh_TW,APPLYMINNUMEVENT_VLABEL,1.0,\u5957\u7528\u6700\u5c0f\u4e8b\u4ef6\u8a08\u6578
+zh_TW,APPLYMINNUMNONEVENT_VLABEL,1.0,\u5957\u7528\u6700\u5c0f\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_TW,APPLYMONOTONICITY_VLABEL,1.0,\u5957\u7528 WOE \u55ae\u8abf\u6027
+zh_TW,ARATIO_VLABEL,1.0,\u6e96\u78ba\u5ea6\u6bd4\u4f8b
+zh_TW,ATTEVENTRATE_TITLE,1.0,\u7279\u6027\u4e8b\u4ef6\u7387\u548c\u5e73\u5747\u8a55\u5206
+zh_TW,ATTPROPBYSCORE_TITLE,1.0,\u8a55\u5206\u7684\u7279\u6027\u6bd4\u4f8b
+zh_TW,AUGEVENTRATE_VLABEL,1.0,\u589e\u52a0\u7684\u8cc7\u6599\u4e8b\u4ef6\u7387
+zh_TW,AVGMARGPROFIT_VLABEL,1.0,\u5e73\u5747\u908a\u969b\u5229\u6f64
+zh_TW,AVGSCPTS_VLABEL,1.0,\u5e73\u5747\u8a08\u5206\u5361\u9ede\u6578
+zh_TW,AVGTOTALPROFIT_VLABEL,1.0,\u5e73\u5747\u7e3d\u5229\u6f64
+zh_TW,BASELINE_VLABEL,1.0,\u57fa\u7dda
+zh_TW,BUCKET_VLABEL,1.0,\u7b49\u8ddd\u5206\u7d44
+zh_TW,CALCROLE_VLABEL,1.0,\u8a08\u7b97\u7684\u89d2\u8272
+zh_TW,CALCWOE_VLABEL,1.0,\u8a08\u7b97\u7684 WOE
+zh_TW,CCFVAR_VLABEL,1.0,CCF \u8b8a\u6578
+zh_TW,CHARANALYSIS_TITLE,1.0,\u7279\u5fb5\u5206\u6790: %s
+zh_TW,CODESWRONGTYPE_ERROR,1.0,ERROR: Codes \u8cc7\u6599\u96c6\u4e2d\u9810\u671f\u7684\u8b8a\u6578\u985e\u578b\u4e0d\u6b63\u78ba\u6216\u4e0d\u5b58\u5728\u3002
+zh_TW,COEFF_VLABEL,1.0,\u4fc2\u6578
+zh_TW,COUNT_VLABEL,1.0,\u8a08\u6578
+zh_TW,CUMAPPROVALRATE_VLABEL,1.0,\u7d2f\u8a08\u6838\u51c6\u7387
+zh_TW,CUMCOUNT_VLABEL,1.0,\u7d2f\u8a08\u8a08\u6578
+zh_TW,CUMEVENTCOUNT_VLABEL,1.0,\u7d2f\u8a08\u4e8b\u4ef6\u8a08\u6578
+zh_TW,CUMEVENTRATE_TITLE,1.0,\u8a55\u5206\u7684\u7d2f\u8a08\u4e8b\u4ef6\u7387
+zh_TW,CUMEVENTRATE_VLABEL,1.0,\u7d2f\u8a08\u4e8b\u4ef6\u7387
+zh_TW,CUMINDETCOUNT_VLABEL,1.0,\u7d2f\u8a08\u4e0d\u78ba\u5b9a\u8a08\u6578
+zh_TW,CUMINDETRATE_VLABEL,1.0,\u7d2f\u8a08\u4e0d\u78ba\u5b9a\u6bd4\u7387
+zh_TW,CUMNEVENTCOUNT_VLABEL,1.0,\u7d2f\u8a08\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_TW,CUMNEVENTRATE_VLABEL,1.0,\u7d2f\u8a08\u975e\u4e8b\u4ef6\u7387
+zh_TW,CUTOFFOUTOFRANGE_ERROR,1.0,"Error:  \u4f7f\u7528\u8005\u6307\u5b9a\u7684\u622a\u6b62\u503c\u5fc5\u9808\u5728\u76ee\u6a19\u503c\u7684\u7bc4\u570d\u4e2d\uff0c[%#1s,%#2s)\u3002"
+zh_TW,CUTOFFSCORE_VLABEL,1.0,\u622a\u6b62\u8a55\u5206
+zh_TW,DATAROLE_VLABEL,1.0,\u8cc7\u6599\u89d2\u8272
+zh_TW,DISPVAR_VLABEL,1.0,\u8b8a\u6578
+zh_TW,DISPWOE_VLABEL,1.0,\u65b0\u589e WOE
+zh_TW,EFFECTNUM_VLABEL,1.0,\u6548\u679c\u6578\u76ee
+zh_TW,EFFECT_VLABEL,1.0,\u6548\u679c
+zh_TW,EFFLABEL_VLABEL,1.0,\u6548\u679c\u6a19\u7c64
+zh_TW,EMCCF_VLABEL,1.0,\u5e73\u5747 CCF
+zh_TW,EMEXPOSURE_VLABEL,1.0,\u5e73\u5747\u66dd\u96aa\u984d
+zh_TW,EMLGD_VLABEL,1.0,\u5e73\u5747 LGD
+zh_TW,EMPD_VLABEL,1.0,\u5e73\u5747\u9810\u6e2c\u6a5f\u7387
+zh_TW,EMPIRICALODDS_VLABEL,1.0,\u7d93\u9a57\u52dd\u7b97\u6bd4
+zh_TW,ERATE_VLABEL,1.0,\u4e8b\u4ef6\u7387
+zh_TW,EVENTCOUNT_VLABEL,1.0,\u4e8b\u4ef6\u8a08\u6578
+zh_TW,EVENTODDS_VLABEL,1.0,\u4e8b\u4ef6\u52dd\u7b97\u6bd4
+zh_TW,EVENTRATETARGET_VLABEL,1.0,\u4e8b\u4ef6\u7387 %#1s = %#2s
+zh_TW,EVENTRATE_VLABEL,1.0,\u4e8b\u4ef6\u7387
+zh_TW,EXPORTROLE_VLABEL,1.0,\u532f\u51fa\u7684\u89d2\u8272
+zh_TW,EXPOSUREVAR_VLABEL,1.0,\u66dd\u96aa\u984d\u8b8a\u6578
+zh_TW,FORMAT_VLABEL,1.0,\u683c\u5f0f
+zh_TW,FREQ_VLABEL,1.0,\u6b21\u6578
+zh_TW,GENERATEBINS_NOTE,1.0,\u6b63\u5728\u70ba\u9593\u9694\u8b8a\u6578\u7522\u751f\u7b49\u8ddd\u7bb1\u6578
+zh_TW,GENERATEFROZENBINS_NOTE,1.0,\u6b63\u5728\u51cd\u7d50\u7684\u7fa4\u7d44\u5b9a\u7fa9\u4e2d\u70ba\u5b9a\u7fa9\u7684\u9593\u9694\u8b8a\u6578\u7522\u751f\u7b49\u8ddd\u7bb1\u6578
+zh_TW,GENERATEIMPORTBINS_NOTE,1.0,\u6b63\u5728\u532f\u5165\u7684\u7fa4\u7d44\u5b9a\u7fa9\u4e2d\u70ba\u5b9a\u7fa9\u7684\u9593\u9694\u8b8a\u6578\u7522\u751f\u7b49\u8ddd\u7bb1\u6578
+zh_TW,GINIORDER_VLABEL,1.0,Gini \u9806\u5e8f
+zh_TW,GINI_VLABEL,1.0,Gini \u7d71\u8a08
+zh_TW,GNRESPRATE_VLABEL,1.0,\u7fa4\u7d44\u975e\u4e8b\u4ef6\u7387
+zh_TW,GRESPRATE_VLABEL,1.0,\u7fa4\u7d44\u4e8b\u4ef6\u7387
+zh_TW,GROUP_VLABEL,1.0,\u7fa4\u7d44
+zh_TW,GRPVAR_VLABEL,1.0,\u7fa4\u7d44\u8b8a\u6578
+zh_TW,GRP_VLABEL,1.0,\u7fa4\u7d44
+zh_TW,GVALUES_VLABEL,1.0,\u7fa4\u7d44\u503c
+zh_TW,HEADER_BUCKETLOG_TITLE,1.0,\u4e92\u52d5\u5f0f\u8a08\u5206\u5361\u7bc4\u570d\u65e5\u8a8c
+zh_TW,HEADER_BUCKETOUT_TITLE,1.0,\u4e92\u52d5\u5f0f\u8a08\u5206\u5361\u7bc4\u570d\u8f38\u51fa
+zh_TW,HEADER_SCORECARDLOG_TITLE,1.0,\u4e92\u52d5\u5f0f\u8a08\u5206\u5361\u9ede\u6578\u65e5\u8a8c
+zh_TW,HEADER_SCORECARDOUT_TITLE,1.0,\u4e92\u52d5\u5f0f\u8a08\u5206\u5361\u9ede\u6578\u8f38\u51fa
+zh_TW,HIGHPREDPROB_VLABEL,1.0,\u9810\u6e2c\u6a5f\u7387\u81e8\u754c\u503c\u4e0a\u9650
+zh_TW,HIGHRANGE_VLABEL,1.0,\u7bc4\u570d\u4e0a\u9650
+zh_TW,HIGHTHRESHOLD_VLABEL,1.0,\u9ad8\u5206\u81e8\u754c\u503c
+zh_TW,INDETCOUNT_VLABEL,1.0,\u4e0d\u78ba\u5b9a\u8a08\u6578
+zh_TW,INDEX_VLABEL,1.0,\u7d22\u5f15
+zh_TW,INFEVENTCOUNT_VLABEL,1.0,\u62d2\u7d55\u63a8\u8ad6\u4e8b\u4ef6\u8a08\u6578
+zh_TW,INFEVENTRATE_VLABEL,1.0,\u62d2\u7d55\u63a8\u8ad6\u4e8b\u4ef6\u7387
+zh_TW,INFNEVENTCOUNT_VLABEL,1.0,\u62d2\u7d55\u63a8\u8ad6\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_TW,INFOVALORDER_VLABEL,1.0,\u8cc7\u8a0a\u503c\u9806\u5e8f
+zh_TW,INFOVAL_VLABEL,1.0,\u8cc7\u8a0a\u503c
+zh_TW,INPUTVAR_VLABEL,1.0,\u8f38\u5165\u8b8a\u6578
+zh_TW,INPUT_VLABEL,1.0,\u8f38\u5165\u8b8a\u6578
+zh_TW,INTERCEPT_VLABEL,1.0,\u622a\u8ddd
+zh_TW,INVALID_NOTE,1.0,NOTE: \u300c%s\u300d\u7684\u6307\u5b9a\u503c\u7121\u6548\u3002
+zh_TW,LABEL_VLABEL,1.0,\u6a19\u7c64
+zh_TW,LEVEL_VLABEL,1.0,\u5c64\u7d1a
+zh_TW,LGDVAR_VLABEL,1.0,LGD \u8b8a\u6578
+zh_TW,LOGEVENTODDS_VLABEL,1.0,\u5c0d\u6578 (\u4e8b\u4ef6\u52dd\u7b97\u6bd4)
+zh_TW,LOWPREDPROB_VLABEL,1.0,\u9810\u6e2c\u6a5f\u7387\u81e8\u754c\u503c\u4e0b\u9650
+zh_TW,LOWRANGE_VLABEL,1.0,\u7bc4\u570d\u4e0b\u9650
+zh_TW,LOWTHRESHOLD_VLABEL,1.0,\u4f4e\u5206\u81e8\u754c\u503c
+zh_TW,MANUALWOE_VLABEL,1.0,\u624b\u52d5 WOE
+zh_TW,MAPPINGSPECIALVALUES_NOTE,1.0,\u7279\u6b8a\u7de8\u78bc\u503c\u7684\u5c0d\u61c9
+zh_TW,MAREVENTRATE_VLABEL,1.0,\u908a\u969b\u4e8b\u4ef6\u7387
+zh_TW,MARGINDETRATE_VLABEL,1.0,\u908a\u969b\u4e0d\u78ba\u5b9a\u6bd4\u7387
+zh_TW,MARNEVENTRATE_VLABEL,1.0,\u908a\u969b\u975e\u4e8b\u4ef6\u7387
+zh_TW,MAXBINTOTAL_VLABEL,1.0,\u6700\u5927\u7e3d\u8a08\u6578
+zh_TW,MAXBINWIDTH_VLABEL,1.0,\u6700\u5927\u622a\u6b62\u503c\u5dee\u7570
+zh_TW,MAXNUMBINS_VLABEL,1.0,\u6700\u5927\u7fa4\u7d44\u6578\u76ee
+zh_TW,MIDPOINT_VLABEL,1.0,\u4e2d\u9ede
+zh_TW,MINBINDIFF_VLABEL,1.0,\u6700\u5c0f WOE \u5dee\u7570
+zh_TW,MINBINTOTAL_VLABEL,1.0,\u6700\u5c0f\u7e3d\u8a08\u6578
+zh_TW,MINBINWIDTH_VLABEL,1.0,\u6700\u5c0f\u622a\u6b62\u503c\u5dee\u7570
+zh_TW,MINNUMBINS_VLABEL,1.0,\u6700\u5c0f\u7fa4\u7d44\u6578\u76ee
+zh_TW,MINNUMEVENT_VLABEL,1.0,\u6700\u5c0f\u4e8b\u4ef6\u8a08\u6578
+zh_TW,MINNUMNONEVENT_VLABEL,1.0,\u6700\u5c0f\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_TW,MISSING_VLABEL,1.0,\u907a\u6f0f
+zh_TW,NAME_VLABEL,1.0,\u540d\u7a31
+zh_TW,NEUTRAL_VLABEL,1.0,\u4e2d\u7acb\u8a55\u5206
+zh_TW,NEVENTCOUNT_VLABEL,1.0,\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_TW,NEWGINI_VLABEL,1.0,\u65b0\u589e Gini
+zh_TW,NEWINFOVAL_VLABEL,1.0,\u65b0\u589e\u8cc7\u8a0a\u503c
+zh_TW,NEWROLE_VLABEL,1.0,\u65b0\u589e\u89d2\u8272
+zh_TW,NOCODESDATA_ERROR,1.0,ERROR: \u5982\u679c\u300c\u4f7f\u7528\u7279\u6b8a\u7a0b\u5f0f\u78bc\u300d\u8a2d\u5b9a\u70ba\u300c\u662f\u300d\uff0c\u5fc5\u9808\u6307\u5b9a Codes \u8cc7\u6599\u96c6\u3002
+zh_TW,NOFINEDETAIL_ERROR,1.0,ERROR: finedetail \u8cc7\u6599\u96c6\u4e0d\u5b58\u5728\u3002\u5fc5\u9808\u5148\u57f7\u884c\u7bc0\u9ede\uff0c\u7136\u5f8c\u5c07\u300c\u51cd\u7d50\u300d\u8a2d\u5b9a\u70ba\u300c\u662f\u300d\uff0c\u5efa\u7acb\u521d\u59cb\u503c\u3002
+zh_TW,NONBINTARGETTRANS_ERROR,1.0,Error:  \u5f9e\u9593\u9694\u76ee\u6a19\u5efa\u7acb\u975e\u4e8c\u5143\u76ee\u6a19\u3002\u8acb\u8b8a\u66f4\u9593\u9694\u76ee\u6a19\u9078\u9805\u5c6c\u6027\u3002
+zh_TW,NONEVENTRATE_VLABEL,1.0,\u975e\u4e8b\u4ef6\u7387
+zh_TW,NORMVALUE_VLABEL,1.0,\u6b63\u898f\u5316\u503c
+zh_TW,ORIGGINI_VLABEL,1.0,\u539f\u59cb Gini
+zh_TW,ORIGINFOVAL_VLABEL,1.0,\u539f\u59cb\u8cc7\u8a0a\u503c
+zh_TW,PARCELING_ERROR,1.0,ERROR: \u7121\u6cd5\u57f7\u884c\u90e8\u4efd\u3002\u8acb\u5617\u8a66\u589e\u52a0\u4e8b\u4ef6\u7387\u589e\u52a0\u5c6c\u6027\u7684\u503c\u3002
+zh_TW,PERCENTEVENTCOUNT_VLABEL,1.0,\u4e8b\u4ef6\u8a08\u6578\u767e\u5206\u6bd4
+zh_TW,PERCENTSAMPLE_VLABEL,1.0,\u6a23\u672c\u767e\u5206\u6bd4
+zh_TW,PERCENT_VLABEL,1.0,\u767e\u5206\u6bd4
+zh_TW,POPPERCENTAGE_VLABEL,1.0,\u6bcd\u9ad4\u767e\u5206\u6bd4
+zh_TW,POSTERIORVAR_VLABEL,1.0,\u4e8b\u5f8c\u8b8a\u6578
+zh_TW,PPERCENT_VLABEL,1.0,\u6bcd\u9ad4\u7684\u767e\u5206\u6bd4
+zh_TW,PREDEFINED_VLABEL,1.0,\u9810\u5148\u5b9a\u7fa9\u7684\u7fa4\u7d44
+zh_TW,PREDICTEDODDS_VLABEL,1.0,\u9810\u6e2c\u52dd\u7b97\u6bd4
+zh_TW,PROCGRPVAR_VLABEL,1.0,Arbor \u7522\u751f\u7684\u7fa4\u7d44\u8b8a\u6578
+zh_TW,PROCLEVEL_VLABEL,1.0,\u4e92\u52d5\u5f0f\u5c64\u7d1a
+zh_TW,PROCVAR_VLABEL,1.0,Arbor \u4f7f\u7528\u7684\u8f38\u5165
+zh_TW,PROCWOEVAR_VLABEL,1.0,Arbor \u7522\u751f\u7684 WOE \u8b8a\u6578
+zh_TW,PROPPOP_VLABEL,1.0,\u6bcd\u9ad4\u6bd4\u4f8b
+zh_TW,PROPTOTEVENTCOUNT_VLABEL,1.0,\u7e3d\u4e8b\u4ef6\u8a08\u6578\u7684\u6bd4\u4f8b
+zh_TW,RANGETOOSMALL_NOTE,1.0,\u7bc4\u570d\u5c0d\u65bc\u6307\u5b9a\u7684\u7b49\u8ddd\u5206\u7d44\u6578\u76ee\u800c\u8a00\u592a\u5c0f
+zh_TW,REJECTTOTAL_VLABEL,1.0,\u62d2\u7d55\u7e3d\u8a08
+zh_TW,REJEVENTRATE_TITLE,1.0,\u62d2\u7d55\u63a8\u8ad6: \u4e8b\u4ef6\u7387
+zh_TW,RESETNUMBUCKETS_NOTE,1.0,\u7b49\u8ddd\u5206\u7d44\u6578\u76ee\u6703\u5f9e %#1s \u91cd\u8a2d\u70ba %#2s
+zh_TW,RESET_NOTE,1.0,\u300c%s\u300d\u7684\u503c\u5df2\u91cd\u8a2d\u70ba\u9810\u8a2d\u503c\u3002
+zh_TW,ROLE_VLABEL,1.0,\u89d2\u8272
+zh_TW,SATURATED_VLABEL,1.0,\u98fd\u548c
+zh_TW,SCOREBUCKET_VLABEL,1.0,\u8a55\u5206\u7b49\u8ddd\u5206\u7d44
+zh_TW,SCORECARD_TITLE,1.0,\u8a08\u5206\u5361
+zh_TW,SCPTS_VLABEL,1.0,\u8a08\u5206\u5361\u9ede\u6578
+zh_TW,SIGN_VLABEL,1.0,\u7b26\u865f
+zh_TW,SPECIALCODEVALUES_NOTE,1.0,\u7279\u6b8a\u7a0b\u5f0f\u78bc\u503c
+zh_TW,SUMSTATS_TITLE,1.0,\u6458\u8981\u7d71\u8a08
+zh_TW,TARGETOUTOFRANGE_ERROR,1.0,Error:  \u9593\u9694\u76ee\u6a19\u7684\u503c\u5728\u6307\u5b9a\u7bc4\u570d\u4e4b\u5916\u3002
+zh_TW,TEFFECTNUM_VLABEL,1.0,TScore \u6578\u76ee
+zh_TW,TESTEVENTRATE_VLABEL,1.0,\u6e2c\u8a66\u8cc7\u6599\u4e8b\u4ef6\u7387
+zh_TW,TRAINEVENTRATE_VLABEL,1.0,\u8a13\u7df4\u8cc7\u6599\u4e8b\u4ef6\u7387
+zh_TW,TVALUE_VLABEL,1.0,T \u503c
+zh_TW,TYPE_VLABEL,1.0,\u985e\u578b
+zh_TW,VALIDEVENTRATE_VLABEL,1.0,\u9a57\u8b49\u8cc7\u6599\u4e8b\u4ef6\u7387
+zh_TW,VALUE_VLABEL,1.0,\u503c
+zh_TW,VARIABLE_VLABEL,1.0,\u8b8a\u6578
+zh_TW,WOEVAR_VLABEL,1.0,WOE \u8b8a\u6578
+zh_TW,WTAVG_VLABEL,1.0,\u52a0\u6b0a\u5e73\u5747
+zh_TW,WTEV_VLABEL,1.0,\u8b49\u64da\u6b0a\u6578

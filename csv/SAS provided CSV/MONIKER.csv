@@ -1,0 +1,18 @@
+CLIENT,SERVER,DESC
+com.sas.sasserver.datasetinfo.DataSetInfo,SASHELP.RSASMOD.RSIMPDS,DataSet Information
+com.sas.sasserver.dataset.DataSet,SASHELP.RSASMOD.RDATAM,DataSet Contents
+com.sas.sasserver.librarylist.LibraryList,SASHELP.RSASMOD.RLIBS,List of SAS Libraries
+com.sas.sasserver.sasfilelist.SASFileList,SASHELP.RSASMOD.RDSCATS,List of SAS Files
+com.sas.sasserver.sasfilelist.DataSetList,SASHELP.RSASMOD.RDSCATS,List of DataSets
+com.sas.sasserver.sasfilelist.CatalogList,SASHELP.RSASMOD.RDSCATS,List of Catalogs
+com.sas.sasserver.catalogentrylist.CatalogEntryList,SASHELP.RSASMOD.RENTRIES,List of Catalog members
+com.sas.sasserver.afsubmit.AFSubmit,SASHELP.RSASMOD.AFSUBMIT,User overridable submit class
+com.sas.sasserver.mdtable.MultidimensionalTable,SASHELP.RSASMOD.MDTABLE,Model for MultiDimensional DataBases
+com.sas.sasserver.format.Format,SASHELP.RSASMOD.FORMAT,"Formats and Informats for conversion, transformation and ren"
+com.sas.sasserver.metabaselist.MetabaseList,SASHELP.RSASMOD.RMETA.CLASS,List of Metabase entries
+com.sas.sasserver.sclfuncs.Sclfuncs,SASHELP.RSASMOD.SCLFUNCS.CLASS,SCL Functions
+com.sas.sasserver.mdtable.MultidimensionalTableV2,SASHELP.RSASMOD.MDTABLE,Model for MultiDimensional DataBases
+com.sas.sasserver.sclfuncs.SclfuncsV2,SASHELP.RSASMOD.SCLFUNCS.CLASS,SCL Functions
+com.sas.sasserver.BookmarkManager,SASHELP.RSASMOD.BOOKMARK.CLASS,Bookmark Manager Model
+com.sas.sasserver.mdtable.MultidimensionalTableV3,SASHELP.RSASMOD.MDTABLE,Model for MultiDimensional DataBases
+com.sas.sasserver.summary.Summary,SASHELP.RSASMOD.SUMMARY.CLASS,Summary Interface

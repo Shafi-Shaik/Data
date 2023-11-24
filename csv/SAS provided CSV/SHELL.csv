@@ -1,0 +1,14 @@
+locale,key,lineno,text
+en,VALIDCHARS_ALLCOMPAT_NOTE,1.0,%3zAll characters in the dataset: %s (encoding: %s) are compatible to %s encoding.
+en,VALIDCHARS_ALLVALID_NOTE,1.0,%3zAll characters in the dataset: %s (encoding: %s) are valid.
+en,VALIDCHARS_CEDACVT_NOTE,1.0,%3zCross Environment Data Access converts the character data to %s.
+en,VALIDCHARS_COMPATISSUE_ERROR,1.0,%zDetected the issue in the dataset: %s (encoding: %s) when validating the compatibility to %s encoding.
+en,VALIDCHARS_INCOMPATENC_ERROR,1.0,%zCompatible(Encoding) %s is invalid.
+en,VALIDCHARS_INVALIDENC_ERROR,1.0,%zEncoding %s is invalid.
+en,VALIDCHARS_INVCHAR_WARNING,1.0,%2zFound invalid character in the variable: %s at the observation number:%s.
+en,VALIDCHARS_INVTRUNC_WARNING,1.0,%2zFound invalid character and the possible truncation in the variable: %s at the observation number: %s.
+en,VALIDCHARS_ISSUE_ERROR,1.0,%zDetected the issue in the dataset: %s (encoding: %s).
+en,VALIDCHARS_NODS_ERROR,1.0,%zDataset %s does not exist.
+en,VALIDCHARS_NOFUNCT_ERROR,1.0,%zThis functionality is not available.
+en,VALIDCHARS_NOOPT_ERROR,1.0,%z%s is not specified.
+en,VALIDCHARS_TRUNC_WARNING,1.0,%2zFound possible truncation in the variable: %s at the observation number: %s

@@ -1,0 +1,10 @@
+libname,path
+APFMTLIB,/pbr/biconfig/940/Lev1/SASApp/SASEnvironment/SASFormats
+MAPS,/pbr/sfw/sas/940/SASFoundation/9.4/maps
+MAPSGFK,/pbr/sfw/sas/940/SASFoundation/9.4/mapsgfk
+MAPSSAS,/pbr/sfw/sas/940/SASFoundation/9.4/maps
+SASDATA,/pbr/biconfig/940/Lev1/SASApp/Data
+SASHELP,( '/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sascfg' '/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sashelp' '/pbr/sfw/sas/940/SASFoundation/9.4/nls/en/sascfg' '/pbr/sfw/sas/940/SASFoundation/9.4/sashelp' )
+SASUSER,/home/u63490872/sasuser.v94
+STPSAMP,/pbr/sfw/sas/940/SASFoundation/9.4/samples/inttech
+WORK,/saswork/SAS_work9422000102FB_odaws01-apse1.oda.sas.com/SAS_workD035000102FB_odaws01-apse1.oda.sas.com

@@ -1,0 +1,492 @@
+optname,opttype,offset,setting,optdesc,level,optstart,group
+ACCESSIBLECHECK,Boolean,0.0,NOACCESSIBLECHECK,Detect and log ODS output that is not accessible.,Portable,anytime,ODSPRINT
+ACCESSIBLEGRAPH,Boolean,0.0,NOACCESSIBLEGRAPH,Create accessible ODS graphics by default.,Portable,anytime,ODSPRINT
+ACCESSIBLEPDF,Boolean,0.0,NOACCESSIBLEPDF,Create accessible PDF files by default.,Portable,anytime,ODSPRINT
+ACCESSIBLETABLE,Boolean,0.0,NOACCESSIBLETABLE,"Create accessible tables for enabled procedures, by default.",Portable,anytime,ODSPRINT
+ANIMATION,char,0.0,STOP,Specifies whether to start or stop animation.,Portable,anytime,ANIMATION
+ANIMDURATION,char,0.0,MIN,Specifies the number of seconds that each animation frame displays.,Portable,anytime,ANIMATION
+ANIMLOOP,char,0.0,YES,Specifies the number of iterations that animated images repeat.,Portable,anytime,ANIMATION
+ANIMOVERLAY,Boolean,0.0,ANIMOVERLAY,Specifies that animation frames are overlaid in order to view all frames.,Portable,anytime,ANIMATION
+APPEND,char,0.0,,Specifies an option=value pair to insert the value at the end of the existing option value.,Portable,anytime,ENVFILES
+APPLETLOC,char,0.0,/pbr/sfw/sas/940/SASGraphJavaApplets/9.4,"Specifies the location of Java applets, which is typically a URL.",Portable,anytime,ENVFILES
+ARMAGENT,char,0.0,,"Specifies an ARM agent (which is an executable module or keyword, such as LOG4SAS) that contains a specific implementation of the ARM API.",Portable,anytime,PERFORMANCE
+ARMLOC,char,0.0,ARMLOG.LOG,Specifies the location of the ARM log.,Portable,anytime,PERFORMANCE
+ARMSUBSYS,char,0.0,(ARM_PROC),Specifies the SAS ARM subsystems to enable or disable.,Portable,anytime,PERFORMANCE
+ASYNCHIO,Boolean,0.0,NOASYNCHIO,Enables asynchronous input and output.,Portable,startup,SASFILES
+AUTOCORRECT,Boolean,0.0,AUTOCORRECT,"Automatically corrects misspelled procedure names and keywords, and global statement names.",Portable,anytime,ERRORHANDLING
+AUTOEXEC,char,0.0,/pbr/biconfig/940/Lev1/SASApp/WorkspaceServer/autoexec.sas,Specifies the location of the SAS AUTOEXEC files.,Portable,startup,ENVFILES
+AUTOSAVELOC,char,0.0,,Specifies the location of the Program Editor auto-saved file.,Portable,anytime,ENVDISPLAY
+AUTOSIGNON,Boolean,0.0,NOAUTOSIGNON,Enables a SAS/CONNECT client to automatically submit the SIGNON command remotely with the RSUBMIT command.,Portable,anytime,COMMUNICATIONS
+AZUREAUTHCACHELOC,char,0.0,,Path to Azure Login info,Portable,startup,SECURITY
+AZURETENANTID,char,0.0,,Azure Tenant ID,Portable,anytime,COMMUNICATIONS
+BINDING,char,0.0,DEFAULT,Specifies the binding edge type of duplexed printed output.,Portable,anytime,ODSPRINT
+BOMFILE,Boolean,0.0,BOMFILE,Writes the byte order mark (BOM) prefix when a Unicode-encoded file is written to an external file.,Portable,anytime,EXTFILES
+BOTTOMMARGIN,char,0.0,0.000 IN,Specifies the size of the margin at the bottom of a printed page.,Portable,anytime,ODSPRINT
+BUFNO,num,0.0,10,Specifies the number of buffers for processing SAS data sets.,Portable,anytime,PERFORMANCE
+BUFSIZE,num,0.0,131072,Specifies the size of a buffer page for output SAS data sets.,Portable,anytime,PERFORMANCE
+BYERR,Boolean,0.0,BYERR,SAS issues an error message and stops processing if the SORT procedure attempts to sort a _NULL_ data set.,Portable,anytime,ERRORHANDLING
+BYLINE,Boolean,0.0,BYLINE,Prints the BY line above each BY group.,Portable,anytime,LISTCONTROL
+BYSORTED,Boolean,0.0,BYSORTED,Requires observations in one or more data sets to be sorted in alphabetic or numeric order.,Portable,anytime,INPUTCONTROL
+CAPS,Boolean,0.0,NOCAPS,"Converts certain types of input, and all data lines, into uppercase characters.",Portable,anytime,INPUTCONTROL
+CARDIMAGE,Boolean,0.0,NOCARDIMAGE,Processes SAS source code and data lines as 80-byte records.,Portable,anytime,INPUTCONTROL
+CASAUTHINFO,char,0.0,,Specifies an authinfo or netrc file that includes authentication information.,Portable,anytime,CAS
+CASDATALIMIT,char,0.0,100M,Specifies the maximum number of bytes that can be read from a file.,Portable,anytime,CAS
+CASHOST,char,0.0,,The CAS server name associated with a CAS session.,Portable,anytime,CAS
+CASLIB,char,0.0,,Specify the default CASLIB name.,Portable,anytime,CAS
+CASNCHARMULTIPLIER,char,0.0,1.5,Specifies a multiplication factor to increase the number of bytes when transcoding fixed CHAR data.,Portable,anytime,CAS
+CASNWORKERS,char,0.0,ALL,Specify the number of workers to use with a CAS session.,Portable,anytime,CAS
+CASPORT,num,0.0,0,The port associated with a CAS session.,Portable,anytime,CAS
+CASSESSOPTS,char,0.0,,Identify CAS server session options.,Portable,anytime,CAS
+CASTIMEOUT,num,0.0,60,The CAS session timeout in seconds.,Portable,anytime,CAS
+CASUSER,char,0.0,,The userid associated with a CAS session.,Portable,anytime,CAS
+CATCACHE,num,0.0,0,Specifies the number of SAS catalogs to keep open in cache memory.,Portable,startup,SASFILES
+CBUFNO,num,0.0,0,Specifies the number of extra page buffers to allocate for each open SAS catalog.,Portable,anytime,SASFILES
+CENTER,Boolean,0.0,CENTER,Center SAS procedure output.,Portable,anytime,LISTCONTROL
+CGOPTIMIZE,num,0.0,3,Specifies the level of optimization to perform during code compilation.,Portable,anytime,CODEGEN
+CHARCODE,Boolean,0.0,NOCHARCODE,Substitutes specific keyboard combinations for special characters that are not on the keyboard.,Portable,anytime,ENVDISPLAY
+CHKPTCLEAN,Boolean,0.0,NOCHKPTCLEAN,Erases files in the Work library after a batch program successfully executes in checkpoint mode or restart mode.,Portable,startup,ERRORHANDLING
+CLEANUP,Boolean,0.0,CLEANUP,Performs automatic continuous cleanup of non-essential resources in out-of-resource conditions.,Portable,anytime,ERRORHANDLING
+CMDMAC,Boolean,0.0,NOCMDMAC,Checks window environment commands for command-style macros.,Portable,anytime,MACRO
+CMPLIB,char,0.0,,Specifies one or more SAS data sets that contain compiler subroutines to include during compilation.,Portable,anytime,SASFILES
+CMPMODEL,char,0.0,BOTH,Specifies the output model type for the MODEL procedure.,Portable,anytime,PERFORMANCE
+CMPOPT,char,0.0,(NOPRECISE NOPROFILE NODEBUGHOST NODEBUGPORT NOEXTRAMATH NOMISSCHECK NOGUARDCHECK NOGENSYMNAMES SHORTCIRCUIT NOFUNCDIFFERENCING),Specifies the type of code-generation optimizations to use in the SAS language compiler.,Portable,anytime,PERFORMANCE
+COLLATE,Boolean,0.0,NOCOLLATE,Collates multiple copies of printed output.,Portable,anytime,ODSPRINT
+COLOPHON,char,0.0,,Specifies the comment text that is included in graphic stream files.,Portable,anytime,ODSPRINT
+COLORPRINTING,Boolean,0.0,COLORPRINTING,Prints in color if color printing is supported.,Portable,anytime,ODSPRINT
+COMAMID,char,0.0,TCP,Specifies the communication access method for connecting client and server sessions across a network.,Portable,anytime,COMMUNICATIONS
+COMPRESS,char,0.0,NO,Specifies the type of compression to use for observations in output SAS data sets.,Portable,anytime,PERFORMANCE
+CONNECTEVENTS,Boolean,0.0,CONNECTEVENTS,Clients receive SAS events propagated from a SAS/CONNECT server.,Portable,anytime,COMMUNICATIONS
+CONNECTMETACONNECTION,Boolean,0.0,CONNECTMETACONNECTION,"At sign-on, connects the SAS/CONNECT server to the SAS Metadata server.",Portable,anytime,COMMUNICATIONS
+CONNECTOUTPUT,char,0.0,BUFFERED,"Specifies whether to send the SAS/CONNECT server log and list output immediately, or to buffer the output.",Portable,anytime,COMMUNICATIONS
+CONNECTPERSIST,Boolean,0.0,CONNECTPERSIST,Continues a client/server connection after an RSUBMIT statement has completed.,Portable,anytime,COMMUNICATIONS
+CONNECTREMOTE,char,0.0,,Specifies the ID of a specific server session that a client connects to.,Portable,anytime,COMMUNICATIONS
+CONNECTSTATUS,Boolean,0.0,CONNECTSTATUS,Displays the Transfer Status window during file transfers.,Portable,anytime,COMMUNICATIONS
+CONNECTWAIT,Boolean,0.0,CONNECTWAIT,Executes RSUBMIT statements synchronously.,Portable,anytime,COMMUNICATIONS
+COPIES,num,0.0,1,Specifies the number of copies to print.,Portable,anytime,ODSPRINT
+CPUCOUNT,num,0.0,2,Specifies the number of processors that thread-enabled applications should assume are available for concurrent processing.,Portable,anytime,PERFORMANCE
+CPUID,Boolean,0.0,CPUID,Prints the CPU identification number at the beginning of the SAS log.,Portable,startup,LOGCONTROL
+CSTGLOBALLIB,char,0.0,,Specifies the location of the SAS Clinical Standards Toolkit global library.,Portable,startup,EXECMODES
+CSTSAMPLELIB,char,0.0,,Specifies the location of the SAS Clinical Standards Toolkit sample library.,Portable,startup,EXECMODES
+DATAPAGESIZE,char,0.0,CURRENT,"Specifies whether the page size for a data set or utility file is compatible with SAS 9.3 processing, or is determined by the current version of SAS.",Portable,startup,TK
+DATASTMTCHK,char,0.0,COREKEYWORDS,Specifies which SAS statement keywords are prohibited from being specified as a one-level DATA step name to protect against overwriting an input data set.,Portable,anytime,SASFILES
+DATE,Boolean,0.0,DATE,Prints the date and time that a SAS program started.,Portable,anytime,LOG_LISTCONTROL
+DATESTYLE,char,0.0,DMY,"Specifies the sequence of month, day, and year when ANYDTDTE, ANYDTDTM, or ANYDTTME informat data is ambiguous.",Portable,anytime,INPUTCONTROL
+DBFMTIGNORE,Boolean,0.0,NODBFMTIGNORE,Uses the FLOAT data type in tables.,Portable,anytime,INPUTCONTROL
+DBIDIRECTEXEC,Boolean,0.0,NODBIDIRECTEXEC,The SQL pass-through facility optimizes the handling of SQL statements.,Portable,anytime,PERFORMANCE
+DBSLICEPARM,char,0.0,"(THREADED_APPS, 2)","Specifies whether SAS procedures, applications, and the DATA step can read DBMS tables in parallel, and the number of threads to use to read the DBMS tables.",Portable,anytime,PERFORMANCE
+DBSRVTP,char,0.0,NONE,Specifies whether SAS/ACCESS engines hold or block the originating client while making performance-critical calls to the database.,Portable,startup,COMMUNICATIONS
+DCSHOST,char,0.0,localhost,Specifies the host name of the SAS Document Conversion Server.,Portable,anytime,COMMUNICATIONS
+DCSPORT,num,0.0,7111,Specifies the port number of the SAS Document Conversion Server.,Portable,anytime,COMMUNICATIONS
+DECIMALCONV,char,0.0,COMPATIBLE,Specifies the binary to decimal conversion and formatting methodology.,Portable,anytime,LOG_LISTCONTROL
+DEFLATION,num,0.0,6,Specifies the level of compression for device drivers that support the Deflate compression algorithm.,Portable,anytime,ODSPRINT
+DETAILS,Boolean,0.0,NODETAILS,Displays additional information when files are listed in a SAS library.,Portable,anytime,LOG_LISTCONTROL
+DEVICE,char,0.0,,Specifies the device driver to which SAS/GRAPH sends procedure output.,Portable,anytime,GRAPHICS
+DFLANG,char,0.0,ENGLISH,Specifies the language for international date informats and formats.,Portable,anytime,LANGUAGECONTROL
+DKRICOND,char,0.0,ERROR,"Specifies the error level to report when a variable is missing from an input data set during the processing of a DROP=, KEEP=, or RENAME= data set option.",Portable,anytime,SASFILES
+DKROCOND,char,0.0,WARN,"Specifies the error level to report when a variable is missing from an output data set during the processing of a DROP=, KEEP=, or RENAME= data set option.",Portable,anytime,SASFILES
+DLCREATEDIR,Boolean,0.0,NODLCREATEDIR,Creates a directory for the SAS library that is named in a LIBNAME statement if the directory does not already exist.,Portable,anytime,SASFILES
+DLDMGACTION,char,0.0,FAIL,Specifies the type of action to take when a SAS data set or a SAS catalog is detected as damaged.,Portable,anytime,SASFILES
+DMR,Boolean,0.0,NODMR,Invokes a remote server session for use with a SAS/CONNECT client.,Portable,startup,EXECMODES
+DMS,Boolean,0.0,NODMS,"Starts SAS using the windowing environment and displays the Log window, the Editor window, and the Output window.",Portable,startup,EXECMODES
+DMSEXP,Boolean,0.0,NODMSEXP,"Starts SAS and displays Explorer, Editor, Log, Output, and Results windows.",Portable,startup,EXECMODES
+DMSLOGSIZE,num,0.0,99999,Specifies the maximum number of rows that the SAS Log window can display.,Portable,startup,LOGCONTROL
+DMSOUTSIZE,num,0.0,2147483647,Specifies the maximum number of rows that the SAS Output window can display.,Portable,startup,LISTCONTROL
+DMSPGMLINESIZE,num,0.0,136,Specifies the maximum number of characters in a Program Editor line.,Portable,startup,ENVDISPLAY
+DMSSYNCHK,Boolean,0.0,NODMSSYNCHK,Enables syntax check mode for DATA step and PROC step processing in the windowing environment.,Portable,anytime,ERRORHANDLING
+DQLOCALE,char,0.0,,Specifies the Data Quality Server ordered list of locales for data cleansing.,Portable,anytime,DATAQUALITY
+DQOPTIONS,char,0.0,,Specifies the SAS session parameters for data quality programs.,Portable,startup,EXECMODES
+DQSETUPLOC,char,0.0,,Specifies the location of the Quality Knowledge Base root directory.,Portable,anytime,DATAQUALITY
+DS2ACCEL,char,0.0,NONE,Provides support for DS2 code pass-through acceleration.,Portable,anytime,PERFORMANCE
+DS2SCOND,char,0.0,WARN,Specifies the type of message that PROC DS2 generates.,Portable,anytime,ERRORHANDLING
+DSACCEL,char,0.0,NONE,Provides support for code pass-through acceleration.,Portable,anytime,PERFORMANCE
+DSCAS,Boolean,0.0,DSCAS,Runs the DATA step on the CAS server.,Portable,anytime,LANGUAGECONTROL
+DSNFERR,Boolean,0.0,DSNFERR,Issues an error message and stops processing when a SAS data set cannot be found.,Portable,anytime,ERRORHANDLING
+DTRESET,Boolean,0.0,NODTRESET,SAS updates the date and time in the titles of the SAS log and the procedure output file.,Portable,anytime,LOG_LISTCONTROL
+DUPLEX,Boolean,0.0,NODUPLEX,Prints output using duplex (two-sided) printing.,Portable,anytime,ODSPRINT
+ECHOAUTO,Boolean,0.0,NOECHOAUTO,Writes statements that are in the AUTOEXEC file to the SAS log as they are executed.,Portable,startup,LOGCONTROL
+EMAILACKWAIT,num,0.0,30,Specifies the number of seconds to wait for the SMTP server acknowledgement.,Portable,anytime,EMAIL
+EMAILAUTHPROTOCOL,char,0.0,NONE,Specifies the SMTP e-mail authentication protocol.,Portable,anytime,EMAIL
+EMAILFROM,Boolean,0.0,NOEMAILFROM,Requires the FROM e-mail option when sending e-mail by using the FILE or FILENAME statements.,Portable,anytime,EMAIL
+EMAILHOST,char,0.0,localhost,Specifies one or more domain names for SMTP e-mail servers.,Portable,anytime,EMAIL
+EMAILID,char,0.0,,"Specifies the SAS user's logon ID, profile or e-mail address.",Portable,anytime,EMAIL
+EMAILPORT,num,0.0,25,Specifies the port number for the SMTP e-mail server that is specified in the EMAILHOST option.,Portable,anytime,EMAIL
+EMAILPW,char,0.0,xxxxxxxx,Specifies the password for the e-mail address specified by the EMAILID option.,Portable,anytime,EMAIL
+EMAILUTCOFFSET,char,0.0,,"For SMTP e-mail sent using the FILENAME statement, specifies a UTC offset that is used in the Date header field of the e-mail message.",Portable,anytime,EMAIL
+ENCRYPTFIPS,Boolean,0.0,NOENCRYPTFIPS,Limits SAS/SECURE and SSL security services to use FIPS 140-2 algorithms.,Portable,startup,SECURITY
+ENGINE,char,0.0,V9,Specifies the default access method for SAS libraries.,Portable,startup,SASFILES
+ERRORABEND,Boolean,0.0,NOERRORABEND,Ends SAS for most errors that would generate an error message.,Portable,anytime,ERRORHANDLING
+ERRORBYABEND,Boolean,0.0,NOERRORBYABEND,Ends a SAS program when an error occurs in BY-group processing.,Portable,anytime,ERRORHANDLING
+ERRORCHECK,char,0.0,NORMAL,"Specifies whether SAS enters syntax-check mode when errors are found in the LIBNAME, FILENAME,  %%INCLUDE, and LOCK statements.",Portable,anytime,ERRORHANDLING
+ERRORS,num,0.0,20,Specifies the maximum number of observations for which SAS issues complete error messages.,Portable,anytime,LOGCONTROL
+EVENTDS,char,0.0,(DEFAULTS),Specifies one or more data sets that define custom holiday events.,Portable,anytime,INPUTCONTROL
+EXPLORER,Boolean,0.0,NOEXPLORER,Invokes only the Explorer and the Program Editor windows when SAS starts.,Portable,startup,EXECMODES
+EXTENDEDDATATYPES,char,0.0,NO,Specifies whether SAS processes all supported data types or converts nontraditional SAS data types to CHAR and DOUBLE.,Portable,anytime,SASFILES
+EXTENDOBSCOUNTER,char,0.0,YES,Specifies whether to extend the maximum number of observations in a new SAS data file.,Portable,anytime,SASFILES
+FILESYNC,char,0.0,HOST,Specifies when operating system buffers that contain contents of permanent SAS files are written to disk.,Portable,startup,SASFILES
+FIRSTOBS,num,0.0,1,Specifies the observation number or external file record that SAS processes first.,Portable,anytime,SASFILES
+FMTERR,Boolean,0.0,FMTERR,Issues an error message when a variable format cannot be found.,Portable,anytime,ERRORHANDLING
+FMTSEARCH,char,0.0,( APFMTLIB WORK LIBRARY ),Specifies the order in which format catalogs are searched.,Portable,anytime,ENVFILES
+FONTEMBEDDING,Boolean,0.0,FONTEMBEDDING,Enables font embedding for Universal Printing and SAS/GRAPH printing.,Portable,anytime,ODSPRINT
+FONTRENDERING,char,0.0,FREETYPE_POINTS,Specifies whether some SAS/GRAPH devices render fonts by using the operating system or by using the Free Type engine.,Portable,anytime,ODSPRINT
+FONTSLOC,char,0.0,/pbr/sfw/sas/940/ReportFontsforClients/9.4,Specifies the location of the fonts that are supplied by SAS. Names the default font file location for registering fonts that use the FONTREG procedure.,Portable,startup,ODSPRINT
+FORMCHAR,char,0.0,|----|+|---+=|-/\<>*,Specifies the default output formatting characters.,Portable,anytime,LISTCONTROL
+FORMDLIM,char,0.0,,Specifies the character to delimit page breaks in SAS output for the LISTING destination.,Portable,anytime,LISTCONTROL
+FORMS,char,0.0,DEFAULT,"If forms are used for printing, specifies the default form to use.",Portable,anytime,LISTCONTROL
+GRIDINSTALLLOC,char,0.0,,Identifies the location on the machine cluster where the SAS High-Performance Analytics environment is installed.,Portable,startup,SECURITY
+GRIDRSHCOMMAND,char,0.0,,Specifies the path to the executable to use to launch the SAS High-Performance Analytics environment.,Portable,startup,SECURITY
+GSTYLE,Boolean,0.0,GSTYLE,Uses ODS styles to generate graphs that are stored as GRSEG catalog entries.,Portable,anytime,ODSPRINT
+GWINDOW,Boolean,0.0,GWINDOW,Displays SAS/GRAPH output in the GRAPH window.,Portable,anytime,GRAPHICS
+HADOOPPLATFORM,char,0.0,MAPRED,Specifies the execution platform for the SAS In-Database Code Accelerator for Hadoop.,Portable,anytime,PERFORMANCE
+HELPADDR,char,0.0,,Specifies the address of the remote Help system.,Portable,anytime,HELP
+HELPBROWSER,char,0.0,SAS,Specifies the browser to use for SAS Help and ODS output.,Portable,anytime,HELP
+HELPENCMD,Boolean,0.0,HELPENCMD,Uses the English version of the keyword list for the command-line Help.,Portable,startup,HELP
+HELPHOST,char,0.0,,Specifies the name of the computer where the remote browser is to send Help and ODS output.,Portable,anytime,HELP
+HELPINDEX,char,0.0,(/help/common.hlp/index.txt /help/common.hlp/keywords.htm common.hhk),Specifies one or more index files for SAS Help and Documentation.,Portable,startup,HELP
+HELPPORT,num,0.0,0,Specifies the port number for the remote browser client.,Portable,anytime,HELP
+HELPTOC,char,0.0,(/help/helpnav.hlp/navigation.xml /help/common.hlp/toc.htm common.hhc),Specifies the table of contents files for the online SAS Help and Documentation.,Portable,startup,HELP
+HOSTINFOLONG,Boolean,0.0,HOSTINFOLONG,Print operating environment information in the SAS log when SAS starts.,Portable,startup,LOGCONTROL
+HPRUSERFILES,Boolean,0.0,HPRUSERFILES,Allow HPRISK users to copy files to TKGrid cluster,Portable,anytime,SECURITY
+HTTPSERVERPORTMAX,num,0.0,0,Specifies the highest port number that can be used by the SAS HTTP server for remote browsing.,Portable,startup,COMMUNICATIONS
+HTTPSERVERPORTMIN,num,0.0,0,Specifies the lowest port number that can be used by the SAS HTTP server for remote browsing.,Portable,startup,COMMUNICATIONS
+IBUFNO,num,0.0,10,Specifies the number of extra buffers to be allocated for navigating an index file.,Portable,anytime,SASFILES
+IBUFSIZE,num,0.0,32767,Specifies the buffer page size for an index file.,Portable,anytime,SASFILES
+IMLPACKAGEPRIVATE,char,0.0,~/sas/iml/packages,Specifies the location for SAS/IML packages in the private collection.,Portable,startup,ENVFILES
+IMLPACKAGEPUBLIC,char,0.0,/opt/sas/iml/packages,Specifies the location for SAS/IML packages in the public collection.,Portable,startup,ENVFILES
+IMLPACKAGESYSTEM,char,0.0,!SASROOT/misc/iml/packages,Specifies the location for SAS/IML packages in the system collection.,Portable,startup,ENVFILES
+IMPLMAC,Boolean,0.0,NOIMPLMAC,Checks for statement-style macros.,Portable,anytime,MACRO
+INITCMD,char,0.0,,"Specifies commands to open applications, or windows and text editor commands, after SAS executes the AUTOEXEC= file and the INITSTMT= value.",Portable,startup,EXECMODES
+INITSTMT,char,0.0,,Specifies SAS statements to execute after any statements in the AUTOEXEC= file and before any statements from the SYSIN= file.,Portable,startup,EXECMODES
+INSERT,char,0.0,,Specifies an option=value pair to insert the value at the beginning of the existing option value.,Portable,anytime,ENVFILES
+INTERVALDS,char,0.0,,Specifies interval=library pairs.  Library is a SAS data set that contains a custom interval data set; interval can be used in the INTNX and INTCK functions.,Portable,anytime,INPUTCONTROL
+INVALIDDATA,char,0.0,.,Specifies the value that SAS assigns to a variable when invalid numeric data is encountered.,Portable,anytime,INPUTCONTROL
+IPADDRESS,Boolean,0.0,NOIPADDRESS,Enables the IP address to appear in SAS/CONNECT messages when using TCP/IP.,Portable,startup,COMMUNICATIONS
+JPEGQUALITY,num,0.0,75,Specifies the JPEG quality factor that determines the ratio of image quality to the level of compression for JPEG files produced by the JPEG device driver.,Portable,anytime,ODSPRINT
+LABEL,Boolean,0.0,LABEL,Enables procedures to use labels with variables.,Portable,anytime,LISTCONTROL
+LABELCHKPT,Boolean,0.0,NOLABELCHKPT,"For batch programs, enables the recording of checkpoint-restart data for labeled code sections.",Portable,startup,ERRORHANDLING
+LABELCHKPTLIB,char,0.0,WORK,Specifies the libref of the library where the checkpoint-restart data is saved for labeled code sections.,Portable,startup,ERRORHANDLING
+LABELRESTART,Boolean,0.0,NOLABELRESTART,"Enables restart mode, which executes batch programs using checkpoint-restart data that is collected at labeled code sections.",Portable,startup,ERRORHANDLING
+LEFTMARGIN,char,0.0,0.000 IN,Specifies the print margin for the left side of the page.,Portable,anytime,ODSPRINT
+LINESIZE,num,0.0,132,Specifies the line size for the SAS log and for SAS procedure output for the LISTING destination.,Portable,anytime,LOG_LISTCONTROL
+LOCALEDATA,char,0.0,SASLOCALE,Specifies the location of the locale database.,Portable,startup,LANGUAGECONTROL
+LOCKDOWN,Boolean,0.0,NOLOCKDOWN,Specifies that access to files and certain SAS features will be restricted. This feature is only applicable for a SAS session executing in a batch or server pro,Portable,startup,EXECMODES
+LOGAPPLNAME,char,0.0,,Specifies a SAS session name for SAS logging.,Portable,startup,LOGCONTROL
+LOGCONFIGLOC,char,0.0,/pbr/biconfig/940/Lev1/SASApp/WorkspaceServer/logconfig.xml,Specifies the name of the XML configuration file or a basic logging configuration that is used to initialize the SAS logging facility.,Portable,startup,EXECMODES
+LOGLANGCHG,Boolean,0.0,LOGLANGCHG,Enables changing the language of the SAS log when the LOCALE= option is changed.,Portable,startup,LOG_LISTCONTROL
+LOGLANGENG,Boolean,0.0,NOLOGLANGENG,Write SAS log messages in English when the LOCALE= option is set after SAS starts.,Portable,startup,LANGUAGECONTROL
+LOGPARM,char,0.0,WRITE=BUFFERED ROLLOVER=NONE OPEN=REPLACE,"Specifies when SAS log files are opened, closed, and according to the LOG= system option, how they are named.",Portable,startup,LOGCONTROL
+LRECL,num,0.0,32767,Specifies the default logical record length to use for reading and writing external files.,Portable,anytime,EXTFILES
+LSWLANG,char,0.0,LOCALE,Specifies the language for SAS log and ODS messages when the LOCALE= option is set after SAS starts.,Portable,startup,LANGUAGECONTROL
+MACRO,Boolean,0.0,MACRO,Enables the macro facility.,Portable,startup,MACRO
+MAPEBCDICTOASCII,char,0.0,,Specifies the transcoding table that is used to convert characters from ASCII to EBCDIC and EBCDIC to ASCII.,Portable,startup,LANGUAGECONTROL
+MAPS,char,0.0,!SASROOT/maps,Specifies the location of SAS/GRAPH map data sets.,Portable,anytime,GRAPHICS
+MAPSGFK,char,0.0,!SASROOT/mapsgfk,Specifies the location of GfK maps.,Portable,startup,GRAPHICS
+MAPSSAS,char,0.0,!SASROOT/maps,Specifies the location of SAS map data sets.,Portable,startup,GRAPHICS
+MAUTOCOMPLOC,Boolean,0.0,NOMAUTOCOMPLOC,Displays the autocall macro source location in the SAS log when the autocall macro is compiled.,Portable,anytime,MACRO
+MAUTOLOCDISPLAY,Boolean,0.0,NOMAUTOLOCDISPLAY,Enables the macro facility to display the autocall macro source location in the log when the autocall macro is invoked.,Portable,anytime,MACRO
+MAUTOLOCINDES,Boolean,0.0,NOMAUTOLOCINDES,Prepends the full pathname of the autocall macro source file to the autocall macro catalog entry description field in the WORK.SASMACR catalog.,Portable,anytime,MACRO
+MAUTOSOURCE,Boolean,0.0,MAUTOSOURCE,Enables the macro autocall feature.,Portable,anytime,MACRO
+MAXSEGRATIO,num,0.0,75,Specifies the upper limit for the percentage of index segments that the SPD Engine identifies as containing the value referenced in the WHERE expression.,Portable,anytime,PERFORMANCE
+MCOMPILE,Boolean,0.0,MCOMPILE,Allows new macro definitions.,Portable,anytime,MACRO
+MCOMPILENOTE,char,0.0,NONE,Specifies what to write to the SAS log when a macro compiles successfully.,Portable,anytime,MACRO
+MCOVERAGE,Boolean,0.0,NOMCOVERAGE,Enables the generation of coverage analysis data for SAS macros.,Portable,anytime,MACRO
+MCOVERAGELOC,char,0.0,,Specifies the location of the macro coverage analysis data file.,Portable,anytime,MACRO
+MERGENOBY,char,0.0,NOWARN,Specifies the type of message that is issued when MERGE processing occurs without an associated BY statement.,Portable,anytime,SASFILES
+MERROR,Boolean,0.0,MERROR,Issues a warning message for an unresolved macro reference.,Portable,anytime,MACRO
+METAAUTORESOURCES,char,0.0,SASApp,Specifies the metadata resources that are assigned when SAS starts.,Portable,startup,META
+METACONNECT,char,0.0,,Specifies the profile from the metadata user connection profiles that is used to connect to the SAS Metadata Server.,Portable,anytime,META
+METAENCRYPTALG,char,0.0,SASPROPRIETARY,Specifies the type of encryption to use to communicate with the SAS Metadata Server.,Portable,startup,META
+METAENCRYPTLEVEL,char,0.0,CREDENTIALS,Specifies the level of encryption that is used to communicate with the SAS Metadata Server.,Portable,startup,META
+METAID,char,0.0,,Specifies the ID of the SAS Metadata Server.,Portable,startup,META
+METAPASS,char,0.0,xxxxxxxx,Specifies the SAS Metadata Server password.,Portable,anytime,META
+METAPORT,num,0.0,8561,Specifies the TCP port for the SAS Metadata Server.,Portable,anytime,META
+METAPROFILE,char,0.0,/pbr/biconfig/940/Lev1/metadataConfig.xml,Specifies the XML document that contains SAS Metadata Server user connection profiles.,Portable,startup,META
+METAPROTOCOL,char,0.0,BRIDGE,Specifies the network profile to use to connect to the SAS Metadata Server.,Portable,anytime,META
+METAREPOSITORY,char,0.0,Foundation,Specifies the name of the SAS Metadata Server Repository.,Portable,anytime,META
+METASERVER,char,0.0,odaomr-apse1.oda.sas.com,Specifies the host name or address of the SAS Metadata Server.,Portable,anytime,META
+METASPN,char,0.0,,Specifies the service principal name (SPN) for the SAS Metadata Server.,Portable,anytime,META
+METAUSER,char,0.0,,Specifies the user ID that is used to connect to the SAS Metadata Server.,Portable,anytime,META
+MEXECNOTE,Boolean,0.0,NOMEXECNOTE,Displays the macro execution information in the SAS log when the macro is invoked.,Portable,anytime,MACRO
+MEXECSIZE,num,0.0,65536,Specifies the maximum macro size that can be executed in memory.,Portable,anytime,PERFORMANCE
+MFILE,Boolean,0.0,NOMFILE,Writes the MPRINT output to an external file.,Portable,anytime,MACRO
+MINDELIMITER,char,0.0,,Specifies the character delimiter for the macro IN operator.,Portable,anytime,MACRO
+MINOPERATOR,Boolean,0.0,NOMINOPERATOR,Enables IN logical operators in expressions.,Portable,anytime,MACRO
+MINPARTSIZE,num,0.0,16777216,Specifies the minimum size of the data component partitions for SPD Engine data sets.,Portable,startup,PERFORMANCE
+MISSING,char,0.0,.,Specifies the character to print for missing numeric values.,Portable,anytime,LOG_LISTCONTROL
+MLOGIC,Boolean,0.0,NOMLOGIC,Traces macro execution and writes the results to the SAS log.,Portable,anytime,MACRO
+MLOGICNEST,Boolean,0.0,NOMLOGICNEST,Displays the macro nesting information in the SAS log for MLOGIC output.,Portable,anytime,MACRO
+MPRINT,Boolean,0.0,NOMPRINT,Displays the SAS statements that are generated by macro execution.,Portable,anytime,MACRO
+MPRINTNEST,Boolean,0.0,NOMPRINTNEST,Displays the macro nesting information from the MPRINT output in the SAS log.,Portable,anytime,MACRO
+MRECALL,Boolean,0.0,NOMRECALL,Searches autocall libraries for an undefined macro each time an attempt is made to invoke the macro.,Portable,anytime,MACRO
+MREPLACE,Boolean,0.0,MREPLACE,Enables updates to macro definitions in the Work library.,Portable,anytime,MACRO
+MSGLEVEL,char,0.0,N,Specifies the level of detail in SAS log messages.,Portable,anytime,LOGCONTROL
+MSTORED,Boolean,0.0,NOMSTORED,Searches for stored compiled macros that are in the library specified by the SASMSTORE= option.,Portable,anytime,MACRO
+MSYMTABMAX,num,0.0,4194304,Specifies the maximum amount of memory available to the macro variable symbol table or tables.,Portable,anytime,MACRO
+MULTENVAPPL,Boolean,0.0,NOMULTENVAPPL,List only SAS fonts in the font selector window of a SAS application.,Portable,anytime,EXECMODES
+MVARSIZE,num,0.0,65534,Specifies the maximum size for a macro variable that is stored in memory.,Portable,anytime,MACRO
+NETENCRYPT,Boolean,0.0,NONETENCRYPT,Requires encryption for client/server data transfers.,Portable,anytime,COMMUNICATIONS
+NETENCRYPTALGORITHM,char,0.0,TRIPLEDES,Specifies one or more algorithms to use for encrypted client/server data transfers.,Portable,anytime,COMMUNICATIONS
+NETENCRYPTKEYLEN,num,0.0,0,Specifies the key length that is used by the encryption algorithm for encrypted client/server data transfers.,Portable,anytime,COMMUNICATIONS
+NEWS,char,0.0,!SASROOT/misc/base/news,Specifies the location of the news file that is to be written to the SAS log immediately after the header.,Portable,startup,LOGCONTROL
+NLDECSEPARATOR,Boolean,0.0,NONLDECSEPARATOR,Enables numeric output to format using the decimal separator for the locale.,Portable,anytime,LANGUAGECONTROL
+NOTES,Boolean,0.0,NONOTES,SAS writes notes to the SAS log.,Portable,anytime,LOGCONTROL
+NUMBER,Boolean,0.0,NUMBER,Prints the page number on the first title line of each page of SAS output.,Portable,anytime,LOG_LISTCONTROL
+OBJECTSERVER,Boolean,0.0,OBJECTSERVER,Enables SAS to run as an Integrated Object Model (IOM) server.,Portable,startup,EXECMODES
+OBS,num,0.0,9223372036854775807,"Specifies the observation that is used to determine the last observation to process, or specifies the last record to process.",Portable,anytime,SASFILES
+ODSDEST,char,0.0,AUTO,Specifies the default ODS destination.,Portable,startup,ODSPRINT
+ODSGRAPHICS,char,0.0,AUTO,Specifies the setting for ODS graphics.,Portable,startup,ODSPRINT
+ODSLANGCHG,Boolean,0.0,ODSLANGCHG,Enables the language of the SAS message text in ODS output to change when the LOCALE option is set after start up.,Portable,startup,ODSPRINT
+ODSSTYLE,char,0.0,AUTO,Specifies the ODS HTML default style.,Portable,anytime,ODSPRINT
+OLAPCONFIG,char,0.0,,Specifies the name of the XML configuration file that is used to initialize an OLAP server.,Portable,startup,EXECMODES
+ORIENTATION,char,0.0,PORTRAIT,Specifies the paper orientation to use when printing to a printer.,Portable,anytime,ODSPRINT
+OVP,Boolean,0.0,NOOVP,Enables overprinting of error messages to make them bold.,Portable,anytime,LOGCONTROL
+PAGEBREAKINITIAL,Boolean,0.0,NOPAGEBREAKINITIAL,Begins SAS log and procedure output for the LISTING destination on a new page.,Portable,startup,LOG_LISTCONTROL
+PAGENO,num,0.0,1,Resets the SAS output page number.,Portable,anytime,LISTCONTROL
+PAGESIZE,num,0.0,32767,Specifies the number of lines that compose a page of the SAS log and SAS output.,Portable,anytime,LOG_LISTCONTROL
+PAPERDEST,char,0.0,,Specifies the name of the output bin to receive printed output.,Portable,anytime,ODSPRINT
+PAPERSIZE,char,0.0,A4,Specifies the paper size to use for printing.,Portable,anytime,ODSPRINT
+PAPERSOURCE,char,0.0,,Specifies the name of the paper bin to use for printing.,Portable,anytime,ODSPRINT
+PAPERTYPE,char,0.0,PLAIN,Specifies the type of paper to use for printing.,Portable,anytime,ODSPRINT
+PARM,char,0.0,,Specifies a parameter string that is passed to an external program.,Portable,anytime,ENVFILES
+PARMCARDS,char,0.0,FT15F001,Specifies the file reference to open when SAS encounters the PARMCARDS statement in a procedure.,Portable,anytime,ENVFILES
+PDFACCESS,Boolean,0.0,PDFACCESS,Enables screen readers to read PDF text and graphics.,Portable,anytime,PDF
+PDFASSEMBLY,Boolean,0.0,NOPDFASSEMBLY,Enables assembly of PDF documents.,Portable,anytime,PDF
+PDFCOMMENT,Boolean,0.0,NOPDFCOMMENT,Enables comments in PDF documents to be modified.,Portable,anytime,PDF
+PDFCONTENT,Boolean,0.0,NOPDFCONTENT,Enables PDF document contents to be modified.,Portable,anytime,PDF
+PDFCOPY,Boolean,0.0,PDFCOPY,Enables PDF document text and graphics to be copied.,Portable,anytime,PDF
+PDFFILLIN,Boolean,0.0,PDFFILLIN,Enables PDF forms to be filled in.,Portable,anytime,PDF
+PDFPAGELAYOUT,char,0.0,DEFAULT,Specifies the page layout for PDF documents.,Portable,anytime,PDF
+PDFPAGEVIEW,char,0.0,DEFAULT,Specifies the page viewing mode for PDF documents.,Portable,anytime,PDF
+PDFPASSWORD,char,0.0,xxxxxxxx,Specifies the password to use to open a PDF document and the password used by a PDF document owner.,Portable,anytime,SECURITY
+PDFPRINT,char,0.0,HRES,Specifies the resolution to print PDF documents.,Portable,anytime,PDF
+PDFSECURITY,char,0.0,NONE,Specifies the level of encryption to use for PDF documents.,Portable,anytime,SECURITY
+PRESENV,Boolean,0.0,NOPRESENV,Specifies that collecting data for the preservation of the SAS environment is enabled.,Portable,anytime,EXECMODES
+PRIMARYPROVIDERDOMAIN,char,0.0,,Specifies the domain name of the primary authentication provider.,Portable,startup,EXECMODES
+PRINTERPATH,char,0.0,,Specifies the name of a registered printer to use for Universal Printing.,Portable,anytime,ODSPRINT
+PRINTINIT,Boolean,0.0,NOPRINTINIT,Initializes the SAS procedure output file for the LISTING destination and resets file attributes.,Portable,startup,LISTCONTROL
+PRINTMSGLIST,Boolean,0.0,PRINTMSGLIST,Specifies to print the entire list of messages to the SAS log.,Portable,anytime,LOGCONTROL
+PROTOLIBS,char,0.0,NONE,Specifies the paths that PROC PROTO can use to find and register load modules.,Portable,startup,ENVFILES
+QUOTELENMAX,Boolean,0.0,QUOTELENMAX,Writes a warning message to the SAS log if a quoted string exceeds the maximum length allowed.,Portable,anytime,ERRORHANDLING
+REPLACE,Boolean,0.0,REPLACE,Enables replacement of permanent SAS data sets.,Portable,anytime,SASFILES
+REUSE,char,0.0,NO,Specifies whether SAS reuses space when observations are added to a compressed SAS data set.,Portable,anytime,SASFILES
+RIGHTMARGIN,char,0.0,0.000 IN,Specifies the print margin for the right side of the page.,Portable,anytime,ODSPRINT
+RLANG,Boolean,0.0,NORLANG,Enables SAS to execute R language statements.,Portable,startup,SECURITY
+RSASIOTRANSERROR,Boolean,0.0,RSASIOTRANSERROR,Displays a transcoding error when illegal values are read from a remote application.,Portable,anytime,SASFILES
+RSASUSER,Boolean,0.0,RSASUSER,Opens the Sasuser library in Read-Only mode.,Portable,startup,ENVFILES
+S,num,0.0,0,"Specifies the length of statements on each line of a source statement, and the length of data on lines that follow a DATALINES statement.",Portable,anytime,INPUTCONTROL
+S2,num,0.0,0,"Specifies the length of statements of each line of a source statement from an %%INCLUDE statement, an AUTOEXEC= file, or an autocall macro file.",Portable,anytime,INPUTCONTROL
+S2V,num,0.0,0,"Specifies the column to begin reading a file with variable length records that is specified in an %%INCLUDE statement, an autoexec file, or an autocall macro.",Portable,anytime,INPUTCONTROL
+SASAUTOS,char,0.0,"( ""SASEnvironment/SASMacro"" '!SASROOT/forecastbat/sasmacro'         '!SASROOT/sasautos' )",Specifies the location of one or more autocall libraries.,Portable,anytime,MACRO
+SASCMD,char,0.0,,Specifies the command that starts a server session on a symmetric multiprocessing (SMP) computer.,Portable,anytime,COMMUNICATIONS
+SASFRSCR,char,0.0,#LN00017,"A read-only option that contains the fileref, generated by the SASSCRIPT option,  for SAS/CONNECT server sign-on script files.",Portable,anytime,COMMUNICATIONS
+SASHELP,char,0.0,( '!SASROOT/nls/u8/sascfg'         '!SASROOT/nls/u8/sashelp' '!SASROOT/nls/en/sascfg'         '!SASROOT/sashelp' ),Specifies the location of the Sashelp library.,Portable,startup,ENVFILES
+SASMSTORE,char,0.0,,Specifies the libref of a SAS catalog for stored compiled SAS macros.,Portable,anytime,MACRO
+SASSCRIPT,char,0.0,(          '!SASROOT/misc/connect'         '!SASROOT/samples/connect'         ),Specifies one or more locations of SAS/CONNECT server sign-on script files.,Portable,anytime,COMMUNICATIONS
+SASUSER,char,0.0,~/sasuser.v94,Specifies a libref or a path that identifies a library for the user's profile catalog.,Portable,startup,ENVFILES
+SECPACKAGE,char,0.0,Negotiate,Specifies the security package that the IOM server uses to authenticate incoming client connections.,Portable,startup,SECURITY
+SECPACKAGELIST,char,0.0,"Kerberos,NTLM",Specifies the security authentication packages that are used by the server.,Portable,startup,SECURITY
+SEQ,num,0.0,8,Specifies the length of the numeric portion of the sequence field in input source lines or data lines.,Portable,anytime,INPUTCONTROL
+SERROR,Boolean,0.0,SERROR,Issues a warning message when a macro variable reference does not match a macro variable.,Portable,anytime,MACRO
+SERVICESBASEURL,char,0.0,,Specifies the URL for services.,Portable,startup,COMMUNICATIONS
+SESSREF,char,0.0,CASAUTO,Identify the name to associate with a generated CAS session.,Portable,anytime,CAS
+SETINIT,Boolean,0.0,NOSETINIT,Enables PROC SETINIT to update site licensing information in a non-windowing environment.,Portable,startup,INSTALL
+SHARESESSIONCNTL,char,0.0,SERVER,Specifies whether the SAS/SHARE server has one or multiple connections to clients.,Portable,anytime,COMMUNICATIONS
+SIGNONWAIT,Boolean,0.0,SIGNONWAIT,"Executes the SIGNON statement synchronously, signing on clients to the server one at a time.",Portable,anytime,COMMUNICATIONS
+SKIP,num,0.0,0,Specifies the number of lines to skip at the top of each page of SAS output for the LISTING destination.,Portable,anytime,LISTCONTROL
+SOLUTIONS,Boolean,0.0,SOLUTIONS,Displays the Solutions menu in SAS windows.,Portable,startup,ENVDISPLAY
+SORTDUP,char,0.0,PHYSICAL,Specifies whether PROC SORT removes duplicate variables based on the DROP and KEEP options or on all data set variables.,Portable,anytime,SORT
+SORTEQUALS,Boolean,0.0,SORTEQUALS,PROC SORT maintains the relative position in the output data set for observations with identical BY-variable values.,Portable,anytime,SORT
+SORTSEQ,char,0.0,,Specifies a language-specific collating sequence for the SORT and SQL procedures.,Portable,anytime,SORT
+SORTSIZE,char,0.0,3221225472,Specifies the amount of memory that is available to the SORT procedure.,Portable,anytime,PERFORMANCE
+SORTVALIDATE,Boolean,0.0,NOSORTVALIDATE,"When a user-specified sort order is set in the sort indicator, PROC SORT verifies whether a data set is sorted according to the variables in the BY statement.",Portable,anytime,SORT
+SOURCE,Boolean,0.0,SOURCE,Writes program source statements to the SAS log.,Portable,anytime,LOGCONTROL
+SOURCE2,Boolean,0.0,NOSOURCE2,Writes secondary source statements from included files to the SAS log.,Portable,anytime,LOGCONTROL
+SPDEFILECACHE,Boolean,0.0,NOSPDEFILECACHE,Enables caching of opened SPD Engine files.,Portable,startup,PERFORMANCE
+SPDEINDEXSORTSIZE,num,0.0,33554432,Specifies the memory size for sorting index values.,Portable,anytime,PERFORMANCE
+SPDEMAXTHREADS,num,0.0,0,Specifies the maximum number of threads that the SPD Engine can spawn for I/O processing.,Portable,startup,PERFORMANCE
+SPDEPARALLELREAD,char,0.0,NO,Enables or disables SPD Engine parallel reads when no WHERE clause is in effect.,Portable,anytime,PERFORMANCE
+SPDESORTSIZE,num,0.0,33554432,Specifies the memory size that is used for sorting by the SPD Engine.,Portable,anytime,PERFORMANCE
+SPDEUTILLOC,char,0.0,,Specifies one or more locations where the SPD Engine can temporarily store utility files.,Portable,startup,PERFORMANCE
+SPDEWHEVAL,char,0.0,COST,Specifies the WHERE statement evaluation process for the SPD Engine.,Portable,anytime,PERFORMANCE
+SPOOL,Boolean,0.0,NOSPOOL,Writes SAS statements to a utility data set in the Work library for later use by a %%INCLUDE or %%LIST statement.,Portable,anytime,INPUTCONTROL
+SQLCONSTDATETIME,Boolean,0.0,SQLCONSTDATETIME,"PROC SQL replaces references to the DATE, TIME, DATETIME, and TODAY functions with their equivalent constant values before a query executes.",Portable,anytime,SQL
+SQLGENERATION,char,0.0,(NONE DBMS='TERADATA DB2 ORACLE NETEZZA ASTER GREENPLM HADOOP SAPHANA IMPALA HAWQ POSTGRES REDSHIFT SQLSVR VERTICA BIGQUERY SNOW YBRICK SPARK'),Specifies whether and when SAS procedures generate SQL for in-database processing of source data.,Portable,anytime,SQL
+SQLIPONEATTEMPT,Boolean,0.0,NOSQLIPONEATTEMPT,Enable an SQL query to terminate when an implicit pass-through request fails.,Portable,anytime,SQL
+SQLLDRPATH,char,0.0,,Path for Oracle bulkload.,Portable,startup,SECURITY
+SQLMAPPUTTO,char,0.0,SAS_PUT,Specifies the PUT function mapping to SQL.,Portable,anytime,SQL
+SQLREDUCEPUT,char,0.0,DBMS,"For PROC SQL, specifies the engine type to use to optimize a PUT function in a query.",Portable,anytime,SQL
+SQLREDUCEPUTOBS,num,0.0,0,"For PROC SQL, specifies the minimum number of observations that must be in a table for PROC SQL to optimize the PUT function in a query.",Portable,anytime,SQL
+SQLREDUCEPUTVALUES,num,0.0,0,"For PROC SQL, specifies the maximum number of SAS format values that can exist in a PUT function expression to optimize the PUT function in a query.",Portable,anytime,SQL
+SQLREMERGE,Boolean,0.0,SQLREMERGE,PROC SQL processes queries that use remerged data.,Portable,anytime,SQL
+SQLUNDOPOLICY,char,0.0,REQUIRED,Specifies how PROC SQL handles updated data if errors occur while you are updating data.,Portable,anytime,SQL
+SSLCLIENTAUTH,Boolean,0.0,NOSSLCLIENTAUTH,Specifies that the server perform client authentication for a server connection.,Portable,anytime,COMMUNICATIONS
+SSLCRLCHECK,Boolean,0.0,NOSSLCRLCHECK,Checks the Certificate Revocation List (CRL) when a digital certificate is validated.,Portable,anytime,COMMUNICATIONS
+SSLMINPROTOCOL,char,0.0,,Specifies the minimum TLS or SSL protocol that can be negotiated when using OpenSSL.,Portable,anytime,COMMUNICATIONS
+SSLMODE,char,0.0,,Specifies the TLS version and the cipher suites for SSL.,Portable,anytime,COMMUNICATIONS
+SSPI,Boolean,0.0,NOSSPI,Uses the Security Support Provider Interface for single sign-on connections to IOM servers.,Portable,startup,SECURITY
+STARTLIB,Boolean,0.0,NOSTARTLIB,Assigns user-defined permanent librefs when SAS starts.,Portable,startup,EXTFILES
+STEPCHKPT,Boolean,0.0,NOSTEPCHKPT,Enables recording of checkpoint-restart data for DATA and PROC steps for batch programs.,Portable,startup,ERRORHANDLING
+STEPCHKPTLIB,char,0.0,WORK,Specifies the libref of the library where checkpoint-restart data for DATA and PROC steps is saved.,Portable,startup,ERRORHANDLING
+STEPRESTART,Boolean,0.0,NOSTEPRESTART,Enables restart mode which executes batch programs using checkpoint-restart data collected for DATA and PROC steps in a prior execution.,Portable,startup,ERRORHANDLING
+STRIPESIZE,char,0.0,,Specifies path and size pairs to identify I/O device stripe size.  Stripe size indicates page size when creating a data set or utility file.,Portable,anytime,TK
+SUMSIZE,num,0.0,0,Specifies a limit on the amount of memory that is available for data summarization procedures when class variables are active.,Portable,anytime,MEMORY
+SVGAUTOPLAY,Boolean,0.0,SVGAUTOPLAY,Starts animation when the page is loaded in the browser.,Portable,anytime,ANIMATION
+SVGCONTROLBUTTONS,Boolean,0.0,NOSVGCONTROLBUTTONS,Displays the paging control buttons and an index in a multipage SVG document.,Portable,anytime,SVG
+SVGFADEIN,char,0.0,0,Specifies the number of seconds for the fade-in effect for a graph.,Portable,anytime,ANIMATION
+SVGFADEMODE,char,0.0,OVERLAP,Specifies whether to use sequential frames or to overlap frames for the fade-in effect of a graph.,Portable,anytime,ANIMATION
+SVGFADEOUT,char,0.0,0,Specifies the number of seconds for a graph to fade out of view.,Portable,anytime,ANIMATION
+SVGHEIGHT,char,0.0,,Specifies the height of the viewport. Specifies the value of the height attribute of the outermost SVG element.,Portable,anytime,SVG
+SVGMAGNIFYBUTTON,Boolean,0.0,NOSVGMAGNIFYBUTTON,Enables the SVG magnifier tool.,Portable,anytime,SVG
+SVGPRESERVEASPECTRATIO,char,0.0,,Specifies whether to force uniform scaling of SVG output. Specifies the preserveAspectRatio attribute on the outermost SVG element.,Portable,anytime,SVG
+SVGTITLE,char,0.0,svgtitle,Specifies the text in the title bar of the SVG output. Specifies the value of the TITLE element in the SVG file.,Portable,anytime,SVG
+SVGVIEWBOX,char,0.0,,"Specifies the coordinates, width, and height that are used to set the viewBox attribute on the outermost SVG element.",Portable,anytime,SVG
+SVGWIDTH,char,0.0,,Specifies the width of the viewport. Specifies the value of the width attribute of the outermost SVG element.,Portable,anytime,SVG
+SVGX,char,0.0,,Specifies the x-axis coordinate of one corner of the rectangular region for an embedded SVG element. Specifies the x attribute in the outermost SVG element.,Portable,anytime,SVG
+SVGY,char,0.0,,Specifies the y-axis coordinate of one corner of the rectangular region for an embedded SVG element. Specifies the y attribute in the outermost SVG element.,Portable,anytime,SVG
+SYMBOLGEN,Boolean,0.0,NOSYMBOLGEN,Displays the results of resolving macro variable references in the SAS log.,Portable,anytime,MACRO
+SYNCHIO,Boolean,0.0,SYNCHIO,Requires that data set I/O must be completed before other logical SAS tasks can be executed.,Portable,startup,SASFILES
+SYNTAXCHECK,Boolean,0.0,NOSYNTAXCHECK,Enables syntax check mode for multiple steps in non-interactive or batch SAS sessions.,Portable,anytime,ERRORHANDLING
+SYSPARM,char,0.0,,Specifies a character string that can be passed to SAS programs.,Portable,anytime,ENVFILES
+SYSPRINTFONT,char,0.0,,Specifies the default font to use for printing.,Portable,anytime,LISTCONTROL
+SYSRPUTSYNC,Boolean,0.0,NOSYSRPUTSYNC,Sets the %%SYSRPUT macro variables in the client session when the %%SYSRPUT statements are executed.,Portable,anytime,COMMUNICATIONS
+TBUFSIZE,num,0.0,0,Specifies the size of the buffer that is used by SAS applications to transfer client/server data across a network.,Portable,anytime,COMMUNICATIONS
+TCPLISTENTIME,num,0.0,300,Specifies the amount of time that a SAS/CONNECT server listens for a client to connect before terminating the CONNECT server session.,Portable,anytime,COMMUNICATIONS
+TCPPORTFIRST,num,0.0,0,Specifies the first value in a range of TCP/IP ports for a client to use to connect to a server.,Portable,anytime,COMMUNICATIONS
+TCPPORTLAST,num,0.0,0,Specifies the last value in a range of TCP/IP ports for a client to use to connect to a server.,Portable,anytime,COMMUNICATIONS
+TENANTID,char,0.0,,Specifies a name that identifies a tenant in a multi-tenant environment.,Portable,anytime,EXECMODES
+TERMINAL,Boolean,0.0,NOTERMINAL,Associates a terminal with a SAS session.,Portable,startup,EXECMODES
+TERMSTMT,char,0.0,,Specifies the SAS statement to execute when SAS terminates.,Portable,startup,EXECMODES
+TEXTURELOC,char,0.0,!SASROOT/misc/textures,Specifies the location of textures and images that are used by ODS styles.,Portable,anytime,ODSPRINT
+THREADS,Boolean,0.0,THREADS,Uses threaded processing for SAS applications that support it.,Portable,anytime,PERFORMANCE
+TIMEZONE,char,0.0,,Specifies a time zone.,Portable,anytime,LANGUAGECONTROL
+TOOLSMENU,Boolean,0.0,TOOLSMENU,Displays the Tools menu in SAS windows.,Portable,startup,ENVDISPLAY
+TOPMARGIN,char,0.0,0.000 IN,Specifies the print margin at the top of the page.,Portable,anytime,ODSPRINT
+TRAINLOC,char,0.0,,Specifies the URL for SAS online training courses.,Portable,startup,ENVFILES
+TRANTAB,char,0.0,,Specifies the translation table catalog entries.,Portable,anytime,LANGUAGECONTROL
+TSID,char,0.0,,Specifies a logical server metadata object that identifies a table service definition.,Portable,anytime,SASFILES
+UBUFNO,num,0.0,10,Specifies the number of utility file buffers.,Portable,anytime,PERFORMANCE
+UBUFSIZE,num,0.0,131072,Specifies the size of utility file buffers.,Portable,anytime,PERFORMANCE
+UNIVERSALPRINT,Boolean,0.0,UNIVERSALPRINT,Enables the Universal Printing windows to display and sets up default values for printing.,Portable,startup,ODSPRINT
+UPRINTCOMPRESSION,Boolean,0.0,UPRINTCOMPRESSION,Enables compression of files that are created by some Universal Printers and SAS/GRAPH devices.,Portable,anytime,ODSPRINT
+URLENCODING,char,0.0,SESSION,Specifies whether the argument to the URLENCODE function and to the URLDECODE function is interpreted using the SAS session encoding or UTF-8 encoding.,Portable,anytime,LANGUAGECONTROL
+USER,char,0.0,,Specifies the default permanent library to use for one-level SAS data set names.,Portable,anytime,ENVFILES
+UTILLOC,char,0.0,WORK,Specifies one or more file system locations in which threaded applications can store utility files.,Portable,startup,PERFORMANCE
+UUIDCOUNT,num,0.0,100,Specifies the number of UUIDs to acquire from the UUID Generator Daemon.,Portable,anytime,ENVFILES
+UUIDGENDHOST,char,0.0,,"Specifies the host and port, or the LDAP URL that the UUID Generator Daemon runs on.",Portable,startup,ENVFILES
+V6CREATEUPDATE,char,0.0,NOTE,Specifies the type of message to write to the SAS log when Version 6 data sets are created or updated.,Portable,startup,SASFILES
+VALIDFMTNAME,char,0.0,LONG,Specifies the maximum size that user-created formats and informat names can be before an error or warning is issued.,Portable,anytime,SASFILES
+VALIDMEMNAME,char,0.0,EXTEND,"Specifies the rules for naming SAS data sets, SAS data views, and item stores.",Portable,anytime,SASFILES
+VALIDVARNAME,char,0.0,ANY,Specifies the rules for valid SAS variable names that can be created and processed during a SAS session.,Portable,anytime,SASFILES
+VARINITCHK,char,0.0,NOTE,Specifies the type of message to write to the SAS log when a variable is not initialized.,Portable,anytime,SASFILES
+VARLENCHK,char,0.0,WARN,Specifies the type of message to write to the SAS log when the length of the variable that is being read is longer than the length that is defined for the varia,Portable,anytime,SASFILES
+VBUFSIZE,num,0.0,65536,Specifies the buffer size for a view.,Portable,anytime,PERFORMANCE
+VIEWMENU,Boolean,0.0,VIEWMENU,Displays the View menu in SAS windows.,Portable,startup,ENVDISPLAY
+VNFERR,Boolean,0.0,VNFERR,SAS issues an error message when a BY variable exists in one data set but not another when the other data set is _NULL_.,Portable,anytime,ERRORHANDLING
+WORK,char,0.0,/saswork/SAS_work9422000102FB_odaws01-apse1.oda.sas.com/SAS_workD035000102FB_odaws01-apse1.oda.sas.com,Specifies the libref or location of the Work library.,Portable,startup,PERFORMANCE
+WORKINIT,Boolean,0.0,WORKINIT,"At SAS invocation, erases files that exist from a previous SAS session in an existing Work library.",Portable,startup,ENVFILES
+WORKTERM,Boolean,0.0,WORKTERM,Erases the Work files when SAS terminates.,Portable,anytime,ENVFILES
+YEARCUTOFF,num,0.0,1940,Specifies the first year of a 100-year span that is used by date informats and functions to read a two-digit year.,Portable,anytime,INPUTCONTROL
+_LAST_,char,0.0,WORK._N_U_L_L_,Specifies the most recently created data set.,Portable,anytime,SASFILES
+BACKGROUND,char,0.0,,Application Background Color.,Host,startup,ENVDISPLAY
+BD,char,0.0,,Border Color.,Host,startup,ENVDISPLAY
+BG,char,0.0,,Application Background Color.,Host,startup,ENVDISPLAY
+BLKSIZE,num,0.0,256,Specifies the number of bytes that are read or written in one I/O operation.,Host,anytime,SASFILES
+BORDERCOLOR,char,0.0,,Application Border Color.,Host,startup,ENVDISPLAY
+BORDERWIDTH,char,0.0,,Application Border Width.,Host,startup,ENVDISPLAY
+BW,char,0.0,,Application Border Width.,Host,startup,ENVDISPLAY
+COMAUX1,char,0.0,,Specifies the first alternate communication access method.,Host,startup,COMMUNICATIONS
+COMAUX2,char,0.0,,Specifies the second alternate communication access method.,Host,startup,COMMUNICATIONS
+CONFIG,char,0.0,( /pbr/sfw/sas/940/SASFoundation/9.4/sasv9.cfg /pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sasv9.cfg /pbr/sfw/sas/940/SASFoundation/9.4/sasv9_local.cfg /pbr/biconfig/940/Lev1/SASApp/sasv9.cfg /pbr/biconfig/940/Lev1/SASApp/sasv9_usermods.cfg /pbr/biconfig/940/Lev1/SASApp/WorkspaceServer/sasv9.cfg /pbr/biconfig/940/Lev1/SASApp/WorkspaceServer/sasv9_usermods.cfg ),Specifies the configuration file that is used when initializing or overriding the values of SAS system options.,Host,startup,ENVFILES
+DBCS,Boolean,0.0,DBCS,Enables double-byte character sets for encoding values that support East Asian languages.,Host,startup,LANGUAGECONTROL
+DBCSLANG,char,0.0,UNKNOWN,Specifies a double-byte character set language.,Host,startup,LANGUAGECONTROL
+DBCSTYPE,char,0.0,UTF8,Specifies the encoding method that is used for a double-byte character set.,Host,startup,LANGUAGECONTROL
+DISPLAY,char,0.0,,Display and Screen.,Host,startup,ENVDISPLAY
+ECHO,char,0.0,,Specifies a message that is echoed to the SAS log while initializing SAS.,Host,startup,LOGCONTROL
+EDITCMD,char,0.0,,Specifies the host editor that is used with the HOSTEDIT command.,Host,anytime,ENVDISPLAY
+EMAILSYS,char,0.0,SMTP,Specifies the email protocol that is used for sending electronic mail.,Host,anytime,EMAIL
+FG,char,0.0,,Application Foreground Color.,Host,startup,ENVDISPLAY
+FILELOCKS,char,0.0,( '/' NONE ),Specifies whether file locking is turned on or off and what action should be taken if a file cannot be locked.,Host,anytime,SASFILES
+FILELOCKWAITMAX,num,0.0,600,Specifies the maximum number of seconds that SAS waits for a locked file to become available.,Host,startup,SASFILES
+FN,char,0.0,,Application Font.,Host,startup,ENVDISPLAY
+FONT,char,0.0,,Application Font.,Host,startup,ENVDISPLAY
+FOREGROUND,char,0.0,,Application Foreground Color.,Host,startup,ENVDISPLAY
+FSDBTYPE,char,0.0,DEFAULT,Specifies a full-screen double-byte character set (DBCS) encoding method.,Host,startup,LANGUAGECONTROL
+FSIMM,char,0.0,,Specifies input method modules (IMMs) for full-screen double-byte character sets (DBCS).,Host,anytime,LANGUAGECONTROL
+FSIMMOPT,char,0.0,,Specifies options for input method modules (IMMs) that are used with a full-screen double-byte character set (DBCS).,Host,startup,LANGUAGECONTROL
+GEOMETRY,char,0.0,,Position/size of Application Window.,Host,startup,ENVDISPLAY
+ICONIC,Boolean,0.0,NOICONIC,Initial state of application.,Host,startup,ENVDISPLAY
+INGOPTS,char,0.0,,Specifies the options to pass to the INGRES database.,Host,anytime,UNKNOWN
+LPTYPE,char,0.0,,Specifies the UNIX command that is used to print files.,Host,anytime,LISTCONTROL
+MAXMEMQUERY,num,0.0,268435456,"For certain procedures, specifies the maximum amount of memory that can be allocated per request.",Host,anytime,MEMORY
+NAME,char,0.0,,Resource Name of Application.,Host,startup,ENVDISPLAY
+PATH,char,0.0,( !SASROOT/dbcs/sasexe !SASROOT/sasexe ),Specifies one or more search paths for SAS executable files.,Host,startup,ENVFILES
+PRINTCMD,char,0.0,,Specifies the print command that SAS is to use.,Host,anytime,LISTCONTROL
+REVERSE,Boolean,0.0,NOREVERSE,"Use black for white, and vice-versa.",Host,startup,ENVDISPLAY
+RTRACE,char,0.0,NONE,Specifies whether to produce a list of resources that are read or loaded during a SAS session.,Host,startup,LOGCONTROL
+RTRACELOC,char,0.0,,Specifies the pathname for the file that records the list of resources that are read or loaded during a SAS session.,Host,anytime,ENVFILES
+RV,Boolean,0.0,NORV,"Use Black for White, and vice-versa.",Host,startup,ENVDISPLAY
+SELECTIONTIMEOUT,char,0.0,,Timeout in milliseconds,Host,startup,ENVDISPLAY
+SEQENGINE,char,0.0,TAPE,Specifies the sequential engine to be used for accessing tapes and pipes.,Host,anytime,SASFILES
+SET,char,0.0,[SASROOT = /pbr/sfw/sas/940/SASFoundation/9.4] [SASAUTOS = (                  '!SASROOT/sasautos'         )] [SAMPSRC = (                  '!SASROOT/samples/accesssample'         '!SASROOT/samples/base'         '!SASROOT/samples/connect'         '!SASROOT/samples/dbi'         '!SASROOT/samples/dmine'         '!SASROOT/samples/ets'         '!SASROOT/samples/graph'         '!SASROOT/samples/hpf'         '!SASROOT/samples/hps'         '!SASROOT/samples/hpstat'         '!SASROOT/samples/iml'         '!SASROOT/samples/inttech'         '!SASROOT/samples/or'         '!SASROOT/samples/postgres'         '!SASROOT/samples/qc'         '!SASROOT/samples/stat'         '!SASROOT/samples/tmine'         )] [SAMPSIO = (                  '!SASROOT/samples/accesssample'         '!SASROOT/samples/base'         '!SASROOT/samples/connect'         '!SASROOT/samples/dbi'         '!SASROOT/samples/dmine'         '!SASROOT/samples/ets'         '!SASROOT/samples/graph'         '!SASROOT/samples/hpf'         '!SASROOT/samples/hps',Defines an environment variable.,Host,anytime,ENVFILES
+SET,char,1024.0,'!SASROOT/samples/hpstat'         '!SASROOT/samples/iml'         '!SASROOT/samples/inttech'         '!SASROOT/samples/or'         '!SASROOT/samples/postgres'         '!SASROOT/samples/qc'         '!SASROOT/samples/stat'         '!SASROOT/samples/tmine'         )] [SASHOME = /pbr/sfw/sas/940] [SAS_ODSG_CRENDER_PATH = /pbr/sfw/sas/940/SASODSGraphicsCRenderer/9.46] [DTJ_CLASSPATH = /pbr/sfw/sas/940/SASFoundation/9.4/misc/dmine/dtj.jar:/pbr/sfw/sas/940/SASPrivateJavaRuntimeEnvironment/9.4/jre/lib/rt.jar] [APFMTLIB = SASEnvironment/SASFormats],Defines an environment variable.,Host,anytime,ENVFILES
+SORTANOM,char,0.0,,Specifies options for the host sort utility.,Host,anytime,SORT
+SORTCUT,num,0.0,0,Specifies the data size in number of observations above which SAS uses the host sort instead of the internal SAS sort.,Host,anytime,SORT
+SORTCUTP,num,0.0,0,Specifies the data size in bytes above which SAS uses the host sort instead of the internal SAS sort.,Host,anytime,SORT
+SORTDEV,char,0.0,,Specifies the pathname to temporary files that are created by the host sort utility.,Host,anytime,SORT
+SORTNAME,char,0.0,,Specifies the name of the host sort utility.,Host,anytime,SORT
+SORTPARM,char,0.0,,Specifies the parameters for the host sort utility.,Host,anytime,SORT
+SORTPGM,char,0.0,BEST,Specifies whether to use the SAS sort utility or the host sort utility or to let SAS choose the sort utility.,Host,anytime,SORT
+SSLCACERTDATA,char,0.0,,Specifies the CA certificate text string that is usually found in a CA certificate PEM file.,Host,anytime,COMMUNICATIONS
+SSLCACERTDIR,char,0.0,,Specifies the directory for PEM format CA certificates used by OpenSSL. Each file has only one certificate and the file name must be the certificate hash value.,Host,anytime,COMMUNICATIONS
+SSLCALISTLOC,char,0.0,/pbr/sfw/sas/940/SASSecurityCertificateFramework/1.1/cacerts/trustedcerts.pem,Specifies the location of digital certificates for trusted certification authorities (CA).,Host,anytime,COMMUNICATIONS
+SSLCERTLOC,char,0.0,,Specifies the location of the digital certificate that is used for authentication.,Host,anytime,COMMUNICATIONS
+SSLCIPHERLIST,char,0.0,,Specifies the list of ciphers. This option cannot be changed after TLS is loaded.,Host,anytime,COMMUNICATIONS
+SSLCRLLOC,char,0.0,,Specifies the location of the Certificate Revocation List (CRL).,Host,anytime,COMMUNICATIONS
+SSLPKCS12LOC,char,0.0,,Specifies the location of the PKCS #12 DER encoding package file.,Host,anytime,COMMUNICATIONS
+SSLPKCS12PASS,char,0.0,xxxxxxxx,Specifies the password that SSL requires for decrypting the private key of the PKCS #12 DER encoding package file.,Host,anytime,COMMUNICATIONS
+SSLPVTKEYLOC,char,0.0,,Specifies the location of the private key that corresponds to the digital certificate.,Host,anytime,COMMUNICATIONS
+SSLPVTKEYPASS,char,0.0,xxxxxxxx,Specifies the password that SSL requires for decrypting the private key.,Host,anytime,COMMUNICATIONS
+SSLSNIHOSTNAME,char,0.0,,"Specifies the host name that is used for the Server Name Indication TLS extension. If it is not specified, the target host name is used.",Host,anytime,COMMUNICATIONS
+STDIO,Boolean,0.0,NOSTDIO,"SAS uses the standard streams stdin, stdout, and stderr.",Host,startup,INPUTCONTROL
+SYNCHRONOUS,Boolean,0.0,NOSYNCHRONOUS,Enable synchronous behavior.,Host,startup,ENVDISPLAY
+SYSPRINT,char,0.0,,Specifies the destination for printed output.,Host,anytime,ODSPRINT
+TAPECLOSE,char,0.0,REREAD,CLOSE disposition for a library on tape.,Host,anytime,SASFILES
+TITLE,char,0.0,,Title passed to Window Manager.,Host,startup,ENVDISPLAY
+WORK,char,0.0,/saswork/SAS_work9422000102FB_odaws01-apse1.oda.sas.com/SAS_workD035000102FB_odaws01-apse1.oda.sas.com,Specifies the location of the Work library.,Host,startup,ENVFILES
+WORKPERMS,char,0.0,700,Sets the permissions of the SAS Work library when it is initially created.,Host,startup,ENVFILES
+XNLLANGUAGE,char,0.0,,Application National Language.,Host,startup,ENVDISPLAY
+XRM,char,0.0,SAS.helpBrowser:/usr/bin/firefox,Application Resource.,Host,startup,ENVDISPLAY
+XTSESSIONID,char,0.0,,ID used to Communicate with SM.,Host,startup,ENVDISPLAY
+ABORT,char,0.0,,Specification of what to do when a severe error occurs.,Host,anytime,ERRORHANDLING
+ALIGNSASIOFILES,Boolean,0.0,ALIGNSASIOFILES,Aligns SAS files on a page boundary for improved performance.,Host,startup,PERFORMANCE
+ALTLOG,char,0.0,,Specifies the location for a copy of the SAS log when SAS is running in batch mode.,Host,startup,ENVFILES
+ALTPRINT,char,0.0,,Specifies the location for a copy of the SAS procedure output when SAS is running in batch mode.,Host,startup,ENVFILES
+AUTHPROVIDERDOMAIN,char,0.0,,Specifies the authentication provider that is associated with a domain.,Host,startup,EXECMODES
+DL,char,0.0,,Download file before SAS starts.,Host,anytime,COMMUNICATIONS
+ENCODING,char,0.0,UTF-8,Specifies the default character-set encoding for the SAS session.,Host,startup,LANGUAGECONTROL
+FILELOCKWAIT,num,0.0,0,Specifies the number of seconds that SAS will wait for a locked file.,Host,startup,SASFILES
+FULLSTIMER,Boolean,0.0,FULLSTIMER,Writes all available performance statistics to the SAS log.,Host,anytime,LOGCONTROL
+HELPLOC,char,0.0,( '!SASROOT/X11/native_help' '!SASROOT/X11/native_help'         '!SASUSER/classdoc' ),Specifies the location of the text and index files for the facility that is used to view the online SAS Help and Documentation.,Host,startup,HELP
+IMGHOST,char,0.0,,Set image server hostname.,Host,anytime,COMMUNICATIONS
+IMGLOG,Boolean,0.0,NOIMGLOG,Print to the log when a file is updated by the image server.,Host,anytime,COMMUNICATIONS
+IMGPORT,num,0.0,0,Port number for SAS to connect to the image server.,Host,anytime,COMMUNICATIONS
+IMGSRV,Boolean,0.0,NOIMGSRV,Turn on image server so SAS files can be dynamically downloaded.,Host,anytime,COMMUNICATIONS
+JREOPTIONS,char,0.0,(           -DPFS_TEMPLATE=/pbr/sfw/sas/940/SASFoundation/9.4/misc/tkjava/qrpfstpt.xml         -Djava.class.path=/pbr/sfw/sas/940/SASVersionedJarRepository/eclipse/plugins/sas.launcher.jar         -Djava.security.auth.login.config=/pbr/sfw/sas/940/SASFoundation/9.4/misc/tkjava/sas.login.config         -Djava.security.policy=/pbr/sfw/sas/940/SASFoundation/9.4/misc/tkjava/sas.policy         -Djava.system.class.loader=com.sas.app.AppClassLoader         -Dlog4j.configuration=file:/pbr/sfw/sas/940/SASFoundation/9.4/misc/tkjava/sas.log4j.properties         -Dsas.app.class.path=/pbr/sfw/sas/940/SASVersionedJarRepository/eclipse/plugins/tkjava.jar         -Dsas.ext.config=/pbr/sfw/sas/940/SASFoundation/9.4/misc/tkjava/sas.java.ext.config         -Dtkj.app.launch.config=/pbr/sfw/sas/940/SASVersionedJarRepository/picklist               -XX:-UserPerfData     -Xss2m     -Xms512m     -Xmx4096m     -Djava.awt.headless=true  ),Specifies the Java Runtime Environment options for SAS.,Host,startup,EXECMODES
+LOADMEMSIZE,num,0.0,0,Specifies a suggested amount of memory that is needed for executable programs loaded by SAS.,Host,startup,MEMORY
+LOCALE,char,0.0,EN_IN,"Specifies a set of attributes in a SAS session that reflect the language, local conventions, and culture for a geographical region.",Host,anytime,LANGUAGECONTROL
+LOG,char,0.0,,Specifies a location for the SAS log when SAS is running in batch mode.,Host,startup,ENVFILES
+MEMSIZE,num,0.0,4294967296,Specifies the limit on the amount of virtual memory that can be used during a SAS session.,Host,startup,PERFORMANCE
+MSG,char,0.0,!SASROOT/sasmsg,Specifies the path to the library that contains SAS messages.,Host,startup,ENVFILES
+MSGCASE,Boolean,0.0,NOMSGCASE,"Specifies that SAS writes notes, warnings, and error messages in uppercase letters.",Host,startup,LOGCONTROL
+NLSCOMPATMODE,Boolean,0.0,NONLSCOMPATMODE,Ensures language compatibility with previous releases of SAS.,Host,startup,LANGUAGECONTROL
+OPLIST,Boolean,0.0,NOOPLIST,Writes the settings of SAS system options to the SAS log.,Host,startup,LOGCONTROL
+PRINT,char,0.0,,Specifies a location for SAS output when running in batch mode.,Host,startup,ENVFILES
+REALMEMSIZE,num,0.0,0,Specifies the amount of real memory SAS can expect to allocate.,Host,startup,MEMORY
+REPL,char,0.0,,Specify the src and dest for files handled by the image server.,Host,anytime,COMMUNICATIONS
+SASHOST,char,0.0,,Specify path of sashost dll to be loaded.,Host,startup,ENVFILES
+SETBUFFERPOOLS,char,0.0,,Configure buffer memory pools.,Host,startup,MEMORY
+STIMEFMT,char,0.0,(NLDATM2. HMS TIMEAMPM KB MEMFULL TSFULL NC),"Specifies the format that is used to display the FULLSTIMER and STIMER output for timestamp, memory, CPU and elapsed time statistics.",Host,anytime,LOGCONTROL
+STIMER,Boolean,0.0,STIMER,Writes real and CPU time to the SAS log.,Host,anytime,LOGCONTROL
+SYSIN,char,0.0,,Specifies the SAS program to execute in batch.,Host,startup,ENVFILES
+USERCONFIG,Boolean,0.0,USERCONFIG,Process .sasv9.cfg and sasv9.cfg configuration files in user's home directory.,Host,startup,ENVFILES
+VERBOSE,Boolean,0.0,NOVERBOSE,Writes start-up system options to the SAS log.,Host,startup,LOGCONTROL
+XCMD,Boolean,0.0,NOXCMD,Enables the X command in SAS.,Host,startup,ENVDISPLAY

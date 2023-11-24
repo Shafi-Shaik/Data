@@ -1,0 +1,487 @@
+MSGID,MNEMONIC,LINENO,LEVEL,TEXT,PBUTTONS
+14.0,IN_SEL_NOT_AVAIL,1.0,N,The selection %1$ is not available.,SASHELP.FSP.OK.SLIST
+24.0,IN_NOT_AVAILABLE,1.0,N,This option is not yet available.,SASHELP.FSP.OK.SLIST
+32.0,IO_DICT_CANNOT_OPEN_STUDY,1.0,E,Unable to open the study. There are problems with the dictionary.,SASHELP.FSP.OK.SLIST
+82.0,IO_NO_ACCESS,1.0,E,%lYou do not have authorization to access %1$.,SASHELP.FSP.OK.SLIST
+148.0,IO_PLEASE_ENTER_A_VALID,1.0,E,Please enter a valid %1$.,SASHELP.FSP.OK.SLIST
+219.0,IN_PROJECT_ALREADY_OPEN,1.0,N,%1$ is already open.,SASHELP.FSP.OK.SLIST
+227.0,IN_NO_PAT_SELECTED,1.0,E,Select at least one patient.,SASHELP.FSP.OK.SLIST
+273.0,IN_NO_HELP,1.0,W,No help is available.,SASHELP.FSP.OK.SLIST
+300.0,IN_TE_OK_MSG,1.0,W,%1$%N%2$%N%3$,SASHELP.FSP.OK.SLIST
+303.0,,,,,
+307.0,IO_EXPOUT_YES,1.0,N,The output was exported to %1$.,SASHELP.FSP.OK.SLIST
+308.0,IN_SELECT_SUMMARY_ITEM,1.0,W,Select a %1 to summarize.,SASHELP.FSP.OK.SLIST
+335.0,IN_SELECT_ITEM,1.0,E,Select an item from the table.,SASHELP.FSP.OK.SLIST
+340.0,IN_APP_NOT_AVAIL,1.0,N,The application %1$ is not available.,SASHELP.FSP.OK.SLIST
+349.0,IO_BAD_PATHNAME,1.0,E,The directory %1$ does not exist.  Enter an existing directory.,SASHELP.FSP.OK.SLIST
+390.0,IN_TERMINATE_STARTUP,1.0,E,Unable to start SAS/PH-Clinical.,SASHELP.FSP.OK.SLIST
+391.0,IO_CANNOT_FIND_ITEM,1.0,E,Unable to find the %1$ %2$.  Verify that this %1$ exists.,SASHELP.FSP.OK.SLIST
+392.0,IO_CANNOT_SAVE_ITEM,1.0,E,Unable to save %1$.  Verify write access to this library and catalog.,SASHELP.FSP.OK.SLIST
+393.0,IO_BAD_ALLOCATION,1.0,E,Unable to %1$.  Verify that it exists.,SASHELP.FSP.OK.SLIST
+395.0,DI_REQUIRED_FIELD,1.0,N,The %1$ field is required.  Enter a value.,SASHELP.FSP.OK.SLIST
+402.0,IO_ONE_SEL_REQUIRED,1.0,W,Select at least one %1$.,SASHELP.FSP.OK.SLIST
+403.0,IN_NO_ASSOC_FOUND,1.0,W,No associated %1$ were found.,SASHELP.FSP.OK.SLIST
+404.0,IO_NOT_CREATE,1.0,E,Unable to create the %1$.,SASHELP.FSP.OK.SLIST
+406.0,DI_NO_PAT_RECS,1.0,N,The %1$ data set contains no records for this patient.,SASHELP.FSP.OK.SLIST
+437.0,IO_IMAGE_NOT_DISPLAYED,1.0,E,Unable to display image %1$.,SASHELP.FSP.OK.SLIST
+438.0,IO_IMAGE_NOT_RESIZED,1.0,N,Unable to resize image %1$.,SASHELP.FSP.OK.SLIST
+439.0,IO_IMAGE_NO_GAMMA,1.0,N,Unable to darken or lighten image %1$.,SASHELP.FSP.OK.SLIST
+440.0,IO_IMAGE_NO_NEGATE,1.0,N,Unable to negate image %1$.,SASHELP.FSP.OK.SLIST
+441.0,IO_IMAGE_NO_MIRROR,1.0,N,Unable to mirror image %1$.,SASHELP.FSP.OK.SLIST
+442.0,IO_IMAGE_NO_ROTATE,1.0,N,Unable to rotate image %1$.,SASHELP.FSP.OK.SLIST
+443.0,IO_PLOT_NO_NUMS,1.0,N,Unable to create graph.  There are no numeric variables in the selected variable list or table.,SASHELP.FSP.OK.SLIST
+444.0,DI_REQUIRED_VALUE,1.0,E,Enter a value greater than 0 and less than 999.,SASHELP.FSP.OK.SLIST
+446.0,IN_NEW_NOT_DEFND,1.0,E,Unable to define the variable.,SASHELP.FSP.OK.SLIST
+447.0,IN_INVALID_VAR_NAME,1.0,E,%1$ is not a valid SAS name.  Valid names begin with a letter or an underscore and,SASHELP.FSP.OK.SLIST
+447.0,IN_INVALID_VAR_NAME,2.0,E,cannot contain blanks or special characters.,SASHELP.FSP.OK.SLIST
+448.0,IO_VAR_VALS_NOT_FOUND,1.0,E,Unable to determine values for %1$.,SASHELP.FSP.OK.SLIST
+540.0,IN_TE_OK_CANCEL_MSG,1.0,Q,%1$%N%2$%N%3$,SASHELP.FSP.OC.SLIST
+550.0,IN_ALL_VARS_INVALID,1.0,W,"The ""All Variables"" group may not be selected for this action. Select another variable group.",SASHELP.FSP.OK.SLIST
+580.0,IN_NO_DESCRIPT,1.0,E,A value for Name is required.,SASHELP.FSP.OK.SLIST
+581.0,IN_DESCRIPT_PROBLEMS,1.0,E,Unable to validate the given name.,SASHELP.FSP.OK.SLIST
+583.0,IO_STUDY_NOT_OPEN,1.0,E,No study is currently open.  This task requires an open study.,SASHELP.FSP.OK.SLIST
+584.0,IO_OBJECT_INST_ERROR,1.0,E,Unable to load and use the %1$.,SASHELP.FSP.OK.SLIST
+616.0,DI_MODIFIED_EXISTING_USERID,1.0,E,Unable to change an existing user's userid.  Delete this user or save as a new user.,SASHELP.FSP.OK.SLIST
+618.0,DI_UNKNOWN_USER,1.0,W,You must define yourself to SAS/PH-Clinical before you can use it.  Enter userid and password.,SASHELP.FSP.OC.SLIST
+619.0,DI_CANNOT_GET_USERID,1.0,E,Unable to determine the userid.,SASHELP.FSP.OK.SLIST
+620.0,IO_CANNOT_SAVE_CATALOG_ENTRY,1.0,E,Unable to save %1$.  Do you have write access to this library and catalog?,SASHELP.FSP.OK.SLIST
+621.0,IO_CANNOT_SAVE_INSTALLATION,1.0,W,Unable to save %1$.  Make sure you have write access to this library and catalog.%N%NThe settings you have specified for the %2$ library allocation will be used for this session only.,SASHELP.FSP.OK.SLIST
+625.0,DI_BAD_USER_OPTION,1.0,E,'%1$' is not an existing userid.  Only existing userids may be specified for the USER= invocation option.,SASHELP.FSP.OK.SLIST
+633.0,DI_BAD_PASSWORD_CONFIRMATION,1.0,E,Unable to comfirm your password.,SASHELP.FSP.OK.SLIST
+635.0,IN_QUERY_APP_SAVE,1.0,N,The query has been saved and applied.,SASHELP.FSP.OK.SLIST
+636.0,IN_ITEM_SAVED,1.0,N,The %1$ has been saved.,SASHELP.FSP.OK.SLIST
+637.0,IN_QUERY_NOT_APP,1.0,E,Unable to apply the query.,SASHELP.FSP.OK.SLIST
+638.0,IN_ITEM_EXISTS,1.0,W,The %1$ already exists. A duplicate was not saved.,SASHELP.FSP.OK.SLIST
+639.0,IN_ITEM_NOT_SAVED,1.0,E,Unable to save the %1$.,SASHELP.FSP.OK.SLIST
+640.0,IN_QUERY_DUP_APP,1.0,W,The current query is already active.,SASHELP.FSP.OK.SLIST
+641.0,IN_QUERY_APP,1.0,N,The query has been applied.,SASHELP.FSP.OK.SLIST
+653.0,IN_CELL_REQUIRED,1.0,W,Select only 1 cell to include in the query.,SASHELP.FSP.OK.SLIST
+654.0,IO_CANNOT_GET_PRIVATE_LIBRARY,1.0,N,"You have not yet defined a private library.  A private library must be defined to use this product.%N%NSelect OK to define a private library, or%NSelect CANCEL to end the product startup.",SASHELP.FSP.OC.SLIST
+656.0,IN_NO_QUERIES_AVAIL,1.0,W,No queries are available.  Select New... to add a query.,SASHELP.FSP.OK.SLIST
+660.0,IO_CHANGE_STUDY,1.0,W,Another study is open.  Select OK to close this study and all its associated windows.,SASHELP.FSP.OC.SLIST
+663.0,IO_CANNOT_MODIFY_ITEM,1.0,E,Unable to %1$ this %2$.,SASHELP.FSP.OK.SLIST
+665.0,IO_ITEM_NOT_YOURS,1.0,E,You cannot modify or delete this %1$ because you do not own it.,SASHELP.FSP.OK.SLIST
+666.0,IO_DUPLICATE_NAME,1.0,E,Another item already has this name.  Enter a different name.,SASHELP.FSP.OK.SLIST
+668.0,DI_INVALID_LOGIN,1.0,E,Invalid userid/password combination.%NPlease try again.,SASHELP.FSP.OK.SLIST
+671.0,DI_VARS_NOT_JOINABLE,1.0,W,Unable to draw graph.  The selected variables cannot be plotted against each other.,SASHELP.FSP.OK.SLIST
+672.0,DI_CONT_VAR_REQUIRED,1.0,W,The plot requires a continuous variable for the Y axis.,SASHELP.FSP.OK.SLIST
+673.0,IN_TWO_VARS_REQUIRED,1.0,N,The plot requires two variables.,SASHELP.FSP.OK.SLIST
+675.0,DI_BYVARS_NOT_JOINABLE,1.0,W,The variable you selected cannot be properly joined with the current grouping variables.  The grouping variables have been cleared.,SASHELP.FSP.OK.SLIST
+678.0,DI_EXISTING_OSERVER_DATASETS,1.0,E,This library has already been defined to SAS/PH-Clinical software.,SASHELP.FSP.OK.SLIST
+680.0,DI_RESERVED_LIBNAME,1.0,E,%1$ is a reserved libname.  Enter another libname.,SASHELP.FSP.OK.SLIST
+681.0,IN_CANNOT_CREATE_LINK,1.0,E,"Unable to create a link between the %1$ ""%2$"" and the %3$ ""%4$"".",SASHELP.FSP.OK.SLIST
+682.0,DI_RESERVED_PATH,1.0,E,The %1$ path is currently being used by the %2$ libref.  Select another path.,SASHELP.FSP.OK.SLIST
+684.0,IO_ITEM_LOCKED,1.0,E,This %1$ cannot be accessed at this time.,SASHELP.FSP.OK.SLIST
+688.0,IN_SEL_VARS_SUMM,1.0,W,Unable to provide summary statistics when no variables are selected.  Select the variables required for the graph.,SASHELP.FSP.OK.SLIST
+689.0,IN_VARS_NO_SWAP,1.0,W,Unable to swap X and Y variables.  The X variable is not continuous.,SASHELP.FSP.OK.SLIST
+690.0,DI_VAR_NOT_CONTINUOUS,1.0,W,"Unable to draw graph.  The variable, %1$, is not continuous.",SASHELP.FSP.OK.SLIST
+692.0,DI_NO_VARS_FOUND,1.0,E,No variables were found in the current study.,SASHELP.FSP.OK.SLIST
+693.0,DI_EXISTING_OSERVER_DATASETS2,1.0,W,This library has already been defined to SAS/PH-Clinical software.  Do you want to clear the existing definition?,SASHELP.FSP.YN.SLIST
+700.0,IN_NO_PAT_INFO_FROM_REGRESS,1.0,W,Drilldown is not a valid action from a regression line.,SASHELP.FSP.OK.SLIST
+701.0,IN_NO_PAT_INFO_FROM_TEXT,1.0,W,Drilldown is not a valid action from text.,SASHELP.FSP.OK.SLIST
+702.0,DI_NO_OBS_FOR_BYVAR_VALUE,1.0,W,There are no observations for the current value of the grouping variable.  Select another value or grouping variable.,SASHELP.FSP.OK.SLIST
+703.0,IN_NO_EXCLUDE_OTHERS,1.0,W,"The ""Other"" section selected contains more than ninety-eight unique values.  Exclusion cannot be done.",SASHELP.FSP.OK.SLIST
+704.0,IN_NO_DRILLDOWN_OTHERS,1.0,W,"The ""Other"" section selected contains more than ninety-eight unique values.  Drill down cannot be done.",SASHELP.FSP.OK.SLIST
+705.0,IN_ENTER_GRAPH_VARS,1.0,W,Unable to display the table.  Select the variables needed to draw the graph before viewing a table.,SASHELP.FSP.OK.SLIST
+706.0,IO_WINDOW_OPEN,1.0,E,The %1$ window is already open.,SASHELP.FSP.OK.SLIST
+707.0,DI_NO_JOINABLE_VARS,1.0,W,There are no variables that can be joined with the currently selected variables.,SASHELP.FSP.OK.SLIST
+708.0,DI_NO_CONT_JOINABLE_VARS,1.0,W,No continuous variables are compatible with the selected variables.,SASHELP.FSP.OK.SLIST
+709.0,DI_BAD_LIBNAME,1.0,E,The libname %1$ is not a valid libname.  Enter another libname.,SASHELP.FSP.OK.SLIST
+710.0,DI_RESERVED_LIBNAME2,1.0,E,"Libnames beginning with ""_PH"" are reserved by SAS/PH-Clinical.  Select another libname.",SASHELP.FSP.OK.SLIST
+711.0,IN_SEL_BAR_TO_QUERY,1.0,W,Select the bars corresponding to the values to include in the query.,SASHELP.FSP.OK.SLIST
+712.0,IN_SEL_BAR_FOR_DRILLDOWN,1.0,W,Select the bars corresponding to the drilldown values.,SASHELP.FSP.OK.SLIST
+713.0,IN_SEL_SLICE_FOR_DRILLDOWN,1.0,W,Select the pie slices corresponding to the drilldown values.,SASHELP.FSP.OK.SLIST
+714.0,IN_SEL_POINT_FOR_DRILLDOWN,1.0,W,Select the points corresponding to the drilldown values.,SASHELP.FSP.OK.SLIST
+715.0,IN_SEL_SLICE_TO_QUERY,1.0,W,Select the pie slices corresponding to the values to include in the query.,SASHELP.FSP.OK.SLIST
+716.0,IN_SEL_POINT_TO_QUERY,1.0,W,Select the points corresponding to the values to include in the query.,SASHELP.FSP.OK.SLIST
+717.0,DI_NO_BYVAR_VALUES,1.0,E,No values were found for the selected grouping variables.,SASHELP.FSP.OK.SLIST
+718.0,DI_GRVARS_BYVARS_NOT_JOINABLE,1.0,W,The selected grouping variables are incompatible with the graph variables.,SASHELP.FSP.OK.SLIST
+767.0,IO_GENERIC_CONFIRM_MSG,1.0,W,%1$,SASHELP.FSP.YN.SLIST
+790.0,IO_NO_WRITE_TO_FILE,1.0,W,Unable to save as %1$.,SASHELP.FSP.OK.SLIST
+791.0,IO_DATASET_NO_INPUT,1.0,W,Unable to open the data set %1$ for input.,SASHELP.FSP.OK.SLIST
+792.0,IO_COLS_NOT_CREATED,1.0,W,Unable to create the new columns.,SASHELP.FSP.OK.SLIST
+793.0,IN_SEL_ROW_CELL_SUM,1.0,W,Select a row or cell to summarize.,SASHELP.FSP.OK.SLIST
+794.0,DI_TABLE_NOT_ROTATED,1.0,W,Unable to rotate the table.,SASHELP.FSP.OK.SLIST
+795.0,IO_DATASET_NO_SORT,1.0,W,Unable to sort the data set.,SASHELP.FSP.OK.SLIST
+796.0,DI_VARS_NOT_SUM,1.0,W,Unable to calculate summary statistics for selected variables.,SASHELP.FSP.OK.SLIST
+797.0,IN_SEL_ROW_COL_CELL,1.0,N,"Select a row, column, or cell.",SASHELP.FSP.OK.SLIST
+798.0,DI_NO_IMAGES_FOUND,1.0,W,Unable to find associated images.,SASHELP.FSP.OK.SLIST
+799.0,IO_OBJECT_ALREADY_OPEN,1.0,E,This %1$ is already open.,SASHELP.FSP.OK.SLIST
+807.0,DI_CANNOT_CREATE_DIRECTORY,1.0,E,Unable to create the directory %1$. Enter another path.,SASHELP.FSP.OK.SLIST
+808.0,IO_CLEAR_EXPRESSION_YN,1.0,Q,Are you sure you want to reset the expression?,SASHELP.FSP.YN.SLIST
+810.0,IO_QUERY_HAS_NOT_BEEN_SAVED,1.0,W,The query has not been saved.  Are you sure you want to close the Query Builder?,SASHELP.FSP.YN.SLIST
+811.0,DI_NEW_INCOMPATIBLE_KEYS,1.0,E,Selected variables have incompatible keys and cannot be used in the same variable definition.,SASHELP.FSP.OK.SLIST
+812.0,IN_NEW_ENTER_LABEL,1.0,W,Enter a label for the new variable.,SASHELP.FSP.OK.SLIST
+813.0,IN_NEW_SEL_VARS,1.0,W,Enter variables and constants for the selected equation.,SASHELP.FSP.OK.SLIST
+815.0,IN_SEL_VARS_QYCRT,1.0,W,Unable to create query.  Select the variables required for the graph.,SASHELP.FSP.OK.SLIST
+816.0,IN_NEW_SEL_EQTN,1.0,W,Select an equation for the new variable.,SASHELP.FSP.OK.SLIST
+817.0,IN_QUERY_MGR_ALREADY_ACTIVE,1.0,N,The Query Manager window is open.,SASHELP.FSP.OK.SLIST
+818.0,IN_ERROR_LOADING,1.0,E,Unable to load %1$.,SASHELP.FSP.OK.SLIST
+820.0,IN_CANNOT_START_WHEN_ACTIVE,1.0,N,Cannot start %1$ when %2$ is active.,SASHELP.FSP.OK.SLIST
+822.0,DI_GRPVARS_NOT_JOINABLE,1.0,W,The grouping variables selected are not joinable and cannot be used.,SASHELP.FSP.OK.SLIST
+823.0,DI_COHORT_NOT_CREATED,1.0,W,The cohort could not be created.,SASHELP.FSP.OK.SLIST
+824.0,DI_NO_SUMMARY_STATS,1.0,W,Summary Statistics could not be generated for the selected variables.,SASHELP.FSP.OK.SLIST
+825.0,DI_NO_PAT_RECORDS,1.0,W,No matching patient records were found.,SASHELP.FSP.OK.SLIST
+832.0,IN_LIBRARY_CONVERT,1.0,W,"The %1$ Library you are using must be converted from the Experimental Release Format to the Production Release Format.  Select OK to convert the library, Cancel to exit the product without converting",SASHELP.FSP.OC.SLIST
+832.0,IN_LIBRARY_CONVERT,2.0,W,the library.,SASHELP.FSP.OC.SLIST
+835.0,IO_SEL_VAR_OR_GROUP,1.0,W,Select at least one variable or group.,SASHELP.FSP.OK.SLIST
+836.0,IO_SUBSET_NOT_CREATED,1.0,W,Unable to create subset of data.,SASHELP.FSP.OK.SLIST
+837.0,IO_COHORT_SAVED,1.0,N,The cohort has been saved.,SASHELP.FSP.OK.SLIST
+850.0,IN_NO_VIEW_SEL,1.0,E,No view is selected for the PH-Library.,SASHELP.FSP.OK.SLIST
+851.0,IN_NO_VIEWS_AVAIL,1.0,W,No views are available for this PH-Library.,SASHELP.FSP.OK.SLIST
+853.0,IN_DEFAULT_VIEW_DELETE,1.0,W,%1$ default view for the library may not be deleted.,SASHELP.FSP.OK.SLIST
+854.0,IN_NO_DEFAULT_VIEW_SEL,1.0,W,You must specify a default view for this library.,SASHELP.FSP.OK.SLIST
+855.0,IN_ONE_VIEW_REQ,1.0,W,At least one view must exist for the library.,SASHELP.FSP.OK.SLIST
+861.0,IN_SAME_NAME,1.0,W,You cannot %1$ an item to itself.  Enter a new name or select a different folder.,SASHELP.FSP.OK.SLIST
+862.0,IN_NO_INFORMATION,1.0,N,No information is available for %1$.,SASHELP.FSP.OK.SLIST
+863.0,IN_NEED_FIELD_TYPE,1.0,N,Select a field type for the substitution field.,SASHELP.FSP.OK.SLIST
+864.0,IN_NO_SOURCE_DATASET,1.0,N,No source data set for the variable field.  Use Edit-Data File Links to create the link.,SASHELP.FSP.OK.SLIST
+865.0,IN_NO_LINK_VARIABLES_,1.0,N,No variables for the data set field.  Use Edit-Data File Links to create the link.,SASHELP.FSP.OK.SLIST
+866.0,IN_NOT_ON_WINDOW,1.0,N,Place the field on a customized window.,SASHELP.FSP.OK.SLIST
+867.0,IN_CANNOT_CALL_WINDOW,1.0,N,Unable to call window.  Window name is %1$.,SASHELP.FSP.OK.SLIST
+868.0,IN_CANNOT_RUN_TEMPLATE_1,1.0,N,Unable to run PH-Template.  The field %1$ is not assigned.,SASHELP.FSP.OK.SLIST
+869.0,IN_NO_EXAMPLE_OUTPUT,1.0,N,No example output is available.,SASHELP.FSP.OK.SLIST
+870.0,IN_CANNOT_ACCESS_QUERY,1.0,E,Unable to apply query.  The Query facility is not available.,SASHELP.FSP.OK.SLIST
+871.0,IN_NO_LINK_WARNINGS,1.0,N,There are no associated warnings.,SASHELP.FSP.OK.SLIST
+872.0,IN_CANNOT_RESIZE_ITEM,1.0,E,Unable to resize the item.,SASHELP.FSP.OK.SLIST
+873.0,IN_INVALID_START_COLUMN,1.0,E,Invalid starting column.,SASHELP.FSP.OK.SLIST
+874.0,IN_INVALID_START_ROW,1.0,E,Invalid starting row.,SASHELP.FSP.OK.SLIST
+875.0,IN_INVALID_COLUMN_SIZE,1.0,E,Invalid column size.,SASHELP.FSP.OK.SLIST
+876.0,IN_INVALID_ROW_SIZE,1.0,E,Invalid row size.,SASHELP.FSP.OK.SLIST
+877.0,IN_CANNOT_COPY,1.0,E,Unable to copy %1$ to %2$.,SASHELP.FSP.OK.SLIST
+878.0,DI_CORRUPT_TEMPLATE,1.0,E,The PH-Template is corrupt.  Contact your site administrator.,SASHELP.FSP.OK.SLIST
+879.0,IN_CANNOT_ACCESS_BROWSER,1.0,E,Unable to access the Browse facility. Contact your site administrator.,SASHELP.FSP.OK.SLIST
+880.0,IN_NO_OPEN_DICTIONARY,1.0,E,Unable to open the dictionary. Contact your site administrator.,SASHELP.FSP.OK.SLIST
+881.0,IN_NO_TEMPLATE_OUTPUT,1.0,E,No output generated.  Check the log.,SASHELP.FSP.OK.SLIST
+882.0,IN_TEMPLATE_NOT_RUN,1.0,E,The PH-Template has not been run.,SASHELP.FSP.OK.SLIST
+883.0,IN_NO_GRAPHS_FOUND,1.0,N,There are no graphs to display.,SASHELP.FSP.OK.SLIST
+884.0,IN_NO_OUTPUT_FOUND,1.0,N,Unable to find output.,SASHELP.FSP.OK.SLIST
+885.0,IN_CANNOT_SAVE_OUTPUT,1.0,N,"Unable to save output, %1$.",SASHELP.FSP.OK.SLIST
+886.0,IN_CANNOT_VIEW_OUTPUT,1.0,N,Unable to view output. The requested section has no associated text.,SASHELP.FSP.OK.SLIST
+887.0,IN_NO_DESCRIPTION_GIVEN,1.0,N,A value for Description is required.  Enter a description.,SASHELP.FSP.OK.SLIST
+888.0,IN_DESCRIPTION_IN_USE,1.0,N,Another item already has this description.  Enter another description.,SASHELP.FSP.OK.SLIST
+889.0,IN_NO_CATALOG_CHOSEN,1.0,N,Select an entry.,SASHELP.FSP.OK.SLIST
+890.0,IN_OUTPUT_IN_USE,1.0,N,This entry is already in the list of example output.,SASHELP.FSP.OK.SLIST
+891.0,IN_ENTRY_DOES_NOT_EXIST,1.0,N,This entry does not exist.,SASHELP.FSP.OK.SLIST
+892.0,IN_NO_FILE_CHOSEN,1.0,N,Select an export file.,SASHELP.FSP.OK.SLIST
+893.0,IN_NO_FORMAT_CHOSEN,1.0,N,Select an export format.,SASHELP.FSP.OK.SLIST
+894.0,IN_INVALID_MNEMONIC,1.0,N,The shortcut key is not in the description.  Select another shortcut key.,SASHELP.FSP.OK.SLIST
+895.0,IN_INVALID_NO_ITEMS,1.0,E,Invalid number of %1$.,SASHELP.FSP.OK.SLIST
+896.0,IN_MUST_HAVE_ONE_TITLE,1.0,N,Enter at least one title or footnote.,SASHELP.FSP.OK.SLIST
+897.0,IN_MNEMONIC_IN_USE,1.0,N,The shortcut key is in use.  Select another shortcut key.,SASHELP.FSP.OK.SLIST
+898.0,IN_RESERVED_MNEMONIC,1.0,N,The shortcut key is reserved.  Select another.,SASHELP.FSP.OK.SLIST
+899.0,IN_RESERVED_DESCRIPTION,1.0,N,The description is reserved.  Enter another description.,SASHELP.FSP.OK.SLIST
+900.0,IN_ITEM_IN_LIST,1.0,N,The %1$ is already in the list.,SASHELP.FSP.OK.SLIST
+901.0,IN_INVALID_NAME,1.0,E,Invalid name.  Valid names begin with a letter or an underscore.,SASHELP.FSP.OK.SLIST
+902.0,IN_LINE_TOO_LONG,1.0,E,Invalid line size.  The line size cannot be less than 64 or greater than 256.,SASHELP.FSP.OK.SLIST
+903.0,IN_LINE_TOO_SHORT,1.0,E,Invalid line size. The line size cannot be less than 64 or greater than 256.,SASHELP.FSP.OK.SLIST
+904.0,IN_PAGE_TOO_SHORT,1.0,N,Invalid page size.  The page size cannot be less than 15.,SASHELP.FSP.OK.SLIST
+905.0,IN_INVALID_WINDOW_SROW,1.0,E,Invalid starting row. Enter a value between 0 and 26.,SASHELP.FSP.OK.SLIST
+906.0,IN_INVALID_WINDOW_NROW,1.0,E,Invalid number of rows.  Enter a value between 4 and 40.,SASHELP.FSP.OK.SLIST
+907.0,IN_INVALID_WINDOW_SCOL,1.0,E,Invalid starting column. Enter a value between 0 and 80.,SASHELP.FSP.OK.SLIST
+908.0,IN_INVALID_WINDOW_NCOL,1.0,E,Invalid number of columns. Enter a value between 5 and 132.,SASHELP.FSP.OK.SLIST
+909.0,IN_CANNOT_DELETE_CATALOG,1.0,E,You cannot delete a substitution field.,SASHELP.FSP.OK.SLIST
+910.0,IN_SELECTION_REQUIRED,1.0,N,At least one selection is required.,SASHELP.FSP.OK.SLIST
+911.0,IN_ONE_SELECTION_REQUIRED,1.0,N,A selection is required.,SASHELP.FSP.OK.SLIST
+912.0,IN_LABEL_REQUIRED,1.0,N,Enter a label.,SASHELP.FSP.OK.SLIST
+913.0,IN_INCOMPLETE_TEMPLATE,1.0,E,The PH-Template is incomplete.  It will not run.,SASHELP.FSP.OK.SLIST
+914.0,IN_VARIABLE_THERE,1.0,E,Unable to add variable.  At least one variable is already in the list.,SASHELP.FSP.OK.SLIST
+915.0,IN_ONE_SELECTION_ONLY,1.0,N,Only one selection is allowed.,SASHELP.FSP.OK.SLIST
+916.0,IN_N_SELECTIONS_ONLY,1.0,N,Only %1$ selections are allowed.,SASHELP.FSP.OK.SLIST
+917.0,IN_CHECKBOX_ERROR_1,1.0,N,A value is required for at least one of the Selected or Deselected fields.  Enter a value.,SASHELP.FSP.OK.SLIST
+918.0,IN_CHECKBOX_ERROR_2,1.0,N,The Selected and Deselected values must be different.,SASHELP.FSP.OK.SLIST
+919.0,IN_LENGTH_OUT_OF_RANGE,1.0,E,Invalid length.  Enter a value between %1$ and %2$.,SASHELP.FSP.OK.SLIST
+920.0,IN_NO_OPTIONS_ENTRIES,1.0,N,There are no text titles and footnotes or graphics options in use.,SASHELP.FSP.OK.SLIST
+921.0,IN_NOTHING_TO_BROWSE,1.0,N,Select the variables to browse.,SASHELP.FSP.OK.SLIST
+923.0,IN_ITEM_DOES_NOT_EXIST,1.0,N,The %1$ does not exist.,SASHELP.FSP.OK.SLIST
+924.0,IN_TOO_FEW,1.0,E,There must be at least %1$ %2$.,SASHELP.FSP.OK.SLIST
+925.0,IN_STATION_TEXT_USED,1.0,N,This text is already in use.  Enter different text.,SASHELP.FSP.OK.SLIST
+926.0,IN_FIELD_IN_ERROR,1.0,E,At least one field is in error.  The PH-Temmplate will not run.,SASHELP.FSP.OK.SLIST
+927.0,IN_INVALID_NUMERIC,1.0,E,Invalid value. Enter a numeric value.,SASHELP.FSP.OK.SLIST
+928.0,IN_OUT_OF_RANGE,1.0,E,Invalid value.  Enter a value between %1$ and %2$.,SASHELP.FSP.OK.SLIST
+929.0,IN_MAXVAL_LT_MINVAL,1.0,E,The maximum must be greater than the minimum.,SASHELP.FSP.OK.SLIST
+930.0,IN_SOURCE_REQUIRED,1.0,E,A value for Source is required. Select a source.,SASHELP.FSP.OK.SLIST
+931.0,IN_NO_AUTORIZATION,1.0,W,Insufficient authorization to access image file.,SASHELP.FSP.OK.SLIST
+957.0,IN_NO_OBS_ALL_EXCLUDED,1.0,W,All observations have been excluded.  Restore observations by selecting View->Restore All or View->Restore Last.,SASHELP.FSP.OK.SLIST
+958.0,IO_GET_FOLDER_CONTENTS,1.0,W,Unable to determine the contents of the currently selected folder.,SASHELP.FSP.OK.SLIST
+959.0,IO_LINK_EXISTS,1.0,W,A link already exists between this item and the current folder.,SASHELP.FSP.OK.SLIST
+960.0,IN_SAVE_TABLE,1.0,W,Save any changes made to the current table before closing?,SASHELP.FSP.YNC.SLIST
+961.0,IN_TABLE_INVALID_VALUE,1.0,E,An incorrect value has been entered.  Enter a valid value.,SASHELP.FSP.OK.SLIST
+964.0,IO_VARGROUP_DELETE_FAILED,1.0,E,Unable to delete the variable group.,SASHELP.FSP.OK.SLIST
+966.0,IO_VARGROUP_ACTIVE,1.0,E,You can not %1$ the currently active variable group.,SASHELP.FSP.OK.SLIST
+1003.0,IN_INVALID_IMAGE_FILE,1.0,W,The image file selection is not valid.,SASHELP.FSP.OK.SLIST
+1007.0,IN_NO_OPEN_STUDY,1.0,E,This PH-Template requires an open study.,SASHELP.FSP.OK.SLIST
+1008.0,IN_MESSAGE_REQUIRED,1.0,E,Enter a message.,SASHELP.FSP.OK.SLIST
+1009.0,IN_FILE_EXISTS,1.0,E,The file already exists.,SASHELP.FSP.OK.SLIST
+1010.0,IN_FILE_DOES_NOT_EXIST,1.0,E,The file does not exist.,SASHELP.FSP.OK.SLIST
+1011.0,IN_CANNOT_BE_ZERO,1.0,E,A non-zero value is required.,SASHELP.FSP.OK.SLIST
+1012.0,IN_FIELD_IS_IN_ERROR,1.0,E,At least one field is in error.  Correct the error.,SASHELP.FSP.OK.SLIST
+1014.0,IN_NO_LIBRARIES,1.0,E,There are no other libraries for you to select from.,SASHELP.FSP.OK.SLIST
+1017.0,IO_TEST_MSG,1.0,N,This is a test message,SASHELP.FSP.OK.SLIST
+1018.0,IO_NO_ACTIVE_VARGROUP,1.0,W,No Variable Group has been selected.  The current task cannot be completed without an active Variable Group.,SASHELP.FSP.OK.SLIST
+1020.0,IN_LABELS_IDENTICAL,1.0,E,The labels must be unique.,SASHELP.FSP.OK.SLIST
+1021.0,IN_CANNOT_LOAD_TEMPLATE,1.0,E,Unable to load the PH-Template. Check the log for messages.,SASHELP.FSP.OK.SLIST
+1022.0,IN_DATASET_SAVED,1.0,N,The data set %1$ has been saved.,SASHELP.FSP.OK.SLIST
+1023.0,IN_DATASET_NOT_SAVED,1.0,W,"Unable to save the data set %1$, %2$.",SASHELP.FSP.OK.SLIST
+1024.0,IN_CANNOT_SAVE_GRAPH,1.0,W,Unable to export graph.,SASHELP.FSP.OK.SLIST
+1025.0,IN_ITEM_REQUIRED,1.0,E,%1$ is required.,SASHELP.FSP.OK.SLIST
+1026.0,IN_ADD_TO_DATASETS,1.0,E,The data set is not registered to the PH-Template.  Use the Option menubar selection from the primary edit window to register the data set.,SASHELP.FSP.OK.SLIST
+1028.0,IO_EMPTY_VARGROUP,1.0,W,The variable groups selected have no variables and cannot be used.,SASHELP.FSP.OK.SLIST
+1057.0,IN_CHANGE_HILIGHT_COLOR,1.0,W,The color for the last item clicked on and the highlight color are the same.  Change the preference for the highlight color.,SASHELP.FSP.OK.SLIST
+1063.0,IN_AXIS_CANNOT_BE_SAME,1.0,E,The Start and End values for the axis must be different.,SASHELP.FSP.OK.SLIST
+1064.0,IN_AXIS_CANNOT_GO_DOWN,1.0,E,The Start value cannot exceed the End value unless the By value is negative.,SASHELP.FSP.OK.SLIST
+1065.0,IN_AXIS_BASE_ERROR_1,1.0,E,The base value must be greater than 0.,SASHELP.FSP.OK.SLIST
+1066.0,IN_AXIS_START_REQUIRED,1.0,E,A start value is required.,SASHELP.FSP.OK.SLIST
+1067.0,IN_AXIS_BY_CANNOT_BE_ZERO,1.0,E,Invalid value.  The By value cannot be 0.,SASHELP.FSP.OK.SLIST
+1068.0,IN_AXIS_BASE_CANNOT_BE_ZERO,1.0,E,Invalid value.  The Base value cannot be 0.,SASHELP.FSP.OK.SLIST
+1069.0,IN_NO_USERS,1.0,E,Unable to transfer ownership of this object to any other users. No other users are available.,SASHELP.FSP.OK.SLIST
+1291.0,IN_INVALID_HELP_NAME,1.0,E,Invalid name for help entry.,SASHELP.FSP.OK.SLIST
+1295.0,IN_INVALID_CBT_NAME,1.0,E,Invalid name for CBT frame.,SASHELP.FSP.OK.SLIST
+1296.0,IN_NO_NAME_GIVEN,1.0,E,A value for Name is required.,SASHELP.FSP.OK.SLIST
+1298.0,IN_NAME_IN_USE,1.0,E,Another item already has this name.  Enter a different name.,SASHELP.FSP.OK.SLIST
+1299.0,IO_DELETE_YOURSELF,1.0,E,You cannot delete the user record for yourself.,SASHELP.FSP.OK.SLIST
+1300.0,IN_NO_STUDIES,1.0,N,No study is currently open.,SASHELP.FSP.OK.SLIST
+1301.0,IN_PROMPT_TO_SAVE,1.0,Q,Do you want to save changes to %1$?,SASHELP.FSP.YN.SLIST
+1303.0,IN_NO_OPTIONS_SELECTED,1.0,N,You have not selected any options.  The PH-Template will not run.,SASHELP.FSP.OK.SLIST
+1305.0,IN_NO_LINK_VARIABLES,1.0,W,One or more substitution fields require an associated variable field type.,SASHELP.FSP.OK.SLIST
+1306.0,IN_ALL_VARS_HIDDEN,1.0,N,All the columns have been hidden.  Select Options->Display All to redisplay them.,SASHELP.FSP.OK.SLIST
+1309.0,IN_UNABLE_TO_OPEN_EXPR,1.0,W,Unable to open expression.  A variable in the expression is either not in the open study(ies) or it is of the wrong type.,SASHELP.FSP.OK.SLIST
+1310.0,DI_NO_GROUPING_VARS,1.0,N,No grouping variables were found for the selected variable.,SASHELP.FSP.OK.SLIST
+1311.0,IN_EXPRESSION_ALREADY_APPLIED,1.0,W,Expression is already applied.,SASHELP.FSP.OK.SLIST
+1313.0,IO_BAD_TRANSPORT,1.0,E,The selected %1$ could not be transported. Check the log for details.,SASHELP.FSP.OK.SLIST
+1314.0,IO_ITEM_UNLOCK,1.0,W,The selected %1$ can not be unlocked at this time.,SASHELP.FSP.OK.SLIST
+1315.0,IO_FOLDER_MOVE_CHILD,1.0,N,The subfolder already exists in the selected folder.,SASHELP.FSP.OK.SLIST
+1316.0,IO_FOLDER_MOVE_PARENT,1.0,W,The selected folder cannot be moved into one of its subfolders.,SASHELP.FSP.OK.SLIST
+1321.0,IO_ACTIVE_PATIENT_QUERY_COUNT,1.0,N,%1 of the %2 patients in the study meet the active patient query criteria.,SASHELP.FSP.OK.SLIST
+1322.0,IO_OPEN_STUDIES_CLOSED,1.0,W,You currently have %1$ %2$ open. %3$ will be closed.,SASHELP.FSP.OC.SLIST
+1323.0,IO_ACTIVE_PATIENT_QUERY_NONE,1.0,N,There are no active queries by patient.,SASHELP.FSP.OK.SLIST
+1324.0,IO_ACTIVE_PATIENT_QUERY_ERROR,1.0,E,The count of patients matching the active criteria could not be calculated.,SASHELP.FSP.OK.SLIST
+1330.0,IN_MORE_NOT_AVAIL,1.0,N,"When more than one study is open, variable details are not available.",SASHELP.FSP.OK.SLIST
+1331.0,IN_CANNOT_REMOVE_USER,1.0,N,You cannot remove your own access.,SASHELP.FSP.OK.SLIST
+1332.0,IN_CANNOT_REMOVE_OWNER,1.0,W,You cannot remove the owner of the object.,SASHELP.FSP.OK.SLIST
+1333.0,IN_NO_ASSOCIATED_STUDY,1.0,N,There are no studies associated with this output.,SASHELP.FSP.OK.SLIST
+1334.0,IN_NO_HELP_AVAILABLE,1.0,N,There is no How to information for this PH-Template.,SASHELP.FSP.OK.SLIST
+1335.0,IO_IMPORT_ERROR,1.0,E,The given file could not be imported.,SASHELP.FSP.OK.SLIST
+1336.0,IN_AXIS_CANNOT_GO_UP,1.0,N,Invalid By value for Start and End values.,SASHELP.FSP.OK.SLIST
+1338.0,IN_CANNOT_SAVE_EXPRESSION,1.0,E,Expression was not saved.,SASHELP.FSP.OK.SLIST
+1339.0,IN_CANNOT_SAVE_EXPR_BAD_SYNTAX,1.0,E,Cannot save expression.  There is a problem with the syntax.  (%1$),SASHELP.FSP.OK.SLIST
+1340.0,IO_PCPRD_LOCKED,1.0,E,The product library could not be opened for update.,SASHELP.FSP.OK.SLIST
+1347.0,IN_EXPRESSION_CANNOT_BE_QUERY,1.0,W,This expression cannot be a query.  Only simple numeric expressions may be queries.,SASHELP.FSP.OK.SLIST
+1348.0,IN_INVALID_COMBINATION_1,1.0,E,Invalid combination of continuous and character variables.,SASHELP.FSP.OK.SLIST
+1349.0,IN_ANALYSIS_TYPE_REQUIRED,1.0,E,An analysis type is required.,SASHELP.FSP.OK.SLIST
+1350.0,IN_CHANGE_OWNER,1.0,N,"By changing the owner of this item, you will retain your ownership access, but you won't be able to switch the owner back if you proceed.  Do you wish to continue?",SASHELP.FSP.YN.SLIST
+1351.0,IN_CANNOT_REMOVE_GROWING_ON,1.0,N,Item cannot be removed while region growing is on.,SASHELP.FSP.OK.SLIST
+1353.0,IN_END_EDIT_MODE,1.0,W,A column is currently being edited.  Select Options->Column->Save to save the changes or Options->Column->Cancel to end out of edit mode.,SASHELP.FSP.OK.SLIST
+1388.0,IN_OPTIONS_HAVE_BEEN_DELETED,1.0,N,"Due to changes in the PH-Template, the saved report selections have been deleted.",SASHELP.FSP.OK.SLIST
+1393.0,DI_NEW_USER_DIALOG,1.0,Q,The userid %1$ is not known to SAS/PH-Clinical.  Would you like to define it?,SASHELP.FSP.YN.SLIST
+1394.0,IO_DELETE_CURRENT_LIBVIEW,1.0,E,You cannot delete the currently active library view.,SASHELP.FSP.OK.SLIST
+1395.0,IN_NO_OPTION_ENTRIES,1.0,N,There are no options to call.,SASHELP.FSP.OK.SLIST
+1396.0,IN_NO_ITEMS,1.0,N,There are no %1$ available for selection.,SASHELP.FSP.OK.SLIST
+1399.0,IO_CAT_NO_EXIST,1.0,E,The catalog %1$ does not exist or the libref is not assigned.,SASHELP.FSP.OK.SLIST
+1400.0,IO_ENTRY_NO_EXIST,1.0,E,The catalog entry %1$ does not exist.,SASHELP.FSP.OK.SLIST
+1402.0,IO_DELETE_CURRENT_LIBRARY,1.0,W,You cannot delete the currently active library.,SASHELP.FSP.OK.SLIST
+1404.0,IN_TOKEN_NOT_ADDED_TO_EXPR,1.0,W,Token was not added to the expression.,SASHELP.FSP.OK.SLIST
+1405.0,IO_SAS_SUPPLIED,1.0,E,The selected %1$ was supplied by SAS Institute. You may not %2$ it.,SASHELP.FSP.OK.SLIST
+1411.0,IN_NO_ITEMS_TO_SELECT,1.0,N,There are no %1$ to add.,SASHELP.FSP.OK.SLIST
+1412.0,DI_NO_DATA_FILES,1.0,E,No data sets where found.,SASHELP.FSP.OK.SLIST
+1417.0,IN_SAS_EXIT_DIALOG,1.0,Q,Are you sure you really want to terminate the SAS session?,SASHELP.FSP.OC.SLIST
+1419.0,DI_NO_PHEDIT,1.0,W,Unable to edit the selected variable.,SASHELP.FSP.OK.SLIST
+1420.0,DI_NO_PHEDIT_STUDIES,1.0,W,Multiple studies are open.  Unable to edit variable.,SASHELP.FSP.OK.SLIST
+1421.0,DI_NO_PHEDIT_NOT_VAR,1.0,W,The selected variable is a key.  Keys cannot be edited.,SASHELP.FSP.OK.SLIST
+1422.0,DI_NO_PHEDIT_NOT_COPY,1.0,W,Unable to edit variable.  Selected variable is a created variable.,SASHELP.FSP.OK.SLIST
+1423.0,DI_NO_PHEDIT_NOT_KEYED,1.0,W,Selected variable is not uniquely keyed.  Unable to edit variable.,SASHELP.FSP.OK.SLIST
+1424.0,DI_NO_PHSAVE,1.0,W,Unable to save the copied variable.,SASHELP.FSP.OK.SLIST
+1427.0,IN_NO_VALUES_SELECTED,1.0,N,No values were selected.,SASHELP.FSP.OK.SLIST
+1428.0,IN_NO_CREATED_VAR_IN_EXPR,1.0,N,Created variables may not be used to build query expressions.,SASHELP.FSP.OK.SLIST
+1431.0,IN_CANNOT_EDIT_EXPR_IS_OPEN,1.0,W,"The expression cannot be edited, because it is open.",SASHELP.FSP.OK.SLIST
+1438.0,IO_ACTIVE_PATIENT_QUERY_SINGLE,1.0,W,The count can only be performed on one query at a time.,SASHELP.FSP.OK.SLIST
+1579.0,IN_SELECT_AN_OPERATOR,1.0,Q,You must select an operator to complete the expression.  No expression has been built.  Do you want to quit anyway?,SASHELP.FSP.YN.SLIST
+1583.0,IN_VALUE_TRUNCATED,1.0,W,The maximum length for a value is %1 characters.  The value was truncated.,SASHELP.FSP.OK.SLIST
+1585.0,IN_VALUES_TRUNCATED,1.0,W,%1 value(s) was/were longer than the maximum allowed length of %2 characters and will be truncated.  Do you want to continue anyway?,SASHELP.FSP.YN.SLIST
+1586.0,IN_LT,1.0,E,The value must be less than %1$.,SASHELP.FSP.OK.SLIST
+1587.0,IN_LE,1.0,E,The value must be less than or equal to %1$.,SASHELP.FSP.OK.SLIST
+1588.0,IN_GT,1.0,E,The value must be greater than %1$.,SASHELP.FSP.OK.SLIST
+1589.0,IN_GE,1.0,E,The value must be greater than or equal to %1$.,SASHELP.FSP.OK.SLIST
+1590.0,IN_NE,1.0,E,The value cannot equal %1$.,SASHELP.FSP.OK.SLIST
+1591.0,IN_INSIDE_RANGE,1.0,E,The value must be less than %2$ and greater than %1$.,SASHELP.FSP.OK.SLIST
+1592.0,IN_OUTSIDE_RANGE,1.0,E,The value must be less than %1$ or greater than %2$.,SASHELP.FSP.OK.SLIST
+1593.0,IN_INSIDE_RANGEI,1.0,E,The value must be less than or equal to %2$ and greater than or equal to %1$.,SASHELP.FSP.OK.SLIST
+1594.0,IN_OUTSIDE_RANGEI,1.0,E,The value must be less than or equal to %1$ or greater than or equal to %2$.,SASHELP.FSP.OK.SLIST
+1639.0,IO_CANNOT_SAVE_EXPRESSION_YN,1.0,E,Cannot save expression.  There is a problem with the syntax.  %1$  Do you want to return to the editor?,SASHELP.FSP.YN.SLIST
+1645.0,IN_WANT_TO_SAVE_EXPRESSION,1.0,Q,Do you want to save the expression?,SASHELP.FSP.YND.SLIST
+1725.0,IN_INTEGER_REQUIRED,1.0,E,This field requires an integer value.,SASHELP.FSP.OK.SLIST
+1726.0,IN_EITHER_ONE_OR_ZERO,1.0,E,Enter either 0 or 1.,SASHELP.FSP.OK.SLIST
+1778.0,IO_READ_ONLY_LIB,1.0,W,You are not allowed to create items in the current library.  This %1$ will not be permanently saved.,SASHELP.FSP.OK.SLIST
+1809.0,IN_VERIFY_REPLACE,1.0,Q,%1$ already exists.  Do you want to replace it?,SASHELP.FSP.YN.SLIST
+1811.0,DI_UNKNOWN_USER_LOGIN,1.0,E,The userid %1$ is not known.  Please contact your SAS/PH-Clinical Administrator to have your userid defined.,SASHELP.FSP.OK.SLIST
+1824.0,IN_PHC_EXIT_DIALOG,1.0,Q,Are you sure you really want to terminate the SAS/PH-Clinical session?,SASHELP.FSP.OC.SLIST
+1841.0,IO_SM_INSUFFICIENT_ACCESS,1.0,E,Unable to open PH-Library.  Verify access to the PH-Library.,SASHELP.FSP.OK.SLIST
+1842.0,IO_SM_CANT_ALLOCATE_LIBS,1.0,E,Unable to allocate study libraries.,SASHELP.FSP.OK.SLIST
+1843.0,IO_SM_CANT_ACCESS_DICTIONARY,1.0,E,Unable to open PH-Dictionary data sets.,SASHELP.FSP.OK.SLIST
+1844.0,IO_SM_NO_COMMITTED_VARS,1.0,E,Unable to open the study.  There are no committed variables.,SASHELP.FSP.OK.SLIST
+1845.0,IO_SM_STUDY_OPEN_FAILED,1.0,E,Unable to open study.  View the log for messages.,SASHELP.FSP.OK.SLIST
+1847.0,IO_ALREADY_BROWSING_STUDY,1.0,N,You can only edit one variable group at a time.,SASHELP.FSP.OK.SLIST
+1851.0,IO_ACTIVE_PATIENT_QUERY_ROW,1.0,N,"A count can only be calculated on expressions applied ""By Patient"".",SASHELP.FSP.OK.SLIST
+1878.0,IO_CANNOT_REMOVE_ADMIN,1.0,E,You cannot remove the Administrator role from yourself.,SASHELP.FSP.OK.SLIST
+1881.0,IO_CANNOT_REMOVE_ALLROLES,1.0,E,You cannot remove all the roles.  At least one role must be defined for this user.,SASHELP.FSP.OK.SLIST
+1882.0,DI_MANY_TO_MANY_MERGE,1.0,W,The variables selected will result in a many-to-many data merge.  Results might include unexpected missing values due to incompatible keys.,SASHELP.FSP.OK.SLIST
+1889.0,IN_SAVE_TABLE_CANCEL,1.0,W,"Table is in ""edit"" mode.  To return to ""browse"" mode, select Options->Column->Save or Options->Column->Cancel.",SASHELP.FSP.OK.SLIST
+1910.0,IO_PD_NO_PAT_QUERIES,1.0,N,"Either there are no By Patient queries, or none can be built.",SASHELP.FSP.OK.SLIST
+1911.0,IO_PD_NOT_ALL_PAT_QUERIES,1.0,N,"Either some of the queries are By Row, or they cannot be built.",SASHELP.FSP.OK.SLIST
+1912.0,IO_PD_PAT_QUERY_COUNT_ERROR,1.0,N,Unable to calculate query count information.,SASHELP.FSP.OK.SLIST
+1917.0,IN_MUST_BE_VALID_SAS_VAR_NAME,1.0,E,You must provide a valid SAS variable name.,SASHELP.FSP.OK.SLIST
+1918.0,IN_COULD_NOT_REGI_VAR,1.0,E,Unable to define created variable.,SASHELP.FSP.OK.SLIST
+1922.0,IO_OBJECT_LOCKED,1.0,N,The %1$ is currently locked. You will need to unlock it in order to make updates.,SASHELP.FSP.OK.SLIST
+1947.0,IO_CANT_WRITE_TO_FILE,1.0,E,Could not write to the export file.,SASHELP.FSP.OK.SLIST
+1948.0,IO_NO_TRANSPORTABLE_FUNCTIONS,1.0,E,There are not any transportable functions to export.,SASHELP.FSP.OK.SLIST
+1949.0,IO_TRANSPORT_NOT_CREATED,1.0,E,An error occured creating export file.  The transport file was not created.,SASHELP.FSP.OK.SLIST
+1972.0,IO_CANT_READ_TRANSPORT_FILE,1.0,E,Unable to read transport file.,SASHELP.FSP.OK.SLIST
+1976.0,IO_INVALID_TRANSPORT_FILE,1.0,E,The input file is not a valid PH-Dictionary.,SASHELP.FSP.OK.SLIST
+1977.0,IO_SAME_IMPORT_EXPORT,1.0,E,The PH-Dictionary transport file was created at the current site.,SASHELP.FSP.OK.SLIST
+1986.0,IO_PD_IMPORT_DS_NOT_FOUND,1.0,E,Unable to import the PH-Dictionary.  Import file not found.,SASHELP.FSP.OK.SLIST
+1987.0,IO_PD_CANT_OPEN_IMPORT_DS,1.0,E,Unable to import the PH-Dictionary.  Cannot open import file.,SASHELP.FSP.OK.SLIST
+1988.0,IO_PD_IMPORT_SD_EMPTY,1.0,E,Unable to import the PH-Dictionary.  Import file is empty.,SASHELP.FSP.OK.SLIST
+1989.0,IO_PD_IMPORT_SD_BAD,1.0,E,Unable to import the PH-Dictionary.  Import file is damaged.,SASHELP.FSP.OK.SLIST
+1990.0,IO_PD_INVALID_NAMES_IN_IMPORT_DS,1.0,E,Unable to import the PH-Dictionary.  Import file contains invalid names.,SASHELP.FSP.OK.SLIST
+1991.0,IO_PD_INVALID_TYPES_IN_IMPORT_DS,1.0,E,Unable to import the PH-Dictionary.  Import file contains invalid variable types.,SASHELP.FSP.OK.SLIST
+1992.0,IO_PD_MISSING_LABEL_IN_IMPORT_DS,1.0,E,Unable to import the PH-Dictionary.  Import file has a missing label.,SASHELP.FSP.OK.SLIST
+1993.0,IO_PD_IMPORT_FAILED,1.0,E,Unable to import the PH-Dictionary.,SASHELP.FSP.OK.SLIST
+1999.0,IN_FUNCTION_CANNOT_BE_MAPPED,1.0,W,Function cannot be mapped.,SASHELP.FSP.OK.SLIST
+2000.0,IN_UNABLE_TO_MAP_FUNCTION,1.0,E,Unable to map function: %1$,SASHELP.FSP.OK.SLIST
+2002.0,IO_PD_CANT_FIND_PHDICT,1.0,E,Unable to find the PH-Dictionary.,SASHELP.FSP.OK.SLIST
+2003.0,IO_SM_DICTIONARY_PROBLEMS,1.0,E,Unable to open the study.  There are problems with the Study Dictionary.,SASHELP.FSP.OK.SLIST
+2004.0,IO_PD_CANT_OPEN_PHDICT,1.0,E,Unable to open the PH-Dictionary.,SASHELP.FSP.OK.SLIST
+2005.0,IO_PD_CANT_CONVERT_PHDICT,1.0,E,Unable to convert the PH-Dictionary from version 2.00 to version 2.01.,SASHELP.FSP.OK.SLIST
+2006.0,IN_COMMAND_REQUIRED,1.0,N,Select a command.,SASHELP.FSP.OK.SLIST
+2009.0,IN_UNABLE_TO_UNDO_EXPR,1.0,E,An error occurred while attempting to to undo last operation.  Expression is being returned to its original state. (%1$),SASHELP.FSP.OK.SLIST
+2010.0,IN_MUST_BE_VALID_PHC_VAR_NAME,1.0,E,The name provided is invalid.  The name may not begin with '_PH' nor '__PH'.,SASHELP.FSP.OK.SLIST
+2011.0,IO_PHDICT_IMPORT_FAILED,1.0,E,PH-Dictionary import failed.,SASHELP.FSP.OK.SLIST
+2012.0,IO_PHDICT_EXPORT_FAILED,1.0,E,PH-Dictionary export failed.,SASHELP.FSP.OK.SLIST
+2037.0,IO_SD_BAD_IMAGE_DS_VARS,1.0,E,Invalid Image Index Data File.  Check the format of the data file and variables.,SASHELP.FSP.OC.SLIST
+2042.0,IO_PD_IMPORT_DS_BAD,1.0,E,Unable to import external data dictionary.  Transport file is either corrupt or is in an unrecognized format.,SASHELP.FSP.OC.SLIST
+2044.0,IN_CREATED_VAR_ALREADY_EXISTS,1.0,N,Created variable already exists as %1$.,SASHELP.FSP.OK.SLIST
+2049.0,IN_NO_LABEL_GIVEN,1.0,E,Enter a Label.,SASHELP.FSP.OK.SLIST
+2055.0,IN_IN_EFFECT_NEXT_TIME,1.0,N,The changes you have made to the function maps will not take effect during your current session.  They will be in effect the next time you start the product.,SASHELP.FSP.OK.SLIST
+2059.0,IO_PROD_LIB_TRANSPORT,1.0,E,You cannot transport the SAS/PH-Clinical Product Library.,SASHELP.FSP.OC.SLIST
+2063.0,DI_DELETE_PCPRD_CONFIRM,1.0,W,"Are you sure you want to clear the existing product library?  This will delete all user, user group, library, and security role definitions.",SASHELP.FSP.OC.SLIST
+2100.0,IO_SD_BAD_TEMPLATE_FUNCTIONS,1.0,N,A required input or output function is not defined to the PH-Dictionary.  This must be done before the PH-Template can be run.,SASHELP.FSP.OK.SLIST
+2102.0,IO_SD_TEMPLATE_LOAD_FAILED,1.0,N,The PH-Template could not be loaded because it could not be found or is corrupt.  You may need to remove it from the study dictionary.,SASHELP.FSP.OK.SLIST
+2103.0,IO_SD_TEMPLATE_FUNCTION_IN USE,1.0,N,At least one input or output function used by the PH-Template is already in use as a function for another data set.,SASHELP.FSP.OK.SLIST
+2104.0,IO_SD_TEMPLATE_OUTPUT_DS_IN_USE,1.0,N,At least one output function has already been defined as a function for another PH-Template input data set.,SASHELP.FSP.OK.SLIST
+2105.0,IO_SD_SAME_INPUT_AND_OUTPUT,1.0,N,"This PH-Template uses the same function for both an input and output data set.  To run the PH-Template, you must redefine one of the data set functions.",SASHELP.FSP.OK.SLIST
+2542.0,IN_NO_APPLIC_CHOSEN,1.0,N,No PH-Template Type was selected.,SASHELP.FSP.OK.SLIST
+2548.0,IN_APP_SLIST_DOES_NOT_EXIST,1.0,E,Unable to create PH-Template.  %1$ does not exist.,SASHELP.FSP.OK.SLIST
+2549.0,IN_APP_RESOURCE_DOES_NOT_EXIST,1.0,E,Unable to create PH-Template.  %1$ does not exist.,SASHELP.FSP.OK.SLIST
+2550.0,IN_APP_CLASS_DOES_NOT_EXIST,1.0,E,Unable to create PH-Template.  %1$ does not exist.,SASHELP.FSP.OK.SLIST
+2820.0,IN_CANNOT_LOAD_OPTIONS,1.0,N,The requested Saved Report Selections could not be found.,SASHELP.FSP.OK.SLIST
+2873.0,IN_INVALID_FORMAT_N,1.0,E,Invalid numeric format.,SASHELP.FSP.OK.SLIST
+2875.0,IN_INVALID_INFORMAT_N,1.0,E,Invalid numeric informat.,SASHELP.FSP.OK.SLIST
+2876.0,IN_INVALID_FORMAT_C,1.0,E,Invalid character format.,SASHELP.FSP.OK.SLIST
+2877.0,IN_INVALID_INFORMAT_C,1.0,E,Invalid character informat.,SASHELP.FSP.OK.SLIST
+2893.0,IO_FILE_REQUIRED,1.0,N,A file selection is required.,SASHELP.FSP.OK.SLIST
+2895.0,IO_PARAMETER_REQUIRED,1.0,N,A help file parameter is required.,SASHELP.FSP.OK.SLIST
+2957.0,IO_HELP_REQUEST_FAILED,1.0,N,Unable to find the Help file.,SASHELP.FSP.OK.SLIST
+2958.0,IO_HOSTHELP_NOT_AVAILABLE,1.0,N,Host help is not available.,SASHELP.FSP.OK.SLIST
+2959.0,IO_SD_BAD_IMAGE_COMMON_KEYS,1.0,N,The Image Index data file contains Common Keys which are inconsistent with the study data files.,SASHELP.FSP.OK.SLIST
+2967.0,IO_GOOD_TRANSPORT,1.0,N,Transport file created.,SASHELP.FSP.OK.SLIST
+2968.0,IN_SD_TEMPLATE_INACTIVE,1.0,N,Unable to run the Study Definition PH-Template.  It can only be run by opening or editing the study.,SASHELP.FSP.OK.SLIST
+2969.0,IN_INVALID_CATALOG_NAME,1.0,W,The name %1$ is not a valid SAS catalog name.,SASHELP.FSP.OK.SLIST
+2970.0,IN_INVALID_ENTRY_NAME,1.0,W,The name %1$ is not a valid SAS catalog entry name.,SASHELP.FSP.OK.SLIST
+3108.0,IN_NO_CODE_SECTIONS,1.0,N,The window %1$ has no code sections to run.  Contact the administrator.,SASHELP.FSP.OK.SLIST
+3109.0,IN_NO_REPORT_SELECTIONS,1.0,N,There are no saved report selections for %1$ in %2$.,SASHELP.FSP.OK.SLIST
+3110.0,IN_TEMPLATE_IS_DISABLED,1.0,N,Unable to run the PH-Template.  It is currently disabled.,SASHELP.FSP.OK.SLIST
+3111.0,IN_TEMPLATE_IS_BEING_DISABLED,1.0,N,The PH-Template is being disabled.  It can no longer be run.,SASHELP.FSP.OK.SLIST
+3112.0,IN_TEMPLATE_IS_BEING_ENABLED,1.0,N,The PH-Template is being enabled.  It can now be run.,SASHELP.FSP.OK.SLIST
+3113.0,IO_OVERWRITE_OBJECT,1.0,Q,Do you want to replace the existing %1$?,SASHELP.FSP.YN.SLIST
+3114.0,IO_CANNOT_OPEN_DATA_FILE,1.0,N,Unable to open the data set %1$.  No variables are available for selection.,SASHELP.FSP.OK.SLIST
+3115.0,IN_CHANGE_OPTIONS_OWNER,1.0,Q,"By changing the owner of this item, you will no longer be able to modify these report selections.  Do you wish to continue?",SASHELP.FSP.YN.SLIST
+3116.0,IN_GROUP_EXISTS,1.0,N,The group already exists.,SASHELP.FSP.OK.SLIST
+3234.0,IN_INVALID_FORMAT,1.0,E,Invalid numeric format.,SASHELP.FSP.OK.SLIST
+3235.0,IN_INVALID_INFORMAT,1.0,E,Invalid numeric informat.,SASHELP.FSP.OK.SLIST
+3236.0,IN_INC_TOO_BIG,1.0,E,The increment size is too large.  It should be less than the difference between the maximum and minimum values.,SASHELP.FSP.OK.SLIST
+3237.0,IN_THUMB_TOO_BIG,1.0,E,The thumb size is too large.  It should be less than the difference between the maximum and minimum values.,SASHELP.FSP.OK.SLIST
+3506.0,IO_NO_POSITION,1.0,N,Unable to reorder the object.,SASHELP.FSP.OK.SLIST
+3516.0,IO_CANNOT_TRANSPOSE,1.0,N,Cannot transpose selected variable.,SASHELP.FSP.OK.SLIST
+3595.0,IN_CONFIRM_DELETE,1.0,N,Are you sure you want to delete %1$?,SASHELP.FSP.YN.SLIST
+3596.0,IN_CONFIRM_PURGE,1.0,N,Are you sure you want to purge %1$?,SASHELP.FSP.YN.SLIST
+3597.0,IN_CANNOT_BEGIN_WITH,1.0,N,Invalid name.  The name cannot begin with %1$.,SASHELP.FSP.OK.SLIST
+3677.0,IO_BAD_DLI_CONFIG,1.0,N,"The DLI Config Directory you specified, %1$, does not contain any valid destinations.",SASHELP.FSP.OK.SLIST
+3689.0,IN_NO_LABEL_CHOSEN,1.0,N,Enter a label for the method.,SASHELP.FSP.OK.SLIST
+3690.0,IN_WANT_TO_SAVE_VARGROUP,1.0,Q,Do you want to save the Variable Group?,SASHELP.FSP.YNC.SLIST
+3693.0,IN_BAD_DATA_FOR_PATLST,1.0,N,Unable to determine patient list.,SASHELP.FSP.OK.SLIST
+3710.0,DI_PATH_DOES_NOT_EXIST,1.0,W,"The directory, %1$, does not exist.  Do you want to enter another directory?",SASHELP.FSP.YN.SLIST
+3711.0,IN_INVALID_INTEGER,1.0,W,Invalid value.  Enter an integer.,SASHELP.FSP.OK.SLIST
+3719.0,IO_NEW_USER_LIBRARY,1.0,N,Provide a location for the private files of %1$.  A directory for these files must exist in order to use all of the functionality in SAS/PH-Clinical software.,SASHELP.FSP.OK.SLIST
+3720.0,IO_NEW_PCPRD_LIBRARY,1.0,N,SAS/PH-Clinical software creates files which store general information.  All users must be able to read and write these files.  Provide a location where these files should be stored.,SASHELP.FSP.OK.SLIST
+3723.0,IN_NO_USER_ROLES,1.0,N,The userid does not have any valid security roles.  The administrator will need to add a valid security role before you will be able to use SAS/PH-Clinical software.,SASHELP.FSP.OK.SLIST
+3744.0,IN_NO_ATTRIBUTE_WINDOWS,1.0,N,There are no windows that use attributes.,SASHELP.FSP.OK.SLIST
+3749.0,IN_CHANGE_SESSION,1.0,Q,Do you want to change your session settings?,SASHELP.FSP.YNC.SLIST
+3750.0,IN_SESSION_NOT_EXISTS,1.0,W,At least one item in the session does not exist.,SASHELP.FSP.OK.SLIST
+3751.0,IN_SESSION_NO_ACCESS,1.0,W,Insufficient access to %1$.  Cannot switch session.,SASHELP.FSP.OK.SLIST
+3764.0,IN_INVALID_CATALOG_TYPE_SLIST,1.0,E,Invalid catalog entry type.  Enter an SLIST entry.,SASHELP.FSP.OK.SLIST
+3765.0,DI_EXISTING_PH_LIBRARY,1.0,N,The directory %1$ already contains a PH-Library.  Specify another directory.,SASHELP.FSP.OK.SLIST
+3780.0,IO_LK_NAME_IN_USE,1.0,N,The report selection name is in use.,SASHELP.FSP.OK.SLIST
+3782.0,,1.0,N,Invalid catalog entry type.  Enter an SLIST entry.,SASHELP.FSP.OK.SLIST
+3863.0,DI_REQUIRED_VALUE_RANGE,1.0,N,Enter a %1$ value of 0 or greater than or equal to %2 and less than or equal to %3.,SASHELP.FSP.OK.SLIST
+3869.0,IN_DEFAULT_REQUIRED,1.0,E,At least one variable or data set selection is required.,SASHELP.FSP.OK.SLIST
+3872.0,IO_LK_INSUFFICIENT_ACCESS,1.0,E,Unable to save report selection.  Edit access to the PH-Library is required.,SASHELP.FSP.OK.SLIST
+3940.0,IN_CAN_DO_FROM_VARSEL,1.0,N,Cannot edit selected variable.  New copy variables can only be created from the Browse Variable Selection window.,SASHELP.FSP.OK.SLIST
+3941.0,IN_MUST_ENTER_VALID_NUM,1.0,E,"Invalid value.  Enter a numeric, date, or time value.",SASHELP.FSP.OK.SLIST
+3942.0,IO_LK_UNEXPECTED_ERROR_IN_CREATE,1.0,E,An unexpected error has occurred.  Please contact your administrator.,SASHELP.FSP.OK.SLIST
+3943.0,IN_PREFIX_ALREADY_IN_USE,1.0,N,Prefix of tranposed variable is already in use.  Enter another prefix.,SASHELP.FSP.OK.SLIST
+3949.0,IN_OPEN_SESSION,1.0,Q,Do you want to change your session setting?,SASHELP.FSP.YN.SLIST
+3951.0,IN_INVALID_CATALOG_TYPE_AF,1.0,E,"Invalid catalog entry type.  Enter a FRAME, SCL, or PROGRAM entry.",SASHELP.FSP.OK.SLIST
+3953.0,IN_NO_HTML_AVAILABLE,1.0,N,An HTML version of the output has not been created.  The PH-Template is not set to allow this feature.,SASHELP.FSP.OK.SLIST
+3956.0,IN_CANNOT_CHANGE_SESSION,1.0,N,The selected session cannot be opened.,SASHELP.FSP.OK.SLIST
+3968.0,IN_AXIS_END_REQUIRED,1.0,N,An End value is required.,SASHELP.FSP.OK.SLIST
+3969.0,IN_NO_LIBRARY_USER,1.0,N,Unable to access the Set Access window.  You must own a library to use this window.,SASHELP.FSP.OK.SLIST
+4000.0,IO_NO_ABOUT_INFO,1.0,N,Information about this field type is not available.,SASHELP.FSP.OK.SLIST
+4016.0,IO_NO_SEL_PROD_OBJS,1.0,N,"Invalid location for autoload.  The SAS/PH-Clinical product library, library views, and folders may not be specified for the autoload location.  Enter a different location.",SASHELP.FSP.OK.SLIST
+4083.0,IO_DUPLICATE_USER,1.0,W,The user %1$ already exists.  Enter a different userid.,SASHELP.FSP.OC.SLIST
+4084.0,IO_CHANGE_OBJECT_LOCK,1.0,Q,The %1$ is locked.  It must be unlocked in order to make updates.  Would you like to unlock it now?,SASHELP.FSP.YN.SLIST
+4085.0,IO_CONFIRM_OVER_WRITE,1.0,W,This library already contains a(n) %1$ with this name.  Do you want to replace the existing object with this one?,SASHELP.FSP.YN.SLIST
+4088.0,IN_BAD_AUTOAS_IMPORT_FILE,1.0,N,At least one item in the file was not imported.,SASHELP.FSP.OK.SLIST
+4089.0,IN_FOLDER_MOVE_RESERVED,1.0,N,The folder is a reserved folder.  Objects cannot be moved to or from this folder.,SASHELP.FSP.OK.SLIST
+4111.0,IO_VERSION_VALID_VALUE,1.0,E,Invalid value.  Enter a value greater than or equal to 1 and less than or equal to 10.,SASHELP.FSP.OK.SLIST
+4114.0,IO_HISTORY_VALID_VALUE,1.0,E,Invalid value.  Enter a value greater than 0.,SASHELP.FSP.OK.SLIST
+4115.0,IN_TEXT_TOO_LONG,1.0,E,The value is too long.  The maximum number of character(s) is %1$.,SASHELP.FSP.OK.SLIST
+4116.0,IN_SESSION_CHANGE_COMPLETE,1.0,N,The current environment has been reset to match the selected session.,SASHELP.FSP.OK.SLIST
+4117.0,IN_GNG_IS_BETA,1.0,N,The following Graph-N-Go application is beta.,SASHELP.FSP.OK.SLIST
+4118.0,IN_CONFIRM_DELETE_ALL,1.0,Q,Are you sure you want to delete all %1$ marked objects?,SASHELP.FSP.YN.SLIST
+4119.0,IO_REPLACE_CURRENT_VG,1.0,Q,Do you want to make this the current variable group?,SASHELP.FSP.YN.SLIST
+4122.0,IO_IMPORT_DATA_ERROR,1.0,W,Object information could not be found.  Import operation was not completed.,SASHELP.FSP.OK.SLIST
+4123.0,IO_ITEM_UNLOCKED,1.0,N,This %1$ cannot be unlocked at this time.,SASHELP.FSP.OK.SLIST
+4133.0,IN_USER_CANNOT_RUN_TYPE,1.0,N,Unable to run this type of PH-Template due to insufficient access.,SASHELP.FSP.OK.SLIST
+4134.0,IO_ACTIVE_PATIENT_QUERY_BUILD,1.0,N,One or more of the queries could not be built.  Variables in query may not be compatible with current study data.,SASHELP.FSP.OK.SLIST
+4135.0,DI_PASSWORD_MISSING,1.0,N,A password must be provided using the PASSWORD= option when the USER= option is used.,SASHELP.FSP.OK.SLIST
+4136.0,IN_ITEM_PROTECTED,1.0,N,Unable to edit.  %1$ is protected.,SASHELP.FSP.OK.SLIST
+4137.0,IN_SET_QUERY_APPLIED,1.0,E,One or more queries do not have information for the Applied By field.  Specify this information.,SASHELP.FSP.OK.SLIST
+4161.0,IN_NO_OBJECT_TYPES,1.0,N,An object type was not specified at PH-Template build time.  See the PH-Template Developer for more information.,SASHELP.FSP.OK.SLIST
+4162.0,IN_CHANGE_SESSION_EM,1.0,Q,Opening this object will change the current session settings.  To review the settings select View on the object.  Do you want to open this object now?,SASHELP.FSP.YN.SLIST
+4163.0,IO_CONFIRM_DELETE_ALL,1.0,Q,Are you sure you want to delete all %1$ selected objects?,SASHELP.FSP.YN.SLIST
+4169.0,IN_EXPRESSION_HAS_BEEN_SAVED,1.0,W,The expression has been saved.  You may want to rename it.,SASHELP.FSP.OK.SLIST
+4170.0,IN_SAME_NAME_NOPROMPT,1.0,N,You cannot %1$ an item to itself.  You may rename or copy the item.,SASHELP.FSP.OK.SLIST
+4176.0,IN_CONFIRM_DELETE_FOLDER,1.0,Q,Are you sure you want to delete the folder %1$ and unlink all its contents?,SASHELP.FSP.YN.SLIST
+4189.0,IO_PD_IMPORT_DS_EMPTY,1.0,N,Unable to import the PH-Dictionary.  Import file is empty.,SASHELP.FSP.OK.SLIST
+4190.0,IO_OPEN_STUDY_YN,1.0,Q,No studies are currently open.  Do you want to open a study?,SASHELP.FSP.YN.SLIST
+4191.0,IN_PLEASE_SELECT_A,1.0,E,Select a %1$.,SASHELP.FSP.OK.SLIST
+4192.0,DI_REQUIRED_VALUE_BETWEEN,1.0,N,Enter a value for %1$ between %2 and %3.,SASHELP.FSP.OK.SLIST
+4193.0,IN_COPYVARS_NOT_SAVED,1.0,N,Copy variables will not be saved with the saved report selection.,SASHELP.FSP.OK.SLIST
+4286.0,IN_MULTIKEY_TRANSPOSE,1.0,N,The results of this transpose will be determined dynamically.  You are attempting to transpose a variable across multiple studies that do not share a common key structure.  The first available key,SASHELP.FSP.OK.SLIST
+4286.0,IN_MULTIKEY_TRANSPOSE,2.0,N,that satisfies the transpose will be used.,SASHELP.FSP.OK.SLIST
+4287.0,IN_FOLDER_LINK_RESERVED,1.0,N,The folder is a reserved folder.  Objects cannot be linked to this folder.,SASHELP.FSP.OK.SLIST
+4298.0,IO_NO_DROP_N_DRAG,1.0,N,"%1$ cannot be moved, copied, or linked to other folders.",SASHELP.FSP.OK.SLIST
+4310.0,IO_LK_NO_RIGHTS,1.0,E,Unable to edit the PH-Library due to insufficient access rights.,SASHELP.FSP.OK.SLIST
+4314.0,IO_RESELECT_SORT_FOLDER,1.0,N,Unable to determine folder for specified operation.  Reselect folder to be sorted.,SASHELP.FSP.OK.SLIST
+4326.0,IO_DLI_NOT_LICENSED,1.0,N,Unable to run the Document Linker Interface (DLI).  Contact your system administrator or SAS account representative to license the product.,SASHELP.FSP.OK.SLIST
+4514.0,IO_HALT,1.0,E,Unable to perform function. Program halted due to,SASHELP.FSP.OK.SLIST
+4514.0,IO_HALT,2.0,E,an internal error.,SASHELP.FSP.OK.SLIST
+4829.0,IN_SESSION_CHANGE_COMPLETE_BATCH,1.0,N,Batch process complete.,SASHELP.FSP.OK.SLIST
+4836.0,IN_NO_DRILLDOWN_FORMAT,1.0,N,Unable to drilldown on formatted value.  Informat %1$ does not exist.,SASHELP.FSP.OK.SLIST
+5073.0,IN_ACCESS_SET_MSG,1.0,N,Access set successfully.,SASHELP.FSP.OK.SLIST
+5089.0,IN_BR_WRAP_PERFORMANCE_MSG,1.0,N,Wrapping all columns can slow down performance in the Browse Table display when many text columns require wrapping.,SASHELP.FSP.OK.SLIST
+5322.0,IO_CANNOT_OPEN_PROMPT,1.0,E,%1$ could not be opened.  Do you want to try again?,SASHELP.FSP.YN.SLIST
+6270.0,DI_EXISTING_PH_LIBRARY_DUPLICATE,1.0,E,The path %1$ already contains a PH-Library which is used by another installation.  You must enter a different path.,SASHELP.FSP.OK.SLIST
+6271.0,DI_EXISTING_PH_LIBRARY_REUSE,1.0,Q,The path %1$ already contains a PH-Library which was previously defined to the current installation.  Do you want to use the contents of this library?,SASHELP.FSP.YN.SLIST
+6272.0,DI_PH_LIBRARY_ALREADY_EXISTS,1.0,E,The path %1$ already contains a PH-Library which is used by this installation:  %2$.  You must enter a different path.,SASHELP.FSP.OK.SLIST
+6332.0,,1.0,Q,The path %1$ already contains a PH-Library which was previously defined to the current installation.  Do you want to use the contents of this library?,SASHELP.FSP.YN.SLIST

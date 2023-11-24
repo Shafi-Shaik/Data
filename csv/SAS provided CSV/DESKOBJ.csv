@@ -1,0 +1,89 @@
+product,objtype,subtype,contrcls,modelcls,attframe,wizard,prop_sht,crtframe,feeder,icon,openicon,color,font,dragrep,droprep,descrip
+,foldptr,,sashelp.sasdesk.fldctrl,sashelp.sasdesk.folder,,,sashelp.sasdesk.prpfldr.scl,,foldfd,foldcls,foldopen,foreground,Helvetica-*-Roman-Normal,,EXPLORER_DATASET_NAME EXPLORER_CATALOG_NAME EXPLORER_MEMBER_NAME EXPLORER_ENTRY_NAME,Folder Pointer
+,adoappl,,sashelp.sasdesk.fldctrl,sashelp.sasdesk.astappl,,,sashelp.sasdesk.prpappl.scl,,,deskappl,deskappl,foreground,Helvetica-*-Roman-Normal,,,Desktop Application
+,sascmd,,sashelp.sasdesk.fldctrl,sashelp.sasdesk.command,,,sashelp.sasdesk.prpcmd.scl,,,sascmd,sascmd,foreground,Helvetica-*-Roman-Normal,,EXPLORER_DATASET_NAME EXPLORER_CATALOG_NAME EXPLORER_MEMBER_NAME EXPLORER_ENTRY_NAME,SAS Command
+,hcmd,,sashelp.sasdesk.fldctrl,sashelp.sasdesk.hcommand,,,sashelp.sasdesk.prphcmd.scl,,,cmdunix,cmdunix,foreground,Helvetica-*-Roman-Normal,,EXPLORER_DATASET_NAME EXPLORER_CATALOG_NAME EXPLORER_MEMBER_NAME EXPLORER_ENTRY_NAME,External Command
+,fileptr,,sashelp.sasdesk.fldctrl,sashelp.sasdesk.hfile,,,sashelp.sasdesk.prphfil.scl,,,fileunix,fileunix,foreground,Helvetica-*-Roman-Normal,_DND_FILE,,External File Pointer
+,dsptr,,sashelp.sasdesk.fldctrl,sashelp.sasdesk.data,,,sashelp.sasdesk.prptbl.scl,,,tablept,tablept,foreground,Helvetica-*-Roman-Normal,_DND_DATASET,,Table Pointer
+,libptr,,sashelp.sasdesk.fldctrl,sashelp.sasdesk.lib,,,sashelp.sasdesk.prplib.scl,,,library,libopend,foreground,Helvetica-*-Roman-Normal,,,Library Pointer
+,catptr,,sashelp.sasdesk.fldctrl,sashelp.sasdesk.cat,,,sashelp.sasdesk.prpcat.scl,,,sascatpt,sascatpt,foreground,Helvetica-*-Roman-Normal,_DND_CATALOG,,Catalog Pointer
+,cateptr,,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,catentpt,catentpt,foreground,Helvetica-*-Roman-Normal,_DND_CATALOG,,Catalog Entry Pointer
+,mddbptr,,sashelp.sasdesk.fldctrl,sashelp.sasdesk.mddb,,,sashelp.sasdesk.prpmddb.scl,,,mddb,mddb,foreground,Helvetica-*-Roman-Normal,_DND_MDDB,,Multi-Dimensional Database
+,logical,,,sashelp.sasdesk.logmodel,sashelp.sasdesk.attrlog,,,,logfeed,libname,libname,foreground,Helvetica-*-Roman-Normal,,,SAS Filespace
+,library,,sashelp.sasdesk.libobj,sashelp.sasdesk.library,,,sashelp.sasdesk.prplibe.scl,sashelp.sasdesk.crtlibr.frame,libfeed,library,libopend,foreground,Helvetica-*-Roman-Normal,_DND_LIBRARY _FD_FOLDFD,,Library
+,file,,sashelp.sasdesk.efilobj,sashelp.sasdesk.filmodel,,,sashelp.sasdesk.prphfle.scl,sashelp.sasdesk.crtefil.frame,,fileunix,fileunix,foreground,Helvetica-*-Roman-Normal,_DND_FILE _FD_FOLDFD,,External File
+,file,sas,sashelp.sasdesk.efilobj,sashelp.sasdesk.filmodel,,,sashelp.sasdesk.prphfle.scl,sashelp.sasdesk.crtefil.frame,,progedit,progedit,foreground,Helvetica-*-Roman-Normal,_DND_FILE _FD_FOLDFD,,SAS Program File
+,file,log,sashelp.sasdesk.efilobj,sashelp.sasdesk.filmodel,,,sashelp.sasdesk.prphfle.scl,sashelp.sasdesk.crtefil.frame,,log,log,foreground,Helvetica-*-Roman-Normal,_DND_FILE _FD_FOLDFD,,SAS Log File
+,file,lst,sashelp.sasdesk.efilobj,sashelp.sasdesk.filmodel,,,sashelp.sasdesk.prphfle.scl,sashelp.sasdesk.crtefil.frame,,output,output,foreground,Helvetica-*-Roman-Normal,_DND_FILE _FD_FOLDFD,,SAS Output File
+,dir,,sashelp.sasdesk.efilobj,sashelp.sasdesk.filmodel,sashelp.sasdesk.attedir,,,,,filename,active,foreground,Helvetica-*-Roman-Normal,_DND_FILE _FD_FOLDFD,,Directory
+,unknown_,,sashelp.sasdesk.efilobj,sashelp.sasdesk.filmodel,sashelp.sasdesk.attedev,,,,,utility,utility,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Unknown
+,data,,sashelp.sasdesk.dataobj,sashelp.sasdesk.dsmodel,,,sashelp.sasdesk.prptble.scl,sashelp.sasdesk.crtdata.frame,,sasdatab,sasdatab,foreground,Helvetica-*-Roman-Normal,_DND_DATASET _FD_FOLDFD,,Table
+,data,view,sashelp.sasdesk.dataobj,sashelp.sasdesk.dsmodel,,,sashelp.sasdesk.prptble.scl,sashelp.sasdesk.crtdata.frame,,ftdsview,ftdsview,foreground,Helvetica-*-Roman-Normal,_DND_DATASET _FD_FOLDFD,,View
+,mddb,,sashelp.sasdesk.mddbobj,sashelp.sasdesk.mddbmodl,,,sashelp.sasdesk.prpmdbe.scl,,,ftmddb,ftmddb,foreground,Helvetica-*-Roman-Normal,_DND_MDDB _FD_FOLDFD,,Multi-Dimensional Database
+,fdb,,sashelp.sasdesk.fdbobj,sashelp.sasdesk.fdbmodl,,,sashelp.sasdesk.prpfdbe.scl,,,ftfdb,ftfdb,foreground,Helvetica-*-Roman-Normal,_DND_FDB,,Financial Database
+,dmdb,,sashelp.sasdesk.dmdbobj,sashelp.sasdesk.dmdbmodl,,,sashelp.sasdesk.prpddbe.scl,,,dmdb,dmdb,foreground,Helvetica-*-Roman-Normal,,,Data Mining Database
+,program,,sashelp.sasdesk.progobj,sashelp.sasdesk.progmodl,,,sashelp.sasdesk.prpspme.scl,,,sasstpgm,sasstpgm,foreground,Helvetica-*-Roman-Normal,_DND_PROG,,Stored SAS Program
+,access,,sashelp.sasdesk.accsobj,sashelp.sasdesk.accsmodl,,,sashelp.sasdesk.prpacce.scl,,,access95,access95,foreground,Helvetica-*-Roman-Normal,,,Access Descriptor
+,catalog,,sashelp.sasdesk.catobj,sashelp.sasdesk.catmodel,,,sashelp.sasdesk.prpcate.scl,sashelp.sasdesk.crtcat.frame,catfeed,sascat,catopen,foreground,Helvetica-*-Roman-Normal,_DND_CATALOG _FD_FOLDFD,,Catalog
+,catentry,,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,sashelp.sasdesk.crtcate.frame,,catentry,catentry,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Catalog Entry
+,catentry,cbt,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,help,help,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,CBT Entry
+,catentry,class,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,classv,classv,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD _DND_CLASS,,Class Entry
+,catentry,edparms,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,catentry,catentry,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Edparms Entry
+,catentry,fmsproj,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,forecas,forecas,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Forecasting Project Entry
+,catentry,form,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,printer,printer,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Form Entry
+,catentry,frame,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,frame,frame,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Frame Entry
+,catentry,help,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,help,help,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Help Entry
+,catentry,list,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,counts,counts,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,List Entry
+,catentry,menu,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,catentry,catentry,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Menu Entry
+,catentry,program,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,frame,frame,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Program Entry
+,catentry,resource,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,resourc1,resourc1,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Resource Entry
+,catentry,scl,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,scl,scl,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD _DND_FILE,,SCL Entry
+,catentry,log,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,log,log,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD _DND_FILE,,Log Entry
+,catentry,output,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,output,output,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD _DND_FILE,,Output Entry
+,catentry,pmenu,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,menubldr,menubldr,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,PMENU Entry
+,catentry,source,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,notepad,notepad,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD _DND_FILE,,Source Entry
+,catentry,qryprof,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,qryprof,qryprof,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD _DND_PROFILE,,Query Profile Entry
+,catentry,query,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,query,query,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD _DND_QUERY,,Query Entry
+,catentry,range,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,catentry,catentry,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Range Entry
+,catentry,slist,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,menu,menu,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD _DND_SLIST,,Slist Entry
+,catentry,system,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,catentry,catentry,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,System Entry
+,catentry,toolbox,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,toolbox,toolbox,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Toolbox Entry
+,catentry,keys,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,keys,keys,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Keys Entry
+,catentry,eis,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,eis,eis,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,EIS Entry
+,catentry,letter,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,crtlabel,crtlabel,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Letter Entry
+,catentry,grseg,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,graph,graph,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD _DND_GRSEG,,Graph Entry
+,catentry,image,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,image,image,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Image Entry
+,catentry,rept,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,report,report,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD _DND_REPT,_DND_DATASET,Report Entry
+,catentry,calc,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,calc,calc,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD _DND_CALC,,Calc Entry
+,catentry,gismap,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,maps,maps,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,GIS Map Entry
+,catentry,folder,sashelp.sasdesk.entryobj,sashelp.sasdesk.entry,,,sashelp.sasdesk.prpente.scl,,,foldcls,foldcls,foreground,Helvetica-*-Roman-Normal,_FD_FOLDFD,,Folder Entry
+,cateptr,cbt,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,help,help,foreground,Helvetica-*-Roman-Normal,,,CBT Entry Pointer
+,cateptr,class,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,classv,classv,foreground,Helvetica-*-Roman-Normal,_DND_CLASS,,Class Entry Pointer
+,cateptr,edparms,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,catentry,catentry,foreground,Helvetica-*-Roman-Normal,,,Edparms Entry Pointer
+,cateptr,fmsproj,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,forecas,forecas,foreground,Helvetica-*-Roman-Normal,,,Forecasting Project Entry Pointer
+,cateptr,form,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,printer,printer,foreground,Helvetica-*-Roman-Normal,,,Form Entry Pointer
+,cateptr,frame,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,frame,frame,foreground,Helvetica-*-Roman-Normal,,,Frame Entry Pointer
+,cateptr,help,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,help,help,foreground,Helvetica-*-Roman-Normal,,,Help Entry Pointer
+,cateptr,list,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,counts,counts,foreground,Helvetica-*-Roman-Normal,,,List Entry Pointer
+,cateptr,menu,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,catentry,catentry,foreground,Helvetica-*-Roman-Normal,,,Menu Entry Pointer
+,cateptr,range,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,catentry,catentry,foreground,Helvetica-*-Roman-Normal,,,Range Entry Pointer
+,cateptr,program,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,frame,frame,foreground,Helvetica-*-Roman-Normal,,,Program Entry Pointer
+,cateptr,resource,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,resourc1,resourc1,foreground,Helvetica-*-Roman-Normal,,,Resource Entry Pointer
+,cateptr,system,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,catentry,catentry,foreground,Helvetica-*-Roman-Normal,,,System Entry Pointer
+,cateptr,scl,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,scl,scl,foreground,Helvetica-*-Roman-Normal,_DND_FILE,,SCL Entry Pointer
+,cateptr,log,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,log,log,foreground,Helvetica-*-Roman-Normal,_DND_FILE,,Log Entry Pointer
+,cateptr,output,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,output,output,foreground,Helvetica-*-Roman-Normal,_DND_FILE,,Output Entry Pointer
+,cateptr,pmenu,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,menubldr,menubldr,foreground,Helvetica-*-Roman-Normal,,,PMENU Entry Pointer
+,cateptr,source,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,notepad,notepad,foreground,Helvetica-*-Roman-Normal,_DND_FILE,,Source Entry Pointer
+,cateptr,qryprof,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,qryprof,qryprof,foreground,Helvetica-*-Roman-Normal,_DND_PROFILE,,Query Profile Entry Pointer
+,cateptr,query,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,query,query,foreground,Helvetica-*-Roman-Normal,_DND_QUERY,,Query Entry Pointer
+,cateptr,slist,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,counts,counts,foreground,Helvetica-*-Roman-Normal,_DND_SLIST,,Slist Entry Pointer
+,cateptr,toolbox,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,toolbox,toolbox,foreground,Helvetica-*-Roman-Normal,,,Toolbox Entry Pointer
+,cateptr,keys,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,keys,keys,foreground,Helvetica-*-Roman-Normal,,,Keys Entry Pointer
+,cateptr,eis,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,eis,eis,foreground,Helvetica-*-Roman-Normal,,,EIS Entry Pointer
+,cateptr,letter,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,crtlabel,crtlabel,foreground,Helvetica-*-Roman-Normal,,,Letter Entry Pointer
+,cateptr,grseg,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,graph,graph,foreground,Helvetica-*-Roman-Normal,_DND_GRSEG,,Graph Entry Pointer
+,cateptr,image,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,image,image,foreground,Helvetica-*-Roman-Normal,,,Image Entry Pointer
+,cateptr,rept,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,report,report,foreground,Helvetica-*-Roman-Normal,_DND_REPT,_DND_DATASET,Report Entry Pointer
+,cateptr,calc,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,calc,calc,foreground,Helvetica-*-Roman-Normal,_DND_CALC,,Calc Entry Pointer
+,cateptr,gismap,sashelp.sasdesk.fldctrl,sashelp.sasdesk.entptr,,,sashelp.sasdesk.prpent.scl,,,maps,maps,foreground,Helvetica-*-Roman-Normal,,,GIS Map Entry Pointer

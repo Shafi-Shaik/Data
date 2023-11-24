@@ -1,0 +1,493 @@
+locale,key,lineno,text
+en,ABORTED_NOTE,1.0,%3zStopping %#1s due to errors.
+en,ACCEPTED_VALUES_ERROR,1.0,%1zAccepted values are: %#1s
+en,ARCHIVE_DELETED_NOTE,1.0,%3zArchive %#1s deleted.
+en,ARCHIVE_NOT_DELETED_ERROR,1.0,%1zArchive %#1s not deleted.
+en,AUTOMATIC_MIDTIER_NAME_NOTE,1.0,%3zAssuming default middle-tier name based on login type: %#1s
+en,COMBINATION_EVENT_ERROR,1.0,%1zA combination event cannot contain another combination event.
+en,CONFLICTING_ARGUMENTS_ERROR,1.0,%3zArguments %#1s and %#2s are in conflict.
+en,DATASET_VAR_ERROR,1.0,%1zData set %#2s (from argument %#1s=) does not exist.
+en,DEPRECATED_MACRO_WARNING,1.0,%2zMacro %#1s has been deprecated.
+en,DEPRECATION_WARNING,1.0,%2zThe parameter %#1s= is deprecated. The specified value has no effect.
+en,EMPTY_ARG_ERROR,1.0,%1zRequired argument %#1s= has no value.
+en,EMPTY_DATASET_ERROR,1.0,%1zData set %#1s contains no observations.
+en,EMPTY_DATASET_WARNING,1.0,%2zData set %#1s contains no observations.
+en,ENVIRONMENT_CREATED_NOTE,1.0,%3zEnvironment %#1s created.
+en,ENVIRONMENT_DELETED_NOTE,1.0,%3zEnvironment %#1s deleted.
+en,ENVIRONMENT_PATH_EXISTS_ERROR,1.0,%1zPath %#1s is already assigned to environment %#2s.
+en,ENVIRONMENT_PATH_USED_ERROR,1.0,%1zPath %#1s on the specified host has already been registered as an environment.
+en,ENVIRONMENT_REGISTERED_NOTE,1.0,%3zEnvironment %#1s registered.
+en,ENVIRONMENT_UNREGISTERED_NOTE,1.0,%3zEnvironment %#1s unregistered.
+en,EVENTS_DELETED_NOTE,1.0,%3zEvents deleted from project %#2s: %#1s
+en,EVENT_CREATED_NOTE,1.0,%3zEvent %#1s created in project %#2s.
+en,EVENT_EXISTS_ERROR,1.0,%1zEvent %#1s already exists.
+en,EVENT_REQUIRED_CHANGED_NOTE,1.0,%3zThe 'required' setting for event %#1s in project %#2s is now %#3s.
+en,EXCEPTION_CAUGHT_ERROR,1.0,%1zException caught in %#1s.
+en,INACCESSIBLE_DATASET_ERROR,1.0,%1zUnable to open data set %#1s.
+en,INVALID_PATH_ERROR,1.0,%1zInvalid file system path: %#1s
+en,INVALID_SAS_NAME_ERROR,1.0,%3zThe value '%#1s' is not a valid SAS name.
+en,INVALID_VAR_ERROR,1.0,%1zArgument %#1s= has an invalid value.
+en,INVOKING_NOTE,1.0,%3zInvoking macro %#1s
+en,LEGACY_MSG1_ERROR,1.0,"%1zThe user, password, host, and sasEnvironment arguments on individual calls are deprecated."
+en,LEGACY_MSG2_ERROR,1.0,"%1zUse the fslogin and fslogout macros to manage sessions, and the midtier= argument (if necessary) to identify the target session on each call."
+en,LIST_LENGTH_MISMATCH_ERROR,1.0,%1zList lengths cannot differ: '%#1s' and '%#2s'
+en,LIST_VAR_ERROR,1.0,%1zArgument %#1s= can have only one value.
+en,LOOKUP_FAILED_WARNING,1.0,%2zNo stored value found for %#1s (identifier: %#2s\%#3s)
+en,MIDTIER_RESOLVE_MSG1_ERROR,1.0,"%1zCannot resolve midtier automatically. Global variable ""fslastm"" has no value."
+en,MIDTIER_RESOLVE_MSG2_ERROR,1.0,%1zThe session has either not been created or has already been closed.
+en,MISSING_COLUMNS_ERROR,1.0,%1zData set %#1s does not contain required column '%#2s'.
+en,MISSING_EVENTS_ERROR,1.0,%1zOne or more of the specified events does not exist.
+en,MISSING_PATHS_ERROR,1.0,%1zPaths for both the source and destination environment must be provided when performing actions that span servers.
+en,MISSING_VAR_ERROR,1.0,%1zMacro variable %#1s= does not exist.
+en,NO_ACTION_TAKEN_ERROR,1.0,%1zNo action was taken.
+en,NO_ENVIRONMENT_ERROR,1.0,%1zEnvironment %#1s does not exist.
+en,NO_PROJECT_ERROR,1.0,%1zProject %#1s does not exist.
+en,NO_PROJECT_VARS_NOTE,1.0,%3zNo project variables have been loaded.
+en,NO_PROJECT_WARN,1.0,%2zProject %#1s does not exist.
+en,NO_SESSION_ERROR,1.0,%1zSession does not exist.
+en,PROJECT_COPIED_NOTE,1.0,%3zProject %#2s (%#1s) copied to %#4s (%#3s).
+en,PROJECT_CREATED_NOTE,1.0,%3zProject %#1s created.
+en,PROJECT_DELETED_NOTE,1.0,%3zProject %#1s deleted.
+en,PROJECT_EXISTS_ERROR,1.0,%1zProject %#1s already exists.
+en,PROJECT_EXPORTED_NOTE,1.0,%3zProject %#1s exported to archive file %#2s.
+en,PROJECT_EXPORT_WARNING,1.0,%2zExport of project %#1s to archive file %#2s failed.
+en,PROJECT_IMPORTED_NOTE,1.0,%3zProject %#1s imported from archive file %#2s.
+en,PROJECT_IMPORT_WARNING,1.0,%2zImport of project %#1s from archive file %#2s failed.
+en,PROJECT_INPUT_CHANGED_NOTE,1.0,%3zProject %#1s input data set changed to %#2s.
+en,PROJECT_LOADED_NOTE,1.0,%3zProject %#1s macro variables loaded.
+en,PROJECT_MIGRATED_NOTE,1.0,%3zProject %#1s migrated.
+en,PROJECT_MIGRATION_WARNING,1.0,%2zMigration of project %#1s failed.
+en,PROJECT_MOVED_NOTE,1.0,%3zProject %#2s (%#1s) moved to %#4s (%#3s).
+en,PROJECT_OWNER_CHANGED_NOTE,1.0,%3zProject %#1s is now owned by %#2s.
+en,PROJECT_REGISTERED_NOTE,1.0,%3zProject %#1s registered.
+en,PROJECT_RENAMED_NOTE,1.0,%3zProject %#1s renamed to %#2s.
+en,PROJECT_RUN_NOTE,1.0,"%3zProject %#1s run (method=%#2s, importdata=%#3s)."
+en,PROJECT_SETTINGS_EXPORTED_NOTE,1.0,%3zSettings from project %#1s exported to file %#2s.
+en,PROJECT_SHARING_CHANGED_NOTE,1.0,%3zProject %#1s sharing is now set to %#2s.
+en,PROJECT_UNREGISTERED_NOTE,1.0,%3zProject %#1s unregistered.
+en,PROJECT_UPDATED_NOTE,1.0,%3zProject %#1s updated.
+en,PROJECT_VARS_CLEARED_NOTE,1.0,%3zProject variables have been cleared.
+en,REMOTE_ONLY_PATH_ERROR,1.0,%1zA corresponding local path must be specified when providing a remote path.
+en,REPORT_SUCCEEDED_NOTE,1.0,%3zReport execution succeeded. See %#1s for output.
+en,RESOLVED_VAR_NOTE,1.0,%3zResolved %#1s=%#2s
+en,RETURN_CODE_ERROR,1.0,%1zAction failed. Error code %#1s.
+en,SESSION_CLOSED_NOTE,1.0,%3zActive session on middle tier %#1s closed successfully.
+en,SESSION_NOT_CLOSED_ERROR,1.0,"%1zAttempt to close the active session on middle tier %#1s failed. If the session exists, then it has been dropped."
+en,SESSION_NOT_OPENED_ERROR,1.0,"%1zAttempt to create session on middle tier %#1s failed. If a session was partially created, then it has been dropped."
+en,SESSION_OPENED_LOCAL_NOTE,1.0,%3zSession created on embedded middle tier %#1s.
+en,SESSION_OPENED_REMOTE_NOTE,1.0,%3zSession created on remote middle tier %#1s.
+en,STOPPING_MACRO_NOTE,1.0,%3zStopping %#1s due to errors.
+en,TEMP_ARCHIVE_WARNING,1.0,%2zFailed to delete temporary archive file %#1s.
+en,TOO_MANY_DEP_VARS_ERROR,1.0,%1zCannot create hierarchy with more than 1 dependent variable.
+en,UNREADABLE_DATASET_ERROR,1.0,%1zRead access to data set %#1s failed.
+en,VERSION_NOTE,1.0,%3z[%#1s] Version %#2s
+ja,ABORTED_NOTE,1.0,%3z\u30a8\u30e9\u30fc\u306e\u305f\u3081 %#1s \u3092\u505c\u6b62\u3057\u3066\u3044\u307e\u3059\u3002
+ja,ACCEPTED_VALUES_ERROR,1.0,%1z\u53d7\u3051\u5165\u308c\u3089\u308c\u308b\u5024: %#1s
+ja,ARCHIVE_DELETED_NOTE,1.0,%3z\u30a2\u30fc\u30ab\u30a4\u30d6 %#1s \u306f\u524a\u9664\u3055\u308c\u307e\u3057\u305f\u3002
+ja,ARCHIVE_NOT_DELETED_ERROR,1.0,%1z\u30a2\u30fc\u30ab\u30a4\u30d6 %#1s \u306f\u524a\u9664\u3055\u308c\u307e\u305b\u3093\u3067\u3057\u305f\u3002
+ja,AUTOMATIC_MIDTIER_NAME_NOTE,1.0,%3z\u30ed\u30b0\u30a4\u30f3\u306e\u7a2e\u985e\u306b\u57fa\u3065\u3044\u3066\u30c7\u30d5\u30a9\u30eb\u30c8\u306e middle-tier \u540d\u3092\u8a2d\u5b9a\u3057\u3066\u3044\u307e\u3059: %#1s
+ja,COMBINATION_EVENT_ERROR,1.0,%1z\u7d44\u307f\u5408\u308f\u305b\u30a4\u30d9\u30f3\u30c8\u306b\u5225\u306e\u7d44\u307f\u5408\u308f\u305b\u30a4\u30d9\u30f3\u30c8\u3092\u542b\u3081\u3089\u308c\u307e\u305b\u3093\u3002
+ja,CONFLICTING_ARGUMENTS_ERROR,1.0,%3z\u5f15\u6570 %#1s \u3068 %#2s \u304c\u77db\u76fe\u3057\u3066\u3044\u307e\u3059\u3002
+ja,DATASET_VAR_ERROR,1.0,%1z\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8 %#2s (\u5f15\u6570 %#1s=) \u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,DEPRECATED_MACRO_WARNING,1.0,%2z\u30de\u30af\u30ed %#1s \u306f\u5ec3\u6b62\u3055\u308c\u307e\u3057\u305f\u3002
+ja,DEPRECATION_WARNING,1.0,%2z\u30d1\u30e9\u30e1\u30fc\u30bf %#1s= \u306f\u5ec3\u6b62\u3055\u308c\u307e\u3057\u305f\u3002\u6307\u5b9a\u3055\u308c\u305f\u5024\u306f\u7121\u52b9\u3067\u3059\u3002
+ja,EMPTY_ARG_ERROR,1.0,%1z\u5fc5\u9808\u5f15\u6570 %#1s= \u306b\u5024\u304c\u6307\u5b9a\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,EMPTY_DATASET_ERROR,1.0,%1z\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8 %#1s \u306b\u30aa\u30d6\u30b6\u30d9\u30fc\u30b7\u30e7\u30f3\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,EMPTY_DATASET_WARNING,1.0,%2z\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8 %#1s \u306b\u30aa\u30d6\u30b6\u30d9\u30fc\u30b7\u30e7\u30f3\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,ENVIRONMENT_CREATED_NOTE,1.0,%3z\u74b0\u5883 %#1s \u304c\u4f5c\u6210\u3055\u308c\u307e\u3057\u305f\u3002
+ja,ENVIRONMENT_DELETED_NOTE,1.0,%3z\u74b0\u5883 %#1s \u304c\u524a\u9664\u3055\u308c\u307e\u3057\u305f\u3002
+ja,ENVIRONMENT_PATH_EXISTS_ERROR,1.0,%1z\u30d1\u30b9%#1s \u306f\u3059\u3067\u306b\u74b0\u5883 %#2s \u306b\u5272\u308a\u5f53\u3066\u3089\u308c\u3066\u3044\u307e\u3059\u3002
+ja,ENVIRONMENT_PATH_USED_ERROR,1.0,%1z\u6307\u5b9a\u3057\u305f\u30db\u30b9\u30c8\u306e\u30d1\u30b9 %#1s \u306f\u3001\u3059\u3067\u306b\u74b0\u5883\u3068\u3057\u3066\u767b\u9332\u3055\u308c\u3066\u3044\u307e\u3059\u3002
+ja,ENVIRONMENT_REGISTERED_NOTE,1.0,%3z\u74b0\u5883 %#1s \u304c\u767b\u9332\u3055\u308c\u307e\u3057\u305f\u3002
+ja,ENVIRONMENT_UNREGISTERED_NOTE,1.0,%3z\u74b0\u5883 %#1s \u304c\u767b\u9332\u89e3\u9664\u3055\u308c\u307e\u3057\u305f\u3002
+ja,EVENTS_DELETED_NOTE,1.0,%3z\u30a4\u30d9\u30f3\u30c8\u304c\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#2s \u304b\u3089\u524a\u9664\u3055\u308c\u307e\u3057\u305f: %#1s
+ja,EVENT_CREATED_NOTE,1.0,%3z\u30a4\u30d9\u30f3\u30c8 %#1s \u304c\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#2s \u306b\u4f5c\u6210\u3055\u308c\u307e\u3057\u305f\u3002
+ja,EVENT_EXISTS_ERROR,1.0,%1z\u30a4\u30d9\u30f3\u30c8 %#1s \u306f\u3059\u3067\u306b\u5b58\u5728\u3057\u307e\u3059\u3002
+ja,EVENT_REQUIRED_CHANGED_NOTE,1.0,%3z\u30a4\u30d9\u30f3\u30c8 %#1s (\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#2s) \u306e '\u5fc5\u9808' \u8a2d\u5b9a\u306f\u3001\u73fe\u5728 %#3s \u3068\u306a\u308a\u307e\u3057\u305f\u3002
+ja,EXCEPTION_CAUGHT_ERROR,1.0,%1z%#1s \u306b\u4f8b\u5916\u304c\u767a\u751f\u3057\u307e\u3057\u305f\u3002
+ja,INACCESSIBLE_DATASET_ERROR,1.0,%1z\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8 %#1s \u3092\u958b\u3051\u307e\u305b\u3093\u3002
+ja,INVALID_PATH_ERROR,1.0,%1z\u7121\u52b9\u306a\u30d5\u30a1\u30a4\u30eb\u30b7\u30b9\u30c6\u30e0\u30d1\u30b9: %#1s
+ja,INVALID_SAS_NAME_ERROR,1.0,%3z\u5024 '%#1s' \u306f\u6709\u52b9\u306a SAS \u540d\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002
+ja,INVALID_VAR_ERROR,1.0,%1z\u5f15\u6570 %#1s= \u306b\u7121\u52b9\u306a\u5024\u304c\u6307\u5b9a\u3055\u308c\u3066\u3044\u307e\u3059\u3002
+ja,INVOKING_NOTE,1.0,%3z\u30de\u30af\u30ed %#1s \u3092\u8d77\u52d5\u3057\u3066\u3044\u307e\u3059
+ja,LEGACY_MSG1_ERROR,1.0,%1z\u500b\u3005\u306e\u547c\u3073\u51fa\u3057\u306e user\u3001password\u3001host\u3001sasEnvironment \u5f15\u6570\u306f\u5ec3\u6b62\u3055\u308c\u307e\u3057\u305f\u3002
+ja,LEGACY_MSG2_ERROR,1.0,%1z\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u7ba1\u7406\u306b\u306f fslogin \u3068 fslogout \u30de\u30af\u30ed\u3092\u4f7f\u7528\u3057\u3001\u5404\u547c\u3073\u51fa\u3057\u306b\u30bf\u30fc\u30b2\u30c3\u30c8\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u6307\u5b9a\u304c\u5fc5\u8981\u306a\u5834\u5408\u306f midtier= \u5f15\u6570\u3092\u4f7f\u7528\u3057\u3066\u304f\u3060\u3055\u3044\u3002
+ja,LIST_LENGTH_MISMATCH_ERROR,1.0,%1z\u30ea\u30b9\u30c8\u9577\u306f '%#1s' \u3068 '%#2s' \u3067\u540c\u4e00\u306b\u3057\u3066\u304f\u3060\u3055\u3044\u3002
+ja,LIST_VAR_ERROR,1.0,%1z\u5f15\u6570 %#1s= \u306b\u306f 1 \u3064\u306e\u5024\u306e\u307f\u6307\u5b9a\u3067\u304d\u307e\u3059\u3002
+ja,LOOKUP_FAILED_WARNING,1.0,%2z%#1s (ID: %#2s\%#3s) \u306e\u4fdd\u5b58\u5024\u304c\u898b\u3064\u304b\u308a\u307e\u305b\u3093
+ja,MIDTIER_RESOLVE_MSG1_ERROR,1.0,"%1z\u81ea\u52d5\u7684\u306b midtier \u3092\u89e3\u6c7a\u3067\u304d\u307e\u305b\u3093\u3002\u30b0\u30ed\u30fc\u30d0\u30eb\u5909\u6570 ""fslastm"" \u306b\u5024\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u305b\u3093\u3002"
+ja,MIDTIER_RESOLVE_MSG2_ERROR,1.0,%1z\u30bb\u30c3\u30b7\u30e7\u30f3\u306f\u4f5c\u6210\u3055\u308c\u3066\u3044\u306a\u3044\u304b\u3001\u3059\u3067\u306b\u9589\u3058\u3089\u308c\u3066\u3044\u307e\u3059\u3002
+ja,MISSING_COLUMNS_ERROR,1.0,%1z\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8 %#1s \u306b\u5fc5\u9808\u5217 '%#2s' \u304c\u542b\u307e\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,MISSING_EVENTS_ERROR,1.0,%1z\u6307\u5b9a\u3057\u305f\u30a4\u30d9\u30f3\u30c8\u306e\u4e2d\u306b\u5b58\u5728\u3057\u306a\u3044\u30a4\u30d9\u30f3\u30c8\u304c\u3042\u308a\u307e\u3059\u3002
+ja,MISSING_PATHS_ERROR,1.0,%1z\u30b5\u30fc\u30d0\u30fc\u9593\u306b\u307e\u305f\u304c\u308b\u30a2\u30af\u30b7\u30e7\u30f3\u3092\u5b9f\u884c\u3059\u308b\u5834\u5408\u3001\u30bd\u30fc\u30b9\u3068\u30bf\u30fc\u30b2\u30c3\u30c8\u306e\u4e21\u65b9\u306e\u74b0\u5883\u306e\u30d1\u30b9\u3092\u6307\u5b9a\u3057\u3066\u304f\u3060\u3055\u3044\u3002
+ja,MISSING_VAR_ERROR,1.0,%1z\u30de\u30af\u30ed\u5909\u6570 %#1s= \u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,NO_ACTION_TAKEN_ERROR,1.0,%1z\u5b9f\u884c\u3055\u308c\u305f\u30a2\u30af\u30b7\u30e7\u30f3\u306f\u3042\u308a\u307e\u305b\u3093\u3002
+ja,NO_ENVIRONMENT_ERROR,1.0,%1z\u74b0\u5883 %#1s \u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,NO_PROJECT_ERROR,1.0,%1z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,NO_PROJECT_VARS_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u5909\u6570\u304c\u30ed\u30fc\u30c9\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,NO_PROJECT_WARN,1.0,%2z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,NO_SESSION_ERROR,1.0,%1z\u30bb\u30c3\u30b7\u30e7\u30f3\u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,PROJECT_COPIED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#2s (%#1s) \u304c %#4s (%#3s) \u306b\u30b3\u30d4\u30fc\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_CREATED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u304c\u4f5c\u6210\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_DELETED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u304c\u524a\u9664\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_EXISTS_ERROR,1.0,%1z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u306f\u3059\u3067\u306b\u5b58\u5728\u3057\u307e\u3059\u3002
+ja,PROJECT_EXPORTED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u304c\u30a2\u30fc\u30ab\u30a4\u30d6\u30d5\u30a1\u30a4\u30eb %#2s \u306b\u30a8\u30af\u30b9\u30dd\u30fc\u30c8\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_EXPORT_WARNING,1.0,%2z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8%#1s \u3092\u30a2\u30fc\u30ab\u30a4\u30d6\u30d5\u30a1\u30a4\u30eb %#2s \u306b\u30a8\u30af\u30b9\u30dd\u30fc\u30c8\u3057\u3088\u3046\u3068\u3057\u307e\u3057\u305f\u304c\u3001\u5931\u6557\u3057\u307e\u3057\u305f\u3002
+ja,PROJECT_IMPORTED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u304c\u30a2\u30fc\u30ab\u30a4\u30d6\u30d5\u30a1\u30a4\u30eb %#2s \u304b\u3089\u30a4\u30f3\u30dd\u30fc\u30c8\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_IMPORT_WARNING,1.0,%2z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u3092\u30a2\u30fc\u30ab\u30a4\u30d6\u30d5\u30a1\u30a4\u30eb %#2s \u304b\u3089\u30a4\u30f3\u30dd\u30fc\u30c8\u3057\u3088\u3046\u3068\u3057\u307e\u3057\u305f\u304c\u3001\u5931\u6557\u3057\u307e\u3057\u305f\u3002
+ja,PROJECT_INPUT_CHANGED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u306e\u5165\u529b\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8\u306f %#2s \u306b\u5909\u66f4\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_LOADED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u306e\u30de\u30af\u30ed\u5909\u6570\u304c\u30ed\u30fc\u30c9\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_MIGRATED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u304c\u79fb\u884c\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_MIGRATION_WARNING,1.0,%2z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u306e\u79fb\u884c\u304c\u5931\u6557\u3057\u307e\u3057\u305f\u3002
+ja,PROJECT_MOVED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#2s (%#1s) \u304c %#4s (%#3s) \u306b\u79fb\u52d5\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_OWNER_CHANGED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u306e\u73fe\u5728\u306e\u6240\u6709\u8005\u306f %#2s \u3067\u3059\u3002
+ja,PROJECT_REGISTERED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u304c\u767b\u9332\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_RENAMED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u306f %#2s \u306b\u540d\u524d\u304c\u5909\u66f4\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_RUN_NOTE,1.0,"%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u304c\u5b9f\u884c\u3055\u308c\u307e\u3057\u305f (method=%#2s, importdata=%#3s)\u3002"
+ja,PROJECT_SETTINGS_EXPORTED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u304b\u3089\u306e\u8a2d\u5b9a\u304c\u30d5\u30a1\u30a4\u30eb %#2s \u306b\u30a8\u30af\u30b9\u30dd\u30fc\u30c8\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_SHARING_CHANGED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u306e\u73fe\u5728\u306e\u5171\u6709\u8a2d\u5b9a\u306f %#2s \u3067\u3059\u3002
+ja,PROJECT_UNREGISTERED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u304c\u767b\u9332\u89e3\u9664\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_UPDATED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 %#1s \u304c\u66f4\u65b0\u3055\u308c\u307e\u3057\u305f\u3002
+ja,PROJECT_VARS_CLEARED_NOTE,1.0,%3z\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u5909\u6570\u306f\u30af\u30ea\u30a2\u3055\u308c\u307e\u3057\u305f\u3002
+ja,REMOTE_ONLY_PATH_ERROR,1.0,%1z\u30ea\u30e2\u30fc\u30c8\u30d1\u30b9\u306e\u6307\u5b9a\u6642\u3001\u5bfe\u5fdc\u3059\u308b\u30ed\u30fc\u30ab\u30eb\u30d1\u30b9\u3092\u6307\u5b9a\u3057\u3066\u304f\u3060\u3055\u3044\u3002
+ja,REPORT_SUCCEEDED_NOTE,1.0,%3z\u30ec\u30dd\u30fc\u30c8\u5b9f\u884c\u306f\u6b63\u5e38\u306b\u7d42\u4e86\u3057\u307e\u3057\u305f\u3002\u51fa\u529b\u306b\u3064\u3044\u3066\u306f\u3001%#1s \u3092\u53c2\u7167\u3057\u3066\u304f\u3060\u3055\u3044\u3002
+ja,RESOLVED_VAR_NOTE,1.0,%3z%#1s= \u306f\u6b21\u306b\u89e3\u6c7a\u3055\u308c\u307e\u3057\u305f: %#2s
+ja,RETURN_CODE_ERROR,1.0,%1z\u30a2\u30af\u30b7\u30e7\u30f3\u306f\u5931\u6557\u3057\u307e\u3057\u305f\u3002\u30a8\u30e9\u30fc\u30b3\u30fc\u30c9 %#1s
+ja,SESSION_CLOSED_NOTE,1.0,%3zmiddle tier %#1s \u306e\u30a2\u30af\u30c6\u30a3\u30d6\u306a\u30bb\u30c3\u30b7\u30e7\u30f3\u304c\u6b63\u5e38\u306b\u9589\u3058\u3089\u308c\u307e\u3057\u305f\u3002
+ja,SESSION_NOT_CLOSED_ERROR,1.0,%1zmiddle tier %#1s \u306e\u30a2\u30af\u30c6\u30a3\u30d6\u306a\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u9589\u3058\u3088\u3046\u3068\u3057\u307e\u3057\u305f\u304c\u3001\u5931\u6557\u3057\u307e\u3057\u305f\u3002\u3053\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u304c\u5b58\u5728\u3057\u305f\u5834\u5408\u3001\u524a\u9664\u3055\u308c\u3066\u3044\u307e\u3059\u3002
+ja,SESSION_NOT_OPENED_ERROR,1.0,%1zmiddle tier %#1s \u306b\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u4f5c\u6210\u3057\u3088\u3046\u3068\u3057\u307e\u3057\u305f\u304c\u3001\u5931\u6557\u3057\u307e\u3057\u305f\u3002\u30bb\u30c3\u30b7\u30e7\u30f3\u304c\u90e8\u5206\u7684\u306b\u4f5c\u6210\u3055\u308c\u305f\u5834\u5408\u3001\u524a\u9664\u3055\u308c\u3066\u3044\u307e\u3059\u3002
+ja,SESSION_OPENED_LOCAL_NOTE,1.0,%3z\u30bb\u30c3\u30b7\u30e7\u30f3\u304c\u57cb\u3081\u8fbc\u307f middle tier %#1s \u306b\u4f5c\u6210\u3055\u308c\u307e\u3057\u305f\u3002
+ja,SESSION_OPENED_REMOTE_NOTE,1.0,%3z\u30bb\u30c3\u30b7\u30e7\u30f3\u304c\u30ea\u30e2\u30fc\u30c8 middle tier %#1s \u306b\u4f5c\u6210\u3055\u308c\u307e\u3057\u305f\u3002
+ja,STOPPING_MACRO_NOTE,1.0,%3z\u30a8\u30e9\u30fc\u306e\u305f\u3081 %#1s \u3092\u505c\u6b62\u3057\u3066\u3044\u307e\u3059\u3002
+ja,TEMP_ARCHIVE_WARNING,1.0,%2z\u4e00\u6642\u30a2\u30fc\u30ab\u30a4\u30d6\u30d5\u30a1\u30a4\u30eb %#1s \u306e\u524a\u9664\u306b\u5931\u6557\u3057\u307e\u3057\u305f\u3002
+ja,TOO_MANY_DEP_VARS_ERROR,1.0,%1z2 \u3064\u4ee5\u4e0a\u306e\u5f93\u5c5e\u5909\u6570\u3092\u542b\u3080\u968e\u5c64\u306f\u4f5c\u6210\u3067\u304d\u307e\u305b\u3093\u3002
+ja,UNREADABLE_DATASET_ERROR,1.0,%1z\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8 %#1s \u3078\u306e\u8aad\u307f\u53d6\u308a\u30a2\u30af\u30bb\u30b9\u304c\u5931\u6557\u3057\u307e\u3057\u305f\u3002
+ja,VERSION_NOTE,1.0,%3z[%#1s] \u30d0\u30fc\u30b8\u30e7\u30f3 %#2s
+ko,ABORTED_NOTE,1.0,%3z\uc624\ub958\ub85c \uc778\ud574 %#1s\uc744(\ub97c) \uc911\uc9c0\ud558\ub294 \uc911\uc785\ub2c8\ub2e4.
+ko,ACCEPTED_VALUES_ERROR,1.0,%1z\ud5c8\uc6a9\ub418\ub294 \uac12\uc758 \uc608: %#1s
+ko,ARCHIVE_DELETED_NOTE,1.0,%3z\uc544\uce74\uc774\ube0c %#1s\uc744(\ub97c) \uc0ad\uc81c\ud588\uc2b5\ub2c8\ub2e4.
+ko,ARCHIVE_NOT_DELETED_ERROR,1.0,%1z\uc544\uce74\uc774\ube0c %#1s\uc744(\ub97c) \uc0ad\uc81c\ud558\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,AUTOMATIC_MIDTIER_NAME_NOTE,1.0,%3z\ub85c\uadf8\uc778 \uc720\ud615\uc5d0 \uae30\ubc18\ud55c \uae30\ubcf8 middle-tier \uc774\ub984\uc744 \uac00\uc815\ud569\ub2c8\ub2e4: %#1s
+ko,COMBINATION_EVENT_ERROR,1.0,%1z\uc870\ud569 \uc774\ubca4\ud2b8\ub294 \ub2e4\ub978 \uc870\ud569 \uc774\ubca4\ud2b8\ub97c \ud3ec\ud568\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,CONFLICTING_ARGUMENTS_ERROR,1.0,%3z\uc778\uc218 %#1s \ubc0f %#2s\uc740(\ub294) \ucda9\ub3cc\ud569\ub2c8\ub2e4.
+ko,DATASET_VAR_ERROR,1.0,%1z\ub370\uc774\ud130\uc14b%#2s(\uc778\uc218 %#1s=)\uc774(\uac00) \uc874\uc7ac\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.
+ko,DEPRECATED_MACRO_WARNING,1.0,%2z\ub9e4\ud06c\ub85c %#1s\uc740(\ub294) \ub354 \uc774\uc0c1 \uc0ac\uc6a9\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.
+ko,DEPRECATION_WARNING,1.0,%2z\ud30c\ub77c\ubbf8\ud130 %#1s=\uc740(\ub294) \ub354 \uc774\uc0c1 \uc0ac\uc6a9\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \uc9c0\uc815\ub41c \uac12\uc740 \ud6a8\uacfc\uac00 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,EMPTY_ARG_ERROR,1.0,%1z\ud544\uc218 \uc778\uc218 %#1s=\uc5d0 \uac12\uc774 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,EMPTY_DATASET_ERROR,1.0,%1z\ub370\uc774\ud130\uc14b %#1s\uc5d0 \uad00\uce21\uce58\uac00 \ud3ec\ud568\ub418\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,EMPTY_DATASET_WARNING,1.0,%2z\ub370\uc774\ud130\uc14b %#1s\uc5d0 \uad00\uce21\uce58\uac00 \ud3ec\ud568\ub418\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,ENVIRONMENT_CREATED_NOTE,1.0,%3z\ud658\uacbd %#1s\uc774(\uac00) \uc0dd\uc131\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,ENVIRONMENT_DELETED_NOTE,1.0,%3z\ud658\uacbd %#1s\uc774(\uac00) \uc0ad\uc81c\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,ENVIRONMENT_PATH_EXISTS_ERROR,1.0,%1z\uacbd\ub85c %#1s\uc740(\ub294) \ud658\uacbd %#2s\uc5d0 \uc774\ubbf8 \ud560\ub2f9\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,ENVIRONMENT_PATH_USED_ERROR,1.0,%1z\uc9c0\uc815\ub41c \ud638\uc2a4\ud2b8\uc758 \uacbd\ub85c %#1s\uc740(\ub294) \uc774\ubbf8 \ud658\uacbd\uc73c\ub85c \ub3d9\ub85d\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,ENVIRONMENT_REGISTERED_NOTE,1.0,%3z\ud658\uacbd %#1s\uc774(\uac00) \ub4f1\ub85d\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,ENVIRONMENT_UNREGISTERED_NOTE,1.0,%3z\ud658\uacbd %#1s\uc774(\uac00) \ub4f1\ub85d\ub418\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,EVENTS_DELETED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#2s\uc5d0\uc11c \uc0ad\uc81c\ub41c \uc774\ubca4\ud2b8: %#1s
+ko,EVENT_CREATED_NOTE,1.0,%3z\uc774\ubca4\ud2b8 %#1s\uc774(\uac00) \ud504\ub85c\uc81d\ud2b8 %#2s\uc5d0\uc11c \uc0dd\uc131\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,EVENT_EXISTS_ERROR,1.0,%1z\uc774\ubca4\ud2b8 %#1s\uc740(\ub294) \uc774\ubbf8 \uc874\uc7ac\ud569\ub2c8\ub2e4.
+ko,EVENT_REQUIRED_CHANGED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#2s\uc5d0\uc11c \uc774\ubca4\ud2b8 %#1s\uc5d0 \ub300\ud55c '\ud544\uc218' \uc124\uc815\uc740 \ud604\uc7ac %#3s\uc785\ub2c8\ub2e4.
+ko,EXCEPTION_CAUGHT_ERROR,1.0,%1z%#1s\uc5d0\uc11c \uc608\uc678\ub97c \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4.
+ko,INACCESSIBLE_DATASET_ERROR,1.0,%1z\ub370\uc774\ud130\uc14b %#1s\uc744(\ub97c) \uc5f4 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,INVALID_PATH_ERROR,1.0,%1z\uc62c\ubc14\ub974\uc9c0 \uc54a\uc740 \ud30c\uc77c \uc2dc\uc2a4\ud15c \uacbd\ub85c: %#1s
+ko,INVALID_SAS_NAME_ERROR,1.0,%3z\uac12 '%#1s'\uc740(\ub294) \uc62c\ubc14\ub978 SAS \uc774\ub984\uc774 \uc544\ub2d9\ub2c8\ub2e4.
+ko,INVALID_VAR_ERROR,1.0,%1z\uc778\uc218 %#1s=\uc5d0 \uc62c\ubc14\ub974\uc9c0 \uc54a\uc740 \uac12\uc774 \uc788\uc2b5\ub2c8\ub2e4.
+ko,INVOKING_NOTE,1.0,%3z\ub9e4\ud06c\ub85c %#1s \uc2dc\uc791\ud558\ub294 \uc911
+ko,LEGACY_MSG1_ERROR,1.0,"%1z\uac1c\ubcc4 \ud638\ucd9c\uc5d0\uc11c \uc0ac\uc6a9\uc790, \uc554\ud638, \ud638\uc2a4\ud2b8 \ubc0f sasEnvironment \uc778\uc218\ub294 \ub354 \uc774\uc0c1 \uc0ac\uc6a9\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4."
+ko,LEGACY_MSG2_ERROR,1.0,%1zfslogin \ubc0f fslogout \ub9e4\ud06c\ub85c\ub97c \uc0ac\uc6a9\ud558\uc5ec \uc138\uc158\uc744 \uad00\ub9ac\ud558\uace0 (\ud544\uc694\ud55c \uacbd\uc6b0) midtier= argument\ub97c \uc0ac\uc6a9\ud558\uc5ec \uac01 \ud638\ucd9c\uc5d0\uc11c \ud0c0\uac9f \uc138\uc158\uc744 \uc2dd\ubcc4\ud569\ub2c8\ub2e4.
+ko,LIST_LENGTH_MISMATCH_ERROR,1.0,%1z\ub9ac\uc2a4\ud2b8 \uae38\uc774\uac00 \ub2e4\ub97c \uc218 \uc5c6\uc74c: '%#1s' \ubc0f '%#2s'
+ko,LIST_VAR_ERROR,1.0,%1z\uc778\uc218 %#1s=\uc740(\ub294) \ud55c \uac1c\uc758 \uac12\ub9cc \uac00\uc9c8 \uc218 \uc788\uc2b5\ub2c8\ub2e4.
+ko,LOOKUP_FAILED_WARNING,1.0,%2z%#1s(ID: %#2s\%#3s)\uc5d0 \ub300\ud574 \ubc1c\uacac\ub41c \uc800\uc7a5\ub41c \uac12\uc774 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MIDTIER_RESOLVE_MSG1_ERROR,1.0,"%1zmidtier\uc744 \uc790\ub3d9\uc73c\ub85c \ud655\uc778\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \uae00\ub85c\ubc8c \ubcc0\uc218 ""fslastm""\uc740 \uac12\uc774 \uc5c6\uc2b5\ub2c8\ub2e4."
+ko,MIDTIER_RESOLVE_MSG2_ERROR,1.0,%1z\uc138\uc158\uc774 \uc0dd\uc131\ub418\uc9c0 \uc54a\uc558\uac70\ub098 \uc774\ubbf8 \ub2eb\ud614\uc2b5\ub2c8\ub2e4.
+ko,MISSING_COLUMNS_ERROR,1.0,%1z\ub370\uc774\ud130\uc14b %#1s\uc5d0 \ud544\uc218 \uce7c\ub7fc '%#2s'\uc774(\uac00) \ud3ec\ud568\ub418\uc5b4 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.
+ko,MISSING_EVENTS_ERROR,1.0,%1z\ud558\ub098 \uc774\uc0c1\uc758 \uc9c0\uc815\ub41c \uc774\ubca4\ud2b8\uac00 \uc874\uc7ac\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.
+ko,MISSING_PATHS_ERROR,1.0,%1z\uc11c\ubc84\ub97c \ud3ec\uad04\ud558\ub294 \uc791\uc5c5\uc744 \uc218\ud589\ud560 \ub54c \uc18c\uc2a4 \ubc0f \ub300\uc0c1 \ud658\uacbd \ubaa8\ub450\uc5d0 \ub300\ud55c \uacbd\ub85c\ub97c \uc81c\uacf5\ud574\uc57c \ud569\ub2c8\ub2e4.
+ko,MISSING_VAR_ERROR,1.0,%1z\ub9e4\ud06c\ub85c \ubcc0\uc218 %#1s=\uc774(\uac00) \uc874\uc7ac\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.
+ko,NO_ACTION_TAKEN_ERROR,1.0,%1z\uc791\uc5c5\uc744 \uc2e4\ud589\ud558\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,NO_ENVIRONMENT_ERROR,1.0,%1z\ud658\uacbd %#1s\uc740(\ub294) \uc874\uc7ac\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.
+ko,NO_PROJECT_ERROR,1.0,%1z\ud504\ub85c\uc81d\ud2b8 %#1s\uc740(\ub294) \uc874\uc7ac\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.
+ko,NO_PROJECT_VARS_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 \ubcc0\uc218\ub97c \ub85c\ub4dc\ud558\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,NO_PROJECT_WARN,1.0,%2z\ud504\ub85c\uc81d\ud2b8 %#1s\uc740(\ub294) \uc874\uc7ac\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.
+ko,NO_SESSION_ERROR,1.0,%1z\uc138\uc158\uc774 \uc874\uc7ac\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_COPIED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#2s(%#1s)\uc774(\uac00) %#4s(%#3s)(\uc73c)\ub85c \ubcf5\uc0ac\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_CREATED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s\uc774(\uac00) \uc0dd\uc131\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_DELETED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s\uc774(\uac00) \uc0ad\uc81c\ub410\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_EXISTS_ERROR,1.0,%1z\ud504\ub85c\uc81d\ud2b8 %#1s\uc740(\ub294) \uc774\ubbf8 \uc874\uc7ac\ud569\ub2c8\ub2e4.
+ko,PROJECT_EXPORTED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s\uc744(\ub97c) \uc544\uce74\uc774\ube0c \ud30c\uc77c %#2s(\uc73c)\ub85c \ub0b4\ubcf4\ub0c8\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_EXPORT_WARNING,1.0,%2z\ud504\ub85c\uc81d\ud2b8 %#1s\uc744(\ub97c) \uc544\uce74\uc774\ube0c \ud30c\uc77c %#2s(\uc73c)\ub85c \ub0b4\ubcf4\ub0b4\ub294 \ub370 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_IMPORTED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s\uc744(\ub97c) \uc544\uce74\uc774\ube0c \ud30c\uc77c %#2s\uc5d0\uc11c \uac00\uc838\uc654\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_IMPORT_WARNING,1.0,%2z\uc544\uce74\uc774\ube0c \ud30c\uc77c %#2s\uc5d0\uc11c \ud504\ub85c\uc81d\ud2b8 %#1s\uc744(\ub97c) \uac00\uc838\uc624\ub294 \ub370 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_INPUT_CHANGED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s \uc785\ub825 \ub370\uc774\ud130\uc14b\uc774 %#2s(\uc73c)\ub85c \ubcc0\uacbd\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_LOADED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s \ub9e4\ud06c\ub85c \ubcc0\uc218\ub97c \ub85c\ub4dc\ud588\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_MIGRATED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s\uc774(\uac00) \ub9c8\uc774\uadf8\ub808\uc774\uc158\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_MIGRATION_WARNING,1.0,%2z\ud504\ub85c\uc81d\ud2b8 %#1s\uc758 \ub9c8\uc774\uadf8\ub808\uc774\uc158\uc5d0 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_MOVED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#2s(%#1s)\uc774(\uac00) %#4s(%#3s)(\uc73c)\ub85c \uc774\ub3d9\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_OWNER_CHANGED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s\uc740(\ub294) \ud604\uc7ac %#2s\uc774(\uac00) \uc18c\uc720\ud588\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_REGISTERED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s\uc774(\uac00) \ub4f1\ub85d\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_RENAMED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s\uc758 \uc774\ub984\uc774 %#2s(\uc73c)\ub85c \ubcc0\uacbd\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_RUN_NOTE,1.0,"%3z\ud504\ub85c\uc81d\ud2b8 %#1s\uc774(\uac00) \uc2e4\ud589\ub429\ub2c8\ub2e4(method=%#2s, importdata=%#3s)."
+ko,PROJECT_SETTINGS_EXPORTED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s\uc758 \uc124\uc815\uc744 \ud30c\uc77c %#2s(\uc73c)\ub85c \ub0b4\ubcf4\ub0c8\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_SHARING_CHANGED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s \uacf5\uc720\uac00 \ud604\uc7ac %#2s(\uc73c)\ub85c \uc124\uc815\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_UNREGISTERED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s\uc774(\uac00) \ub4f1\ub85d\ub418\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_UPDATED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 %#1s\uc774(\uac00) \uc5c5\ub370\uc774\ud2b8\ub418\uc5c8\uc2b5\ub2c8\ub2e4.
+ko,PROJECT_VARS_CLEARED_NOTE,1.0,%3z\ud504\ub85c\uc81d\ud2b8 \ubcc0\uc218\ub97c \uc9c0\uc6e0\uc2b5\ub2c8\ub2e4.
+ko,REMOTE_ONLY_PATH_ERROR,1.0,%1z\uc6d0\uaca9 \uacbd\ub85c\ub97c \uc81c\uacf5\ud560 \ub54c \ub300\uc751 \ub85c\uceec \uacbd\ub85c\ub97c \uc9c0\uc815\ud574\uc57c \ud569\ub2c8\ub2e4.
+ko,REPORT_SUCCEEDED_NOTE,1.0,%3z\ub9ac\ud3ec\ud2b8 \uc2e4\ud589\uc5d0 \uc131\uacf5\ud588\uc2b5\ub2c8\ub2e4. \ucd9c\ub825\uc5d0 \ub300\ud55c \ub0b4\uc6a9\uc740 %#1s\uc744(\ub97c) \ucc38\uc870\ud558\uc2ed\uc2dc\uc624.
+ko,RESOLVED_VAR_NOTE,1.0,%3z\uc124\uc815\ub428: %#1s=%#2s
+ko,RETURN_CODE_ERROR,1.0,%1z\uc791\uc5c5\uc5d0 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4. \uc624\ub958 \ucf54\ub4dc\ub294 %#1s\uc785\ub2c8\ub2e4.
+ko,SESSION_CLOSED_NOTE,1.0,%3zmiddle tier %#1s\uc5d0\uc11c \ud65c\uc131\ud654\ub41c \uc138\uc158\uc744 \ub2eb\uc558\uc2b5\ub2c8\ub2e4.
+ko,SESSION_NOT_CLOSED_ERROR,1.0,"%1zmiddle tier %#1s\uc5d0\uc11c \ud65c\uc131\ud654\ub41c \uc138\uc158\uc744 \ub2eb\uc9c0 \ubabb\ud588\uc2b5\ub2c8\ub2e4. \uc138\uc158\uc774 \uc874\uc7ac\ud558\uba74, \ud574\ub2f9 \uc138\uc158\uc740 \uc81c\uac70\ub429\ub2c8\ub2e4."
+ko,SESSION_NOT_OPENED_ERROR,1.0,"%1zmiddle tier %#1s\uc5d0\uc11c \uc138\uc158\uc744 \uc0dd\uc131\ud558\uc9c0 \ubabb\ud588\uc2b5\ub2c8\ub2e4. \uc138\uc158\uc774 \ubd80\ubd84\uc801\uc73c\ub85c \uc0dd\uc131\ub41c \uacbd\uc6b0, \ud574\ub2f9 \uc138\uc158\uc740 \uc81c\uac70\ub429\ub2c8\ub2e4."
+ko,SESSION_OPENED_LOCAL_NOTE,1.0,%3z\uc784\ubca0\ub4dc middle tier %#1s\uc5d0\uc11c \uc138\uc158\uc774 \uc0dd\uc131\ub410\uc2b5\ub2c8\ub2e4.
+ko,SESSION_OPENED_REMOTE_NOTE,1.0,%3z\uc6d0\uaca9 middle tier %#1s\uc5d0\uc11c \uc138\uc158\uc774 \uc0dd\uc131\ub410\uc2b5\ub2c8\ub2e4.
+ko,STOPPING_MACRO_NOTE,1.0,%3z\uc624\ub958\ub85c \uc778\ud574 %#1s\uc744(\ub97c) \uc911\uc9c0\ud558\ub294 \uc911\uc785\ub2c8\ub2e4.
+ko,TEMP_ARCHIVE_WARNING,1.0,%2z\uc784\uc2dc \uc544\uce74\uc774\ube0c \ud30c\uc77c %#1s\uc744(\ub97c) \uc0ad\uc81c\ud558\ub294 \ub370 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4.
+ko,TOO_MANY_DEP_VARS_ERROR,1.0,%1z2\uac1c \uc774\uc0c1\uc758 \uc885\uc18d \ubcc0\uc218\ub85c \uacc4\uce35\uc744 \uc0dd\uc131\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,UNREADABLE_DATASET_ERROR,1.0,%1z\ub370\uc774\ud130\uc14b %#1s\uc5d0 \ub300\ud55c \uc77d\uae30 \uc561\uc138\uc2a4\uc5d0 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4.
+ko,VERSION_NOTE,1.0,%3z[%#1s] \ubc84\uc804 %#2s
+zh_CN,ABORTED_NOTE,1.0,%3z\u7531\u4e8e\u51fa\u9519\uff0c\u505c\u6b62\u201c%#1s\u201d\u3002
+zh_CN,ACCEPTED_VALUES_ERROR,1.0,%1z\u63a5\u53d7\u7684\u503c\u4e3a: %#1s
+zh_CN,ARCHIVE_DELETED_NOTE,1.0,%3z\u5b58\u6863\u201c%#1s\u201d\u5df2\u5220\u9664\u3002
+zh_CN,ARCHIVE_NOT_DELETED_ERROR,1.0,%1z\u5b58\u6863\u201c%#1s\u201d\u672a\u5220\u9664\u3002
+zh_CN,AUTOMATIC_MIDTIER_NAME_NOTE,1.0,%3z\u57fa\u4e8e\u767b\u5f55\u7c7b\u578b\u5047\u5b9a\u9ed8\u8ba4\u4e2d\u95f4\u5c42\u540d\u79f0: %#1s
+zh_CN,COMBINATION_EVENT_ERROR,1.0,%1z\u4e00\u4e2a\u7ec4\u5408\u4e8b\u4ef6\u4e0d\u80fd\u5305\u542b\u53e6\u4e00\u4e2a\u7ec4\u5408\u4e8b\u4ef6\u3002
+zh_CN,CONFLICTING_ARGUMENTS_ERROR,1.0,%3z\u53c2\u6570\u201c%#1s\u201d\u548c\u201c%#2s\u201d\u5b58\u5728\u51b2\u7a81\u3002
+zh_CN,DATASET_VAR_ERROR,1.0,%1z\u6570\u636e\u96c6\u201c%#2s\u201d\uff08\u6765\u81ea\u53c2\u6570\u201c%#1s=\u201d\uff09\u4e0d\u5b58\u5728\u3002
+zh_CN,DEPRECATED_MACRO_WARNING,1.0,%2z\u5b8f\u201c%#1s\u201d\u5df2\u5f03\u7528\u3002
+zh_CN,DEPRECATION_WARNING,1.0,%2z\u53c2\u6570\u201c%#1s=\u201d\u5df2\u5f03\u7528\u3002\u6307\u5b9a\u503c\u4e0d\u53d7\u5f71\u54cd\u3002
+zh_CN,EMPTY_ARG_ERROR,1.0,%1z\u5fc5\u9700\u7684\u53c2\u6570\u201c%#1s=\u201d\u6ca1\u6709\u503c\u3002
+zh_CN,EMPTY_DATASET_ERROR,1.0,%1z\u6570\u636e\u96c6\u201c%#1s\u201d\u4e0d\u5305\u542b\u89c2\u6d4b\u3002
+zh_CN,EMPTY_DATASET_WARNING,1.0,%2z\u6570\u636e\u96c6\u201c%#1s\u201d\u4e0d\u5305\u542b\u89c2\u6d4b\u3002
+zh_CN,ENVIRONMENT_CREATED_NOTE,1.0,%3z\u73af\u5883\u201c%#1s\u201d\u5df2\u521b\u5efa\u3002
+zh_CN,ENVIRONMENT_DELETED_NOTE,1.0,%3z\u73af\u5883\u201c%#1s\u201d\u5df2\u5220\u9664\u3002
+zh_CN,ENVIRONMENT_PATH_EXISTS_ERROR,1.0,%1z\u8def\u5f84\u201c%#1s\u201d\u5df2\u5206\u914d\u7ed9\u73af\u5883\u201c%#2s\u201d\u3002
+zh_CN,ENVIRONMENT_PATH_USED_ERROR,1.0,%1z\u6307\u5b9a\u4e3b\u673a\u4e0a\u7684\u8def\u5f84\u201c%#1s\u201d\u5df2\u6ce8\u518c\u4e3a\u73af\u5883\u3002
+zh_CN,ENVIRONMENT_REGISTERED_NOTE,1.0,%3z\u73af\u5883\u201c%#1s\u201d\u5df2\u6ce8\u518c\u3002
+zh_CN,ENVIRONMENT_UNREGISTERED_NOTE,1.0,%3z\u73af\u5883\u201c%#1s\u201d\u5df2\u6ce8\u9500\u3002
+zh_CN,EVENTS_DELETED_NOTE,1.0,%3z\u4ece\u9879\u76ee\u201c%#2s\u201d\u4e2d\u5df2\u5220\u9664\u4e8b\u4ef6: %#1s
+zh_CN,EVENT_CREATED_NOTE,1.0,%3z\u4e8b\u4ef6\u201c%#1s\u201d\u5df2\u5728\u9879\u76ee\u201c%#2s\u201d\u4e2d\u521b\u5efa\u3002
+zh_CN,EVENT_EXISTS_ERROR,1.0,%1z\u4e8b\u4ef6\u201c%#1s\u201d\u5df2\u5b58\u5728\u3002
+zh_CN,EVENT_REQUIRED_CHANGED_NOTE,1.0,%3z\u9879\u76ee\u201c%#2s\u201d\u4e2d\u4e8b\u4ef6\u201c%#1s\u201d\u7684\u201c\u5fc5\u9700\u201d\u8bbe\u7f6e\u73b0\u5728\u4e3a\u201c%#3s\u201d\u3002
+zh_CN,EXCEPTION_CAUGHT_ERROR,1.0,%1z\u201c%#1s\u201d\u4e2d\u53d1\u751f\u5f02\u5e38\u3002
+zh_CN,INACCESSIBLE_DATASET_ERROR,1.0,%1z\u65e0\u6cd5\u6253\u5f00\u6570\u636e\u96c6\u201c%#1s\u201d\u3002
+zh_CN,INVALID_PATH_ERROR,1.0,%1z\u65e0\u6548\u7684\u6587\u4ef6\u7cfb\u7edf\u8def\u5f84: %#1s
+zh_CN,INVALID_SAS_NAME_ERROR,1.0,%3z\u503c\u201c%#1s\u201d\u4e0d\u662f\u6709\u6548\u7684 SAS \u540d\u79f0\u3002
+zh_CN,INVALID_VAR_ERROR,1.0,%1z\u53c2\u6570\u201c%#1s=\u201d\u6709\u65e0\u6548\u503c\u3002
+zh_CN,INVOKING_NOTE,1.0,%3z\u6b63\u5728\u8c03\u7528\u5b8f\u201c%#1s\u201d
+zh_CN,LEGACY_MSG1_ERROR,1.0,%1z\u9488\u5bf9\u5355\u4e2a\u8c03\u7528\u7684\u7528\u6237\u3001\u5bc6\u7801\u3001\u4e3b\u673a\u548c sasEnvironment \u53c2\u6570\u5df2\u88ab\u5f03\u7528\u3002
+zh_CN,LEGACY_MSG2_ERROR,1.0,%1z\u4f7f\u7528 fslogin \u548c fslogout \u5b8f\u7ba1\u7406\u4f1a\u8bdd\uff0c\u4ee5\u53ca midtier= \u53c2\u6570\uff08\u82e5\u9700\u8981\uff09\u6807\u8bc6\u6bcf\u4e2a\u8c03\u7528\u7684\u76ee\u6807\u4f1a\u8bdd\u3002
+zh_CN,LIST_LENGTH_MISMATCH_ERROR,1.0,%1z\u5217\u8868\u957f\u5ea6\u4e0d\u80fd\u6709\u5dee\u5f02:\u201c%#1s\u201d\u548c\u201c%#2s\u201d
+zh_CN,LIST_VAR_ERROR,1.0,%1z\u53c2\u6570\u201c%#1s=\u201d\u53ea\u80fd\u6709\u4e00\u4e2a\u503c\u3002
+zh_CN,LOOKUP_FAILED_WARNING,1.0,%2z\u6ca1\u6709\u4e3a\u201c%#1s\u201d\u627e\u5230\u50a8\u5b58\u7684\u503c\uff08\u6807\u8bc6\u7b26: %#2s\%#3s\uff09
+zh_CN,MIDTIER_RESOLVE_MSG1_ERROR,1.0,%1z\u65e0\u6cd5\u81ea\u52a8\u89e3\u6790\u4e2d\u95f4\u5c42\u3002\u5168\u5c40\u53d8\u91cf\u201cfslastm\u201d\u6ca1\u6709\u503c\u3002
+zh_CN,MIDTIER_RESOLVE_MSG2_ERROR,1.0,%1z\u4f1a\u8bdd\u5c1a\u672a\u521b\u5efa\u6216\u5df2\u5173\u95ed\u3002
+zh_CN,MISSING_COLUMNS_ERROR,1.0,%1z\u6570\u636e\u96c6\u201c%#1s\u201d\u4e0d\u5305\u542b\u5fc5\u9700\u5217\u201c%#2s\u201d\u3002
+zh_CN,MISSING_EVENTS_ERROR,1.0,%1z\u4e00\u4e2a\u6216\u591a\u4e2a\u6307\u5b9a\u7684\u4e8b\u4ef6\u4e0d\u5b58\u5728\u3002
+zh_CN,MISSING_PATHS_ERROR,1.0,%1z\u6267\u884c\u8de8\u670d\u52a1\u5668\u7684\u64cd\u4f5c\u65f6\u5fc5\u987b\u63d0\u4f9b\u6e90\u548c\u76ee\u6807\u73af\u5883\u7684\u8def\u5f84\u3002
+zh_CN,MISSING_VAR_ERROR,1.0,%1z\u5b8f\u53d8\u91cf\u201c%#1s=\u201d\u4e0d\u5b58\u5728\u3002
+zh_CN,NO_ACTION_TAKEN_ERROR,1.0,%1z\u6ca1\u6709\u91c7\u53d6\u884c\u52a8\u3002
+zh_CN,NO_ENVIRONMENT_ERROR,1.0,%1z\u73af\u5883\u201c%#1s\u201d\u4e0d\u5b58\u5728\u3002
+zh_CN,NO_PROJECT_ERROR,1.0,%1z\u9879\u76ee\u201c%#1s\u201d\u4e0d\u5b58\u5728\u3002
+zh_CN,NO_PROJECT_VARS_NOTE,1.0,%3z\u6ca1\u6709\u52a0\u8f7d\u9879\u76ee\u53d8\u91cf\u3002
+zh_CN,NO_PROJECT_WARN,1.0,%2z\u9879\u76ee\u201c%#1s\u201d\u4e0d\u5b58\u5728\u3002
+zh_CN,NO_SESSION_ERROR,1.0,%1z\u4f1a\u8bdd\u4e0d\u5b58\u5728\u3002
+zh_CN,PROJECT_COPIED_NOTE,1.0,%3z\u9879\u76ee\u201c%#2s\u201d(%#1s) \u5df2\u590d\u5236\u5230\u201c%#4s\u201d(%#3s)\u3002
+zh_CN,PROJECT_CREATED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u5df2\u521b\u5efa\u3002
+zh_CN,PROJECT_DELETED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u5df2\u5220\u9664\u3002
+zh_CN,PROJECT_EXISTS_ERROR,1.0,%1z\u9879\u76ee\u201c%#1s\u201d\u5df2\u5b58\u5728\u3002
+zh_CN,PROJECT_EXPORTED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u5df2\u5bfc\u51fa\u81f3\u5b58\u6863\u6587\u4ef6\u201c%#2s\u201d\u3002
+zh_CN,PROJECT_EXPORT_WARNING,1.0,%2z\u5c06\u9879\u76ee\u201c%#1s\u201d\u5bfc\u51fa\u81f3\u5b58\u6863\u6587\u4ef6\u201c%#2s\u201d\u5931\u8d25\u3002
+zh_CN,PROJECT_IMPORTED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u5df2\u4ece\u5b58\u6863\u6587\u4ef6\u201c%#2s\u201d\u5bfc\u5165\u3002
+zh_CN,PROJECT_IMPORT_WARNING,1.0,%2z\u4ece\u5b58\u6863\u6587\u4ef6\u201c%#2s\u201d\u5bfc\u5165\u9879\u76ee\u201c%#1s\u201d\u5931\u8d25\u3002
+zh_CN,PROJECT_INPUT_CHANGED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u8f93\u5165\u6570\u636e\u96c6\u5df2\u66f4\u6539\u4e3a\u201c%#2s\u201d\u3002
+zh_CN,PROJECT_LOADED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u5b8f\u53d8\u91cf\u5df2\u52a0\u8f7d\u3002
+zh_CN,PROJECT_MIGRATED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u5df2\u8fc1\u79fb\u3002
+zh_CN,PROJECT_MIGRATION_WARNING,1.0,%2z\u9879\u76ee\u201c%#1s\u201d\u7684\u8fc1\u79fb\u5931\u8d25\u3002
+zh_CN,PROJECT_MOVED_NOTE,1.0,%3z\u9879\u76ee\u201c%#2s\u201d(%#1s) \u5df2\u79fb\u81f3\u201c%#4s\u201d(%#3s)\u3002
+zh_CN,PROJECT_OWNER_CHANGED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u73b0\u5728\u5f52\u201c%#2s\u201d\u6240\u6709\u3002
+zh_CN,PROJECT_REGISTERED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u5df2\u6ce8\u518c\u3002
+zh_CN,PROJECT_RENAMED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u5df2\u91cd\u547d\u540d\u4e3a\u201c%#2s\u201d\u3002
+zh_CN,PROJECT_RUN_NOTE,1.0,"%3z\u9879\u76ee\u201c%#1s\u201d\u5df2\u8fd0\u884c (method=%#2s, importdata=%#3s)\u3002"
+zh_CN,PROJECT_SETTINGS_EXPORTED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u7684\u8bbe\u7f6e\u5df2\u5bfc\u51fa\u81f3\u6587\u4ef6\u201c%#2s\u201d\u3002
+zh_CN,PROJECT_SHARING_CHANGED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u5171\u4eab\u73b0\u5728\u8bbe\u7f6e\u4e3a\u201c%#2s\u201d\u3002
+zh_CN,PROJECT_UNREGISTERED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u5df2\u6ce8\u9500\u3002
+zh_CN,PROJECT_UPDATED_NOTE,1.0,%3z\u9879\u76ee\u201c%#1s\u201d\u5df2\u66f4\u65b0\u3002
+zh_CN,PROJECT_VARS_CLEARED_NOTE,1.0,%3z\u9879\u76ee\u53d8\u91cf\u5df2\u6e05\u9664\u3002
+zh_CN,REMOTE_ONLY_PATH_ERROR,1.0,%1z\u63d0\u4f9b\u8fdc\u7a0b\u8def\u5f84\u65f6\u5fc5\u987b\u6307\u5b9a\u5bf9\u5e94\u7684\u672c\u5730\u8def\u5f84\u3002
+zh_CN,REPORT_SUCCEEDED_NOTE,1.0,%3z\u62a5\u8868\u6267\u884c\u6210\u529f\u3002\u8bf7\u53c2\u89c1\u201c%#1s\u201d\u83b7\u53d6\u8f93\u51fa\u3002
+zh_CN,RESOLVED_VAR_NOTE,1.0,%3z\u89e3\u6790\u7684\u201c%#1s\u201d=%#2s
+zh_CN,RETURN_CODE_ERROR,1.0,%1z\u64cd\u4f5c\u5931\u8d25\u3002\u9519\u8bef\u4ee3\u7801\u201c%#1s\u201d\u3002
+zh_CN,SESSION_CLOSED_NOTE,1.0,%3z\u4e2d\u95f4\u5c42\u201c%#1s\u201d\u4e0a\u7684\u6d3b\u52a8\u4f1a\u8bdd\u6210\u529f\u5173\u95ed\u3002
+zh_CN,SESSION_NOT_CLOSED_ERROR,1.0,%1z\u8bd5\u56fe\u5173\u95ed\u4e2d\u95f4\u5c42\u201c%#1s\u201d\u4e0a\u7684\u6d3b\u52a8\u4f1a\u8bdd\u5931\u8d25\u3002\u82e5\u4f1a\u8bdd\u5b58\u5728\uff0c\u5219\u5b83\u5df2\u88ab\u5220\u9664\u3002
+zh_CN,SESSION_NOT_OPENED_ERROR,1.0,%1z\u8bd5\u56fe\u521b\u5efa\u4e2d\u95f4\u5c42\u201c%#1s\u201d\u4e0a\u7684\u4f1a\u8bdd\u5931\u8d25\u3002\u82e5\u4f1a\u8bdd\u5df2\u90e8\u5206\u521b\u5efa\uff0c\u5219\u5b83\u5df2\u88ab\u5220\u9664\u3002
+zh_CN,SESSION_OPENED_LOCAL_NOTE,1.0,%3z\u4f1a\u8bdd\u5728\u5d4c\u5165\u7684\u4e2d\u95f4\u5c42\u201c%#1s\u201d\u4e0a\u521b\u5efa\u3002
+zh_CN,SESSION_OPENED_REMOTE_NOTE,1.0,%3z\u4f1a\u8bdd\u5728\u8fdc\u7a0b\u4e2d\u95f4\u5c42\u201c%#1s\u201d\u4e0a\u521b\u5efa\u3002
+zh_CN,STOPPING_MACRO_NOTE,1.0,%3z\u7531\u4e8e\u51fa\u9519\uff0c\u505c\u6b62\u201c%#1s\u201d\u3002
+zh_CN,TEMP_ARCHIVE_WARNING,1.0,%2z\u672a\u80fd\u5220\u9664\u4e34\u65f6\u5b58\u6863\u6587\u4ef6\u201c%#1s\u201d\u3002
+zh_CN,TOO_MANY_DEP_VARS_ERROR,1.0,%1z\u65e0\u6cd5\u521b\u5efa\u5177\u6709\u591a\u4e8e 1 \u4e2a\u56e0\u53d8\u91cf\u7684\u5c42\u6b21\u3002
+zh_CN,UNREADABLE_DATASET_ERROR,1.0,%1z\u5bf9\u6570\u636e\u96c6\u201c%#1s\u201d\u7684\u8bfb\u53d6\u8bbf\u95ee\u5931\u8d25\u3002
+zh_CN,VERSION_NOTE,1.0,%3z[%#1s] \u7248\u672c %#2s
+zh_HK,ABORTED_NOTE,1.0,%3z\u56e0\u932f\u8aa4\u800c\u505c\u6b62 %#1s\u3002
+zh_HK,ACCEPTED_VALUES_ERROR,1.0,%1z\u5df2\u63a5\u53d7\u503c\u70ba: %#1s
+zh_HK,ARCHIVE_DELETED_NOTE,1.0,%3z\u5df2\u522a\u9664\u5c01\u5b58 %#1s\u3002
+zh_HK,ARCHIVE_NOT_DELETED_ERROR,1.0,%1z\u672a\u522a\u9664\u5c01\u5b58 %#1s\u3002
+zh_HK,AUTOMATIC_MIDTIER_NAME_NOTE,1.0,%3z\u5047\u8a2d\u6839\u64da\u767b\u5165\u985e\u578b\u7684\u9810\u8a2d\u4e2d\u9593\u5c64\u540d\u7a31: %#1s
+zh_HK,COMBINATION_EVENT_ERROR,1.0,%1z\u7d44\u5408\u4e8b\u4ef6\u4e0d\u53ef\u4ee5\u5305\u542b\u53e6\u4e00\u500b\u7d44\u5408\u4e8b\u4ef6\u3002
+zh_HK,CONFLICTING_ARGUMENTS_ERROR,1.0,%3z\u5f15\u6578 %#1s \u548c %#2s \u885d\u7a81\u3002
+zh_HK,DATASET_VAR_ERROR,1.0,%1z\u8cc7\u6599\u96c6 %#2s (\u5f9e\u5f15\u6578 %#1s=) \u4e0d\u5b58\u5728\u3002
+zh_HK,DEPRECATED_MACRO_WARNING,1.0,%2z\u5de8\u96c6 %#1s \u5df2\u904e\u6642\u3002
+zh_HK,DEPRECATION_WARNING,1.0,%2z\u53c3\u6578 %#1s= \u904e\u6642\u3002\u6307\u5b9a\u7684\u503c\u6c92\u6709\u6548\u679c\u3002
+zh_HK,EMPTY_ARG_ERROR,1.0,%1z\u5fc5\u8981\u5f15\u6578 %#1s= \u6c92\u6709\u503c\u3002
+zh_HK,EMPTY_DATASET_ERROR,1.0,%1z\u8cc7\u6599\u96c6 %#1s \u672a\u5305\u542b\u89c0\u6e2c\u503c\u3002
+zh_HK,EMPTY_DATASET_WARNING,1.0,%2z\u8cc7\u6599\u96c6 %#1s \u672a\u5305\u542b\u89c0\u6e2c\u503c\u3002
+zh_HK,ENVIRONMENT_CREATED_NOTE,1.0,%3z\u5df2\u5efa\u7acb\u74b0\u5883 %#1s\u3002
+zh_HK,ENVIRONMENT_DELETED_NOTE,1.0,%3z\u5df2\u522a\u9664\u74b0\u5883 %#1s\u3002
+zh_HK,ENVIRONMENT_PATH_EXISTS_ERROR,1.0,%1z\u8def\u5f91 %#1s \u5df2\u6307\u6d3e\u7d66\u74b0\u5883 %#2s\u3002
+zh_HK,ENVIRONMENT_PATH_USED_ERROR,1.0,%1z\u6240\u6307\u5b9a\u4e3b\u6a5f\u4e0a\u7684\u8def\u5f91 %#1s \u5df2\u8a3b\u518a\u70ba\u74b0\u5883\u3002
+zh_HK,ENVIRONMENT_REGISTERED_NOTE,1.0,%3z\u5df2\u8a3b\u518a\u74b0\u5883 %#1s\u3002
+zh_HK,ENVIRONMENT_UNREGISTERED_NOTE,1.0,%3z\u5df2\u53d6\u6d88\u8a3b\u518a\u74b0\u5883 %#1s\u3002
+zh_HK,EVENTS_DELETED_NOTE,1.0,%3z\u5df2\u5f9e\u5c08\u6848 %#2s \u4e2d\u522a\u9664\u4e8b\u4ef6: %#1s
+zh_HK,EVENT_CREATED_NOTE,1.0,%3z\u5df2\u5728\u5c08\u6848 %#2s \u4e2d\u5efa\u7acb\u4e8b\u4ef6 %#1s\u3002
+zh_HK,EVENT_EXISTS_ERROR,1.0,%1z\u4e8b\u4ef6 %#1s \u5df2\u5b58\u5728\u3002
+zh_HK,EVENT_REQUIRED_CHANGED_NOTE,1.0,%3z\u5c08\u6848 %#2s \u4e2d\u4e8b\u4ef6 %#1s \u7684 'required' \u8a2d\u5b9a\u73fe\u5728\u70ba %#3s\u3002
+zh_HK,EXCEPTION_CAUGHT_ERROR,1.0,%1z%#1s \u4e2d\u6355\u6349\u5230\u4f8b\u5916\u72c0\u6cc1\u3002
+zh_HK,INACCESSIBLE_DATASET_ERROR,1.0,%1z\u7121\u6cd5\u958b\u555f\u8cc7\u6599\u96c6 %#1s\u3002
+zh_HK,INVALID_PATH_ERROR,1.0,%1z\u7121\u6548\u6a94\u6848\u7cfb\u7d71\u8def\u5f91: %#1s
+zh_HK,INVALID_SAS_NAME_ERROR,1.0,%3z\u503c '%#1s' \u4e0d\u662f\u6709\u6548\u7684 SAS \u540d\u7a31\u3002
+zh_HK,INVALID_VAR_ERROR,1.0,%1z\u5f15\u6578 %#1s= \u5177\u6709\u7121\u6548\u503c\u3002
+zh_HK,INVOKING_NOTE,1.0,%3z\u53eb\u7528\u5de8\u96c6 %#1s
+zh_HK,LEGACY_MSG1_ERROR,1.0,%1z\u500b\u5225\u547c\u53eb\u4e0a\u7684 user\u3001password\u3001host \u548c sasEnvironment \u5f15\u6578\u5df2\u904e\u6642\u3002
+zh_HK,LEGACY_MSG2_ERROR,1.0,%1z\u4f7f\u7528 fslogin \u548c fslogout \u5de8\u96c6\u7ba1\u7406\u5de5\u4f5c\u968e\u6bb5\uff0c\u800c\u4f7f\u7528 midtier= \u5f15\u6578 (\u5fc5\u8981\u6642) \u8b58\u5225\u6bcf\u500b\u547c\u53eb\u4e0a\u7684\u76ee\u6a19\u5de5\u4f5c\u968e\u6bb5\u3002
+zh_HK,LIST_LENGTH_MISMATCH_ERROR,1.0,%1z\u6e05\u55ae\u9577\u5ea6\u5fc5\u9808\u76f8\u540c: '%#1s' \u548c '%#2s'
+zh_HK,LIST_VAR_ERROR,1.0,%1z\u5f15\u6578 %#1s= \u53ea\u80fd\u6709\u4e00\u500b\u503c\u3002
+zh_HK,LOOKUP_FAILED_WARNING,1.0,%2z\u627e\u4e0d\u5230\u91dd\u5c0d %#1s \u5132\u5b58\u7684\u503c (\u8b58\u5225\u78bc: %#2s\%#3s)
+zh_HK,MIDTIER_RESOLVE_MSG1_ERROR,1.0,"%1z\u7121\u6cd5\u81ea\u52d5\u89e3\u6790 midtier\u3002\u5168\u57df\u8b8a\u6578 ""fslastm"" \u6c92\u6709\u503c\u3002"
+zh_HK,MIDTIER_RESOLVE_MSG2_ERROR,1.0,%1z\u5c1a\u672a\u5efa\u7acb\u5de5\u4f5c\u968e\u6bb5\uff0c\u6216\u5df2\u95dc\u9589\u5de5\u4f5c\u968e\u6bb5\u3002
+zh_HK,MISSING_COLUMNS_ERROR,1.0,%1z\u8cc7\u6599\u96c6 %#1s \u672a\u5305\u542b\u5fc5\u8981\u6b04 '%#2s'\u3002
+zh_HK,MISSING_EVENTS_ERROR,1.0,%1z\u4e00\u6216\u591a\u500b\u6307\u5b9a\u7684\u4e8b\u4ef6\u4e0d\u5b58\u5728\u3002
+zh_HK,MISSING_PATHS_ERROR,1.0,%1z\u57f7\u884c\u8de8\u4f3a\u670d\u5668\u7684\u52d5\u4f5c\u6642\uff0c\u5fc5\u9808\u63d0\u4f9b\u4f86\u6e90\u548c\u76ee\u7684\u5730\u74b0\u5883\u7684\u8def\u5f91\u3002
+zh_HK,MISSING_VAR_ERROR,1.0,%1z\u5de8\u96c6\u8b8a\u6578 %#1s= \u4e0d\u5b58\u5728\u3002
+zh_HK,NO_ACTION_TAKEN_ERROR,1.0,%1z\u672a\u63a1\u53d6\u4efb\u4f55\u52d5\u4f5c\u3002
+zh_HK,NO_ENVIRONMENT_ERROR,1.0,%1z\u74b0\u5883 %#1s \u4e0d\u5b58\u5728\u3002
+zh_HK,NO_PROJECT_ERROR,1.0,%1z\u5c08\u6848 %#1s \u4e0d\u5b58\u5728\u3002
+zh_HK,NO_PROJECT_VARS_NOTE,1.0,%3z\u5c1a\u672a\u8f09\u5165\u5c08\u6848\u8b8a\u6578\u3002
+zh_HK,NO_PROJECT_WARN,1.0,%2z\u5c08\u6848 %#1s \u4e0d\u5b58\u5728\u3002
+zh_HK,NO_SESSION_ERROR,1.0,%1z\u5de5\u4f5c\u968e\u6bb5\u4e0d\u5b58\u5728\u3002
+zh_HK,PROJECT_COPIED_NOTE,1.0,%3z\u5c08\u6848 %#2s (%#1s) \u5df2\u8907\u88fd\u81f3 %#4s (%#3s)\u3002
+zh_HK,PROJECT_CREATED_NOTE,1.0,%3z\u5df2\u5efa\u7acb\u5c08\u6848 %#1s\u3002
+zh_HK,PROJECT_DELETED_NOTE,1.0,%3z\u5df2\u522a\u9664\u5c08\u6848 %#1s\u3002
+zh_HK,PROJECT_EXISTS_ERROR,1.0,%1z\u5c08\u6848 %#1s \u5df2\u5b58\u5728\u3002
+zh_HK,PROJECT_EXPORTED_NOTE,1.0,%3z\u5c08\u6848 %#1s \u5df2\u532f\u51fa\u81f3\u5c01\u5b58\u6a94\u6848 %#2s\u3002
+zh_HK,PROJECT_EXPORT_WARNING,1.0,%2z\u5c07\u5c08\u6848 %#1s \u532f\u51fa\u81f3\u5c01\u5b58\u6a94\u6848 %#2s \u5931\u6557\u3002
+zh_HK,PROJECT_IMPORTED_NOTE,1.0,%3z\u5df2\u5f9e\u5c01\u5b58\u6a94\u6848 %#2s \u532f\u5165\u5c08\u6848 %#1s\u3002
+zh_HK,PROJECT_IMPORT_WARNING,1.0,%2z\u5f9e\u5c01\u5b58\u6a94\u6848 %#2s \u532f\u5165\u5c08\u6848 %#1s \u5931\u6557\u3002
+zh_HK,PROJECT_INPUT_CHANGED_NOTE,1.0,%3z\u5c08\u6848 %#1s \u8f38\u5165\u8cc7\u6599\u96c6\u5df2\u8b8a\u66f4\u70ba %#2s\u3002
+zh_HK,PROJECT_LOADED_NOTE,1.0,%3z\u5df2\u8f09\u5165\u5c08\u6848 %#1s \u5de8\u96c6\u8b8a\u6578\u3002
+zh_HK,PROJECT_MIGRATED_NOTE,1.0,%3z\u5df2\u79fb\u8f49\u5c08\u6848 %#1s\u3002
+zh_HK,PROJECT_MIGRATION_WARNING,1.0,%2z\u79fb\u8f49\u5c08\u6848 %#1s \u5931\u6557\u3002
+zh_HK,PROJECT_MOVED_NOTE,1.0,%3z\u5c08\u6848 %#2s (%#1s) \u5df2\u79fb\u52d5\u81f3 %#4s (%#3s)\u3002
+zh_HK,PROJECT_OWNER_CHANGED_NOTE,1.0,%3z%#2s \u73fe\u5728\u64c1\u6709\u5c08\u6848 %#1s\u3002
+zh_HK,PROJECT_REGISTERED_NOTE,1.0,%3z\u5df2\u8a3b\u518a\u5c08\u6848 %#1s\u3002
+zh_HK,PROJECT_RENAMED_NOTE,1.0,%3z\u5c08\u6848 %#1s \u5df2\u91cd\u65b0\u547d\u540d\u70ba %#2s\u3002
+zh_HK,PROJECT_RUN_NOTE,1.0,%3z\u5df2\u57f7\u884c\u5c08\u6848 %#1s (method=%#2s\u3001importdata=%#3s)\u3002
+zh_HK,PROJECT_SETTINGS_EXPORTED_NOTE,1.0,%3z\u5c08\u6848 %#1s \u4e2d\u7684\u8a2d\u5b9a\u5df2\u532f\u51fa\u81f3\u6a94\u6848 %#2s\u3002
+zh_HK,PROJECT_SHARING_CHANGED_NOTE,1.0,%3z\u5c08\u6848 %#1s \u5171\u7528\u73fe\u5728\u8a2d\u5b9a\u70ba %#2s\u3002
+zh_HK,PROJECT_UNREGISTERED_NOTE,1.0,%3z\u5df2\u53d6\u6d88\u8a3b\u518a\u5c08\u6848 %#1s\u3002
+zh_HK,PROJECT_UPDATED_NOTE,1.0,%3z\u5df2\u66f4\u65b0\u5c08\u6848 %#1s\u3002
+zh_HK,PROJECT_VARS_CLEARED_NOTE,1.0,%3z\u5df2\u6e05\u9664\u5c08\u6848\u8b8a\u6578\u3002
+zh_HK,REMOTE_ONLY_PATH_ERROR,1.0,%1z\u63d0\u4f9b\u9060\u7aef\u8def\u5f91\u6642\uff0c\u5fc5\u9808\u6307\u5b9a\u5c0d\u61c9\u672c\u6a5f\u8def\u5f91\u3002
+zh_HK,REPORT_SUCCEEDED_NOTE,1.0,%3z\u5831\u8868\u57f7\u884c\u6210\u529f\u3002\u5982\u9700\u8f38\u51fa\uff0c\u8acb\u53c3\u95b1 %#1s\u3002
+zh_HK,RESOLVED_VAR_NOTE,1.0,%3z\u5df2\u89e3\u6790 %#1s=%#2s
+zh_HK,RETURN_CODE_ERROR,1.0,%1z\u52d5\u4f5c\u5931\u6557\u3002\u932f\u8aa4\u78bc %#1s\u3002
+zh_HK,SESSION_CLOSED_NOTE,1.0,%3z\u5df2\u9806\u5229\u95dc\u9589\u4e2d\u9593\u5c64 %#1s \u4e0a\u7684\u4f7f\u7528\u4e2d\u5de5\u4f5c\u968e\u6bb5\u3002
+zh_HK,SESSION_NOT_CLOSED_ERROR,1.0,%1z\u5617\u8a66\u95dc\u9589\u4e2d\u9593\u5c64 %#1s \u4e0a\u7684\u4f7f\u7528\u4e2d\u5de5\u4f5c\u968e\u6bb5\u5931\u6557\u3002\u5982\u679c\u5de5\u4f5c\u968e\u6bb5\u5b58\u5728\uff0c\u5247\u5df2\u6368\u68c4\u5b83\u3002
+zh_HK,SESSION_NOT_OPENED_ERROR,1.0,%1z\u5617\u8a66\u5728\u4e2d\u9593\u5c64 %#1s \u4e0a\u5efa\u7acb\u5de5\u4f5c\u968e\u6bb5\u5931\u6557\u3002\u5982\u679c\u5df2\u5c40\u90e8\u5efa\u7acb\u5de5\u4f5c\u968e\u6bb5\uff0c\u5247\u5df2\u6368\u68c4\u5b83\u3002
+zh_HK,SESSION_OPENED_LOCAL_NOTE,1.0,%3z\u5167\u5d4c\u4e2d\u9593\u5c64 %#1s \u4e0a\u5efa\u7acb\u7684\u5de5\u4f5c\u968e\u6bb5\u3002
+zh_HK,SESSION_OPENED_REMOTE_NOTE,1.0,%3z\u9060\u7aef\u4e2d\u9593\u5c64 %#1s \u4e0a\u5efa\u7acb\u7684\u5de5\u4f5c\u968e\u6bb5\u3002
+zh_HK,STOPPING_MACRO_NOTE,1.0,%3z\u56e0\u932f\u8aa4\u800c\u505c\u6b62 %#1s\u3002
+zh_HK,TEMP_ARCHIVE_WARNING,1.0,%2z\u7121\u6cd5\u522a\u9664\u66ab\u6642\u5c01\u5b58\u6a94\u6848 %#1s\u3002
+zh_HK,TOO_MANY_DEP_VARS_ERROR,1.0,%1z\u7121\u6cd5\u5efa\u7acb\u8d85\u904e 1 \u500b\u61c9\u8b8a\u6578\u7684\u968e\u5c64\u3002
+zh_HK,UNREADABLE_DATASET_ERROR,1.0,%1z\u8cc7\u6599\u96c6 %#1s \u7684\u8b80\u53d6\u5b58\u53d6\u5931\u6557\u3002
+zh_HK,VERSION_NOTE,1.0,%3z[%#1s] \u7248\u672c %#2s
+zh_TW,ABORTED_NOTE,1.0,%3z\u56e0\u932f\u8aa4\u800c\u505c\u6b62 %#1s\u3002
+zh_TW,ACCEPTED_VALUES_ERROR,1.0,%1z\u5df2\u63a5\u53d7\u503c\u70ba: %#1s
+zh_TW,ARCHIVE_DELETED_NOTE,1.0,%3z\u5df2\u522a\u9664\u5c01\u5b58 %#1s\u3002
+zh_TW,ARCHIVE_NOT_DELETED_ERROR,1.0,%1z\u672a\u522a\u9664\u5c01\u5b58 %#1s\u3002
+zh_TW,AUTOMATIC_MIDTIER_NAME_NOTE,1.0,%3z\u5047\u8a2d\u6839\u64da\u767b\u5165\u985e\u578b\u7684\u9810\u8a2d\u4e2d\u9593\u5c64\u540d\u7a31: %#1s
+zh_TW,COMBINATION_EVENT_ERROR,1.0,%1z\u7d44\u5408\u4e8b\u4ef6\u4e0d\u53ef\u4ee5\u5305\u542b\u53e6\u4e00\u500b\u7d44\u5408\u4e8b\u4ef6\u3002
+zh_TW,CONFLICTING_ARGUMENTS_ERROR,1.0,%3z\u5f15\u6578 %#1s \u548c %#2s \u885d\u7a81\u3002
+zh_TW,DATASET_VAR_ERROR,1.0,%1z\u8cc7\u6599\u96c6 %#2s (\u5f9e\u5f15\u6578 %#1s=) \u4e0d\u5b58\u5728\u3002
+zh_TW,DEPRECATED_MACRO_WARNING,1.0,%2z\u5de8\u96c6 %#1s \u5df2\u904e\u6642\u3002
+zh_TW,DEPRECATION_WARNING,1.0,%2z\u53c3\u6578 %#1s= \u904e\u6642\u3002\u6307\u5b9a\u7684\u503c\u6c92\u6709\u6548\u679c\u3002
+zh_TW,EMPTY_ARG_ERROR,1.0,%1z\u5fc5\u8981\u5f15\u6578 %#1s= \u6c92\u6709\u503c\u3002
+zh_TW,EMPTY_DATASET_ERROR,1.0,%1z\u8cc7\u6599\u96c6 %#1s \u672a\u5305\u542b\u89c0\u6e2c\u503c\u3002
+zh_TW,EMPTY_DATASET_WARNING,1.0,%2z\u8cc7\u6599\u96c6 %#1s \u672a\u5305\u542b\u89c0\u6e2c\u503c\u3002
+zh_TW,ENVIRONMENT_CREATED_NOTE,1.0,%3z\u5df2\u5efa\u7acb\u74b0\u5883 %#1s\u3002
+zh_TW,ENVIRONMENT_DELETED_NOTE,1.0,%3z\u5df2\u522a\u9664\u74b0\u5883 %#1s\u3002
+zh_TW,ENVIRONMENT_PATH_EXISTS_ERROR,1.0,%1z\u8def\u5f91 %#1s \u5df2\u6307\u6d3e\u7d66\u74b0\u5883 %#2s\u3002
+zh_TW,ENVIRONMENT_PATH_USED_ERROR,1.0,%1z\u6240\u6307\u5b9a\u4e3b\u6a5f\u4e0a\u7684\u8def\u5f91 %#1s \u5df2\u8a3b\u518a\u70ba\u74b0\u5883\u3002
+zh_TW,ENVIRONMENT_REGISTERED_NOTE,1.0,%3z\u5df2\u8a3b\u518a\u74b0\u5883 %#1s\u3002
+zh_TW,ENVIRONMENT_UNREGISTERED_NOTE,1.0,%3z\u5df2\u53d6\u6d88\u8a3b\u518a\u74b0\u5883 %#1s\u3002
+zh_TW,EVENTS_DELETED_NOTE,1.0,%3z\u5df2\u5f9e\u5c08\u6848 %#2s \u4e2d\u522a\u9664\u4e8b\u4ef6: %#1s
+zh_TW,EVENT_CREATED_NOTE,1.0,%3z\u5df2\u5728\u5c08\u6848 %#2s \u4e2d\u5efa\u7acb\u4e8b\u4ef6 %#1s\u3002
+zh_TW,EVENT_EXISTS_ERROR,1.0,%1z\u4e8b\u4ef6 %#1s \u5df2\u5b58\u5728\u3002
+zh_TW,EVENT_REQUIRED_CHANGED_NOTE,1.0,%3z\u5c08\u6848 %#2s \u4e2d\u4e8b\u4ef6 %#1s \u7684 'required' \u8a2d\u5b9a\u73fe\u5728\u70ba %#3s\u3002
+zh_TW,EXCEPTION_CAUGHT_ERROR,1.0,%1z%#1s \u4e2d\u6355\u6349\u5230\u4f8b\u5916\u72c0\u6cc1\u3002
+zh_TW,INACCESSIBLE_DATASET_ERROR,1.0,%1z\u7121\u6cd5\u958b\u555f\u8cc7\u6599\u96c6 %#1s\u3002
+zh_TW,INVALID_PATH_ERROR,1.0,%1z\u7121\u6548\u6a94\u6848\u7cfb\u7d71\u8def\u5f91: %#1s
+zh_TW,INVALID_SAS_NAME_ERROR,1.0,%3z\u503c '%#1s' \u4e0d\u662f\u6709\u6548\u7684 SAS \u540d\u7a31\u3002
+zh_TW,INVALID_VAR_ERROR,1.0,%1z\u5f15\u6578 %#1s= \u5177\u6709\u7121\u6548\u503c\u3002
+zh_TW,INVOKING_NOTE,1.0,%3z\u53eb\u7528\u5de8\u96c6 %#1s
+zh_TW,LEGACY_MSG1_ERROR,1.0,%1z\u500b\u5225\u547c\u53eb\u4e0a\u7684 user\u3001password\u3001host \u548c sasEnvironment \u5f15\u6578\u5df2\u904e\u6642\u3002
+zh_TW,LEGACY_MSG2_ERROR,1.0,%1z\u4f7f\u7528 fslogin \u548c fslogout \u5de8\u96c6\u7ba1\u7406\u5de5\u4f5c\u968e\u6bb5\uff0c\u800c\u4f7f\u7528 midtier= \u5f15\u6578 (\u5fc5\u8981\u6642) \u8b58\u5225\u6bcf\u500b\u547c\u53eb\u4e0a\u7684\u76ee\u6a19\u5de5\u4f5c\u968e\u6bb5\u3002
+zh_TW,LIST_LENGTH_MISMATCH_ERROR,1.0,%1z\u6e05\u55ae\u9577\u5ea6\u5fc5\u9808\u76f8\u540c: '%#1s' \u548c '%#2s'
+zh_TW,LIST_VAR_ERROR,1.0,%1z\u5f15\u6578 %#1s= \u53ea\u80fd\u6709\u4e00\u500b\u503c\u3002
+zh_TW,LOOKUP_FAILED_WARNING,1.0,%2z\u627e\u4e0d\u5230\u91dd\u5c0d %#1s \u5132\u5b58\u7684\u503c (\u8b58\u5225\u78bc: %#2s\%#3s)
+zh_TW,MIDTIER_RESOLVE_MSG1_ERROR,1.0,"%1z\u7121\u6cd5\u81ea\u52d5\u89e3\u6790 midtier\u3002\u5168\u57df\u8b8a\u6578 ""fslastm"" \u6c92\u6709\u503c\u3002"
+zh_TW,MIDTIER_RESOLVE_MSG2_ERROR,1.0,%1z\u5c1a\u672a\u5efa\u7acb\u5de5\u4f5c\u968e\u6bb5\uff0c\u6216\u5df2\u95dc\u9589\u5de5\u4f5c\u968e\u6bb5\u3002
+zh_TW,MISSING_COLUMNS_ERROR,1.0,%1z\u8cc7\u6599\u96c6 %#1s \u672a\u5305\u542b\u5fc5\u8981\u6b04 '%#2s'\u3002
+zh_TW,MISSING_EVENTS_ERROR,1.0,%1z\u4e00\u6216\u591a\u500b\u6307\u5b9a\u7684\u4e8b\u4ef6\u4e0d\u5b58\u5728\u3002
+zh_TW,MISSING_PATHS_ERROR,1.0,%1z\u57f7\u884c\u8de8\u4f3a\u670d\u5668\u7684\u52d5\u4f5c\u6642\uff0c\u5fc5\u9808\u63d0\u4f9b\u4f86\u6e90\u548c\u76ee\u7684\u5730\u74b0\u5883\u7684\u8def\u5f91\u3002
+zh_TW,MISSING_VAR_ERROR,1.0,%1z\u5de8\u96c6\u8b8a\u6578 %#1s= \u4e0d\u5b58\u5728\u3002
+zh_TW,NO_ACTION_TAKEN_ERROR,1.0,%1z\u672a\u63a1\u53d6\u4efb\u4f55\u52d5\u4f5c\u3002
+zh_TW,NO_ENVIRONMENT_ERROR,1.0,%1z\u74b0\u5883 %#1s \u4e0d\u5b58\u5728\u3002
+zh_TW,NO_PROJECT_ERROR,1.0,%1z\u5c08\u6848 %#1s \u4e0d\u5b58\u5728\u3002
+zh_TW,NO_PROJECT_VARS_NOTE,1.0,%3z\u5c1a\u672a\u8f09\u5165\u5c08\u6848\u8b8a\u6578\u3002
+zh_TW,NO_PROJECT_WARN,1.0,%2z\u5c08\u6848 %#1s \u4e0d\u5b58\u5728\u3002
+zh_TW,NO_SESSION_ERROR,1.0,%1z\u5de5\u4f5c\u968e\u6bb5\u4e0d\u5b58\u5728\u3002
+zh_TW,PROJECT_COPIED_NOTE,1.0,%3z\u5c08\u6848 %#2s (%#1s) \u5df2\u8907\u88fd\u81f3 %#4s (%#3s)\u3002
+zh_TW,PROJECT_CREATED_NOTE,1.0,%3z\u5df2\u5efa\u7acb\u5c08\u6848 %#1s\u3002
+zh_TW,PROJECT_DELETED_NOTE,1.0,%3z\u5df2\u522a\u9664\u5c08\u6848 %#1s\u3002
+zh_TW,PROJECT_EXISTS_ERROR,1.0,%1z\u5c08\u6848 %#1s \u5df2\u5b58\u5728\u3002
+zh_TW,PROJECT_EXPORTED_NOTE,1.0,%3z\u5c08\u6848 %#1s \u5df2\u532f\u51fa\u81f3\u5c01\u5b58\u6a94\u6848 %#2s\u3002
+zh_TW,PROJECT_EXPORT_WARNING,1.0,%2z\u5c07\u5c08\u6848 %#1s \u532f\u51fa\u81f3\u5c01\u5b58\u6a94\u6848 %#2s \u5931\u6557\u3002
+zh_TW,PROJECT_IMPORTED_NOTE,1.0,%3z\u5df2\u5f9e\u5c01\u5b58\u6a94\u6848 %#2s \u532f\u5165\u5c08\u6848 %#1s\u3002
+zh_TW,PROJECT_IMPORT_WARNING,1.0,%2z\u5f9e\u5c01\u5b58\u6a94\u6848 %#2s \u532f\u5165\u5c08\u6848 %#1s \u5931\u6557\u3002
+zh_TW,PROJECT_INPUT_CHANGED_NOTE,1.0,%3z\u5c08\u6848 %#1s \u8f38\u5165\u8cc7\u6599\u96c6\u5df2\u8b8a\u66f4\u70ba %#2s\u3002
+zh_TW,PROJECT_LOADED_NOTE,1.0,%3z\u5df2\u8f09\u5165\u5c08\u6848 %#1s \u5de8\u96c6\u8b8a\u6578\u3002
+zh_TW,PROJECT_MIGRATED_NOTE,1.0,%3z\u5df2\u79fb\u8f49\u5c08\u6848 %#1s\u3002
+zh_TW,PROJECT_MIGRATION_WARNING,1.0,%2z\u79fb\u8f49\u5c08\u6848 %#1s \u5931\u6557\u3002
+zh_TW,PROJECT_MOVED_NOTE,1.0,%3z\u5c08\u6848 %#2s (%#1s) \u5df2\u79fb\u52d5\u81f3 %#4s (%#3s)\u3002
+zh_TW,PROJECT_OWNER_CHANGED_NOTE,1.0,%3z%#2s \u73fe\u5728\u64c1\u6709\u5c08\u6848 %#1s\u3002
+zh_TW,PROJECT_REGISTERED_NOTE,1.0,%3z\u5df2\u8a3b\u518a\u5c08\u6848 %#1s\u3002
+zh_TW,PROJECT_RENAMED_NOTE,1.0,%3z\u5c08\u6848 %#1s \u5df2\u91cd\u65b0\u547d\u540d\u70ba %#2s\u3002
+zh_TW,PROJECT_RUN_NOTE,1.0,%3z\u5df2\u57f7\u884c\u5c08\u6848 %#1s (method=%#2s\u3001importdata=%#3s)\u3002
+zh_TW,PROJECT_SETTINGS_EXPORTED_NOTE,1.0,%3z\u5c08\u6848 %#1s \u4e2d\u7684\u8a2d\u5b9a\u5df2\u532f\u51fa\u81f3\u6a94\u6848 %#2s\u3002
+zh_TW,PROJECT_SHARING_CHANGED_NOTE,1.0,%3z\u5c08\u6848 %#1s \u5171\u7528\u73fe\u5728\u8a2d\u5b9a\u70ba %#2s\u3002
+zh_TW,PROJECT_UNREGISTERED_NOTE,1.0,%3z\u5df2\u53d6\u6d88\u8a3b\u518a\u5c08\u6848 %#1s\u3002
+zh_TW,PROJECT_UPDATED_NOTE,1.0,%3z\u5df2\u66f4\u65b0\u5c08\u6848 %#1s\u3002
+zh_TW,PROJECT_VARS_CLEARED_NOTE,1.0,%3z\u5df2\u6e05\u9664\u5c08\u6848\u8b8a\u6578\u3002
+zh_TW,REMOTE_ONLY_PATH_ERROR,1.0,%1z\u63d0\u4f9b\u9060\u7aef\u8def\u5f91\u6642\uff0c\u5fc5\u9808\u6307\u5b9a\u5c0d\u61c9\u672c\u6a5f\u8def\u5f91\u3002
+zh_TW,REPORT_SUCCEEDED_NOTE,1.0,%3z\u5831\u8868\u57f7\u884c\u6210\u529f\u3002\u5982\u9700\u8f38\u51fa\uff0c\u8acb\u53c3\u95b1 %#1s\u3002
+zh_TW,RESOLVED_VAR_NOTE,1.0,%3z\u5df2\u89e3\u6790 %#1s=%#2s
+zh_TW,RETURN_CODE_ERROR,1.0,%1z\u52d5\u4f5c\u5931\u6557\u3002\u932f\u8aa4\u78bc %#1s\u3002
+zh_TW,SESSION_CLOSED_NOTE,1.0,%3z\u5df2\u9806\u5229\u95dc\u9589\u4e2d\u9593\u5c64 %#1s \u4e0a\u7684\u4f7f\u7528\u4e2d\u5de5\u4f5c\u968e\u6bb5\u3002
+zh_TW,SESSION_NOT_CLOSED_ERROR,1.0,%1z\u5617\u8a66\u95dc\u9589\u4e2d\u9593\u5c64 %#1s \u4e0a\u7684\u4f7f\u7528\u4e2d\u5de5\u4f5c\u968e\u6bb5\u5931\u6557\u3002\u5982\u679c\u5de5\u4f5c\u968e\u6bb5\u5b58\u5728\uff0c\u5247\u5df2\u6368\u68c4\u5b83\u3002
+zh_TW,SESSION_NOT_OPENED_ERROR,1.0,%1z\u5617\u8a66\u5728\u4e2d\u9593\u5c64 %#1s \u4e0a\u5efa\u7acb\u5de5\u4f5c\u968e\u6bb5\u5931\u6557\u3002\u5982\u679c\u5df2\u5c40\u90e8\u5efa\u7acb\u5de5\u4f5c\u968e\u6bb5\uff0c\u5247\u5df2\u6368\u68c4\u5b83\u3002
+zh_TW,SESSION_OPENED_LOCAL_NOTE,1.0,%3z\u5167\u5d4c\u4e2d\u9593\u5c64 %#1s \u4e0a\u5efa\u7acb\u7684\u5de5\u4f5c\u968e\u6bb5\u3002
+zh_TW,SESSION_OPENED_REMOTE_NOTE,1.0,%3z\u9060\u7aef\u4e2d\u9593\u5c64 %#1s \u4e0a\u5efa\u7acb\u7684\u5de5\u4f5c\u968e\u6bb5\u3002
+zh_TW,STOPPING_MACRO_NOTE,1.0,%3z\u56e0\u932f\u8aa4\u800c\u505c\u6b62 %#1s\u3002
+zh_TW,TEMP_ARCHIVE_WARNING,1.0,%2z\u7121\u6cd5\u522a\u9664\u66ab\u6642\u5c01\u5b58\u6a94\u6848 %#1s\u3002
+zh_TW,TOO_MANY_DEP_VARS_ERROR,1.0,%1z\u7121\u6cd5\u5efa\u7acb\u8d85\u904e 1 \u500b\u61c9\u8b8a\u6578\u7684\u968e\u5c64\u3002
+zh_TW,UNREADABLE_DATASET_ERROR,1.0,%1z\u8cc7\u6599\u96c6 %#1s \u7684\u8b80\u53d6\u5b58\u53d6\u5931\u6557\u3002
+zh_TW,VERSION_NOTE,1.0,%3z[%#1s] \u7248\u672c %#2s

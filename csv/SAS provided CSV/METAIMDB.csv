@@ -1,0 +1,8 @@
+ds_name,var_name,never_index,var_chars,lots_of_dups,idx_used,avg_idx_sel,idx_rjct,avg_idx_rjct_sel
+_ALL_,MRACCESS,Y,,,0.0,0.0,0.0,0.0
+_ALL_,LDESC,Y,,,0.0,0.0,0.0,0.0
+MDASSOC,ASCMGRID,Y,,,0.0,0.0,0.0,0.0
+MDASSOC,PREDROLE,Y,,,0.0,0.0,0.0,0.0
+MDASSOC,SUCCROLE,Y,,,0.0,0.0,0.0,0.0
+MDASSOC,PREDCLAS,Y,,,0.0,0.0,0.0,0.0
+MDASSOC,SUCCCLAS,Y,,,0.0,0.0,0.0,0.0

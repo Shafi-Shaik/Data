@@ -1,0 +1,45 @@
+Key,Libname,Dataset,Package,Type,SubType,Label,Timestamp,Group,Interval,FData,Name,FullName
+F.finance.accrint_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel ACCRINT,1493136214.4,,,,accrint_slk,SASHELP.SLKWXL.finance.accrint_slk
+F.finance.accrintm_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel ACCRINTM,1493136214.4,,,,accrintm_slk,SASHELP.SLKWXL.finance.accrintm_slk
+F.finance.amordegrc_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel AMORDEGRC,1493136215.1,,,,amordegrc_slk,SASHELP.SLKWXL.finance.amordegrc_slk
+F.finance.amorlinc_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel AMORLINC,1493136215.2,,,,amorlinc_slk,SASHELP.SLKWXL.finance.amorlinc_slk
+F.finance.coupdaybs_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel COUPDAYBS,1493136214.6,,,,coupdaybs_slk,SASHELP.SLKWXL.finance.coupdaybs_slk
+F.finance.coupdays_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel COUPDAYS,1493136214.7,,,,coupdays_slk,SASHELP.SLKWXL.finance.coupdays_slk
+F.finance.coupdaysnc_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel COUPDAYSNC,1493136214.8,,,,coupdaysnc_slk,SASHELP.SLKWXL.finance.coupdaysnc_slk
+F.finance.coupncd_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel COUPNCD,1493136214.8,,,,coupncd_slk,SASHELP.SLKWXL.finance.coupncd_slk
+F.finance.coupnum_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel COUPNUM,1493136214.9,,,,coupnum_slk,SASHELP.SLKWXL.finance.coupnum_slk
+F.finance.couppcd_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel COUPPCD,1493136214.7,,,,couppcd_slk,SASHELP.SLKWXL.finance.couppcd_slk
+F.finance.datdif4_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,European DATDIF,1493136215.2,,,,datdif4_slk,SASHELP.SLKWXL.finance.datdif4_slk
+F.finance.db_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel DB,1493136214.6,,,,db_slk,SASHELP.SLKWXL.finance.db_slk
+F.finance.disc_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel DISC,1493136215.1,,,,disc_slk,SASHELP.SLKWXL.finance.disc_slk
+F.finance.dollarde_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel DOLLARDE,1493136215.0,,,,dollarde_slk,SASHELP.SLKWXL.finance.dollarde_slk
+F.finance.dollarfr_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel DOLLARFR,1493136214.9,,,,dollarfr_slk,SASHELP.SLKWXL.finance.dollarfr_slk
+F.finance.duration_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel DURATION,1493136214.4,,,,duration_slk,SASHELP.SLKWXL.finance.duration_slk
+F.finance.effect_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel EFFECT,1493136214.9,,,,effect_slk,SASHELP.SLKWXL.finance.effect_slk
+F.finance.mduration_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel MDURATION,1493136214.4,,,,mduration_slk,SASHELP.SLKWXL.finance.mduration_slk
+F.finance.oddfprice_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel ODDFPRICE,1493136214.6,,,,oddfprice_slk,SASHELP.SLKWXL.finance.oddfprice_slk
+F.finance.oddfyield_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel ODDFYIELD,1493136214.5,,,,oddfyield_slk,SASHELP.SLKWXL.finance.oddfyield_slk
+F.finance.oddlprice_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel ODDLPRICE,1493136214.5,,,,oddlprice_slk,SASHELP.SLKWXL.finance.oddlprice_slk
+F.finance.oddlyield_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel ODDLYIELD,1493136214.5,,,,oddlyield_slk,SASHELP.SLKWXL.finance.oddlyield_slk
+F.finance.price_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel PRICE,1493136214.5,,,,price_slk,SASHELP.SLKWXL.finance.price_slk
+F.finance.pricedisc_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel PRICEDSIC,1493136214.5,,,,pricedisc_slk,SASHELP.SLKWXL.finance.pricedisc_slk
+F.finance.pricemat_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel PRICE,1493136214.5,,,,pricemat_slk,SASHELP.SLKWXL.finance.pricemat_slk
+F.finance.received_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel RECEIVED,1493136214.4,,,,received_slk,SASHELP.SLKWXL.finance.received_slk
+F.finance.tbilleq_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel TBILLEQ,1493136215.1,,,,tbilleq_slk,SASHELP.SLKWXL.finance.tbilleq_slk
+F.finance.tbillprice_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel TBILLPRICE,1493136215.0,,,,tbillprice_slk,SASHELP.SLKWXL.finance.tbillprice_slk
+F.finance.tbillyield_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel TBILLYIELD,1493136215.0,,,,tbillyield_slk,SASHELP.SLKWXL.finance.tbillyield_slk
+F.finance.yield_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel YIELD,1493136214.6,,,,yield_slk,SASHELP.SLKWXL.finance.yield_slk
+F.finance.yielddisc_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel YIELDDISC,1493136214.6,,,,yielddisc_slk,SASHELP.SLKWXL.finance.yielddisc_slk
+F.finance.yieldmat_slk,SASHELP,SLKWXL,finance,ETSMODEL,Function,Excel YIELDMAT,1493136214.5,,,,yieldmat_slk,SASHELP.SLKWXL.finance.yieldmat_slk
+F.math.even_slk,SASHELP,SLKWXL,math,ETSMODEL,Function,Excel EVEN,1493136222.5,,,,even_slk,SASHELP.SLKWXL.math.even_slk
+F.math.factdouble_slk,SASHELP,SLKWXL,math,ETSMODEL,Function,Excel FACTDOUBLE,1493136222.4,,,,factdouble_slk,SASHELP.SLKWXL.math.factdouble_slk
+F.math.floor_slk,SASHELP,SLKWXL,math,ETSMODEL,Function,Excel FLOOR,1493136222.3,,,,floor_slk,SASHELP.SLKWXL.math.floor_slk
+F.math.multinomial_slk,SASHELP,SLKWXL,math,ETSMODEL,Function,Excel MULTINOMIAL,1493136222.4,,,,multinomial_slk,SASHELP.SLKWXL.math.multinomial_slk
+F.math.odd_slk,SASHELP,SLKWXL,math,ETSMODEL,Function,Excel ODD,1493136222.4,,,,odd_slk,SASHELP.SLKWXL.math.odd_slk
+F.math.product_slk,SASHELP,SLKWXL,math,ETSMODEL,Function,Excel PRODUCT,1493136222.4,,,,product_slk,SASHELP.SLKWXL.math.product_slk
+F.stat.avedev_slk,SASHELP,SLKWXL,stat,ETSMODEL,Function,Excel AVEDEV,1493136193.5,,,,avedev_slk,SASHELP.SLKWXL.stat.avedev_slk
+F.stat.devsq_slk,SASHELP,SLKWXL,stat,ETSMODEL,Function,Excel DEVSQ,1493136193.5,,,,devsq_slk,SASHELP.SLKWXL.stat.devsq_slk
+F.stat.varp_slk,SASHELP,SLKWXL,stat,ETSMODEL,Function,Excel VARP,1493136193.5,,,,varp_slk,SASHELP.SLKWXL.stat.varp_slk
+finance,SASHELP,SLKWXL,,ETSMODEL,Package,,1493136213.8,,,,finance,SASHELP.SLKWXL.finance
+math,SASHELP,SLKWXL,,ETSMODEL,Package,,1493136221.6,,,,math,SASHELP.SLKWXL.math
+stat,SASHELP,SLKWXL,,ETSMODEL,Package,,1493136192.9,,,,stat,SASHELP.SLKWXL.stat

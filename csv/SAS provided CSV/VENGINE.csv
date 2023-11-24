@@ -1,0 +1,86 @@
+engine,alias,description,preferred,properties
+ASTER,ASTER,SAS/ACCESS to Aster nCluster,yes,L|&User:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PWD||0|1|*|Enter the user password;L|&Datasource:;T|0|DSN||0|0||Enter the datasource name;L|Op&tions:;T|0|||0|0||Enter options
+BASE,BASE,Base SAS I/O Engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+BIGQUERY,BIGQUERY,SAS/ACCESS Interface to Google BigQuery,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+BLOOMBRG,BLOOMBRG,SAS/Access Interface To Bloomberg,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+CRSPACC,CRSPACC,Access to CRSPAccess database,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+CRSPCCM,CRSPCCM,Access to Expressfeed CCM databases,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+CVP,CVP,Character Variable Padding Engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+DB2,DB2,SAS/ACCESS to DB2,yes,L|&User:;T|0|USER||0|1||Enter user ID;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter the user password;L|&Database:;C|0|DATASRC||0|1|Enter database name|@sasdbub|;L|Op&tions:;T|0|||0|0||Enter options
+DB2_6000,DB2_6000,DB2 Unix engine,no,L|&User:;T|0|USER||0|1||Enter user ID;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter the user password;L|&Database:;C|0|DATASRC||0|1|Enter database name|@sasdbub|;L|Op&tions:;T|0|||0|0||Enter options
+DB2_UNIX,DB2_UNIX,DB2 Unix engine,no,L|&User:;T|0|USER||0|1||Enter user ID;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter the user password;L|&Database:;C|0|DATASRC||0|1|Enter database name|@sasdbub|;L|Op&tions:;T|0|||0|0||Enter options
+FAMECHLI,FAMECHLI,Access to FAME CHLI database,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+FEDSVR,FEDSVR,DataFlux Federation Server Engine,yes,L|&User:;T|0|UID||0|1||Enter the user name;L|Pass&word:;T|0|PWD||0|1|*|Enter the user password;L|&Server:;T|0|SERVER||0|1||Enter the Federation Server name;L|&Port:;T|0|PORT||0|0||Enter the TCP port number;L|Op&tions:;T|0|||0|0||Enter options
+GREENPLM,GREENPLM,SAS/ACCESS to Greenplum,yes,L|&User:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PWD||0|1|*|Enter the user password;L|&Datasource:;T|0|DSN||0|0||Enter the datasource name;L|Op&tions:;T|0|||0|0||Enter options
+HADOOP,HADOOP,SAS/ACCESS to Hadoop,yes,L|&User:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter the user password;L|&Server:;T|0|SERVER||0|0||Enter the server name;L|Op&tions:;T|0|||0|0||Enter options
+HAWQ,HAWQ,SAS/ACCESS Interface to HAWQ,yes,L|&User:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PWD||0|1|*|Enter the user password;L|&Datasource:;T|0|DSN||0|0||Enter the datasource name;L|Op&tions:;T|0|||0|0||Enter options
+HPDATA,HPDATA,High Performance Distributed Data Engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+IMDB,IMDB,In Memory Database Engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+IMPALA,IMPALA,SAS/ACCESS Interface to Cloudera Impala,yes,L|&Server:;T|0|SERVER||0|1||Enter the Impala host name;L|Data&base:;T|0|DB||0|1||Enter the Impala database name;L|&Username:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PWD||0|1|*|Enter the user password;L|&Port:;T|0|PORT||0|0||Enter the port number to the specified Impala server;L|&Data Source:;T|0|DSN||0|1||Enter the Impala data source name;L|Op&tions:;T|0|||0|0||Enter options
+INFOMAPS,INFOMAPS,SAS Information Maps Engine,yes,L|Meta&User:;T|0|METAUSER||0|1||Enter the metadata user name;L|MetaPass&word:;T|0|METAPASS||0|1|*|Enter the metadata user password;L|Meta&Server:;T|0|METASERVER||0|1||Enter the metadata server name;L|Meta&Port:;T|0|METAPORT||0|0||Enter the metadata port number;L|&Map Path:;T|0|MAPPATH||0|1||Enter the path to the information maps;L|Op&tions:;T|0|||0|0||Enter options
+INFORMIX,INFORMIX,SAS/ACCESS to Informix,yes,L|&User:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|USING||0|1|*|Enter the user password;L|&Server:;T|0|SERVER||0|1||Enter the server name;L|Op&tions:;T|0|||0|0||Enter options
+JDBC,JDBC,SAS/ACCESS Interface to JDBC,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+JMP,JMP,Base SAS Libname JMP Engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+JSON,JSON,JSON Engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+META,META,Metadata engine,yes,L|&Repository Name:;T|0|REPNAME||0|1||Enter the metadata repository name;L|&Library:;T|0|LIBRARY||0|1||Enter the SAS library name;L|&User:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter the user password;L|&IP Address:;T|0|IPADDR||0|1||Enter the network IP address;L|&Port:;T|0|PORT||0|1||Enter the TCP port number;L|Op&tions:;T|0|||0|0||Enter options
+MONGO,MONGO,SAS/ACCESS Interface to MongoDB,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+MYSQL,MYSQL,SAS/ACCESS Interface to MySQL,yes,L|&User:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter the user password;L|&Database:;T|0|DATABASE||0|1||Enter the database name;L|&Server:;T|0|SERVER||0|1||Enter the server name;L|&Port:;T|0|PORT|3306|0|0||Enter the port number;L|Op&tions:;T|0|||0|0||Enter options
+NEOVIEW,NEOVIEW,SAS/ACCESS Interface to HP Neoview,yes,L|&Datasource:;T|0|DSN||0|0||Enter the datasource name;L|&User:;T|0|UID||0|1||Enter the user ID;L|Pass&word:;T|0|PWD||0|1|*|Enter the password;L|&Schema:;T|0|SCHEMA||0|1||Enter the schema name;L|Op&tions:;T|0|||0|0||Enter options
+NETEZZA,NETEZZA,SAS/ACCESS Interface to Netezza,yes,L|&User:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter the user password;L|&Database:;T|0|DATABASE||0|1||Enter the database name;L|&Server:;T|0|SERVER||0|1||Enter the server name of the Netezza Performance Server;L|Op&tions:;T|0|||0|0||Enter options
+ODBC,ODBC,SAS/ACCESS to ODBC,yes,L|&Data Source:;C|0|DATASRC||0|1|Enter data source name|@sasodbcb|;L|&User ID:;T|0|USER||0|1||Enter user ID;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter password;L|Op&tions:;T|0|||0|0||Enter options
+OLAP,OLAP,SQL Passthru Engine for OLAP,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+ORACLE,ORACLE,SAS/ACCESS to Oracle,yes,L|&User:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter the user password;L|&Path:;T|0|PATH||0|0||Enter SQL*Net database specification;L|Op&tions:;T|0|||0|0||Enter options
+OSIRIS,OSIRIS,OSIRIS Data File engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+PCFILES,PCFILES,SAS/ACCESS to PC Files Server,yes,L|&Path:;T|0|PATH||0|1||Enter the PC file path on Server;L|&Type:;C|0|Type|EXCEL|0|0|Enter File Type?|EXCEL|ACCESS;L|&Server:;T|0|SERVER||0|1||Enter the PC Files Server Name;L|&Port:;T|0|PORT||0|1||Enter the PC Files Server Port Number or Service Name;L|Op&tions:;T|0|||0|0||Enter options
+PIAF,PIAF,SAS/ACCESS Interface to the PI System As,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+PISYSAF,PISYSAF,SAS/ACCESS Interface to the PI System As,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+PISYSTEM,PISYSTEM,SAS/ACCESS Interface to the PI System,yes,"L|&Server:;T|0|SERVER||0|1||Enter the Pi Server name;L|&Username:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PWD||0|1|*|Enter the user password;L|&Hide Flags:;C|0|HIDEFLAGS|No|0|0|Use YES to hide the flag columns (Questionable, Annotated and Substituted) in the output|No|Yes;L|&Maximum Text:;T|0|DBMAX_TEXT|32|0|0||Enter the maximum length of a character string;L|Op&tions:;T|0|||0|0||Enter options"
+POSTGRES,POSTGRES,SAS/ACCESS Interface to PostgreSQL,yes,L|&User:;T|0|UID||0|1||Enter the user name;L|Pass&word:;T|0|PWD||0|1|*|Enter the user password;L|&Server:;T|0|SERVER||0|1||Enter the server name;L|&Port:;T|0|PORT||0|0||Enter the port number;L|&Database:;T|0|DATABASE||0|1||Enter the database name;L|Op&tions:;T|0|||0|0||Enter options
+R3,R3,SAS Engine for SAP R/3,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+REDSHIFT,REDSHIFT,SAS/ACCESS Interface to Amazon Redshift,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+REMOTE,REMOTE,SAS/SHARE Remote access engine,yes,L|&Server:;T|0|SERVER||0|0||Enter server name;L|Server Pass&word:;T|0|SAPW||0|0|*|Enter server access password;L|&Path:;T|0|||1|0||Enter path on server machine;L|Op&tions:;T|0|||0|0||Enter REMOTE engine options
+REMOTE8,REMOTE8,SAS/SHARE V8 Remote access engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+REUTERS,REUTERS,Reuters financial market data interface,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+SAPASE,SAPASE,SAS/ACCESS Interface to SAP ASE,no,L|&User:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter the user password;L|&Database:;T|0|DATABASE||0|1||Enter the database name;L|&Server:;T|0|SERVER||0|1||Enter the server name;L|Op&tions:;T|0|||0|0||Enter options
+SAPHANA,SAPHANA,SAS/ACCESS Interface to SAP HANA,yes,L|&Server:;T|0|SERVER||0|1||Enter the SAP HANA host name;L|&Username:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PWD||0|1|*|Enter the user password;L|&Port:;T|0|PORT||0|0||Enter the port number to the SAP HANA server;L|Op&tions:;T|0|||0|0||Enter options
+SAPIQ,SAPIQ,SAS/ACCESS Interface to SAP IQ,no,L|&User:;T|0|UID||0|1||Enter the user name;L|Pass&word:;T|0|PWD||0|1|*|Enter the user password;L|&Database:;T|0|DATABASE||0|1||Enter the database name;L|&Server:;T|0|SERVER||0|1||Enter the server name;L|&Port:;T|0|PORT||0|0||Enter the port number;L|&Host:;T|0|HOST||0|0||Enter the host name;L|Op&tions:;T|0|||0|0||Enter options
+SASECRSP,SASECRSP,Access to CRSPAccess database,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+SASEFAME,SASEFAME,Access to FAME CHLI database,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+SASEFRED,SASEFRED,ETS Interface Engine to FRED Data,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+SASTS,SASTS,SAS Table Services Engine,no,L|&User:;T|0|UID||0|1||Enter the user name;L|Pass&word:;T|0|PWD||0|1|*|Enter the user password;L|&Server:;T|0|SERVER||0|1||Enter the Federation Server name;L|&Port:;T|0|PORT||0|0||Enter the TCP port number;L|Op&tions:;T|0|||0|0||Enter options
+SFORCE,SFORCE,SAS/ACCESS Interface to Salesforce,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+SLSFORCE,SLSFORCE,SAS/ACCESS Interface to Salesforce,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+SNOW,SNOW,SAS/ACCESS Interface to Snowflake,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+SPARK,SPARK,SAS/ACCESS Interface to Spark,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+SPDE,SPDE,Scalable Performance Data Engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+SPSS,SPSS,SPSS Save File engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+SQLSVR,SQLSVR,SAS/ACCESS Interface to Microsoft SQL Se,yes,L|&Data Source:;T|0|DATASRC||0|1||Enter data source name;L|&User ID:;T|0|USER||0|1||Enter user ID;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter password;L|Op&tions:;T|0|||0|0||Enter options
+SQLVIEW,SQLVIEW,SQL view engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+SXLE,SXLE,W3C XML input/output engine,no,L|XML File &Path:;T|0|||1|0||Enter the path to the XML file;L|Op&tions:;T|0|||0|0||Enter options
+SYBASE,SYBASE,SAS/ACCESS to Sybase,yes,L|&User:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter the user password;L|&Database:;T|0|DATABASE||0|1||Enter the database name;L|&Server:;T|0|SERVER||0|1||Enter the server name;L|Op&tions:;T|0|||0|0||Enter options
+SYBASEIQ,SYBASEIQ,SAS/ACCESS to Sybase IQ,yes,L|&User:;T|0|UID||0|1||Enter the user name;L|Pass&word:;T|0|PWD||0|1|*|Enter the user password;L|&Database:;T|0|DATABASE||0|1||Enter the database name;L|&Server:;T|0|SERVER||0|1||Enter the server name;L|&Port:;T|0|PORT||0|0||Enter the port number;L|&Host:;T|0|HOST||0|0||Enter the host name;L|Op&tions:;T|0|||0|0||Enter options
+TAPE,TAPE,Version 7 sequential engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+TERADATA,TERADATA,SAS/ACCESS to Teradata,yes,L|&User:;T|0|USER||0|1||Enter the user name;L|Pass&word:;T|0|PASSWORD||0|1|*|Enter the user password;L|&Database:;T|0|SCHEMA||0|1||Optional alternative database;L|Op&tions:;T|0|||0|0||Enter options
+TRACE,TRACE,Version 7 trace engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V6,V6,Base SAS I/O Engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V607,V607,Base SAS I/O Engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V608,V608,Base SAS I/O Engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V609,V609,Base SAS I/O Engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V610,V610,Base SAS I/O Engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V611,V611,Base SAS I/O Engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V612,V612,Base SAS I/O Engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V6TAPE,V6TAPE,Version 6 sequential engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V7,V7,Base SAS I/O Engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V701,V701,Base SAS I/O Engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V7TAPE,V7TAPE,Version 7 sequential engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V8,V8,Base SAS I/O Engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V8TAPE,V8TAPE,Version 7 sequential engine,no,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V9,V9,Base SAS I/O Engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+V9TAPE,V9TAPE,Version 7 sequential engine,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+VERTICA,VERTICA,SAS/ACCESS Interface to Vertica,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+XLSX,XLSX,SAS Interface to XLSX Files,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+XML,XML,W3C XML input/output engine,yes,L|XML File &Path:;T|0|||1|0||Enter the path to the XML file;L|Op&tions:;T|0|||0|0||Enter options
+XML92,XML92,W3C XML input/output engine,no,L|XML File &Path:;T|0|||1|0||Enter the path to the XML file;L|Op&tions:;T|0|||0|0||Enter options
+XMLV2,XMLV2,W3C XML input/output engine,yes,L|XML File &Path:;T|0|||1|0||Enter the path to the XML file;L|Op&tions:;T|0|||0|0||Enter options
+XPORT,XPORT,Version 5 transport datasets,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options
+YBRICK,YBRICK,SAS/ACCESS Interface to Yellowbrick,yes,L|&Path:;T|0|||1|0||Enter path|B&rowse...|D;L|Op&tions:;T|0|||0|0||Enter options

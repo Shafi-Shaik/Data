@@ -1,0 +1,143 @@
+MSGID,MNEMONIC,LINENO,LEVEL,TEXT,PBUTTONS
+2001.0,TABLE_EXISTS,1.0,E,%LTable %1$ already exists.,SASHELP.FSP.OK.SLIST
+2002.0,TABLE_NO_EXIST,1.0,E,%LTable %1$ does not exist.,SASHELP.FSP.OK.SLIST
+2003.0,TABLE_EXISTS_AS_VIEW,1.0,E,%L$ already exists as VIEW.,SASHELP.FSP.OK.SLIST
+2004.0,TABLE_EXISTS_WRONG_TYPE,1.0,E,%LTable %1$ exists but is not of TYPE=%2$.,SASHELP.FSP.OK.SLIST
+2005.0,SCLLIST_NAMED_ITEM_NOT_FOUND,1.0,E,%L$ not found as named item in list.,SASHELP.FSP.OK.SLIST
+2006.0,TABLE_NO_UPDATE,1.0,E,%LTable %1$ is not open for update.,SASHELP.FSP.OK.SLIST
+2007.0,ATTRIBUTE_NO_EXIST,1.0,E,%LAttribute %1$ does not exist.,SASHELP.FSP.OK.SLIST
+2008.0,ARGUMENT_MISSING,1.0,E,%LParameter %1 cannot be missing.,SASHELP.FSP.OK.SLIST
+2009.0,INVALID_OPEN_MODE,1.0,E,%LOpen mode must be READ or UPDATE.,SASHELP.FSP.OK.SLIST
+2010.0,MODEL_DELETE_WITH_VIEWER,1.0,W,This model has one or more viewers attached. %N,SASHELP.FSP.YN.SLIST
+2010.0,MODEL_DELETE_WITH_VIEWER,2.0,W,Deleting the model will reset all its viewers. %N,SASHELP.FSP.YN.SLIST
+2010.0,MODEL_DELETE_WITH_VIEWER,3.0,W,Do you want to delete the model?,SASHELP.FSP.YN.SLIST
+2011.0,OPEN_WITH_OBJECTS,1.0,W,There are objects in the current workarea. %N,SASHELP.FSP.YN.SLIST
+2011.0,OPEN_WITH_OBJECTS,2.0,W,Creating a new workarea will remove these objects. %N,SASHELP.FSP.YN.SLIST
+2011.0,OPEN_WITH_OBJECTS,3.0,W,Do you want to continue?,SASHELP.FSP.YN.SLIST
+2012.0,WHERE_WITHOUT_ROWS,1.0,W,The Where Expression will not be used %N,SASHELP.FSP.OK.SLIST
+2012.0,WHERE_WITHOUT_ROWS,2.0,W,because no rows satisfy the condition.,SASHELP.FSP.OK.SLIST
+2013.0,TABLE_WITHOUT_COLUMNS,1.0,W,Table %1$ contains no columns. %N,SASHELP.FSP.OK.SLIST
+2013.0,TABLE_WITHOUT_COLUMNS,2.0,W,It cannot be used for a model.,SASHELP.FSP.OK.SLIST
+2014.0,TABLE_WITHOUT_ROWS,1.0,W,Table %1$ contains no rows. %N,SASHELP.FSP.OK.SLIST
+2014.0,TABLE_WITHOUT_ROWS,2.0,W,It cannot be used for a model.,SASHELP.FSP.OK.SLIST
+2015.0,LIBREF_CONFLICT,1.0,W,The libref %1$ for the existing model pointed to %N,SASHELP.FSP.OK.SLIST
+2015.0,LIBREF_CONFLICT,2.0,W,%2$. The model cannot be used  %N,SASHELP.FSP.OK.SLIST
+2015.0,LIBREF_CONFLICT,3.0,W,because %1$ is currently assigned to %N,SASHELP.FSP.OK.SLIST
+2015.0,LIBREF_CONFLICT,4.0,W,%3$,SASHELP.FSP.OK.SLIST
+2016.0,NO_SELECTED_COLUMNS,1.0,W,There are no selected columns for table %1$.,SASHELP.FSP.OK.SLIST
+2017.0,NO_SELECTED_COLUMN_ROLES,1.0,W,There are no selected columns for role %1$.  %N,SASHELP.FSP.YN.SLIST
+2017.0,NO_SELECTED_COLUMN_ROLES,2.0,W,A viewer requires at least one column for this role. %N,SASHELP.FSP.OK.SLIST
+2017.0,NO_SELECTED_COLUMN_ROLES,3.0,W,Do you want a default column to be selected?,SASHELP.FSP.OK.SLIST
+2018.0,NO_MODELS,1.0,W,There are no models available. %N,SASHELP.FSP.OK.SLIST
+2018.0,NO_MODELS,2.0,W,Create one by clicking on a Model icon %N,SASHELP.FSP.OK.SLIST
+2018.0,NO_MODELS,3.0,W,and then attach it to the viewer.,SASHELP.FSP.OK.SLIST
+2023.0,NO_SELECTED_VIEWER,1.0,W,There are no objects selected for printing or exporting. %N,SASHELP.FSP.OK.SLIST
+2023.0,NO_SELECTED_VIEWER,2.0,W,Select one or more with CNTL + click.,SASHELP.FSP.OK.SLIST
+2019.0,SAVE,1.0,Q,Save changes to %N %1$ ?,SASHELP.FSP.YNC.SLIST
+2020.0,NO_VIEWERS,1.0,W,There are no viewers available to print or export. %N,SASHELP.FSP.OK.SLIST
+2021.0,INVALID_PASSWORD,1.0,E,Password not supplied for %1$. No viewing allowed.,SASHELP.FSP.OK.SLIST
+2022.0,OBSOLETE_MEMBER,1.0,E,Entry %1$ is in Version 8 format. %N,SASHELP.FSP.YN.SLIST
+2022.0,OBSOLETE_MEMBER,2.0,E,It cannot be opened in Version 9 by Graph-N-Go or any other application. %N,SASHELP.FSP.YN.SLIST
+2022.0,OBSOLETE_MEMBER,3.0,E,Do you want to delete it?,SASHELP.FSP.YN.SLIST
+2023.0,REPLACE_EXISTING,1.0,Q,The entry %1$ already exists. %N,SASHELP.FSP.YN.SLIST
+2023.0,REPLACE_EXISTING,2.0,Q,Do you want to replace it?,SASHELP.FSP.YN.SLIST
+2024.0,NO_SELECTED_MODELS,1.0,W,"If no model classes are selected, you will be unable to create new models. %N",SASHELP.FSP.YN.SLIST
+2024.0,NO_SELECTED_MODELS,2.0,W,Is this what you want?,SASHELP.FSP.YN.SLIST
+2025.0,NO_SELECTED_VIEWERS,1.0,W,"If no viewer classes are selected, you will be unable to create new viewers. %N",SASHELP.FSP.YN.SLIST
+2025.0,NO_SELECTED_VIEWERS,2.0,W,Is this want you want?,SASHELP.FSP.YN.SLIST
+2026.0,NO_ANALYSIS,1.0,E,%1$ has no Analysis columns that Graph-N-Go can use. %N,SASHELP.FSP.OK.SLIST
+2026.0,NO_ANALYSIS,2.0,E,No model can be created.,SASHELP.FSP.OK.SLIST
+2027.0,NO_ID,1.0,W,%1$ plots do not support the ID role. This role will be ignored. %N,SASHELP.FSP.OK.SLIST
+2028.0,NOSORTINFO,1.0,N,%1$ plots use Ascending order when the X column is numeric.  %N,SASHELP.FSP.OK.SLIST
+2028.0,NOSORTINFO,2.0,N,"If the X column's values are not in ascending order, the plot lines will cross.  %N",SASHELP.FSP.OK.SLIST
+2028.0,NOSORTINFO,3.0,N,The data for this model is not sorted by any numeric column.,SASHELP.FSP.OK.SLIST
+2029.0,SORTINFO,1.0,N,%1$ plots use Ascending order when the X column is numeric. %N,SASHELP.FSP.OK.SLIST
+2029.0,SORTINFO,2.0,N,"If the X column's values are not in ascending order, the plot lines will cross. %N",SASHELP.FSP.OK.SLIST
+2029.0,SORTINFO,3.0,N,The data for this model is sorted by numeric column %2$.,SASHELP.FSP.OK.SLIST
+2030.0,LABEL_TRUNCATED,1.0,W,An axis label has been truncated at the maximum length of 40 characters. %N,SASHELP.FSP.OK.SLIST
+2030.0,LABEL_TRUNCATED,2.0,W,You may be able to avoid this by changing to the Short Name for the statistic %N,SASHELP.FSP.OK.SLIST
+2030.0,LABEL_TRUNCATED,3.0,W,or changing the text for the statistic's Long Name (see Graph-N-Go options).,SASHELP.FSP.OK.SLIST
+2031.0,EXCESS_GROUP,1.0,W,A Bar chart cannot have more than 40 groups.  %N,SASHELP.FSP.OK.SLIST
+2031.0,EXCESS_GROUP,2.0,W,The %1$ column would have %2 groups. %N,SASHELP.FSP.OK.SLIST
+2031.0,EXCESS_GROUP,3.0,W,Group request is ignored.,SASHELP.FSP.OK.SLIST
+2032.0,NO_IMAGE,1.0,E,Cannot export selected object. %N,SASHELP.FSP.OK.SLIST
+2032.0,NO_IMAGE,2.0,E,Selected object may not be entirely visible.,SASHELP.FSP.OK.SLIST
+2033.0,NO_X_CHAR,1.0,W,SAS/Graph software cannot draw a regression plot  %N,SASHELP.FSP.OK.SLIST
+2033.0,NO_X_CHAR,2.0,W,when the X-variable is character.,SASHELP.FSP.OK.SLIST
+2034.0,BLOCK_ON_OTHER,1.0,W,Block overlays must be used with other Block overlays or Line overlays. %N,SASHELP.FSP.YN.SLIST
+2034.0,BLOCK_ON_OTHER,2.0,W,Do you wish to change any other overlay style to Block?,SASHELP.FSP.YN.SLIST
+2035.0,OTHER_ON_BLOCK,1.0,W,%1$ overlays cannot be used with Block overlays. %N,SASHELP.FSP.YN.SLIST
+2035.0,OTHER_ON_BLOCK,2.0,W,Do you wish to change any Block overlays to %1$ overlays?,SASHELP.FSP.YN.SLIST
+2036.0,NO_PLOT,1.0,W,The %1$ device driver does not %N,SASHELP.FSP.OK.SLIST
+2036.0,NO_PLOT,2.0,W,support %2$ plots at this time.,SASHELP.FSP.OK.SLIST
+2037.0,NO_PRINTER,1.0,E,There are no printers currently installed.,SASHELP.FSP.OK.SLIST
+2038.0,NO_HOST_PRINTING,1.0,Q,"To print from Graph-N-Go, you must enable %N",SASHELP.FSP.YN.SLIST
+2038.0,NO_HOST_PRINTING,2.0,Q,Host Printing from the DMS tab in Preferences. %N,SASHELP.FSP.YN.SLIST
+2038.0,NO_HOST_PRINTING,3.0,Q,Do you want to enable Host Printing now?,SASHELP.FSP.YN.SLIST
+2039.0,PASSWORD_INCORRECT,1.0,E,Password incorrect. Please try again.,SASHELP.FSP.OK.SLIST
+2040.0,MAX_TRIES,1.0,E,Password incorrect. Maximum tries reached.,SASHELP.FSP.OK.SLIST
+2041.0,READONLY_SASUSER,1.0,I,Your SASUSER library cannot be updated. %N,SASHELP.FSP.OK.SLIST
+2041.0,READONLY_SASUSER,2.0,I,All Graph-N-Go customizations and preferences  %N,SASHELP.FSP.OK.SLIST
+2041.0,READONLY_SASUSER,3.0,I,will be stored in your WORK library.,SASHELP.FSP.OK.SLIST
+2042.0,CONFIRM_SAVE,1.0,Q,Do you want to save changes to %1$?,SASHELP.FSP.YNC.SLIST
+2043.0,GROWMODE,1.0,I,"While in Growing Mode, you cannot create new viewer %N",SASHELP.FSP.OK.SLIST
+2043.0,GROWMODE,2.0,I,objects or drop model objects on existing viewers. %N,SASHELP.FSP.OK.SLIST
+2043.0,GROWMODE,3.0,I,"To turn off Growing Mode, issue the GROW command again.",SASHELP.FSP.OK.SLIST
+2044.0,NO_GROWMODE,1.0,I,Growing Mode is disabled when there are no viewer objects.,SASHELP.FSP.OK.SLIST
+2045.0,CONFIRM_SAVE_ON_EXIT,1.0,Q,Do you want to save changes to %1$?,SASHELP.FSP.YN.SLIST
+2046.0,NO_V7_MDDB,1.0,W,%1$ is an obsolete MDDB format. It cannot be used in Version 8.,SASHELP.FSP.OK.SLIST
+2047.0,NO_NUMERIC,1.0,W,%1$ has no Numeric columns. Viewers that require a numeric column %N,SASHELP.FSP.OK.SLIST
+2047.0,NO_NUMERIC,2.0,W,"( Plot, Overlay Plot and Overlay Chart) cannot be used with this model.",SASHELP.FSP.OK.SLIST
+2048.0,NO_WRITE,1.0,E,Cannot write to file %1$. %N,SASHELP.FSP.OK.SLIST
+2048.0,NO_WRITE,2.0,E,Either the path is invalid or you do not have sufficient permissions.,SASHELP.FSP.OK.SLIST
+2049.0,NO_APPEND,1.0,W,Append not supported for this file type. Changing to Replace.,SASHELP.FSP.OK.SLIST
+2050.0,INVALID_EXTENSION,1.0,E,The %1$ file extension cannot be used.,SASHELP.FSP.OK.SLIST
+2051.0,NO_MDDB_PLOT,1.0,W,MDDB models contain summarized data that is not suitable for plotting. %N,SASHELP.FSP.OK.SLIST
+2051.0,NO_MDDB_PLOT,2.0,W,Overlay Charts can display summarized data as markers and/or joined lines.,SASHELP.FSP.OK.SLIST
+2052.0,NO_ACCESS,1.0,E,You are not authorized to open %1$. %N,SASHELP.FSP.OK.SLIST
+2052.0,NO_ACCESS,2.0,E,Check the file permissions set by the operating system.,SASHELP.FSP.OK.SLIST
+2053.0,NO_PASSWORD,1.0,E,You are not authorized to open %1$  %N,SASHELP.FSP.OK.SLIST
+2053.0,NO_PASSWORD,2.0,E,because you did not supply a valid password.,SASHELP.FSP.OK.SLIST
+2054.0,NO_GROWING,1.0,W,Growing mode is not allowed while a viewer is maximized. %N,SASHELP.FSP.YN.SLIST
+2054.0,NO_GROWING,2.0,W,Do you want to return the viewer to its normal size?,SASHELP.FSP.YN.SLIST
+2055.0,NO_MAXIMIZE,1.0,W,A viewer cannot be maximized while in Growing mode. %N,SASHELP.FSP.YN.SLIST
+2055.0,NO_MAXIMIZE,2.0,W,Do you want to turn off Growing mode?,SASHELP.FSP.YN.SLIST
+2056.0,INVALID_HEX,1.0,E,%1$ is an invalid hex value.,SASHELP.FSP.OK.SLIST
+2057.0,NO_PRINTPREVIEW,1.0,W,The current printer settings do not support print preview.,SASHELP.FSP.OK.SLIST
+2058.0,TOO_MANY_VALUES_CHAR,1.0,W,The %1$ column %2$ has too many distinct values %N,SASHELP.FSP.OK.SLIST
+2058.0,TOO_MANY_VALUES_CHAR,2.0,W,and cannot be used. Please choose another column.,SASHELP.FSP.OK.SLIST
+2059.0,TOO_MANY_VALUES_NUM,1.0,W,The %1$ column %2$ has too many distinct values %N,SASHELP.FSP.OK.SLIST
+2059.0,TOO_MANY_VALUES_NUM,2.0,W,"to be used as ""Discrete."" The column usage is being changed to ""Continuous.""",SASHELP.FSP.OK.SLIST
+2060.0,NO_MODEL,1.0,E,%LNo model for table %1$ can be created because%N,SASHELP.FSP.OK.SLIST
+2060.0,NO_MODEL,2.0,E,%2$.,SASHELP.FSP.OK.SLIST
+2061.0,STAT_CHANGED,1.0,I,Statistic changed.,SASHELP.FSP.OK.SLIST
+2062.0,ALL_MISSING,1.0,W,All data values for this column are missing.%N,SASHELP.FSP.OK.SLIST
+2062.0,ALL_MISSING,2.0,W,Please choose another column.,SASHELP.FSP.OK.SLIST
+2063.0,NEGATIVE_VALUES,1.0,W,This column contains negative values and cannot %N,SASHELP.FSP.OK.SLIST
+2063.0,NEGATIVE_VALUES,2.0,W,be used in this role. Please choose another column.,SASHELP.FSP.OK.SLIST
+2064.0,COLUMN_WITH_DUP_VALUES,1.0,W,The data values for column %1$ are not unique. %N,SASHELP.FSP.OK.SLIST
+2064.0,COLUMN_WITH_DUP_VALUES,2.0,W,Only the first row containing a %1$ value is used. %N,SASHELP.FSP.OK.SLIST
+2064.0,COLUMN_WITH_DUP_VALUES,3.0,W,Other rows containing duplicated %1$ values are ignored. %N,SASHELP.FSP.OK.SLIST
+2064.0,COLUMN_WITH_DUP_VALUES,4.0,W,"To display duplicated X values, use the Plot viewer.",SASHELP.FSP.OK.SLIST
+2065.0,ALL_DUPS,1.0,W,All data values for this column are the same. %N,SASHELP.FSP.OK.SLIST
+2065.0,ALL_DUPS,2.0,W,Please choose another column.,SASHELP.FSP.OK.SLIST
+2066.0,GNG_WINDOW_TOO_SMALL,1.0,W,The Graph-N-Go window is too small. It is being resized.,SASHELP.FSP.OK.SLIST
+2067.0,MAIN_WINDOW_TOO_SMALL,1.0,W,The main SAS window is too small. It is being resized.,SASHELP.FSP.OK.SLIST
+2068.0,TABLE_WITHOUT_DATA,1.0,W,Table %1$ does not have enough data to create useful graphs. %N,SASHELP.FSP.OK.SLIST
+2068.0,TABLE_WITHOUT_DATA,2.0,W,It cannot be used for a model.,SASHELP.FSP.OK.SLIST
+2069.0,REPLACE_CATENTRY,1.0,I,Catalog entry %1$ already exists.%N,SASHELP.FSP.YN.SLIST
+2069.0,REPLACE_CATENTRY,2.0,I,Do you want to replace it?,SASHELP.FSP.YN.SLIST
+2070.0,REPLACE_FILE,1.0,I,File %1$ already exists.%N,SASHELP.FSP.YN.SLIST
+2070.0,REPLACE_FILE,2.0,I,Do you want to replace it?,SASHELP.FSP.YN.SLIST
+2071.0,WHERE_TOO_FEW_ROWS,1.0,W,The Where Expression will not be used  because %N,SASHELP.FSP.OK.SLIST
+2071.0,WHERE_TOO_FEW_ROWS,2.0,W,there are not enough rows to create a useful graph.,SASHELP.FSP.OK.SLIST
+2072.0,DELETE_WITH_OBJECTS,1.0,W,Deleting this viewer will also delete other viewers it contains.  To avoid deleting %N,SASHELP.FSP.YN.SLIST
+2072.0,DELETE_WITH_OBJECTS,2.0,W,"the other viewers, move them to the side and then delete this viewer. %N %N",SASHELP.FSP.YN.SLIST
+2072.0,DELETE_WITH_OBJECTS,3.0,W,Delete viewer and its contained viewers?,SASHELP.FSP.YN.SLIST
+2073.0,CLOSE_WITH_OBJECTS,1.0,W,One or more of your viewers contains other viewers.  %N,SASHELP.FSP.YN.SLIST
+2073.0,CLOSE_WITH_OBJECTS,2.0,W,Contained viewers cannot be saved.  %N,SASHELP.FSP.YN.SLIST
+2073.0,CLOSE_WITH_OBJECTS,3.0,W,"To preserve a contained viewer, move it to the side before closing this window. %N %N",SASHELP.FSP.YN.SLIST
+2073.0,CLOSE_WITH_OBJECTS,4.0,W,Close Graph-N-Go window?,SASHELP.FSP.YN.SLIST
+2074.0,SAVED,1.0,I,Saving to  %1$,SASHELP.FSP.OK.SLIST
+2075.0,CATEGORY_ITEMS,1.0,I,Category has %1$ bins,SASHELP.FSP.OK.SLIST
+2076.0,SERIES_ITEMS,1.0,I,Series has %1$ bins,SASHELP.FSP.OK.SLIST

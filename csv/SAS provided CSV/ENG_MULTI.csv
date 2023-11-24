@@ -1,0 +1,385 @@
+Term,Role,numdocs
+a bit,Adv,8.0
+a fortiori,Adv,18.0
+a lot,Adv,89.0
+a lot of,Adj,47.0
+a posteriori,Adj,40.0
+a priori,Adj,24.0
+according to,Prep,5385.0
+ad hoc,Adj,446.0
+ad interim,Adv,9.0
+ahead of,Prep,107.0
+all the time,Adv,20.0
+along with,Prep,319.0
+any moment,Adv,56.0
+any second,Adv,2.0
+apart from,Prep,567.0
+as a result of,Prep,2190.0
+as a rule,Adv,192.0
+as far as,Prep,1377.0
+as for,Prep,507.0
+as if,Conj,216.0
+as in,Prep,795.0
+as long as,Conj,634.0
+as many as,Adv,25.0
+as of,Prep,638.0
+as one,Adv,517.0
+as per,Prep,87.0
+as regards,Prep,6167.0
+as soon as,Conj,2116.0
+as though,Conj,31.0
+as to,Prep,2560.0
+as well,Adv,379.0
+as well as,Conj,4490.0
+as yet,Adv,113.0
+aside from,Prep,18.0
+assuming that,Conj,78.0
+at all,Adv,1293.0
+at any rate,Adv,34.0
+at least one,Adj,1427.0
+at once,Adv,55.0
+at the expense of,Prep,163.0
+at variance with,Prep,22.0
+away from,Prep,262.0
+back of,Prep,104.0
+bear up,Verb,6.0
+because of,Prep,1502.0
+best known,Adj,8.0
+black and white,Adj,50.0
+bona fide,Adj,41.0
+break up,Verb,12.0
+bring about,Verb,291.0
+bring up,Verb,15.0
+build up,Verb,145.0
+but for,Prep,149.0
+by dint of,Prep,8.0
+by itself,Adv,101.0
+by means of,Prep,2404.0
+by proxy,Adv,5.0
+by reason of,Prep,709.0
+by the way,Adv,16.0
+by virtue of,Prep,1069.0
+by way of,Prep,2127.0
+carry on,Verb,132.0
+carry out,Verb,2635.0
+carry through,Verb,13.0
+catch on,Verb,19.0
+central african,Adj,8.0
+clean up,Verb,10.0
+clear up,Verb,2.0
+close by,Adv,10.0
+close to,Adv,547.0
+come about,Verb,6.0
+come in,Verb,31.0
+come on,Verb,11.0
+considering that,Conj,225.0
+costa rican,Adj,3.0
+cover up,Verb,26.0
+cut off,Verb,51.0
+dare to,Aux,2.0
+dark blue,Adj,7.0
+de facto,Adv,123.0
+de jure,Adv,35.0
+devoid of,Prep,27.0
+draw down,Verb,2.0
+due to,Prep,2584.0
+east german,Adj,2.0
+edge in,Verb,7.0
+egg on,Verb,2.0
+en bloc,Adv,7.0
+en masse,Adv,2.0
+en route,Adv,67.0
+et al.,Abbr,71.0
+et cetera,Adv,9.0
+even if,Conj,1021.0
+even though,Conj,438.0
+ever expanding,Adj,2.0
+ex officio,Adv,32.0
+ex parte,Adj,3.0
+except for,Prep,1201.0
+exclusive of,Prep,66.0
+fall away,Verb,2.0
+fall back,Verb,21.0
+fill in,Verb,73.0
+filled up,Adj,7.0
+find out,Verb,65.0
+fine tune,Verb,2.0
+fit in,Verb,21.0
+for all that,Conj,4.0
+for sake of,Prep,2.0
+for the sake of,Prep,301.0
+for want of,Prep,14.0
+give away,Verb,3.0
+give in,Verb,7.0
+give up,Verb,33.0
+given that,Conj,828.0
+go ahead,Verb,22.0
+granting that,Conj,5.0
+great deal,Adv,46.0
+grow up,Verb,3.0
+hand out,Verb,2.0
+hand over,Verb,25.0
+high income,Adj,7.0
+high quality,Adj,442.0
+hold back,Verb,41.0
+hold up,Verb,8.0
+hoped for,Adj,6.0
+how many,Pron,64.0
+how much,Pron,69.0
+in absentia,Adv,12.0
+in accordance with,Prep,14620.0
+in addition,Adv,2629.0
+in addition to,Prep,2055.0
+in aid of,Prep,3.0
+in case,Conj,443.0
+in case of,Prep,1175.0
+in charge of,Prep,341.0
+in common with,Prep,57.0
+in comparison with,Prep,206.0
+in compliance with,Prep,1068.0
+in conformity with,Prep,1462.0
+in consequence of,Prep,48.0
+in contact with,Prep,230.0
+in exchange for,Prep,64.0
+in favour of,Prep,810.0
+in front,Adv,18.0
+in front of,Prep,105.0
+in general,Adv,1221.0
+in heat,Adv,4.0
+in lieu of,Prep,67.0
+in light of,Prep,242.0
+in line with,Prep,1984.0
+in need of,Prep,106.0
+in order for,Conj,301.0
+in order that,Conj,334.0
+in particular,Adv,18416.0
+in place of,Prep,329.0
+in position,Adv,60.0
+in process of,Prep,5.0
+in pursuit,Adv,75.0
+in re,Prep,2.0
+in reference to,Prep,21.0
+in regard to,Prep,218.0
+in relation to,Prep,3122.0
+in respect of,Prep,6422.0
+in respect to,Prep,72.0
+in return of,Prep,3.0
+in search of,Prep,8.0
+in situ,Adv,63.0
+in spite of,Prep,190.0
+in that,Conj,3907.0
+in the event that,Conj,476.0
+in the face of,Prep,100.0
+in the interim,Adv,24.0
+in the interval,Adv,22.0
+in the light of,Prep,2985.0
+in the process of,Prep,358.0
+in the raw,Adv,64.0
+in use,Adv,344.0
+in vacuo,Adv,9.0
+in view of,Prep,2309.0
+in vitro,Adj,64.0
+inasmuch as,Conj,118.0
+inside of,Prep,47.0
+insofar as,Conj,683.0
+insofar that,Conj,4.0
+instead of,Prep,791.0
+inter alia,Adv,2019.0
+ipso facto,Adv,39.0
+irrespective of,Prep,914.0
+just about,Adv,4.0
+keep in mind,Verb,3.0
+keep out,Verb,8.0
+keep up,Verb,62.0
+kick off,Verb,2.0
+laid back,Adj,4.0
+large scale,Adj,98.0
+latin american,Adj,36.0
+lay out,Verb,6.0
+lead on,Verb,5.0
+lead to,Verb,1793.0
+leave out,Verb,5.0
+light up,Verb,8.0
+line up,Verb,3.0
+lock up,Verb,2.0
+long time,Adj,120.0
+look forward to,Verb,14.0
+look out,Verb,2.0
+low income,Adj,16.0
+low level,Adj,225.0
+lower than,Prep,1005.0
+make out,Verb,28.0
+make up,Verb,237.0
+market driven,Adj,11.0
+mentally ill,Adj,10.0
+mix up,Verb,2.0
+mixed up,Adj,2.0
+more or less,Adv,130.0
+most often,Adj,25.0
+most remote,Adj,16.0
+move along,Verb,7.0
+must do,Adj,68.0
+near to,Prep,62.0
+need to,Aux,3360.0
+needs to,Aux,1197.0
+netherlands antillean,Adj,1.0
+next day,Adj,14.0
+next to,Prep,67.0
+no one,Pron,50.0
+north american,Adj,23.0
+north korean,Adj,2.0
+northern irish,Adj,2.0
+not as good,Adj,3.0
+not for profit,Adj,3.0
+not many,Adj,3.0
+not quite,Adv,9.0
+now and then,Adv,2.0
+now that,Conj,59.0
+null and void,Adj,77.0
+number one,Adj,5.0
+of late,Adj,34.0
+off of,Prep,19.0
+off the shelf,Adj,2.0
+old fashioned,Adj,2.0
+on account of,Prep,447.0
+on all sides,Adv,14.0
+on behalf of,Prep,2461.0
+on grounds of,Prep,375.0
+on hold,Adv,4.0
+on pain of,Prep,8.0
+on the grounds of,Prep,277.0
+on the matter of,Prep,6.0
+on the part of,Prep,527.0
+on the strength of,Prep,21.0
+on time,Adv,72.0
+on to,Prep,472.0
+on top of,Prep,106.0
+once more,Adv,65.0
+one more,Adv,26.0
+op cit.,Abbr,3.0
+ought to,Aux,124.0
+out of,Prep,1373.0
+out of control,Adj,5.0
+out of work,Adj,6.0
+outside of,Prep,194.0
+owing to,Prep,570.0
+paper based,Adj,3.0
+par excellence,Adv,5.0
+pari passu,Adj,20.0
+pay up,Verb,4.0
+per annum,Adv,142.0
+per capita,Adj,95.0
+per diem,Adj,13.0
+per se,Adv,83.0
+pick up,Verb,47.0
+play down,Verb,2.0
+point out,Verb,165.0
+preliminary to,Prep,11.0
+preparatory to,Prep,22.0
+previous to,Prep,20.0
+prima facie,Adj,105.0
+prior to,Prep,2112.0
+pro forma,Adj,26.0
+pro rata,Adv,243.0
+provided that,Conj,3567.0
+providing that,Conj,200.0
+pursuant to,Prep,8208.0
+put by,Verb,14.0
+put down,Verb,12.0
+put forth,Verb,2.0
+put off,Verb,7.0
+put on,Verb,275.0
+put out,Verb,75.0
+put up,Verb,363.0
+regardless of,Prep,603.0
+relative to,Prep,328.0
+round up,Verb,13.0
+saudi arabian,Adj,7.0
+save that,Conj,13.0
+second class,Adj,6.0
+second level,Adj,24.0
+seeing that,Conj,13.0
+set at,Verb,1156.0
+set back,Verb,3.0
+set off,Verb,60.0
+set on,Verb,68.0
+set out,Verb,8830.0
+set up,Verb,2793.0
+show up,Verb,7.0
+side by side,Adv,31.0
+sign up,Verb,11.0
+sine die,Adv,2.0
+single out,Verb,8.0
+so as,Conj,2113.0
+so long,Interj,155.0
+so that,Conj,2238.0
+soak up,Verb,2.0
+sought after,Adj,12.0
+south african,Adj,307.0
+south american,Adj,20.0
+south korean,Adj,3.0
+southeast asian,Adj,3.0
+spell out,Verb,37.0
+sri lankan,Adj,4.0
+stamp out,Verb,5.0
+stand out,Verb,25.0
+stand up,Verb,13.0
+stemming from,Prep,176.0
+step up,Verb,208.0
+sub judice,Adv,3.0
+subsequent to,Prep,266.0
+such as,Prep,4068.0
+such that,Conj,835.0
+sui generis,Adj,18.0
+take advantage,Verb,188.0
+take away,Verb,6.0
+take in,Verb,102.0
+take off,Verb,17.0
+take on,Verb,184.0
+take out,Verb,58.0
+take over,Verb,184.0
+take place,Verb,1676.0
+take up,Verb,256.0
+thank you,Interj,10.0
+thanks to,Prep,191.0
+third degree,Adj,2.0
+third party,Adj,472.0
+tie up,Verb,2.0
+tip over,Verb,2.0
+to a degree,Adv,49.0
+to the point,Adj,106.0
+together with,Prep,2810.0
+too soon,Adv,6.0
+turn down,Verb,2.0
+turn in,Verb,7.0
+turn on,Verb,11.0
+turn out,Verb,23.0
+turn over,Verb,12.0
+turned on,Adj,20.0
+ultra vires,Adv,2.0
+under way,Adv,227.0
+up against,Prep,14.0
+up to,Prep,3111.0
+upside down,Adv,4.0
+upwards of,Prep,4.0
+use up,Verb,20.0
+used to,Aux,2133.0
+vice versa,Adv,172.0
+ward off,Verb,4.0
+warm blooded,Adj,1.0
+waste away,Verb,2.0
+wear out,Verb,3.0
+well known,Adj,73.0
+wind up,Verb,16.0
+wipe out,Verb,4.0
+with reference to,Prep,383.0
+with regard to,Prep,4255.0
+with respect to,Prep,1734.0
+with the exception of,Prep,1962.0
+within reach,Adj,21.0
+without doubt,Adj,13.0
+work out,Verb,42.0
+wrapped up,Adj,2.0
+write down,Verb,5.0
+zero in,Verb,19.0
+la,Prep,122.0

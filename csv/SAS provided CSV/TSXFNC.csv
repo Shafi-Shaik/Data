@@ -1,0 +1,38 @@
+_Key_,Owner,Sequence,Type,Subtype,Name,Continue,NValue,Encoded,Value
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,14.0,Prototype,FCmp,FUNCS,0.0,,,"<L n=""Prototype""><S n=""Name""><![CDATA[TSX_RDCT_INTERMITTENT]]></S><S n=""Group""><![CDATA[]]></S><N n=""MaxLag"">0</N><N n=""Flag0"">0</N><N n=""Flag1"">128</N><S n=""ReturnType""><![CDATA[n]]></S><N n=""ReturnSize"">8</N><L n=""ArgList""><L n=""Arg""><S n=""Name""><![CDATA[actual]]></S><S n=""Kind""><![CDATA[m]]></S><S n=""Type""><![CDATA[n]]></S><S n=""Class""><![CDATA[a]]></S><N n=""Status"">0</N><N n=""Status2"">0</N><N n=""NInit"">0</N><N n=""MaxLag"">0</N><N n=""Size"">8</N><N n=""Flag1"">224</N><N n=""Flag2"">0</N><N n=""Flag3"">0</N><N n=""Flag4"">0</N><N n=""Flag5"">64</N><N n=""Flag6"">32</N><L n=""ArraySpec""><S n=""Type""><![CDATA[n]]></S><N n=""Length"">0</N><N n=""NDim"">1</N><N n=""DimProd"">1</N><N n=""Dim1"">0</N><N n=""Dim2"">0</N></L></L></L></L>"
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,15.0,Header,Function,,0.0,,,"<L n=""Header""><S n=""Version""><![CDATA[1.1]]></S><N n=""Datetime"">1690634957.3</N><S n=""DatetimeStr""><![CDATA[28JUL13:12:49:17]]></S><S n=""SubType""><![CDATA[Function]]></S><N n=""Obfuscate"">0</N><S n=""Package""><![CDATA[FUNCS]]></S></L>"
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,16.0,Statement Source,Executable,FUNCTION,0.0,65.0,,function TSX_RDCT_INTERMITTENT(actual[*]);
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,17.0,Statement Source,Executable,ASSIGN,0.0,1.0,,actlen = DIM(actual);
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,18.0,Statement Source,Executable,ASSIGN,0.0,1.0,,sum = 0;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,19.0,Statement Source,Executable,ASSIGN,0.0,1.0,,interval = 1;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,20.0,Statement Source,Executable,ASSIGN,0.0,1.0,,nintervals = 0;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,21.0,Statement Source,Executable,DO,0.0,3.0,,do t = 1 to actlen;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,22.0,Statement Source,Executable,ASSIGN,0.0,1.0,,value = actual[t];
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,23.0,Statement Source,Executable,IF,0.0,2.0,,if nmiss(value) | value = 0 then
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,24.0,Statement Source,Executable,DO,0.0,3.0,,do;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,25.0,Statement Source,Executable,ASSIGN,0.0,1.0,,interval = interval + 1;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,26.0,Statement Source,Executable,END,0.0,10.0,,end;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,27.0,Statement Source,Executable,ELSE,0.0,9.0,,else
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,28.0,Statement Source,Executable,DO,0.0,3.0,,do;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,29.0,Statement Source,Executable,ASSIGN,0.0,1.0,,sum = sum + interval;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,30.0,Statement Source,Executable,ASSIGN,0.0,1.0,,interval = 1;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,31.0,Statement Source,Executable,ASSIGN,0.0,1.0,,nintervals = nintervals + 1;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,32.0,Statement Source,Executable,END,0.0,10.0,,end;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,33.0,Statement Source,Executable,END,0.0,10.0,,end;
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,34.0,Statement Source,Executable,RETURN,0.0,1.0,,return( sum / nintervals );
+F.FUNCS.TSX_RDCT_INTERMITTENT,CMP,35.0,Statement Source,Executable,ENDSUB,0.0,14.0,,endsub;
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,0.0,Prototype,FCmp,FUNCS,0.0,,,"<L n=""Prototype""><S n=""Name""><![CDATA[TSX_RDCT_PCTZERO]]></S><S n=""Group""><![CDATA[]]></S><N n=""MaxLag"">0</N><N n=""Flag0"">0</N><N n=""Flag1"">128</N><S n=""ReturnType""><![CDATA[n]]></S><N n=""ReturnSize"">8</N><L n=""ArgList""><L n=""Arg""><S n=""Name""><![CDATA[actual]]></S><S n=""Kind""><![CDATA[m]]></S><S n=""Type""><![CDATA[n]]></S><S n=""Class""><![CDATA[a]]></S><N n=""Status"">0</N><N n=""Status2"">0</N><N n=""NInit"">0</N><N n=""MaxLag"">0</N><N n=""Size"">8</N><N n=""Flag1"">224</N><N n=""Flag2"">0</N><N n=""Flag3"">0</N><N n=""Flag4"">0</N><N n=""Flag5"">64</N><N n=""Flag6"">32</N><L n=""ArraySpec""><S n=""Type""><![CDATA[n]]></S><N n=""Length"">0</N><N n=""NDim"">1</N><N n=""DimProd"">1</N><N n=""Dim1"">0</N><N n=""Dim2"">0</N></L></L></L></L>"
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,1.0,Header,Function,,0.0,,,"<L n=""Header""><S n=""Version""><![CDATA[1.1]]></S><N n=""Datetime"">1690634957.3</N><S n=""DatetimeStr""><![CDATA[28JUL13:12:49:17]]></S><S n=""SubType""><![CDATA[Function]]></S><N n=""Obfuscate"">0</N><S n=""Package""><![CDATA[FUNCS]]></S></L>"
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,2.0,Statement Source,Executable,FUNCTION,0.0,65.0,,function TSX_RDCT_PCTZERO(actual[*]);
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,3.0,Statement Source,Executable,ASSIGN,0.0,1.0,,actlen = DIM(actual);
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,4.0,Statement Source,Executable,ASSIGN,0.0,1.0,,numzeros = 0;
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,5.0,Statement Source,Executable,DO,0.0,3.0,,do t = 1 to actlen;
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,6.0,Statement Source,Executable,ASSIGN,0.0,1.0,,value = actual[t];
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,7.0,Statement Source,Executable,IF,0.0,2.0,,if nmiss(value) | value = 0 then
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,8.0,Statement Source,Executable,DO,0.0,3.0,,do;
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,9.0,Statement Source,Executable,ASSIGN,0.0,1.0,,numzeros = numzeros + 1;
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,10.0,Statement Source,Executable,END,0.0,10.0,,end;
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,11.0,Statement Source,Executable,END,0.0,10.0,,end;
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,12.0,Statement Source,Executable,RETURN,0.0,1.0,,return( numzeros / actlen );
+F.FUNCS.TSX_RDCT_PCTZERO,CMP,13.0,Statement Source,Executable,ENDSUB,0.0,14.0,,endsub;
+FUNCS,CMP,0.0,Header,Package,,0.0,,,"<L n=""Header""><S n=""Version""><![CDATA[1.1]]></S><N n=""Datetime"">1690634957.3</N><S n=""DatetimeStr""><![CDATA[28JUL13:12:49:17]]></S><S n=""SubType""><![CDATA[Package]]></S><N n=""Obfuscate"">0</N></L>"

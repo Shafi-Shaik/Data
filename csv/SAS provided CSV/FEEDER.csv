@@ -1,0 +1,5 @@
+product,feedcls,pmenu,viewer,name,type,subtype,desc
+,foldfd,sashelp.sasdesk.folder,lwrkarea,name,type,subtype,Folder
+,logfeed,sashelp.sasdesk.filespac,vtable,name,type,engine,
+,libfeed,sashelp.sasdesk.library,vtable,memname,memtype,type,Library
+,catfeed,sashelp.sasdesk.catalog,vtable,objname,type,objtype,Catalog

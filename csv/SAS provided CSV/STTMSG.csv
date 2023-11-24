@@ -1,0 +1,337 @@
+MSGID,MNEMONIC,LINENO,LEVEL,TEXT,PBUTTONS
+1004.0,IN_UNDER_DEVELOP,1.0,W,Under Development: %$,SASHELP.FSP.OK.SLIST
+1005.0,IN_EMPTY_MSG,1.0,N,%$,SASHELP.FSP.OK.SLIST
+1029.0,IO_SELECT_DATASET,1.0,E,Please select a data set.,SASHELP.FSP.OK.SLIST
+1030.0,IN_SAS_PRODUCT_NOT_AVAILABLE,1.0,E,This application requires %$ software which is not available at your site.,SASHELP.FSP.OK.SLIST
+1030.0,IN_SAS_PRODUCT_NOT_AVAILABLE,2.0,E,Please contact the SAS representative at your site.,SASHELP.FSP.OK.SLIST
+1032.0,IN_MAKE_SAMPLE_DATASETS,1.0,Q,"Several sample data sets are available. If created,",SASHELP.FSP.YN.SLIST
+1032.0,IN_MAKE_SAMPLE_DATASETS,2.0,Q,the data sets will be put in the SASUSER library.,SASHELP.FSP.YN.SLIST
+1032.0,IN_MAKE_SAMPLE_DATASETS,3.0,Q,%n%nSelect [Yes] to create the sample data sets or [No] to not create them.,SASHELP.FSP.YN.SLIST
+1033.0,IN_EXPERIMENTAL_RELEASE,1.0,W,The Market Research application is expected to undergo further development.,SASHELP.FSP.OK.SLIST
+1033.0,IN_EXPERIMENTAL_RELEASE,2.0,W,%n%nYour comments and suggestions are welcome. Please direct them to Technical Support at SAS Institute.,SASHELP.FSP.OK.SLIST
+1034.0,IN_SAS_PROCS_NOT_INSTALLED,1.0,E,The following %1$ procedures must be installed: %2$.,SASHELP.FSP.OK.SLIST
+1048.0,IO_LAST_RETRIEVED,1.0,N,The last used analysis has been retrieved.,SASHELP.FSP.OK.SLIST
+1049.0,IO_SELECT_ANALYSIS,1.0,E,Please select an analysis.,SASHELP.FSP.OK.SLIST
+1050.0,IO_SELECT_LIBREF_DATASET,1.0,E,Please select a libref and data set.,SASHELP.FSP.OK.SLIST
+1051.0,IN_MDS_REQUIRES,1.0,W,MDS requires distance or similarity data.,SASHELP.FSP.OK.SLIST
+1052.0,IN_CLUSTER_REQUIRES,1.0,W,Cluster analysis requires distance or coordinate data.,SASHELP.FSP.OK.SLIST
+1052.0,IN_CLUSTER_REQUIRES,2.0,W,"If your data set contains distance data, it must have a data set type of DISTANCE.",SASHELP.FSP.OK.SLIST
+1055.0,IO_NO_PASSWORD,1.0,E,The password is not valid for this data set. Please choose another.,SASHELP.FSP.OK.SLIST
+1056.0,IO_ASSIGN_LIBREF,1.0,E,"Please assign the libref ""%$"".",SASHELP.FSP.OK.SLIST
+1058.0,IO_DATASET_NOT_IN_LIBREF,1.0,E,"The data set ""%1$"" does not exist in the %2$ library.",SASHELP.FSP.OK.SLIST
+1081.0,IO_ANALYSIS_CANCELED,1.0,N,The previously selected analysis was canceled.,SASHELP.FSP.OK.SLIST
+1091.0,IO_DATASETS_IN_LIBRARY,1.0,N,Sample data sets have been put in SASUSER library.,SASHELP.FSP.OK.SLIST
+1212.0,IN_SIM_REQUIRES_MORE,1.0,N,Market share simulation requires more than one preference variable.,SASHELP.FSP.OK.SLIST
+1215.0,IO_SELECT_PREF_VARS,1.0,W,Please select preference variables first.,SASHELP.FSP.OK.SLIST
+1217.0,IO_SELECT_ATTRIBUTE_VARS,1.0,W,Please select attribute variables first.,SASHELP.FSP.OK.SLIST
+1220.0,IO_ANALYZE_DATA_FIRST,1.0,N,"Please analyze the data set first. To do so, press Variables and then press OK.",SASHELP.FSP.OK.SLIST
+1221.0,IO_VARS_REMOVED_FROM_LISTS,1.0,N,Variables that are no longer in the data set have,SASHELP.FSP.OK.SLIST
+1221.0,IO_VARS_REMOVED_FROM_LISTS,2.0,N,"been removed from the Preferences, Attributes, Id,",SASHELP.FSP.OK.SLIST
+1221.0,IO_VARS_REMOVED_FROM_LISTS,3.0,N,"Frequency, and Weight lists.",SASHELP.FSP.OK.SLIST
+1222.0,IN_GRAPHIC_TITLES_NA,1.0,N,"""Graphic titles"" are not yet available.",SASHELP.FSP.OK.SLIST
+1239.0,IN_CHAR_VAR_SCORING,1.0,N,Character variables can only use the Qualitative measurement type.,SASHELP.FSP.OK.SLIST
+1240.0,IN_PREFS_NOT_CHAR_VARS,1.0,N,Preferences cannot be character variables.,SASHELP.FSP.OK.SLIST
+1241.0,IO_SELECT_VARS,1.0,N,Please select some variables.,SASHELP.FSP.OK.SLIST
+1242.0,IO_VAR_USED,1.0,E,The selected variable has already been used.,SASHELP.FSP.OK.SLIST
+1243.0,IN_WGHT_NOT_CHAR,1.0,E,The weight variable cannot be a character variable.,SASHELP.FSP.OK.SLIST
+1244.0,IN_SELECT_TO_REMOVE,1.0,N,Select some variables then press Remove.,SASHELP.FSP.OK.SLIST
+1245.0,IO_SELECT_PREFS,1.0,N,Please select some preferences.,SASHELP.FSP.OK.SLIST
+1246.0,IO_SELECT_ATTRIBS,1.0,N,Please select some attributes.,SASHELP.FSP.OK.SLIST
+1247.0,IO_A_VAR_USED,1.0,E,A selected variable has already been used.,SASHELP.FSP.OK.SLIST
+1248.0,IN_FREQ_NOT_CHAR,1.0,E,The frequency variable cannot be a character variable.,SASHELP.FSP.OK.SLIST
+1249.0,IO_NO_PLOT_4_1_DIM,1.0,N,No plot is available for an analysis with only one dimension.,SASHELP.FSP.OK.SLIST
+1250.0,IO_SELECT_COL_VAR,1.0,E,Please select column variables.,SASHELP.FSP.OK.SLIST
+1251.0,IN_ANALYZE_TABLE_FIRST,1.0,N,Please analyze the table first: press Variables,SASHELP.FSP.OK.SLIST
+1251.0,IN_ANALYZE_TABLE_FIRST,2.0,N,and then press OK.,SASHELP.FSP.OK.SLIST
+1252.0,IO_VARS_REMOVED_FROM_LISTS_2,1.0,N,Variables that are no longer in the data set have,SASHELP.FSP.OK.SLIST
+1252.0,IO_VARS_REMOVED_FROM_LISTS_2,2.0,N,"been removed from the Row, Column, and Weight",SASHELP.FSP.OK.SLIST
+1252.0,IO_VARS_REMOVED_FROM_LISTS_2,3.0,N,lists.,SASHELP.FSP.OK.SLIST
+1253.0,IN_RESULT_NOT_IMPLEMENTED,1.0,N,Result not yet implemented.,SASHELP.FSP.OK.SLIST
+1254.0,IO_TOO_MANY_DIMS,1.0,E,Only %1$ dimensions were found although %2$ were,SASHELP.FSP.OK.SLIST
+1254.0,IO_TOO_MANY_DIMS,2.0,E,requested.,SASHELP.FSP.OK.SLIST
+1255.0,IO_DIM_SET_2_MAX,1.0,E,The specified dimension value is too large.,SASHELP.FSP.OK.SLIST
+1255.0,IO_DIM_SET_2_MAX,2.0,E,"It has been changed to the maximum for this table,",SASHELP.FSP.OK.SLIST
+1255.0,IO_DIM_SET_2_MAX,3.0,E,%$.,SASHELP.FSP.OK.SLIST
+1256.0,IO_NOT_BOTH_ROWCOL,1.0,N,"With multiple correspondence analysis, both row",SASHELP.FSP.OK.SLIST
+1256.0,IO_NOT_BOTH_ROWCOL,2.0,N,and column variables cannot be specified.,SASHELP.FSP.OK.SLIST
+1257.0,IN_IDVAR_REPLACED,1.0,N,The Id variable has been replaced. Only one is,SASHELP.FSP.OK.SLIST
+1257.0,IN_IDVAR_REPLACED,2.0,N,allowed.,SASHELP.FSP.OK.SLIST
+1259.0,IN_ID_MUST_BE_CHAR,1.0,N,The Id variable must be a character variable.,SASHELP.FSP.OK.SLIST
+1260.0,IN_2WAY_INPUT_NA,1.0,N,Two-way table input is not yet implemented with,SASHELP.FSP.OK.SLIST
+1260.0,IN_2WAY_INPUT_NA,2.0,N,multiple correspondence analysis.,SASHELP.FSP.OK.SLIST
+1261.0,IN_ROW_2_COL_4_MCA,1.0,N,Row variables moved to column variables for,SASHELP.FSP.OK.SLIST
+1261.0,IN_ROW_2_COL_4_MCA,2.0,N,multiple correspondence analysis.,SASHELP.FSP.OK.SLIST
+1262.0,IO_SELECT_ROWVARS_FOR_VAR_MODE,1.0,N,Please select multiple correspondence analysis or,SASHELP.FSP.OK.SLIST
+1262.0,IO_SELECT_ROWVARS_FOR_VAR_MODE,2.0,N,some row variables.,SASHELP.FSP.OK.SLIST
+1263.0,IO_SELECT_COLVARS_FOR_VAR_MODE,1.0,N,Please select multiple correspondence analysis or,SASHELP.FSP.OK.SLIST
+1263.0,IO_SELECT_COLVARS_FOR_VAR_MODE,2.0,N,some column variables.,SASHELP.FSP.OK.SLIST
+1264.0,IO_SELECT_2_COLVARS,1.0,N,Please select at least two column variables.,SASHELP.FSP.OK.SLIST
+1265.0,IN_VARS_NOT_CHAR,1.0,N,"With table data, variables cannot be character.",SASHELP.FSP.OK.SLIST
+1266.0,IN_TABLE_DATA_NOT_CHAR,1.0,N,Character variables cannot be used with table data.,SASHELP.FSP.OK.SLIST
+1266.0,IN_TABLE_DATA_NOT_CHAR,2.0,N,The character variables in the Columns list have,SASHELP.FSP.OK.SLIST
+1266.0,IN_TABLE_DATA_NOT_CHAR,3.0,N,been highlighted. Please remove them or change the,SASHELP.FSP.OK.SLIST
+1266.0,IN_TABLE_DATA_NOT_CHAR,4.0,N,Data Layout setting.,SASHELP.FSP.OK.SLIST
+1269.0,IO_CRSP_2BY2_MORE_VARS,1.0,N,Correspondence analysis requires a table with at,SASHELP.FSP.OK.SLIST
+1269.0,IO_CRSP_2BY2_MORE_VARS,2.0,N,least 2 rows and 2 columns. This table has %1$ rows,SASHELP.FSP.OK.SLIST
+1269.0,IO_CRSP_2BY2_MORE_VARS,3.0,N,and %2$ columns of valid data. Add more row or,SASHELP.FSP.OK.SLIST
+1269.0,IO_CRSP_2BY2_MORE_VARS,4.0,N,column variables or press Cancel.,SASHELP.FSP.OK.SLIST
+1272.0,IO_VARS_REMOVED_FROM_LISTS_3,1.0,N,Variables that are no longer in the data set have,SASHELP.FSP.OK.SLIST
+1272.0,IO_VARS_REMOVED_FROM_LISTS_3,2.0,N,been removed from the Preferences and Id lists.,SASHELP.FSP.OK.SLIST
+1273.0,IN_CHAR_USE_OPSCORE,1.0,N,Character variables can only use the Opscore,SASHELP.FSP.OK.SLIST
+1273.0,IN_CHAR_USE_OPSCORE,2.0,N,transformation.,SASHELP.FSP.OK.SLIST
+1275.0,IN_PREFS_NOT_CHAR,1.0,N,Character variables cannot be preferences.,SASHELP.FSP.OK.SLIST
+1276.0,IN_NO_OPSCORE_FOR_PREFS,1.0,N,Preferences cannot use the Optimal scoring transformation.,SASHELP.FSP.OK.SLIST
+1277.0,IN__NO_CHAR/OPSCORE_FOR_PREFS,1.0,N,Preferences cannot be character variables or use the Optimal scoring transformation.,SASHELP.FSP.OK.SLIST
+1278.0,IO_SELECT_MDPREF_VARS,1.0,N,Please select two or more preference variables.,SASHELP.FSP.OK.SLIST
+1279.0,IO_SELECT_SOME_MDPREF_VARS,1.0,N,Please select some preference variables.,SASHELP.FSP.OK.SLIST
+1280.0,IN_DIMS_NOT_LESS_THAN_ONE,1.0,W,The number of dimensions should be a whole number greater than 0.,SASHELP.FSP.OK.SLIST
+1281.0,IO_MDPREF_DIMS_TOO_LARGE,1.0,E,The number of dimensions cannot be greater than,SASHELP.FSP.OK.SLIST
+1281.0,IO_MDPREF_DIMS_TOO_LARGE,2.0,E,%1 for the number of preference variables selected.,SASHELP.FSP.OK.SLIST
+1282.0,IO_DIM_CHK_NEEDS_SUBJ,1.0,E,The number of dimensions cannot be checked until,SASHELP.FSP.OK.SLIST
+1282.0,IO_DIM_CHK_NEEDS_SUBJ,2.0,E,subjects have been selected.,SASHELP.FSP.OK.SLIST
+1284.0,IO_SELECT_MCA_IDVAR,1.0,N,Please select multiple correspondence analysis or,SASHELP.FSP.OK.SLIST
+1284.0,IO_SELECT_MCA_IDVAR,2.0,N,an Id variable.,SASHELP.FSP.OK.SLIST
+1286.0,IN_SAVE_CHANGES,1.0,Q,Do you want to save changes that have been made during this analysis session?,SASHELP.FSP.DCS.SLIST
+1290.0,IN_CATALOG_NOT_IN_SEARCH_PATH,1.0,W,The %$ catalog cannot be found and will not be included in the catalog search path.,SASHELP.FSP.OK.SLIST
+1345.0,IO_VARS_REMOVED_FROM_LISTS_4,1.0,N,Variables that are no longer in the data set have,SASHELP.FSP.OK.SLIST
+1345.0,IO_VARS_REMOVED_FROM_LISTS_4,2.0,N,"been removed from the Object, Id, and Subject lists.",SASHELP.FSP.OK.SLIST
+1352.0,IN_CHAR_VAR_NOT_OBJ,1.0,E,Character variables cannot be objects.,SASHELP.FSP.OK.SLIST
+1355.0,IO_SELECT_OBJECTS,1.0,N,Please select some objects.,SASHELP.FSP.OK.SLIST
+1356.0,IO_SELECT_OBJECTS_FIRST,1.0,N,Please select some objects first.,SASHELP.FSP.OK.SLIST
+1357.0,IN_ORD_OBJ_INCOMP_WITH_OPTION,1.0,N,Ordinal objects are incompatible with the criterioin,SASHELP.FSP.OK.SLIST
+1357.0,IN_ORD_OBJ_INCOMP_WITH_OPTION,2.0,N,standardization option.,SASHELP.FSP.OK.SLIST
+1358.0,IN_OBJ_NOT_EXCEED_OBS,1.0,N,The number of objects cannot exceed the number of,SASHELP.FSP.OK.SLIST
+1358.0,IN_OBJ_NOT_EXCEED_OBS,2.0,N,observations.,SASHELP.FSP.OK.SLIST
+1359.0,IN_OBS_MULT_OF_OBJ,1.0,N,The number of observations must be a multiple of,SASHELP.FSP.OK.SLIST
+1359.0,IN_OBS_MULT_OF_OBJ,2.0,N,the number of objects.,SASHELP.FSP.OK.SLIST
+1360.0,IO_DIM_GREATER_THAN_ZERO,1.0,E,The number of dimensions must be greater than zero.,SASHELP.FSP.OK.SLIST
+1361.0,IO_DIM_LESS_THAN_OBJ,1.0,N,The number of dimensions must be less than the,SASHELP.FSP.OK.SLIST
+1361.0,IO_DIM_LESS_THAN_OBJ,2.0,N,"number of objects, %$.",SASHELP.FSP.OK.SLIST
+1362.0,IO_SELECT_THEN_REMOVE,1.0,N,"Select objects or variables, then press Remove.",SASHELP.FSP.OK.SLIST
+1363.0,IO_SELECT_2PLUS_OBJ,1.0,N,Please select at least two objects.,SASHELP.FSP.OK.SLIST
+1364.0,IO_TODIM_GREATER_THAN_FROMDIM,1.0,E,"The ""To dimension"" must be greater than the ""From",SASHELP.FSP.OK.SLIST
+1364.0,IO_TODIM_GREATER_THAN_FROMDIM,2.0,E,"dimension"".",SASHELP.FSP.OK.SLIST
+1365.0,IN_MAX_NUM_DIM,1.0,N,The number of dimensions cannot be greater than,SASHELP.FSP.OK.SLIST
+1365.0,IN_MAX_NUM_DIM,2.0,N,%$ for the objects selected.,SASHELP.FSP.OK.SLIST
+1366.0,IO_DIM_SELECT_OBJ,1.0,N,The number of dimensions cannot be checked until,SASHELP.FSP.OK.SLIST
+1366.0,IO_DIM_SELECT_OBJ,2.0,N,objects have been selected.,SASHELP.FSP.OK.SLIST
+1367.0,IO_SELECT_RESPONSE_VAR,1.0,N,Please select the response variable first.,SASHELP.FSP.OK.SLIST
+1368.0,IO_SELECT_PRED_VARS,1.0,N,Please select predictor variables first.,SASHELP.FSP.OK.SLIST
+1369.0,IO_VARS_REMOVED_FROM_LISTS_5,1.0,N,Variables that are no longer in the data set have,SASHELP.FSP.OK.SLIST
+1369.0,IO_VARS_REMOVED_FROM_LISTS_5,2.0,N,"been removed from the Response, Choice, Non-choice,",SASHELP.FSP.OK.SLIST
+1369.0,IO_VARS_REMOVED_FROM_LISTS_5,3.0,N,"Subject, Frequency, and Weight lists.",SASHELP.FSP.OK.SLIST
+1370.0,IO_SELECT_A_RESPONSE_VAR,1.0,N,Please select a response variable.,SASHELP.FSP.OK.SLIST
+1371.0,IO_SELECT_A_CHOICE_VAR,1.0,N,Please select a choice event value.,SASHELP.FSP.OK.SLIST
+1372.0,IO_SELECT_CHOICE_VARS,1.0,N,Please select some choice attributes.,SASHELP.FSP.OK.SLIST
+1373.0,IO_SELECT_MLOG_SUBJ_VARS,1.0,N,Please select some subject variables.,SASHELP.FSP.OK.SLIST
+1374.0,IO_SELECT_CHOICE_ATTRB_FIRST,1.0,N,Please select some choice attributes first.,SASHELP.FSP.OK.SLIST
+1375.0,IO_SELECT_UNIQUE_SUBJ_VARS,1.0,N,Please select some Subject variables that uniquely,SASHELP.FSP.OK.SLIST
+1375.0,IO_SELECT_UNIQUE_SUBJ_VARS,2.0,N,identify each subject or subject group. These,SASHELP.FSP.OK.SLIST
+1375.0,IO_SELECT_UNIQUE_SUBJ_VARS,3.0,N,variables will be used to stratify the analysis.,SASHELP.FSP.OK.SLIST
+1376.0,IO_CHOICE_SETS,1.0,N,The choice set variables identify %$ sets.,SASHELP.FSP.OK.SLIST
+1377.0,IO_BAD_RESPONSE_VAR,1.0,E,%1$ cannot be used as a response variable because it has fewer than two values.,SASHELP.FSP.OK.SLIST
+1445.0,IO_RUNS_NOT_CONSTANT,1.0,E,The number of runs is not constant across subjects.,SASHELP.FSP.OK.SLIST
+1446.0,IO_NEW_OBS_DUPL,1.0,W,This new observation is a duplicate.,SASHELP.FSP.OK.SLIST
+1448.0,IO_ALL_COMBOS_PRESENT,1.0,N,All combinations of values found in the data are already present.,SASHELP.FSP.OK.SLIST
+1449.0,IN_VALUE_NOT_READ_FROM,1.0,E,Value could not be read from %$.,SASHELP.FSP.OK.SLIST
+1450.0,IO_RUNS_SUBJECTS,1.0,N,%1$ runs and %2$ subjects.,SASHELP.FSP.OK.SLIST
+1451.0,IN_CALC_MKT_SHARE,1.0,N,Press Calculate to recompute market share.,SASHELP.FSP.OK.SLIST
+1452.0,IO_TOO_LARGE,1.0,W,%$ may be too large.,SASHELP.FSP.OK.SLIST
+1453.0,IO_NOT_VALID_NUM,1.0,E,%$ is not a valid number.,SASHELP.FSP.OK.SLIST
+1454.0,IN_OUT_RANGE_CANT_USE,1.0,W,Values outside the sampled range cannot be used.,SASHELP.FSP.OK.SLIST
+1455.0,IN_OUT_RANGE_SHOULDNT_USE,1.0,W,Values outside the sampled range should not be used.,SASHELP.FSP.OK.SLIST
+1456.0,IO_NO_OBS_4_FACTOR,1.0,N,There are no observations for this factor.,SASHELP.FSP.OK.SLIST
+1458.0,IO_SELECT_ONE_2_PLOT,1.0,N,Please select just one factor to plot.,SASHELP.FSP.OK.SLIST
+1461.0,IN_TABLE_NA,1.0,N,This table is not available.,SASHELP.FSP.OK.SLIST
+1462.0,IO_INERTIA_NOT_CREATED,1.0,E,The inertia table could not be created.,SASHELP.FSP.OK.SLIST
+1464.0,IO_INERTIA_NOT_PRINTED,1.0,E,The inertia table could not be printed.,SASHELP.FSP.OK.SLIST
+1465.0,IN_MISSING_4_RAW_INPUT,1.0,N,"The ""missing"" option only applies to raw variable",SASHELP.FSP.OK.SLIST
+1465.0,IN_MISSING_4_RAW_INPUT,2.0,N,input.,SASHELP.FSP.OK.SLIST
+1469.0,IO_DIM_NOT_XCD_4_VARS,1.0,W,The number of dimensions cannot exceed %$ for the,SASHELP.FSP.OK.SLIST
+1469.0,IO_DIM_NOT_XCD_4_VARS,2.0,W,variables selected.,SASHELP.FSP.OK.SLIST
+1471.0,IO_NO_OBS_N_DATASET,1.0,E,No observations in statistics data set.,SASHELP.FSP.OK.SLIST
+1515.0,IO_DIM_CANT_EXCEED,1.0,N,The value of Dimension cannot exceed %$.,SASHELP.FSP.OK.SLIST
+1516.0,IN_DIM_UPPER_LIM,1.0,N,Dimension cannot be greater than %$ for this data,SASHELP.FSP.OK.SLIST
+1516.0,IN_DIM_UPPER_LIM,2.0,N,set.,SASHELP.FSP.OK.SLIST
+1517.0,IO_MAX_ITERS_ZERO_PLUS,1.0,E,Maximum number of iterations must be 0 or greater.,SASHELP.FSP.OK.SLIST
+1518.0,IO_MAX_ITERS_UPPER_LIM,1.0,N,Maximum number of iterations must be less than,SASHELP.FSP.OK.SLIST
+1518.0,IO_MAX_ITERS_UPPER_LIM,2.0,N,32768.,SASHELP.FSP.OK.SLIST
+1519.0,IN_CONV_CRIT_LIMS,1.0,N,Convergence criterion must be between -32767 and,SASHELP.FSP.OK.SLIST
+1519.0,IN_CONV_CRIT_LIMS,2.0,N,32767.,SASHELP.FSP.OK.SLIST
+1520.0,IO_NO_FIT_STATS_AVAIL,1.0,N,No fit statistics are available.,SASHELP.FSP.OK.SLIST
+1521.0,IO_ITER_TBL_NOT_CREATED,1.0,N,The iteration table could not be created.,SASHELP.FSP.OK.SLIST
+1522.0,IO_ITER_TBL_NOT_PRINTED,1.0,N,The iteration table could not be printed.,SASHELP.FSP.OK.SLIST
+1523.0,IN_DIM_LIMITS,1.0,N,The dimension must be between %1$ and %2$.,SASHELP.FSP.OK.SLIST
+1524.0,IN_OLS_NOT_WITH_ORDINAL,1.0,N,"""OLS"" is not allowed with ordinal measurement",SASHELP.FSP.OK.SLIST
+1524.0,IN_OLS_NOT_WITH_ORDINAL,2.0,N,level objects.,SASHELP.FSP.OK.SLIST
+1525.0,IN_DIST_NOT_LOG,1.0,W,A predetermined transformation of LOG is not,SASHELP.FSP.OK.SLIST
+1525.0,IN_DIST_NOT_LOG,2.0,W,allowed with similarity data. The Distance,SASHELP.FSP.OK.SLIST
+1525.0,IN_DIST_NOT_LOG,3.0,W,transformation will be used.,SASHELP.FSP.OK.SLIST
+1526.0,IN_MORE_DATA_4_INDIV_DIFFS,1.0,N,More than one data matrix is required for,SASHELP.FSP.OK.SLIST
+1526.0,IN_MORE_DATA_4_INDIV_DIFFS,2.0,N,individual differences.,SASHELP.FSP.OK.SLIST
+1527.0,IN_SIM_MAX_NOT_LESS_THAN,1.0,N,The similarity maximum cannot be less than %$ for,SASHELP.FSP.OK.SLIST
+1527.0,IN_SIM_MAX_NOT_LESS_THAN,2.0,N,these data.,SASHELP.FSP.OK.SLIST
+1528.0,IN_ZERO_GRAD_CRIT_ONE,1.0,N,Gradient criterion must be between 0 and 1.,SASHELP.FSP.OK.SLIST
+1529.0,IN_GRAD_CRIT_MIN,1.0,N,Gradient criterion should be greater than 0.0001.,SASHELP.FSP.OK.SLIST
+1530.0,IN_ZERO_MONO_CRIT_ONE,1.0,N,Monotone criterion must be between 0 and 1.,SASHELP.FSP.OK.SLIST
+1531.0,IN_MONO_CRIT_MIN,1.0,N,Monotone criterion should be greater than 0.0001.,SASHELP.FSP.OK.SLIST
+1532.0,IO_RESP_CHOICE_DIFF_DATA,1.0,N,The data sets for responses and choice alternatives,SASHELP.FSP.OK.SLIST
+1532.0,IO_RESP_CHOICE_DIFF_DATA,2.0,N,cannot be the same.,SASHELP.FSP.OK.SLIST
+1533.0,IO_SELECT_RESP_DATA,1.0,N,Please select a Responses data set.,SASHELP.FSP.OK.SLIST
+1534.0,IO_SELECT_CHOICE_DATA,1.0,N,Please select a Choices data set containing the,SASHELP.FSP.OK.SLIST
+1534.0,IO_SELECT_CHOICE_DATA,2.0,N,choice alternatives.,SASHELP.FSP.OK.SLIST
+1535.0,IO_COMMON_VARS,1.0,N,Please select some variables common to both data,SASHELP.FSP.OK.SLIST
+1535.0,IO_COMMON_VARS,2.0,N,sets.,SASHELP.FSP.OK.SLIST
+1536.0,IO_VARS_USED,1.0,E,One or more selected variables have already been,SASHELP.FSP.OK.SLIST
+1536.0,IO_VARS_USED,2.0,E,used.,SASHELP.FSP.OK.SLIST
+1537.0,IO_SELECT_ONE_RESP_FREQ,1.0,N,Select only one response or frequency variable.,SASHELP.FSP.OK.SLIST
+1539.0,IO_FREQ_NOT_CHAR,1.0,E,The Frequency variable cannot be character.,SASHELP.FSP.OK.SLIST
+1540.0,IN_STAR_COMMON_VARS,1.0,N,Variables common to both data sets are starred.,SASHELP.FSP.OK.SLIST
+1541.0,IN_NO_COMMON_VARS,1.0,N,No variables are common to both data sets.,SASHELP.FSP.OK.SLIST
+1542.0,IO_COMMON_VAR_CHAR_VS_NUM,1.0,E,"The variables, %$, are character in one data set and",SASHELP.FSP.OK.SLIST
+1542.0,IO_COMMON_VAR_CHAR_VS_NUM,2.0,E,numeric in the other. Common variables must be of,SASHELP.FSP.OK.SLIST
+1542.0,IO_COMMON_VAR_CHAR_VS_NUM,3.0,E,the same type in both data sets.,SASHELP.FSP.OK.SLIST
+1544.0,IO_SELECT_FREQ_VAR,1.0,N,You have not selected a frequency variable. Do you,SASHELP.FSP.YN.SLIST
+1544.0,IO_SELECT_FREQ_VAR,2.0,N,want to select one?,SASHELP.FSP.YN.SLIST
+1546.0,IN_SELECTION_INSTRUCTS,1.0,N,Select a Responses data set and a Choices data set.,SASHELP.FSP.OK.SLIST
+1546.0,IN_SELECTION_INSTRUCTS,2.0,N,"Then, select Common variables, and optionally a",SASHELP.FSP.OK.SLIST
+1546.0,IN_SELECTION_INSTRUCTS,3.0,N,Response and a Frequency variable.,SASHELP.FSP.OK.SLIST
+1549.0,IO_TBL_NOT_CREATED,1.0,E,The table could not be created.,SASHELP.FSP.OK.SLIST
+1551.0,IO_TBL_NOT_PRINTED,1.0,E,The table could not be printed.,SASHELP.FSP.OK.SLIST
+1552.0,IO_NO_TBLS,1.0,N,No tables.,SASHELP.FSP.OK.SLIST
+1584.0,IO_SELECT_DIM_2_PLOT,1.0,N,Please select a dimension to plot first.,SASHELP.FSP.OK.SLIST
+1595.0,IO_PLOT_DIM_INVALID,1.0,E,A selected plot dimension is invalid. Please select,SASHELP.FSP.OK.SLIST
+1595.0,IO_PLOT_DIM_INVALID,2.0,E,another one.,SASHELP.FSP.OK.SLIST
+1596.0,IO_PLOT_COMP_INVALID,1.0,E,A selected plot component is invalid. Please select,SASHELP.FSP.OK.SLIST
+1596.0,IO_PLOT_COMP_INVALID,2.0,E,another one.,SASHELP.FSP.OK.SLIST
+1597.0,IN_DEGREE_LIMITS,1.0,N,The degree of the spline should be between 0 and %#.,SASHELP.FSP.OK.SLIST
+1598.0,IN_KNOT_LIMITS,1.0,N,The number of knots should be between 0 and %#.,SASHELP.FSP.OK.SLIST
+1599.0,IN_KNOT_LESS_THAN_ZERO,1.0,N,The number of knots cannot be less than 0.,SASHELP.FSP.OK.SLIST
+1600.0,IN_DEGREE_LESS_THAN_ZERO,1.0,N,The degree of the spline cannot be less than 0.,SASHELP.FSP.OK.SLIST
+1601.0,IO_ENTER_SPLINE_DEGREE,1.0,N,Please enter the degree of the spline.,SASHELP.FSP.OK.SLIST
+1602.0,IO_SELECT_COMP_2_PLOT,1.0,N,Please select a component to plot first.,SASHELP.FSP.OK.SLIST
+1603.0,IO_NUM_OF_KNOTS,1.0,N,Please enter the number of knots of the spline.,SASHELP.FSP.OK.SLIST
+1604.0,IO_LIST_OF_KNOTS,1.0,N,Please enter the list of knots of the spline.,SASHELP.FSP.OK.SLIST
+1605.0,IO_KNOTLIST_PROBS,1.0,E,Please correct problems in the list of knots.,SASHELP.FSP.OK.SLIST
+1606.0,IN_KNOTS_4_ZERO_SPLINES,1.0,N,There must be knots for zero degree splines.,SASHELP.FSP.OK.SLIST
+1607.0,IO_SELECT_VAR_FIRST,1.0,N,Please select a variable first.,SASHELP.FSP.OK.SLIST
+1608.0,IO_IDVAR_CLEARED,1.0,N,The Id variable has been cleared.,SASHELP.FSP.OK.SLIST
+1609.0,IO_NO_OBS_2_PLOT,1.0,E,No observations to plot.,SASHELP.FSP.OK.SLIST
+1610.0,IN_NO_QUOTES,1.0,N,Do not include single or double quotes in the,SASHELP.FSP.OK.SLIST
+1610.0,IN_NO_QUOTES,2.0,N,filename.,SASHELP.FSP.OK.SLIST
+1611.0,IO_FILENAME,1.0,N,Please provide a filename.,SASHELP.FSP.OK.SLIST
+1612.0,IO_NO_ACCESS_2_FILE,1.0,E,The file cannot be accessed. Please specify another.,SASHELP.FSP.OK.SLIST
+1613.0,IO_IN_USE,1.0,N,%$ is already in use. Please use another name.,SASHELP.FSP.OK.SLIST
+1614.0,IO_LIB_NOT_DEFINED,1.0,E,The %$ SAS library is not defined. Please provide,SASHELP.FSP.OK.SLIST
+1614.0,IO_LIB_NOT_DEFINED,2.0,E,another one.,SASHELP.FSP.OK.SLIST
+1615.0,IO_COMPLETE_DATASET_NAME,1.0,N,Please provide a complete data set name for %$.,SASHELP.FSP.OK.SLIST
+1616.0,IO_MKT_IN_NAME,1.0,E,"Please do not use ""_MKT"" as the beginning of the",SASHELP.FSP.OK.SLIST
+1616.0,IO_MKT_IN_NAME,2.0,E,data set name.,SASHELP.FSP.OK.SLIST
+1617.0,IO_CANT_WRITE_2_LIB,1.0,E,You cannot write to the %$ library. Please provide,SASHELP.FSP.OK.SLIST
+1617.0,IO_CANT_WRITE_2_LIB,2.0,E,another one.,SASHELP.FSP.OK.SLIST
+1618.0,IO_REPLACE_DATASET,1.0,W,%$ already exists. Use another name if you do not,SASHELP.FSP.YNC.SLIST
+1618.0,IO_REPLACE_DATASET,2.0,W,"want to replace it.%n%nSelect ""Yes"" to replace or ""No"" not to replace the existing data set.",SASHELP.FSP.YNC.SLIST
+1619.0,IN_GRPH_DEV_CONNECT,1.0,N,The graphics device must be connected directly,SASHELP.FSP.OK.SLIST
+1619.0,IN_GRPH_DEV_CONNECT,2.0,N,to your computer.,SASHELP.FSP.OK.SLIST
+1620.0,IO_GRPH_OUTPUT_DEST,1.0,N,Please select a graphics output destination.,SASHELP.FSP.OK.SLIST
+1621.0,IO_SELECT_GRPH_DEV,1.0,N,Please select a graphics device first.,SASHELP.FSP.OK.SLIST
+1622.0,IO_B4_GRPH_COMDS,1.0,N,Enter the commands to be issued BEFORE the graph,SASHELP.FSP.OK.SLIST
+1622.0,IO_B4_GRPH_COMDS,2.0,N,is produced.,SASHELP.FSP.OK.SLIST
+1623.0,IO_AFTER_GRPH_COMDS,1.0,N,Enter the commands to be issued AFTER the graph,SASHELP.FSP.OK.SLIST
+1623.0,IO_AFTER_GRPH_COMDS,2.0,N,is produced.,SASHELP.FSP.OK.SLIST
+1624.0,IO_SYS_COMDS_SYNTAX,1.0,N,Precede all system commands with an 'X' and,SASHELP.FSP.OK.SLIST
+1624.0,IO_SYS_COMDS_SYNTAX,2.0,N,terminate them with a ';'.,SASHELP.FSP.OK.SLIST
+1625.0,IN_END_2_RETURN,1.0,N,Select 'End' from the File pull-down menu to return.,SASHELP.FSP.OK.SLIST
+1626.0,IO_DEVICES_CATALOG,1.0,E,"""%1$"" is not found in the %2$.DEVICES catalog.",SASHELP.FSP.OK.SLIST
+1627.0,IN_FORMATS_NA,1.0,N,These formats are not available.,SASHELP.FSP.OK.SLIST
+1628.0,IO_NO_PSSWD_4_DATASET,1.0,E,No valid password for this data set. Please select,SASHELP.FSP.OK.SLIST
+1628.0,IO_NO_PSSWD_4_DATASET,2.0,E,another.,SASHELP.FSP.OK.SLIST
+1629.0,IO_PSSWD_INVALID,1.0,E,The password is not valid. Try again.,SASHELP.FSP.OK.SLIST
+1630.0,IO_PSSWD_VALID,1.0,N,The password is valid.,SASHELP.FSP.OK.SLIST
+1649.0,IO_PRINTER_INFO,1.0,N,"Enter a printer name, description, and printer",SASHELP.FSP.OK.SLIST
+1649.0,IO_PRINTER_INFO,2.0,N,commands.,SASHELP.FSP.OK.SLIST
+1651.0,IO_PRINTER_NAME,1.0,N,Please enter a printer name first.,SASHELP.FSP.OK.SLIST
+1652.0,IO_PRINTER_COMMDS,1.0,N,Please enter printer commands first.,SASHELP.FSP.OK.SLIST
+1653.0,IO_TEST_PAGE_SENT,1.0,N,The test page has been sent using your commands.,SASHELP.FSP.OK.SLIST
+1654.0,IO_IN_USE_SELECT_ANOTHER,1.0,W,%$ is already in use. Please select another.,SASHELP.FSP.OK.SLIST
+1655.0,IO_ENTER_DESCRIPTION,1.0,N,Please enter a description.,SASHELP.FSP.OK.SLIST
+1656.0,IO_ENTER_DESC_PRINT_COMMDS,1.0,N,Please enter a description and printer commands.,SASHELP.FSP.OK.SLIST
+1657.0,IO_ENTER_PRINTER_COMMDS_2,1.0,N,Please enter printer commands.,SASHELP.FSP.OK.SLIST
+1658.0,IO_NAME_INVALID_2,1.0,E,"The name ""%$"" is not a valid SAS name.",SASHELP.FSP.OK.SLIST
+1661.0,IO_NAME_IN_USE,1.0,N,"The name ""%$"" is already in use. Please select",SASHELP.FSP.OK.SLIST
+1661.0,IO_NAME_IN_USE,2.0,N,another.,SASHELP.FSP.OK.SLIST
+1662.0,IN_ENTER_NAME,1.0,N,You must first enter a name.,SASHELP.FSP.OK.SLIST
+1663.0,IN_COMMDS_B4_TEST,1.0,N,You must enter commands before you can test.,SASHELP.FSP.OK.SLIST
+1664.0,IO_PRINT_DEF_NEW_NAME,1.0,W,A printer definition of this name already exists.,SASHELP.FSP.OK.SLIST
+1664.0,IO_PRINT_DEF_NEW_NAME,2.0,W,Enter a new name.,SASHELP.FSP.OK.SLIST
+1665.0,IO_SELECT_ACTIVE_PRINTER,1.0,N,Please select an active printer.,SASHELP.FSP.OK.SLIST
+1666.0,IN_DEFINE_PRINTER,1.0,N,Please define a printer first.,SASHELP.FSP.OK.SLIST
+1667.0,IN_SELECT_PRINTER,1.0,N,Please select a printer first.,SASHELP.FSP.OK.SLIST
+1668.0,IO_DELETE_PRINTER,1.0,N,Please select a printer to delete.,SASHELP.FSP.OK.SLIST
+1669.0,IO_RENAME_PRINTER,1.0,N,Please select a printer to rename.,SASHELP.FSP.OK.SLIST
+1670.0,IO_PRINTER_RENAMED,1.0,N,The printer has been renamed.,SASHELP.FSP.OK.SLIST
+1671.0,IO_PRINTER_ADDED,1.0,N,The printer has been added.,SASHELP.FSP.OK.SLIST
+1672.0,IO_SELECT_PRINTER_2_EDIT,1.0,N,Please select a printer to edit commands.,SASHELP.FSP.OK.SLIST
+1673.0,IO_SELECT_PRINTER_2_TEST,1.0,N,Please select a printer to test.,SASHELP.FSP.OK.SLIST
+1674.0,IO_SELECT_ACTIVE_PRINTER_C,1.0,N,Please select an active printer (or Cancel).,SASHELP.FSP.OK.SLIST
+1675.0,IO_FILE_CANT_BE_USED,1.0,E,"Sorry, the file you have specified cannot be used.",SASHELP.FSP.OK.SLIST
+1675.0,IO_FILE_CANT_BE_USED,2.0,E,Please specify a new file name. Select <Reset> to,SASHELP.FSP.OK.SLIST
+1675.0,IO_FILE_CANT_BE_USED,3.0,E,try the default name.,SASHELP.FSP.OK.SLIST
+1676.0,IO_FILE_EXISTS,1.0,E,Specified file exists. Specify name of non-existing,SASHELP.FSP.OK.SLIST
+1676.0,IO_FILE_EXISTS,2.0,E,"file, or cancel.",SASHELP.FSP.OK.SLIST
+1677.0,IO_PSSWD_REQUIRED,1.0,N,A password is required for data set %$.,SASHELP.FSP.OK.SLIST
+1854.0,IO_DECLARE_UTIL_FILE,1.0,N,You must declare a utility file. Try again.,SASHELP.FSP.OK.SLIST
+1855.0,IO_DEV_4_GRPH_PRT,1.0,N,A hardcopy device is required for printing a graph.,SASHELP.FSP.OK.SLIST
+1856.0,IO_GRPH_SENT_2_DEV,1.0,N,The graph has been sent to the designated,SASHELP.FSP.OK.SLIST
+1856.0,IO_GRPH_SENT_2_DEV,2.0,N,"hardcopy device, %$.",SASHELP.FSP.OK.SLIST
+1857.0,IO_ANALY_FAILED,1.0,W,The analysis failed. Please check the log.,SASHELP.FSP.OK.SLIST
+1858.0,IO_ANALY_SENT_2_PRT,1.0,N,The analysis summary has been sent to the,SASHELP.FSP.OK.SLIST
+1858.0,IO_ANALY_SENT_2_PRT,2.0,N,designated printer.,SASHELP.FSP.OK.SLIST
+1859.0,IO_ANALY_SAVED,1.0,N,The analysis summary has been saved to %$.,SASHELP.FSP.OK.SLIST
+1860.0,IO_TXT_2_PRT,1.0,N,The text has been sent to the designated printer.,SASHELP.FSP.OK.SLIST
+1861.0,IO_TXT_SAVED,1.0,N,The text has been saved to %$.,SASHELP.FSP.OK.SLIST
+1862.0,IO_NO_GRPH,1.0,E,There is no graph to print.,SASHELP.FSP.OK.SLIST
+1863.0,IO_GRPH_SAVED_2_FILE,1.0,N,"The graph has been saved to file, %$.",SASHELP.FSP.OK.SLIST
+1871.0,IO_SELECT_ONE_VAR,1.0,N,Please select only one variable.,SASHELP.FSP.OK.SLIST
+1873.0,IO_SAVE_CHANGES_Q,1.0,Q,Do you want to save changes that have been made,SASHELP.FSP.DCS.SLIST
+1873.0,IO_SAVE_CHANGES_Q,2.0,Q,during this analysis session?,SASHELP.FSP.DCS.SLIST
+1875.0,IO_NO_UTIL_FILE,1.0,E,A utility file was not specified. The application,SASHELP.FSP.OK.SLIST
+1875.0,IO_NO_UTIL_FILE,2.0,E,cannot run without a utility file.,SASHELP.FSP.OK.SLIST
+1877.0,IO_SAMPLE_DATA_NOT_CREATED,1.0,N,You already have a data set or view named %$,SASHELP.FSP.OK.SLIST
+1877.0,IO_SAMPLE_DATA_NOT_CREATED,2.0,N,in your SASUSER library. The %$ sample data set,SASHELP.FSP.OK.SLIST
+1877.0,IO_SAMPLE_DATA_NOT_CREATED,3.0,N,will not be created.,SASHELP.FSP.OK.SLIST
+1901.0,IO_BY_NUM_KNOTLIST,1.0,N,"A number must follow the word ""by"" in the knot list.",SASHELP.FSP.OK.SLIST
+1902.0,IO_DEF_KNOTS_BY_NUMBERS,1.0,N,"Knots must be numbers or ""n"" to ""m"" by ""p"".",SASHELP.FSP.OK.SLIST
+1903.0,IN_SUCC_KNOTS,1.0,N,Successive knots cannot be smaller than previous,SASHELP.FSP.OK.SLIST
+1903.0,IN_SUCC_KNOTS,2.0,N,ones.,SASHELP.FSP.OK.SLIST
+1904.0,IO_BY_GT_ZERO,1.0,N,"The ""by"" number must be greater than 0.",SASHELP.FSP.OK.SLIST
+1905.0,IO_TO_NUM_KNOTLIST,1.0,N,"A number must follow the word ""to"" in the knot list.",SASHELP.FSP.OK.SLIST
+1906.0,IO_FROM_LT_TO,1.0,E,"The ""to"" number cannot be smaller than the ""from""",SASHELP.FSP.OK.SLIST
+1906.0,IO_FROM_LT_TO,2.0,E,number.,SASHELP.FSP.OK.SLIST
+1907.0,IO_NO_TO_B4_BY,1.0,E,"The ""by"" number was not preceded by a ""to"" number.",SASHELP.FSP.OK.SLIST
+1908.0,IO_INVALID_KNOT_VALUE,1.0,E,""" . "" is not a valid knot value.",SASHELP.FSP.OK.SLIST
+1909.0,IO_NO_CMDS_SAVED_4_PRTR,1.0,N,"Because you cancelled, no commands have been saved",SASHELP.FSP.OK.SLIST
+1909.0,IO_NO_CMDS_SAVED_4_PRTR,2.0,N,for this printer.,SASHELP.FSP.OK.SLIST
+1943.0,IN_RERUN_ANALYSIS,1.0,Q,"If you have changed the contents of the data set, the analysis may need to be rerun.",SASHELP.FSP.YN.SLIST
+1943.0,IN_RERUN_ANALYSIS,2.0,Q,%n%nDo you want to rerun the analysis?,SASHELP.FSP.YN.SLIST
+2420.0,IN_NO_FRACTIONAL_DIMENSIONS,1.0,N,Fractional dimensions are not allowed. The value has been truncated.,SASHELP.FSP.OK.SLIST
+2421.0,IN_NO_FRACTIONAL_ITERATIONS,1.0,N,Fractional iterations are not allowed. The value has been truncated.,SASHELP.FSP.OK.SLIST
+2869.0,IN_NO_CHARS_FOR_TABLE_LAYOUT,1.0,W,Table Layout does not allow character columns or rows.,SASHELP.FSP.OK.SLIST
+2869.0,IN_NO_CHARS_FOR_TABLE_LAYOUT,2.0,W,Please remove these variables before selecting Table Layout.,SASHELP.FSP.OK.SLIST
+3294.0,IO_UNABLE_TO_SAVE_FILE,1.0,E,%lUnable to save file.,SASHELP.FSP.OK.SLIST
+3294.0,IO_UNABLE_TO_SAVE_FILE,2.0,E,%1$,SASHELP.FSP.OK.SLIST
+3567.0,IN_EXIT_MARKET_APPLICATION,1.0,Q,Do you want to exit from the Market Research application?,SASHELP.FSP.YN.SLIST
+3568.0,IN_CREATE_MARKET_SAMPLE_DATASETS,1.0,Q,"Several sample data sets are available. If created,",SASHELP.FSP.YN.SLIST
+3568.0,IN_CREATE_MARKET_SAMPLE_DATASETS,2.0,Q,the data sets will be put in the SASUSER library.,SASHELP.FSP.YN.SLIST
+3568.0,IN_CREATE_MARKET_SAMPLE_DATASETS,3.0,Q,"%n%nSelect ""Yes"" to create the sample data sets.",SASHELP.FSP.YN.SLIST
+3569.0,IN_MANY_MARKET_SHARE_PRODUCTS,1.0,Q,You are requesting %1 combinations. The calculations may take some time.,SASHELP.FSP.YN.SLIST
+3569.0,IN_MANY_MARKET_SHARE_PRODUCTS,2.0,Q,%N%NDo you want to continue with the request?,SASHELP.FSP.YN.SLIST
+3571.0,IN_CORRESP_ID_VAR,1.0,E,"With Table Layout, one ID variable is allowed and it must be character.",SASHELP.FSP.OK.SLIST
+4015.0,IN_RERUN_WITH_SAME_SETTINGS,1.0,Q,No options or variable assignments have been changed. Do you want to rerun the analysis anyway?,SASHELP.FSP.YN.SLIST
+4055.0,IN_RERUN_UNCHANGED_ANALYSIS,1.0,Q,The variable assignments and options settings have not been changed.,SASHELP.FSP.YN.SLIST
+4055.0,IN_RERUN_UNCHANGED_ANALYSIS,2.0,Q,%n%nDo you want to rerun the analysis?,SASHELP.FSP.YN.SLIST
+4140.0,IO_SELECT_NUM_COLVARS_IN_TBLMODE,1.0,N,Please select some numeric column variables.,SASHELP.FSP.OK.SLIST
+4514.0,IO_HALT,1.0,E,Unable to perform function. Program halted due to,SASHELP.FSP.OK.SLIST
+4514.0,IO_HALT,2.0,E,an internal error.,SASHELP.FSP.OK.SLIST
+4535.0,IN_NO_CHARS_WITH_SCREEPLOT,1.0,N,A scree plot cannot be created for character variables.,SASHELP.FSP.OK.SLIST
+4536.0,IN_NO_CLASS_WITH_SCREEPLOT,1.0,N,The scree plot treats class variables as quantitative.,SASHELP.FSP.OK.SLIST

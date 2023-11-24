@@ -1,0 +1,21 @@
+product,feedcls,objtype,subtype,desc
+,foldfd,foldptr,,Folder
+,foldfd,dsptr,,Table
+,foldfd,libptr,,Library
+,foldfd,catptr,,Catalog
+,foldfd,cateptr,,Catalog Entry
+,foldfd,fileptr,,External File
+,foldfd,sascmd,,SAS Command
+,foldfd,hcmd,,External Command
+,foldfd,adoappl,,Desktop Application
+,logfeed,library,,Library
+,logfeed,file,,External File
+,libfeed,data,,Table
+,libfeed,catalog,,Catalog
+,libfeed,mddb,,
+,libfeed,fdb,,
+,libfeed,dmdb,,
+,libfeed,program,,
+,libfeed,access,,
+,libfeed,data,view,
+,catfeed,catentry,,Catalog Entry

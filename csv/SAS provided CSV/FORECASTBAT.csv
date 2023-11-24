@@ -1,0 +1,169 @@
+locale,key,lineno,text
+en,ABORTED_NOTE,1.0,%3zStopping %#1s due to errors.
+en,ACCEPTED_VALUES_ERROR,1.0,%1zAccepted values are: %#1s
+en,ARCHIVE_DELETED_NOTE,1.0,%3zArchive %#1s deleted.
+en,ARCHIVE_NOT_DELETED_ERROR,1.0,%1zArchive %#1s not deleted.
+en,AUTOMATIC_MIDTIER_NAME_NOTE,1.0,%3zAssuming default middle-tier name based on login type: %#1s
+en,COMBINATION_EVENT_ERROR,1.0,%1zA combination event cannot contain another combination event.
+en,CONFLICTING_ARGUMENTS_ERROR,1.0,%1zArguments %#1s and %#2s are in conflict.
+en,DATASET_VAR_ERROR,1.0,%1zData set %#2s (from argument %#1s=) does not exist.
+en,DEPRECATED_MACRO_WARNING,1.0,%2zMacro %#1s has been deprecated.
+en,DEPRECATION_WARNING,1.0,%2zThe parameter %#1s= is deprecated. The specified value has no effect.
+en,EMPTY_ARG_ERROR,1.0,%1zRequired argument %#1s= has no value.
+en,EMPTY_DATASET_ERROR,1.0,%1zData set %#1s contains no observations.
+en,EMPTY_DATASET_WARNING,1.0,%2zData set %#1s contains no observations.
+en,ENVIRONMENT_CREATED_NOTE,1.0,%3zEnvironment %#1s created.
+en,ENVIRONMENT_DELETED_NOTE,1.0,%3zEnvironment %#1s deleted.
+en,ENVIRONMENT_PATH_EXISTS_ERROR,1.0,%1zPath %#1s is already assigned to environment %#2s.
+en,ENVIRONMENT_PATH_USED_ERROR,1.0,%1zPath %#1s on the specified host has already been registered as an environment.
+en,ENVIRONMENT_REGISTERED_NOTE,1.0,%3zEnvironment %#1s registered.
+en,ENVIRONMENT_UNREGISTERED_NOTE,1.0,%3zEnvironment %#1s unregistered.
+en,EVENTS_DELETED_NOTE,1.0,%3zEvents deleted from project %#2s: %#1s
+en,EVENT_CREATED_NOTE,1.0,%3zEvent %#1s created in project %#2s.
+en,EVENT_EXISTS_ERROR,1.0,%1zEvent %#1s already exists.
+en,EVENT_REQUIRED_CHANGED_NOTE,1.0,%3zThe 'required' setting for event %#1s in project %#2s is now %#3s.
+en,EXCEPTION_CAUGHT_ERROR,1.0,%1zException caught in %#1s.
+en,INACCESSIBLE_DATASET_ERROR,1.0,%1zUnable to open data set %#1s.
+en,INVALID_INTERVAL_ERROR,1.0,%1zThe value '%#1s' is not a valid SAS time interval.
+en,INVALID_PATH_ERROR,1.0,%1zInvalid file system path: %#1s
+en,INVALID_SAS_NAME_ERROR,1.0,%3zThe value '%#1s' is not a valid SAS name.
+en,INVALID_VAR_ERROR,1.0,%1zArgument %#1s= has an invalid value.
+en,INVOKING_NOTE,1.0,%3zInvoking macro %#1s
+en,LEGACY_MSG1_ERROR,1.0,"%1zThe user, password, host, and sasEnvironment arguments on individual calls are deprecated."
+en,LEGACY_MSG2_ERROR,1.0,"%1zUse the fslogin and fslogout macros to manage sessions, and the midtier= argument (if necessary) to identify the target session on each call."
+en,LIST_LENGTH_MISMATCH_ERROR,1.0,%1zList lengths cannot differ: '%#1s' and '%#2s'
+en,LIST_VAR_ERROR,1.0,%1zArgument %#1s= can have only one value.
+en,LOOKUP_FAILED_WARNING,1.0,%2zNo stored value found for %#1s (identifier: %#2s\%#3s)
+en,MIDTIER_RESOLVE_MSG1_ERROR,1.0,"%1zCannot resolve midtier automatically. Global variable ""fslastm"" has no value."
+en,MIDTIER_RESOLVE_MSG2_ERROR,1.0,%1zThe session has either not been created or has already been closed.
+en,MISSING_COLUMNS_ERROR,1.0,%1zData set %#1s does not contain required column '%#2s'.
+en,MISSING_EVENTS_ERROR,1.0,%1zOne or more of the specified events does not exist.
+en,MISSING_PATHS_ERROR,1.0,%1zPaths for both the source and destination environment must be provided when performing actions that span servers.
+en,MISSING_VAR_ERROR,1.0,%1zMacro variable %#1s= does not exist.
+en,NO_ACTION_TAKEN_ERROR,1.0,%1zNo action was taken.
+en,NO_ENVIRONMENT_ERROR,1.0,%1zEnvironment %#1s does not exist.
+en,NO_PROJECT_ERROR,1.0,%1zProject %#1s does not exist.
+en,NO_PROJECT_VARS_NOTE,1.0,%3zNo project variables have been loaded.
+en,NO_PROJECT_WARN,1.0,%2zProject %#1s does not exist.
+en,NO_SESSION_ERROR,1.0,%1zSession does not exist.
+en,PROJECT_COPIED_NOTE,1.0,%3zProject %#2s (%#1s) copied to %#4s (%#3s).
+en,PROJECT_CREATED_NOTE,1.0,%3zProject %#1s created.
+en,PROJECT_DELETED_NOTE,1.0,%3zProject %#1s deleted.
+en,PROJECT_EXISTS_ERROR,1.0,%1zProject %#1s already exists.
+en,PROJECT_EXPORTED_NOTE,1.0,%3zProject %#1s exported to archive file %#2s.
+en,PROJECT_EXPORT_WARNING,1.0,%2zExport of project %#1s to archive file %#2s failed.
+en,PROJECT_IMPORTED_NOTE,1.0,%3zProject %#1s imported from archive file %#2s.
+en,PROJECT_IMPORT_WARNING,1.0,%2zImport of project %#1s from archive file %#2s failed.
+en,PROJECT_INPUT_CHANGED_NOTE,1.0,%3zProject %#1s input data set changed to %#2s.
+en,PROJECT_LOADED_NOTE,1.0,%3zProject %#1s macro variables loaded.
+en,PROJECT_MIGRATED_NOTE,1.0,%3zProject %#1s migrated.
+en,PROJECT_MIGRATION_WARNING,1.0,%2zMigration of project %#1s failed.
+en,PROJECT_MOVED_NOTE,1.0,%3zProject %#2s (%#1s) moved to %#4s (%#3s).
+en,PROJECT_OWNER_CHANGED_NOTE,1.0,%3zProject %#1s is now owned by %#2s.
+en,PROJECT_REGISTERED_NOTE,1.0,%3zProject %#1s registered.
+en,PROJECT_RENAMED_NOTE,1.0,%3zProject %#1s renamed to %#2s.
+en,PROJECT_RUN_NOTE,1.0,"%3zProject %#1s run (method=%#2s, importdata=%#3s)."
+en,PROJECT_SETTINGS_EXPORTED_NOTE,1.0,%3zSettings from project %#1s exported to file %#2s.
+en,PROJECT_SHARING_CHANGED_NOTE,1.0,%3zProject %#1s sharing is now set to %#2s.
+en,PROJECT_UNREGISTERED_NOTE,1.0,%3zProject %#1s unregistered.
+en,PROJECT_UPDATED_NOTE,1.0,%3zProject %#1s updated.
+en,PROJECT_VARS_CLEARED_NOTE,1.0,%3zProject variables have been cleared.
+en,REMOTE_ONLY_PATH_ERROR,1.0,%1zA corresponding local path must be specified when providing a remote path.
+en,REPORT_SUCCEEDED_NOTE,1.0,%3zReport execution succeeded. See %#1s for output.
+en,RESOLVED_VAR_NOTE,1.0,%3zResolved %#1s=%#2s
+en,RETURN_CODE_ERROR,1.0,%1zAction failed. Error code %#1s.
+en,SESSION_CLOSED_NOTE,1.0,%3zActive session on middle tier %#1s closed successfully.
+en,SESSION_NOT_CLOSED_ERROR,1.0,"%1zAttempt to close the active session on middle tier %#1s failed. If the session exists, then it has been dropped."
+en,SESSION_NOT_OPENED_ERROR,1.0,"%1zAttempt to create session on middle tier %#1s failed. If a session was partially created, then it has been dropped."
+en,SESSION_OPENED_LOCAL_NOTE,1.0,%3zSession created on embedded middle tier %#1s.
+en,SESSION_OPENED_REMOTE_NOTE,1.0,%3zSession created on remote middle tier %#1s.
+en,STOPPING_MACRO_NOTE,1.0,%3zStopping %#1s due to errors.
+en,TEMP_ARCHIVE_WARNING,1.0,%2zFailed to delete temporary archive file %#1s.
+en,TOO_MANY_DEP_VARS_ERROR,1.0,%1zCannot create hierarchy with more than 1 dependent variable.
+en,TRIMMISS_NOT_ALLOWED_ERROR,1.0,%1zTrimmiss must be set to NONE in a hierarchical project with reconciliation.
+en,UNREADABLE_DATASET_ERROR,1.0,%1zRead access to data set %#1s failed.
+en,VERSION_NOTE,1.0,%3z[%#1s] Version %#2s
+zh_CN,ABORTED_NOTE,1.0,%3z\u7531\u4e8e\u9519\u8bef\u505c\u6b62 %#1s\u3002
+zh_CN,ACCEPTED_VALUES_ERROR,1.0,%1z\u63a5\u53d7\u503c\u4e3a: %#1s
+zh_CN,ARCHIVE_DELETED_NOTE,1.0,%3z\u5df2\u5220\u9664\u5b58\u6863 %#1s\u3002
+zh_CN,ARCHIVE_NOT_DELETED_ERROR,1.0,%1z\u672a\u5220\u9664\u5b58\u6863 %#1s\u3002
+zh_CN,AUTOMATIC_MIDTIER_NAME_NOTE,1.0,%3z\u57fa\u4e8e\u767b\u5f55\u7c7b\u578b\u5047\u5b9a\u4f7f\u7528\u9ed8\u8ba4\u4e2d\u95f4\u5c42\u540d\u79f0: %#1s
+zh_CN,COMBINATION_EVENT_ERROR,1.0,%1z\u7ec4\u5408\u4e8b\u4ef6\u4e0d\u80fd\u5305\u542b\u53e6\u4e00\u4e2a\u7ec4\u5408\u4e8b\u4ef6\u3002
+zh_CN,CONFLICTING_ARGUMENTS_ERROR,1.0,%1z\u53c2\u6570 %#1s \u548c %#2s \u5b58\u5728\u51b2\u7a81\u3002
+zh_CN,DATASET_VAR_ERROR,1.0,%1z\u6570\u636e\u96c6 %#2s\uff08\u6765\u81ea\u53c2\u6570 %#1s=\uff09\u4e0d\u5b58\u5728\u3002
+zh_CN,DEPRECATED_MACRO_WARNING,1.0,%2z\u5b8f %#1s \u5df2\u5f03\u7528\u3002
+zh_CN,DEPRECATION_WARNING,1.0,%2z\u53c2\u6570 %#1s= \u5df2\u5f03\u7528\u3002\u6307\u5b9a\u7684\u503c\u6ca1\u6709\u6548\u679c\u3002
+zh_CN,EMPTY_ARG_ERROR,1.0,%1z\u5fc5\u9700\u7684\u53c2\u6570 %#1s= \u6ca1\u6709\u503c\u3002
+zh_CN,EMPTY_DATASET_ERROR,1.0,%1z\u6570\u636e\u96c6 %#1s \u4e0d\u5305\u542b\u89c2\u6d4b\u3002
+zh_CN,EMPTY_DATASET_WARNING,1.0,%2z\u6570\u636e\u96c6 %#1s \u4e0d\u5305\u542b\u89c2\u6d4b\u3002
+zh_CN,ENVIRONMENT_CREATED_NOTE,1.0,%3z\u5df2\u521b\u5efa\u73af\u5883 %#1s\u3002
+zh_CN,ENVIRONMENT_DELETED_NOTE,1.0,%3z\u5df2\u5220\u9664\u73af\u5883 %#1s\u3002
+zh_CN,ENVIRONMENT_PATH_EXISTS_ERROR,1.0,%1z\u8def\u5f84 %#1s \u5df2\u5206\u914d\u7ed9\u73af\u5883 %#2s\u3002
+zh_CN,ENVIRONMENT_PATH_USED_ERROR,1.0,%1z\u6307\u5b9a\u4e3b\u673a\u4e0a\u7684\u8def\u5f84 %#1s \u5df2\u6ce8\u518c\u4e3a\u73af\u5883\u3002
+zh_CN,ENVIRONMENT_REGISTERED_NOTE,1.0,%3z\u5df2\u6ce8\u518c\u73af\u5883 %#1s\u3002
+zh_CN,ENVIRONMENT_UNREGISTERED_NOTE,1.0,%3z\u5df2\u6ce8\u9500\u73af\u5883 %#1s\u3002
+zh_CN,EVENTS_DELETED_NOTE,1.0,%3z\u4e8b\u4ef6\u5df2\u4ece\u9879\u76ee %#2s \u4e2d\u5220\u9664: %#1s
+zh_CN,EVENT_CREATED_NOTE,1.0,%3z\u5df2\u5728\u9879\u76ee %#2s \u4e2d\u521b\u5efa\u4e8b\u4ef6 %#1s\u3002
+zh_CN,EVENT_EXISTS_ERROR,1.0,%1z\u4e8b\u4ef6 %#1s \u5df2\u5b58\u5728\u3002
+zh_CN,EVENT_REQUIRED_CHANGED_NOTE,1.0,%3z\u9879\u76ee %#2s \u4e2d\u4e8b\u4ef6 %#1s \u7684\u201c\u5fc5\u9700\u201d\u8bbe\u7f6e\u73b0\u5728\u4e3a\u201c%#3s\u201d\u3002
+zh_CN,EXCEPTION_CAUGHT_ERROR,1.0,%1z%#1s \u4e2d\u6355\u83b7\u5f02\u5e38\u3002
+zh_CN,INACCESSIBLE_DATASET_ERROR,1.0,%1z\u65e0\u6cd5\u6253\u5f00\u6570\u636e\u96c6 %#1s\u3002
+zh_CN,INVALID_INTERVAL_ERROR,1.0,%1z\u503c\u201c%#1s\u201d\u4e0d\u662f\u6709\u6548\u7684 SAS \u65f6\u95f4\u95f4\u9694\u3002
+zh_CN,INVALID_PATH_ERROR,1.0,%1z\u6587\u4ef6\u7cfb\u7edf\u8def\u5f84\u65e0\u6548: %#1s
+zh_CN,INVALID_SAS_NAME_ERROR,1.0,%3z\u503c\u201c%#1s\u201d\u4e0d\u662f\u6709\u6548\u7684 SAS \u540d\u79f0\u3002
+zh_CN,INVALID_VAR_ERROR,1.0,%1z\u53c2\u6570 %#1s= \u5305\u542b\u65e0\u6548\u503c\u3002
+zh_CN,INVOKING_NOTE,1.0,%3z\u8c03\u7528\u5b8f %#1s
+zh_CN,LEGACY_MSG1_ERROR,1.0,%1z\u5355\u4e2a\u8c03\u7528\u7684 user\u3001password\u3001host \u548c sasEnvironment \u53c2\u6570\u5df2\u5f03\u7528\u3002
+zh_CN,LEGACY_MSG2_ERROR,1.0,%1z\u4f7f\u7528 fslogin \u548c fslogout \u5b8f\u7ba1\u7406\u4f1a\u8bdd\uff0c\u4f7f\u7528 midtier= \u53c2\u6570\uff08\u82e5\u6709\u5fc5\u8981\uff09\u6807\u8bc6\u6bcf\u4e2a\u8c03\u7528\u7684\u76ee\u6807\u4f1a\u8bdd\u3002
+zh_CN,LIST_LENGTH_MISMATCH_ERROR,1.0,%1z\u5217\u8868\u957f\u5ea6\u4e0d\u80fd\u6709\u5dee\u522b:\u201c%#1s\u201d\u548c\u201c%#2s\u201d
+zh_CN,LIST_VAR_ERROR,1.0,%1z\u53c2\u6570 %#1s= \u53ea\u80fd\u6709\u4e00\u4e2a\u503c\u3002
+zh_CN,LOOKUP_FAILED_WARNING,1.0,%2z\u6ca1\u6709\u4e3a %#1s \u627e\u5230\u5b58\u50a8\u503c\uff08\u6807\u8bc6\u7b26: %#2s\%#3s\uff09
+zh_CN,MIDTIER_RESOLVE_MSG1_ERROR,1.0,%1z\u65e0\u6cd5\u81ea\u52a8\u89e3\u6790\u4e2d\u95f4\u5c42\u3002\u5168\u5c40\u53d8\u91cf\u201cfslastm\u201d\u6ca1\u6709\u503c\u3002
+zh_CN,MIDTIER_RESOLVE_MSG2_ERROR,1.0,%1z\u6ca1\u6709\u521b\u5efa\u4f1a\u8bdd\u6216\u5df2\u5173\u95ed\u4f1a\u8bdd\u3002
+zh_CN,MISSING_COLUMNS_ERROR,1.0,%1z\u6570\u636e\u96c6 %#1s \u672a\u5305\u542b\u5fc5\u9700\u5217\u201c%#2s\u201d\u3002
+zh_CN,MISSING_EVENTS_ERROR,1.0,%1z\u4e00\u4e2a\u6216\u591a\u4e2a\u6307\u5b9a\u7684\u4e8b\u4ef6\u4e0d\u5b58\u5728\u3002
+zh_CN,MISSING_PATHS_ERROR,1.0,%1z\u5f53\u6267\u884c\u8de8\u670d\u52a1\u5668\u7684\u64cd\u4f5c\u65f6\uff0c\u5fc5\u987b\u63d0\u4f9b\u6e90\u73af\u5883\u548c\u76ee\u6807\u73af\u5883\u7684\u8def\u5f84\u3002
+zh_CN,MISSING_VAR_ERROR,1.0,%1z\u5b8f\u53d8\u91cf %#1s= \u4e0d\u5b58\u5728\u3002
+zh_CN,NO_ACTION_TAKEN_ERROR,1.0,%1z\u672a\u6267\u884c\u64cd\u4f5c\u3002
+zh_CN,NO_ENVIRONMENT_ERROR,1.0,%1z\u73af\u5883 %#1s \u4e0d\u5b58\u5728\u3002
+zh_CN,NO_PROJECT_ERROR,1.0,%1z\u9879\u76ee %#1s \u4e0d\u5b58\u5728\u3002
+zh_CN,NO_PROJECT_VARS_NOTE,1.0,%3z\u672a\u52a0\u8f7d\u9879\u76ee\u53d8\u91cf\u3002
+zh_CN,NO_PROJECT_WARN,1.0,%2z\u9879\u76ee %#1s \u4e0d\u5b58\u5728\u3002
+zh_CN,NO_SESSION_ERROR,1.0,%1z\u4f1a\u8bdd\u4e0d\u5b58\u5728\u3002
+zh_CN,PROJECT_COPIED_NOTE,1.0,%3z\u9879\u76ee %#2s (%#1s) \u5df2\u590d\u5236\u5230 %#4s (%#3s)\u3002
+zh_CN,PROJECT_CREATED_NOTE,1.0,%3z\u5df2\u521b\u5efa\u9879\u76ee %#1s\u3002
+zh_CN,PROJECT_DELETED_NOTE,1.0,%3z\u5df2\u5220\u9664\u9879\u76ee %#1s\u3002
+zh_CN,PROJECT_EXISTS_ERROR,1.0,%1z\u9879\u76ee %#1s \u5df2\u5b58\u5728\u3002
+zh_CN,PROJECT_EXPORTED_NOTE,1.0,%3z\u9879\u76ee %#1s \u5df2\u5bfc\u51fa\u81f3\u5b58\u6863\u6587\u6863 %#2s\u3002
+zh_CN,PROJECT_EXPORT_WARNING,1.0,%2z\u9879\u76ee %#1s \u5bfc\u51fa\u81f3\u5b58\u6863\u6587\u4ef6 %#2s \u5931\u8d25\u3002
+zh_CN,PROJECT_IMPORTED_NOTE,1.0,%3z\u5df2\u4ece\u5b58\u6863\u6587\u4ef6 %#2s \u4e2d\u5bfc\u5165\u9879\u76ee %#1s\u3002
+zh_CN,PROJECT_IMPORT_WARNING,1.0,%2z\u4ece\u5b58\u6863\u6587\u4ef6 %#2s \u5bfc\u5165\u9879\u76ee %#1s \u5931\u8d25\u3002
+zh_CN,PROJECT_INPUT_CHANGED_NOTE,1.0,%3z\u9879\u76ee %#1s \u8f93\u5165\u6570\u636e\u96c6\u5df2\u66f4\u6539\u4e3a %#2s\u3002
+zh_CN,PROJECT_LOADED_NOTE,1.0,%3z\u5df2\u52a0\u8f7d\u9879\u76ee %#1s \u5b8f\u53d8\u91cf\u3002
+zh_CN,PROJECT_MIGRATED_NOTE,1.0,%3z\u5df2\u8fc1\u79fb\u9879\u76ee %#1s\u3002
+zh_CN,PROJECT_MIGRATION_WARNING,1.0,%2z\u9879\u76ee %#1s \u8fc1\u79fb\u5931\u8d25\u3002
+zh_CN,PROJECT_MOVED_NOTE,1.0,%3z\u9879\u76ee %#2s (%#1s) \u5df2\u79fb\u81f3 %#4s (%#3s)\u3002
+zh_CN,PROJECT_OWNER_CHANGED_NOTE,1.0,%3z\u9879\u76ee %#1s \u73b0\u5728\u5f52 %#2s \u6240\u6709\u3002
+zh_CN,PROJECT_REGISTERED_NOTE,1.0,%3z\u5df2\u6ce8\u518c\u9879\u76ee %#1s\u3002
+zh_CN,PROJECT_RENAMED_NOTE,1.0,%3z\u9879\u76ee %#1s \u5df2\u91cd\u547d\u540d\u4e3a %#2s\u3002
+zh_CN,PROJECT_RUN_NOTE,1.0,%3z\u9879\u76ee %#1s \u8fd0\u884c\uff08method=%#2s\uff0cimportdata=%#3s\uff09\u3002
+zh_CN,PROJECT_SETTINGS_EXPORTED_NOTE,1.0,%3z\u9879\u76ee %#1s \u4e2d\u7684\u8bbe\u7f6e\u5df2\u5bfc\u51fa\u81f3\u6587\u4ef6 %#2s\u3002
+zh_CN,PROJECT_SHARING_CHANGED_NOTE,1.0,%3z\u9879\u76ee %#1s \u5171\u4eab\u73b0\u5728\u8bbe\u7f6e\u4e3a %#2s\u3002
+zh_CN,PROJECT_UNREGISTERED_NOTE,1.0,%3z\u5df2\u6ce8\u9500\u9879\u76ee %#1s\u3002
+zh_CN,PROJECT_UPDATED_NOTE,1.0,%3z\u5df2\u66f4\u65b0\u9879\u76ee %#1s\u3002
+zh_CN,PROJECT_VARS_CLEARED_NOTE,1.0,%3z\u5df2\u6e05\u9664\u9879\u76ee\u53d8\u91cf\u3002
+zh_CN,REMOTE_ONLY_PATH_ERROR,1.0,%1z\u5f53\u63d0\u4f9b\u8fdc\u7a0b\u8def\u5f84\u65f6\uff0c\u5fc5\u987b\u6307\u5b9a\u76f8\u5e94\u7684\u672c\u5730\u8def\u5f84\u3002
+zh_CN,REPORT_SUCCEEDED_NOTE,1.0,%3z\u62a5\u8868\u6267\u884c\u6210\u529f\u3002\u8bf7\u53c2\u89c1 %#1s \u83b7\u53d6\u8f93\u51fa\u3002
+zh_CN,RESOLVED_VAR_NOTE,1.0,%3z\u5df2\u89e3\u6790 %#1s=%#2s
+zh_CN,RETURN_CODE_ERROR,1.0,%1z\u64cd\u4f5c\u5931\u8d25\u3002\u9519\u8bef\u4ee3\u7801 %#1s\u3002
+zh_CN,SESSION_CLOSED_NOTE,1.0,%3z\u4e2d\u95f4\u5c42 %#1s \u4e0a\u7684\u6d3b\u52a8\u4f1a\u8bdd\u5df2\u6210\u529f\u5173\u95ed\u3002
+zh_CN,SESSION_NOT_CLOSED_ERROR,1.0,%1z\u5c1d\u8bd5\u5173\u95ed\u4e2d\u95f4\u5c42 %#1s \u4e0a\u7684\u6d3b\u52a8\u4f1a\u8bdd\u5931\u8d25\u3002\u82e5\u4f1a\u8bdd\u5b58\u5728\uff0c\u5219\u5b83\u5df2\u5220\u9664\u3002
+zh_CN,SESSION_NOT_OPENED_ERROR,1.0,%1z\u5c1d\u8bd5\u5728\u4e2d\u95f4\u5c42 %#1s \u4e0a\u521b\u5efa\u4f1a\u8bdd\u5931\u8d25\u3002\u82e5\u521b\u5efa\u4e86\u90e8\u5206\u4f1a\u8bdd\uff0c\u5219\u5b83\u5df2\u5220\u9664\u3002
+zh_CN,SESSION_OPENED_LOCAL_NOTE,1.0,%3z\u5d4c\u5165\u7684\u4e2d\u95f4\u5c42 %#1s \u4e0a\u5df2\u521b\u5efa\u4f1a\u8bdd\u3002
+zh_CN,SESSION_OPENED_REMOTE_NOTE,1.0,%3z\u8fdc\u7a0b\u4e2d\u95f4\u5c42 %#1s \u4e0a\u5df2\u521b\u5efa\u4f1a\u8bdd\u3002
+zh_CN,STOPPING_MACRO_NOTE,1.0,%3z\u7531\u4e8e\u9519\u8bef\u505c\u6b62 %#1s\u3002
+zh_CN,TEMP_ARCHIVE_WARNING,1.0,%2z\u672a\u80fd\u5220\u9664\u4e34\u65f6\u5b58\u6863\u6587\u4ef6 %#1s\u3002
+zh_CN,TOO_MANY_DEP_VARS_ERROR,1.0,%1z\u65e0\u6cd5\u521b\u5efa\u5305\u542b\u591a\u4e8e 1 \u4e2a\u56e0\u53d8\u91cf\u7684\u5c42\u6b21\u3002
+zh_CN,TRIMMISS_NOT_ALLOWED_ERROR,1.0,%1z\u5728\u5e26\u8c03\u8282\u7684\u5c42\u6b21\u9879\u76ee\u4e2d\uff0cTrimmiss \u5fc5\u987b\u8bbe\u7f6e\u4e3a NONE\u3002
+zh_CN,UNREADABLE_DATASET_ERROR,1.0,%1z\u8bfb\u53d6\u8bbf\u95ee\u6570\u636e\u96c6 %#1s \u5931\u8d25\u3002
+zh_CN,VERSION_NOTE,1.0,%3z[%#1s] \u7248\u672c %#2s

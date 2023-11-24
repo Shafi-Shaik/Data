@@ -1,0 +1,14 @@
+fileref,xpath,xengine,modate,filesize,level,directory,exists,temporary
+_TOMODS1,/saswork/SAS_work9422000102FB_odaws01-apse1.oda.sas.com/SAS_workD035000102FB_odaws01-apse1.oda.sas.com/_tomods1,DISK,2023-10-27 06:56:18,0.0,0.0,no,yes,no
+#LN00017,/pbr/sfw/sas/940/SASFoundation/9.4/misc/connect,DISK,2018-03-20 13:27:41,4096.0,1.0,yes,yes,yes
+#LN00017,/pbr/sfw/sas/940/SASFoundation/9.4/samples/connect,DISK,2018-03-20 13:27:41,4096.0,2.0,yes,yes,yes
+#LN00003,/pbr/biconfig/940/Lev1/SASApp/WorkspaceServer/autoexec.sas,DISK,2014-08-14 04:12:45,390.0,0.0,no,yes,yes
+#LN00001,/pbr/sfw/sas/940/SASFoundation/9.4/sasmsg,DISK,2022-12-19 20:09:09,4096.0,0.0,yes,yes,yes
+STDIN,<standard input>,DISK,1960-01-01 00:00:00,0.0,0.0,no,yes,no
+STDOUT,<standard output>,DISK,1960-01-01 00:00:00,0.0,0.0,no,yes,no
+STDERR,<standard error>,DISK,1960-01-01 00:00:00,0.0,0.0,no,yes,no
+FILDES04,<File Descriptor 04>,PIPE,1960-01-01 00:00:00,0.0,0.0,no,yes,no
+FILDES07,<File Descriptor 07>,PIPE,1960-01-01 00:00:00,0.0,0.0,no,yes,no
+FILDES08,<File Descriptor 08>,DISK,1960-01-01 00:00:00,0.0,0.0,no,yes,no
+#LN00002,/pbr/sfw/sas/940/SASFoundation/9.4/misc/connect,DISK,2018-03-20 13:27:41,4096.0,1.0,yes,yes,yes
+#LN00002,/pbr/sfw/sas/940/SASFoundation/9.4/samples/connect,DISK,2018-03-20 13:27:41,4096.0,2.0,yes,yes,yes

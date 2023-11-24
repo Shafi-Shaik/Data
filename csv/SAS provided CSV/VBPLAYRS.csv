@@ -1,0 +1,12 @@
+NAME,EMAIL,TUESDAY,FRIDAY
+John Doe,john_doe@acme.com,N,Y
+Joe Smith,joe_smith@acme.com,N,Y
+Becky Smith,becky_smith@acme.com,Y,Y
+Charlie Thomas,charlie_thomas@acme.com,Y,N
+Daniel Jones,daniel_jones@acme.com,N,Y
+Scott Arnold,scott_arnold@acme.com,Y,Y
+Paul Libowitz,paul_libowitz@acme.com,N,Y
+Michael Adams,michael_adams@acme.com,N,Y
+Richard Barnes,richard_barnes@acme.com,Y,N
+Christine Doe,christine_doe@acme.com,N,N
+Ryan Barnette,ryan_barnette@acme.com,Y,N

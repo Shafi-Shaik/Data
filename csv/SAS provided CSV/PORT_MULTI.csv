@@ -1,0 +1,801 @@
+role,Term,numdocs
+Prep,a despeito da,3.0
+Prep,a despeito das,1.0
+Prep,a despeito de,2.0
+Prep,a despeito do,2.0
+Prep,a despeito dos,2.0
+Prep,a favor da,584.0
+Prep,a favor da qual,2.0
+Prep,a favor daquele,2.0
+Prep,a favor daqueles,1.0
+Prep,a favor das,537.0
+Prep,a favor de,473.0
+Prep,a favor dessa,4.0
+Prep,a favor dessas,6.0
+Prep,a favor desse,3.0
+Prep,a favor desses,6.0
+Prep,a favor desta,15.0
+Prep,a favor destas,10.0
+Prep,a favor deste,9.0
+Prep,a favor destes,8.0
+Prep,a favor do,423.0
+Prep,a favor do qual,2.0
+Prep,a favor dos,411.0
+Prep,a favor dos quais,4.0
+Prep,a fim da,2.0
+Prep,a fim de,6800.0
+Conj,a fim de que,452.0
+Prep,a fim do,1.0
+Conj,a menos que,796.0
+Conj,a não ser que,475.0
+Prep,a par da,69.0
+Prep,a par das,41.0
+Prep,a par de,73.0
+Prep,a par desta,3.0
+Prep,a par deste,2.0
+Prep,a par disso,6.0
+Prep,a par do,32.0
+Prep,a par dos,30.0
+Prep,a partir da,2693.0
+Prep,a partir da qual,248.0
+Prep,a partir daquela,9.0
+Prep,a partir daquelas,5.0
+Prep,a partir daquele,4.0
+Prep,a partir daqueles,2.0
+Prep,a partir das,500.0
+Prep,a partir das quais,71.0
+Prep,a partir daí,33.0
+Prep,a partir de,6667.0
+Prep,a partir dela,10.0
+Prep,a partir delas,7.0
+Prep,a partir dele,6.0
+Prep,a partir deles,23.0
+Prep,a partir dessa,273.0
+Prep,a partir dessas,70.0
+Prep,a partir desse,66.0
+Prep,a partir desses,52.0
+Prep,a partir desta,98.0
+Prep,a partir destas,23.0
+Prep,a partir deste,35.0
+Prep,a partir destes,24.0
+Prep,a partir do,1915.0
+Prep,a partir do qual,212.0
+Prep,a partir dos,552.0
+Prep,a partir dos quais,292.0
+Prep,a partir dum,2.0
+Prep,a partir duma,2.0
+Pron,a qual,1666.0
+Prep,a respeito da,94.0
+Prep,a respeito da qual,5.0
+Prep,a respeito das,34.0
+Prep,a respeito das quais,18.0
+Prep,a respeito de,49.0
+Prep,a respeito dessa,2.0
+Prep,a respeito dessas,2.0
+Prep,a respeito desse,3.0
+Prep,a respeito destas,1.0
+Prep,a respeito destes,3.0
+Prep,a respeito do,39.0
+Prep,a respeito do qual,5.0
+Prep,a respeito dos,39.0
+Prep,a respeito dos quais,218.0
+Prep,abaixo da,147.0
+Prep,abaixo da qual,20.0
+Prep,abaixo daquela,1.0
+Prep,abaixo daquele,1.0
+Prep,abaixo daqueles,2.0
+Prep,abaixo das,36.0
+Prep,abaixo de,160.0
+Prep,abaixo dela,3.0
+Prep,abaixo dessa,6.0
+Prep,abaixo dessas,1.0
+Prep,abaixo desse,15.0
+Prep,abaixo desses,3.0
+Prep,abaixo desta,1.0
+Prep,abaixo destas,2.0
+Prep,abaixo deste,10.0
+Prep,abaixo destes,3.0
+Prep,abaixo do,331.0
+Prep,abaixo do qual,77.0
+Prep,abaixo do que,2.0
+Prep,abaixo dos,119.0
+Prep,abaixo dos quais,37.0
+Prep,acerca da,276.0
+Prep,acerca da qual,2.0
+Prep,acerca das,178.0
+Prep,acerca das quais,4.0
+Prep,acerca de,103.0
+Prep,acerca deles,3.0
+Prep,acerca dessa,1.0
+Prep,acerca dessas,13.0
+Prep,acerca desse,3.0
+Prep,acerca desses,5.0
+Prep,acerca desta,3.0
+Prep,acerca destas,4.0
+Prep,acerca deste,6.0
+Prep,acerca destes,4.0
+Prep,acerca do,158.0
+Prep,acerca do qual,4.0
+Prep,acerca dos,155.0
+Prep,acerca dos quais,4.0
+Prep,acerca dum,3.0
+Prep,acima da,150.0
+Prep,acima da qual,3.0
+Prep,acima daquela,1.0
+Prep,acima daquele,4.0
+Prep,acima das,26.0
+Prep,acima das quais,1.0
+Prep,acima de,202.0
+Prep,acima dele,3.0
+Prep,acima dessa,1.0
+Prep,acima dessas,2.0
+Prep,acima desse,10.0
+Prep,acima desses,2.0
+Prep,acima desta,3.0
+Prep,acima destas,1.0
+Prep,acima deste,11.0
+Prep,acima destes,1.0
+Prep,acima do,307.0
+Prep,acima do qual,20.0
+Prep,acima dos,96.0
+Prep,acima dos quais,9.0
+Prep,adiante da,1.0
+Prep,adiante do,2.0
+Conj,ainda que,1153.0
+Pron,alguma coisa,2.0
+Prep,além da,883.0
+Prep,além da qual,4.0
+Prep,além daquela,1.0
+Prep,além daquelas,21.0
+Prep,além daquele,7.0
+Prep,além daqueles,11.0
+Prep,além daquilo,3.0
+Prep,além das,1227.0
+Prep,além das quais,2.0
+Prep,além de,853.0
+Prep,além dela,5.0
+Prep,além deles,4.0
+Prep,além dessa,24.0
+Prep,além dessas,14.0
+Prep,além desse,24.0
+Prep,além desses,9.0
+Prep,além desta,44.0
+Prep,além destas,60.0
+Prep,além deste,36.0
+Prep,além destes,83.0
+Prep,além disso,4258.0
+Prep,além disto,9.0
+Prep,além do,1097.0
+Prep,além do qual,9.0
+Prep,além do que,51.0
+Prep,além dos,1038.0
+Prep,além dos quais,12.0
+Prep,antes da,3396.0
+Prep,antes da qual,6.0
+Prep,antes daquela,24.0
+Prep,antes daquele,3.0
+Prep,antes das,189.0
+Prep,antes das quais,3.0
+Prep,antes de,3716.0
+Prep,antes dessa,282.0
+Prep,antes dessas,7.0
+Prep,antes desse,18.0
+Prep,antes desses,1.0
+Prep,antes desta,70.0
+Prep,antes destas,5.0
+Prep,antes deste,14.0
+Prep,antes destes,4.0
+Prep,antes disso,6.0
+Prep,antes do,2115.0
+Prep,antes do qual,3.0
+Prep,antes do que,2.0
+Prep,antes dos,123.0
+Conj,antes que,104.0
+Prep,ao lado da,27.0
+Prep,ao lado das,13.0
+Prep,ao lado de,12.0
+Prep,ao lado do,31.0
+Prep,ao lado dos,16.0
+Prep,ao longo da,488.0
+Prep,ao longo das,100.0
+Prep,ao longo de,600.0
+Prep,ao longo dessa,6.0
+Prep,ao longo dessas,1.0
+Prep,ao longo desse,13.0
+Prep,ao longo desses,2.0
+Prep,ao longo desta,2.0
+Prep,ao longo destas,1.0
+Prep,ao longo deste,19.0
+Prep,ao longo destes,5.0
+Prep,ao longo do,652.0
+Prep,ao longo do qual,8.0
+Prep,ao longo dos,236.0
+Prep,ao longo dos quais,1.0
+Conj,ao passo que,358.0
+Prep,ao qual,964.0
+Prep,ao que,426.0
+Prep,aos quais,1670.0
+Prep,apesar da,233.0
+Prep,apesar das,230.0
+Prep,apesar de,573.0
+Prep,apesar dessa,9.0
+Prep,apesar dessas,4.0
+Prep,apesar desse,1.0
+Prep,apesar desses,2.0
+Prep,apesar desta,16.0
+Prep,apesar destas,8.0
+Prep,apesar deste,16.0
+Prep,apesar destes,15.0
+Prep,apesar disso,68.0
+Prep,apesar disto,2.0
+Prep,apesar do,157.0
+Prep,apesar do que,4.0
+Prep,apesar dos,128.0
+Pron,as quais,1821.0
+Conj,assim como,2518.0
+Conj,assim que,392.0
+Prep,através da,3209.0
+Prep,através da qual,525.0
+Prep,através daquela,1.0
+Prep,através daquelas,3.0
+Prep,através das,617.0
+Prep,através das quais,49.0
+Prep,através de,3971.0
+Prep,através dela,12.0
+Prep,através delas,4.0
+Prep,através dele,5.0
+Prep,através deles,8.0
+Prep,através dessa,21.0
+Prep,através dessas,54.0
+Prep,através desse,19.0
+Prep,através desses,33.0
+Prep,através desta,40.0
+Prep,através destas,11.0
+Prep,através deste,51.0
+Prep,através destes,19.0
+Prep,através disso,2.0
+Prep,através do,2272.0
+Prep,através do qual,184.0
+Prep,através dos,779.0
+Prep,através dos quais,120.0
+Prep,através dum,8.0
+Prep,através duma,8.0
+Prep,atrás da,24.0
+Prep,atrás da qual,1.0
+Prep,atrás das,4.0
+Prep,atrás de,19.0
+Prep,atrás dessas,2.0
+Prep,atrás desta,2.0
+Prep,atrás deste,2.0
+Prep,atrás do,37.0
+Prep,atrás dos,8.0
+Prep,atrás dos quais,2.0
+Prep,até a,137.0
+Prep,até ao,2713.0
+Prep,até ao qual,14.0
+Prep,até aos,226.0
+Prep,até aos quais,2.0
+Conj,até que,882.0
+Prep,até à,2050.0
+Prep,até à qual,36.0
+Prep,até àquela,8.0
+Prep,até àquele,4.0
+Prep,até àqueles,1.0
+Prep,até às,193.0
+Prep,até às quais,17.0
+Conj,bem como,8573.0
+Conj,bem que,22.0
+Pron,cada um,2316.0
+Pron,cada uma,1637.0
+Conj,cada vez que,56.0
+Pron,cento e cinquenta,11.0
+Pron,cento e oitenta,10.0
+Pron,cento e vinte,12.0
+Prep,cerca da,4.0
+Prep,cerca das,10.0
+Prep,cerca de,1608.0
+Prep,cerca do,13.0
+Prep,cerca dos,2.0
+Adj,chave na mão,7.0
+Pron,cinco mil,9.0
+Pron,cinquenta e dois,5.0
+Pron,cinquenta e duas,2.0
+Pron,cinquenta e quatro,15.0
+Conj,claro que,242.0
+Adv,com certeza,19.0
+Conj,com que,721.0
+Conj,como se,676.0
+Pron,como tais,54.0
+Pron,como tal,558.0
+Conj,contanto que,118.0
+Prep,da frente da,13.0
+Prep,da frente das,1.0
+Prep,da frente de,12.0
+Prep,da frente do,45.0
+Prep,da frente dos,11.0
+Prep,da qual,594.0
+Conj,dado que,1716.0
+Prep,das quais,700.0
+Prep,de acordo com,6757.0
+Adv,de antemão,22.0
+Prep,de baixo da,4.0
+Prep,de baixo do,2.0
+Prep,de baixo dos,1.0
+Adv,de cima,40.0
+Prep,de cima da,3.0
+Prep,de cima do,2.0
+Adv,de dentro,13.0
+Prep,de dentro das,1.0
+Prep,de dentro de,5.0
+Prep,de dentro do,3.0
+Prep,de fora da,48.0
+Prep,de fora das,4.0
+Prep,de fora de,5.0
+Prep,de fora dessa,8.0
+Prep,de fora dessas,1.0
+Prep,de fora do,4.0
+Prep,de fora do que,2.0
+Prep,de fora dos,3.0
+Conj,de forma que,226.0
+Adv,de longe,63.0
+Conj,de maneira que,77.0
+Conj,de modo que,313.0
+Adv,de muito,83.0
+Adv,de novo,576.0
+Adv,de per si,6.0
+Adv,de perto,191.0
+Adv,de pouco,18.0
+Adv,de todo,424.0
+Prep,de trás da,5.0
+Prep,de trás de,3.0
+Prep,de trás do,16.0
+Prep,de trás dos,2.0
+Adv,de vez em quando,29.0
+Prep,debaixo da,10.0
+Prep,debaixo das,5.0
+Prep,debaixo de,28.0
+Prep,debaixo do,8.0
+Prep,debaixo dos,6.0
+Prep,dentro da,457.0
+Prep,dentro da qual,10.0
+Prep,dentro daquele,16.0
+Prep,dentro das,185.0
+Prep,dentro das quais,3.0
+Prep,dentro de,836.0
+Prep,dentro dela,4.0
+Prep,dentro delas,5.0
+Prep,dentro dele,8.0
+Prep,dentro dessa,14.0
+Prep,dentro dessas,4.0
+Prep,dentro desse,64.0
+Prep,dentro desses,9.0
+Prep,dentro desta,14.0
+Prep,dentro destas,1.0
+Prep,dentro deste,27.0
+Prep,dentro destes,22.0
+Prep,dentro do,1153.0
+Prep,dentro do qual,62.0
+Prep,dentro dos,987.0
+Prep,dentro dos quais,32.0
+Prep,dentro dum,5.0
+Prep,dentro duma,1.0
+Prep,depois da,626.0
+Prep,depois da qual,4.0
+Prep,depois daquela,15.0
+Prep,depois daqueles,2.0
+Prep,depois das,52.0
+Prep,depois de,1713.0
+Prep,depois dela,4.0
+Prep,depois dessa,39.0
+Prep,depois desse,6.0
+Prep,depois desses,2.0
+Prep,depois desta,24.0
+Prep,depois destas,11.0
+Prep,depois deste,14.0
+Prep,depois destes,3.0
+Prep,depois disso,17.0
+Prep,depois disto,2.0
+Prep,depois do,348.0
+Prep,depois do qual,2.0
+Prep,depois do que,4.0
+Prep,depois dos,43.0
+Conj,desde que,4460.0
+Prep,detrás da,1.0
+Prep,detrás do,1.0
+Prep,devido a,1099.0
+Prep,devido ao,982.0
+Prep,devido aos,322.0
+Prep,devido aos quais,1.0
+Prep,devido à,1865.0
+Prep,devido à qual,1.0
+Prep,devido àquela,1.0
+Prep,devido àquelas,1.0
+Prep,devido às,576.0
+Pron,dez mil,5.0
+Prep,diante da,2.0
+Prep,diante de,4.0
+Prep,diante do,3.0
+Prep,diante dos,2.0
+Prep,do lado da,63.0
+Prep,do lado das,12.0
+Prep,do lado de,8.0
+Prep,do lado do,47.0
+Prep,do lado dos,10.0
+Prep,do pé do,4.0
+Prep,do qual,1082.0
+Conj,do que,2089.0
+Pron,dois mil,8.0
+Pron,dois mil e cinco,18.0
+Pron,dois mil e dois,2.0
+Pron,dois mil e quatro,24.0
+Pron,dois mil e seis,26.0
+Pron,dois mil e três,5.0
+Pron,dois mil e um,3.0
+Prep,dos quais,1165.0
+Pron,duas mil,2.0
+Pron,duzentas e duas,2.0
+Pron,duzentos e sessenta e quatro,2.0
+Adv,e assim por diante,3.0
+Adv,e tal,129.0
+Prep,em atenção a,39.0
+Prep,em baixo da,5.0
+Prep,em baixo de,2.0
+Prep,em baixo deste,2.0
+Prep,em baixo dos,1.0
+Adv,em cima,30.0
+Prep,em cima da,5.0
+Prep,em cima de,6.0
+Prep,em cima do,8.0
+Prep,em cima dos,1.0
+Prep,em face da,21.0
+Prep,em face das,19.0
+Prep,em face de,7.0
+Prep,em face desta,1.0
+Prep,em face deste,1.0
+Prep,em face do,13.0
+Prep,em face dos,6.0
+Prep,em face duma,3.0
+Prep,em frente a,10.0
+Prep,em frente ao,2.0
+Prep,em frente da,12.0
+Prep,em frente das,2.0
+Prep,em frente de,9.0
+Prep,em frente do,27.0
+Prep,em frente dos,5.0
+Prep,em frente à,3.0
+Prep,em frente às,1.0
+Adv,em seguida,958.0
+Prep,em torno da,77.0
+Prep,em torno da qual,5.0
+Prep,em torno das,34.0
+Prep,em torno das quais,5.0
+Prep,em torno de,200.0
+Prep,em torno delas,5.0
+Prep,em torno dessa,1.0
+Prep,em torno dessas,1.0
+Prep,em torno desse,5.0
+Prep,em torno desta,2.0
+Prep,em torno destas,1.0
+Prep,em torno deste,5.0
+Prep,em torno destes,1.0
+Prep,em torno do,113.0
+Prep,em torno do qual,6.0
+Prep,em torno dos,70.0
+Prep,em torno dos quais,6.0
+Prep,em vez da,159.0
+Prep,em vez das,75.0
+Prep,em vez de,709.0
+Prep,em vez delas,2.0
+Prep,em vez deles,2.0
+Prep,em vez dessas,2.0
+Prep,em vez desta,4.0
+Prep,em vez destas,1.0
+Prep,em vez deste,6.0
+Prep,em vez disso,105.0
+Prep,em vez do,149.0
+Prep,em vez dos,89.0
+Prep,em virtude da,497.0
+Prep,em virtude da qual,10.0
+Prep,em virtude das,146.0
+Prep,em virtude das quais,10.0
+Prep,em virtude de,276.0
+Prep,em virtude dessa,6.0
+Prep,em virtude dessas,5.0
+Prep,em virtude desse,3.0
+Prep,em virtude desses,3.0
+Prep,em virtude desta,12.0
+Prep,em virtude destas,2.0
+Prep,em virtude deste,6.0
+Prep,em virtude destes,3.0
+Prep,em virtude do,295.0
+Prep,em virtude do qual,9.0
+Prep,em virtude do que,4.0
+Prep,em virtude dos,79.0
+Prep,em virtude dos quais,2.0
+Prep,face a,410.0
+Prep,face ao,312.0
+Prep,face ao qual,1.0
+Prep,face ao que,3.0
+Prep,face aos,345.0
+Prep,face aos quais,1.0
+Prep,face à,352.0
+Prep,face às,301.0
+Prep,fora da,778.0
+Prep,fora da qual,1.0
+Prep,fora daquela,4.0
+Prep,fora daquelas,5.0
+Prep,fora daqueles,1.0
+Prep,fora das,310.0
+Prep,fora de,267.0
+Prep,fora dela,33.0
+Prep,fora delas,15.0
+Prep,fora dele,19.0
+Prep,fora dessa,14.0
+Prep,fora dessas,16.0
+Prep,fora desse,36.0
+Prep,fora desses,15.0
+Prep,fora desta,11.0
+Prep,fora destas,7.0
+Prep,fora deste,21.0
+Prep,fora destes,11.0
+Prep,fora do,938.0
+Prep,fora do qual,1.0
+Prep,fora dos,184.0
+Prep,frente a,24.0
+Prep,frente ao,7.0
+Prep,frente aos,8.0
+Prep,frente à,7.0
+Prep,frente às,7.0
+Prep,graças a,313.0
+Prep,graças ao,196.0
+Prep,graças ao qual,8.0
+Prep,graças aos,78.0
+Prep,graças aos quais,1.0
+Prep,graças à,356.0
+Prep,graças à qual,5.0
+Prep,graças às,88.0
+Prep,graças às quais,4.0
+Adv,isto é,1190.0
+Prep,junto a,19.0
+Prep,junto ao,56.0
+Prep,junto aos,6.0
+Prep,junto com,35.0
+Prep,junto da,511.0
+Prep,junto da qual,46.0
+Prep,junto das,407.0
+Prep,junto das quais,21.0
+Prep,junto de,437.0
+Prep,junto dela,2.0
+Prep,junto dele,3.0
+Prep,junto dessa,5.0
+Prep,junto dessas,2.0
+Prep,junto desse,7.0
+Prep,junto desses,10.0
+Prep,junto desta,9.0
+Prep,junto destas,6.0
+Prep,junto deste,4.0
+Prep,junto destes,3.0
+Prep,junto do,768.0
+Prep,junto do qual,41.0
+Prep,junto dos,619.0
+Prep,junto dos quais,28.0
+Prep,junto à,58.0
+Prep,junto às,12.0
+Conj,já que,404.0
+Conj,logo que,1494.0
+Prep,longe da,16.0
+Prep,longe das,13.0
+Prep,longe de,110.0
+Prep,longe do,24.0
+Prep,longe do que,23.0
+Prep,longe dos,5.0
+Conj,mesmo que,794.0
+Pron,mil novecentos e noventa,5.0
+Pron,mil novecentos e noventa e cinco,8.0
+Pron,mil novecentos e noventa e dois,7.0
+Pron,mil novecentos e noventa e nove,9.0
+Pron,mil novecentos e noventa e oito,5.0
+Pron,mil novecentos e noventa e quatro,7.0
+Pron,mil novecentos e noventa e seis,5.0
+Pron,mil novecentos e noventa e sete,3.0
+Pron,mil novecentos e noventa e um,3.0
+Pron,mil novecentos e oitenta,4.0
+Pron,mil novecentos e oitenta e quatro,2.0
+Pron,mil novecentos e oitenta e três,2.0
+Pron,mil novecentos e sessenta e cinco,9.0
+Pron,mil novecentos e setenta e dois,2.0
+Pron,mil novecentos e setenta e seis,2.0
+Pron,mil novecentos e setenta e três,2.0
+Prep,na frente da,2.0
+Prep,na frente de,4.0
+Prep,na frente do,9.0
+Prep,na frente dos,3.0
+Prep,na qual,827.0
+Prep,nas quais,587.0
+Conj,nem que,44.0
+Conj,no entanto,3499.0
+Prep,no meio da,10.0
+Prep,no meio de,76.0
+Prep,no meio dessa,1.0
+Prep,no meio dessas,1.0
+Prep,no meio do,12.0
+Prep,no meio dos,1.0
+Prep,no qual,1144.0
+Prep,no que,10158.0
+Prep,nos quais,847.0
+Interj,nossa senhora,6.0
+Pron,nove mil,7.0
+Pron,noventa e quatro,2.0
+Prep,não obstante,1182.0
+Pron,o qual,2139.0
+Pron,o que,3273.0
+Pron,o quê,12.0
+Pron,o senhor,2.0
+Pron,os quais,2024.0
+Adv,ou antes,113.0
+Adv,ou melhor,39.0
+Prep,para a frente da,3.0
+Prep,para a frente das,1.0
+Prep,para a frente de,10.0
+Prep,para a frente do,20.0
+Prep,para a frente dos,5.0
+Prep,para baixo da,7.0
+Prep,para baixo do,3.0
+Prep,para cima das,1.0
+Prep,para cima do,7.0
+Prep,para cima dos,3.0
+Prep,para com,243.0
+Prep,para consigo,2.0
+Prep,para dentro da,7.0
+Prep,para dentro das,1.0
+Prep,para dentro de,2.0
+Prep,para dentro do,8.0
+Prep,para dentro dos,3.0
+Prep,para fora da,228.0
+Prep,para fora das,23.0
+Prep,para fora de,8.0
+Prep,para fora dela,5.0
+Prep,para fora dessa,2.0
+Prep,para fora desse,7.0
+Prep,para fora desses,1.0
+Prep,para fora desta,3.0
+Prep,para fora do,97.0
+Prep,para fora dos,11.0
+Prep,para o lado da,5.0
+Prep,para o lado de,3.0
+Prep,para o lado do,5.0
+Conj,para que,3622.0
+Prep,para trás da,3.0
+Prep,para trás das,1.0
+Prep,para trás de,5.0
+Prep,para trás do,9.0
+Prep,para trás dos,4.0
+Prep,pela qual,346.0
+Prep,pelas quais,199.0
+Adv,pelo menos,4800.0
+Prep,pelo qual,286.0
+Prep,pelos quais,281.0
+Prep,perto da,54.0
+Prep,perto das,10.0
+Prep,perto de,79.0
+Prep,perto dela,2.0
+Prep,perto dele,2.0
+Prep,perto destas,1.0
+Prep,perto deste,1.0
+Prep,perto do,70.0
+Prep,perto dos,20.0
+Conj,pois que,47.0
+Interj,pois é,37.0
+Adv,por aqui,2.0
+Prep,por baixo da,50.0
+Prep,por baixo das,6.0
+Prep,por baixo de,10.0
+Prep,por baixo dele,6.0
+Prep,por baixo dessas,1.0
+Prep,por baixo desse,1.0
+Prep,por baixo desta,3.0
+Prep,por baixo destas,1.0
+Prep,por baixo deste,3.0
+Prep,por baixo destes,1.0
+Prep,por baixo do,23.0
+Prep,por baixo dos,4.0
+Prep,por causa da,22.0
+Prep,por causa das,15.0
+Prep,por causa de,24.0
+Prep,por causa dessa,4.0
+Prep,por causa desses,1.0
+Prep,por causa do,20.0
+Prep,por causa dos,5.0
+Prep,por cima da,20.0
+Prep,por cima daquele,5.0
+Prep,por cima das,5.0
+Prep,por cima de,13.0
+Prep,por cima dele,4.0
+Prep,por cima dessa,1.0
+Prep,por cima desses,1.0
+Prep,por cima do,37.0
+Prep,por cima dos,10.0
+Conj,por conseguinte,5791.0
+Prep,por dentro de,2.0
+Prep,por detrás da,9.0
+Prep,por detrás das,2.0
+Prep,por detrás de,4.0
+Prep,por detrás do,12.0
+Prep,por detrás dos,3.0
+Prep,por diante de,2.0
+Adv,por exemplo,2952.0
+Prep,por fora das,2.0
+Prep,por fora do,2.0
+Conj,por isso,884.0
+Adv,por que,940.0
+Adv,por quê,2.0
+Prep,por trás da,1.0
+Prep,por trás das,1.0
+Prep,por trás de,3.0
+Prep,por trás do,8.0
+Conj,posto que,47.0
+Pron,quaisquer umas,1.0
+Pron,qualquer um,213.0
+Pron,qualquer uma,269.0
+Pron,quarenta e cinco,48.0
+Pron,quarenta e oito,19.0
+Pron,quarenta e sete,2.0
+Pron,quarenta e um,32.0
+Pron,quarenta mil,2.0
+Det,que de,179.0
+Prep,que nem,134.0
+Conj,salvo se,619.0
+Conj,se bem que,229.0
+Adv,sem dúvida,101.0
+Conj,sem que,1047.0
+Conj,sempre que,4293.0
+Pron,sessenta e cinco,9.0
+Pron,sessenta e dois,2.0
+Pron,sessenta e seis,4.0
+Pron,sete mil,2.0
+Pron,setenta e cinco,5.0
+Pron,setenta e duas,6.0
+Prep,sob pena de,88.0
+Conj,suposto que,5.0
+Conj,tais como,1921.0
+Conj,tal como,4342.0
+Pron,toda a gente,4.0
+Conj,todas as vezes que,2.0
+Pron,trezentos e cinquenta,2.0
+Pron,trinta e cinco,11.0
+Pron,trinta e nove,3.0
+Pron,trinta e oito,2.0
+Pron,trinta e quatro,3.0
+Pron,trinta e seis,21.0
+Pron,trinta e sete,15.0
+Pron,trinta e um,5.0
+Pron,trinta mil,2.0
+Pron,três mil,6.0
+Conj,uma vez que,2157.0
+Pron,vinte e cinco,55.0
+Pron,vinte e dois,20.0
+Pron,vinte e duas,5.0
+Pron,vinte e nove,9.0
+Pron,vinte e oito,19.0
+Pron,vinte e quatro,121.0
+Pron,vinte e seis,5.0
+Pron,vinte e sete,11.0
+Pron,vinte e três,12.0
+Pron,vinte e um,48.0
+Adj,vinte e uma,3.0
+Conj,visto como,31.0
+Conj,visto que,468.0
+Pron,vossa excelência,157.0
+Prep,à frente da,44.0
+Prep,à frente das,7.0
+Prep,à frente de,13.0
+Prep,à frente desta,1.0
+Prep,à frente deste,2.0
+Prep,à frente do,69.0
+Prep,à frente do qual,3.0
+Prep,à frente dos,11.0
+Conj,à medida que,316.0
+Prep,à qual,772.0
+Adv,à revelia,13.0
+Adv,à vontade,33.0
+Prep,às quais,1337.0

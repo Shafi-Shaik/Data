@@ -1,0 +1,396 @@
+Region,Product,Subsidiary,Stores,Sales,Inventory,Returns
+Africa,Boot,Addis Ababa,12.0,29761.0,191821.0,769.0
+Africa,Men's Casual,Addis Ababa,4.0,67242.0,118036.0,2284.0
+Africa,Men's Dress,Addis Ababa,7.0,76793.0,136273.0,2433.0
+Africa,Sandal,Addis Ababa,10.0,62819.0,204284.0,1861.0
+Africa,Slipper,Addis Ababa,14.0,68641.0,279795.0,1771.0
+Africa,Sport Shoe,Addis Ababa,4.0,1690.0,16634.0,79.0
+Africa,Women's Casual,Addis Ababa,2.0,51541.0,98641.0,940.0
+Africa,Women's Dress,Addis Ababa,12.0,108942.0,311017.0,3233.0
+Africa,Boot,Algiers,21.0,21297.0,73737.0,710.0
+Africa,Men's Casual,Algiers,4.0,63206.0,100982.0,2221.0
+Africa,Men's Dress,Algiers,13.0,123743.0,428575.0,3621.0
+Africa,Sandal,Algiers,25.0,29198.0,84447.0,1530.0
+Africa,Slipper,Algiers,17.0,64891.0,248198.0,1823.0
+Africa,Sport Shoe,Algiers,9.0,2617.0,9372.0,168.0
+Africa,Women's Dress,Algiers,12.0,90648.0,266805.0,2690.0
+Africa,Boot,Cairo,20.0,4846.0,18965.0,229.0
+Africa,Men's Casual,Cairo,25.0,360209.0,1063251.0,9424.0
+Africa,Men's Dress,Cairo,5.0,4051.0,45962.0,97.0
+Africa,Sandal,Cairo,9.0,10532.0,50430.0,598.0
+Africa,Slipper,Cairo,9.0,13732.0,54117.0,1216.0
+Africa,Sport Shoe,Cairo,3.0,2259.0,20815.0,44.0
+Africa,Women's Casual,Cairo,14.0,328474.0,940851.0,10124.0
+Africa,Women's Dress,Cairo,3.0,14095.0,51145.0,745.0
+Africa,Boot,Johannesburg,14.0,8365.0,33011.0,483.0
+Africa,Sandal,Johannesburg,13.0,17337.0,63003.0,809.0
+Africa,Slipper,Johannesburg,12.0,39452.0,130025.0,1565.0
+Africa,Sport Shoe,Johannesburg,8.0,5172.0,29368.0,139.0
+Africa,Women's Dress,Johannesburg,4.0,42682.0,120127.0,966.0
+Africa,Boot,Khartoum,24.0,19282.0,105370.0,700.0
+Africa,Men's Casual,Khartoum,1.0,9244.0,16230.0,478.0
+Africa,Men's Dress,Khartoum,3.0,18053.0,51132.0,1177.0
+Africa,Sandal,Khartoum,18.0,26427.0,81825.0,1281.0
+Africa,Slipper,Khartoum,11.0,43452.0,143015.0,1573.0
+Africa,Sport Shoe,Khartoum,7.0,2521.0,27041.0,84.0
+Africa,Women's Casual,Khartoum,1.0,19582.0,30727.0,384.0
+Africa,Women's Dress,Khartoum,6.0,48031.0,132679.0,1374.0
+Africa,Boot,Kinshasa,16.0,13921.0,70736.0,553.0
+Africa,Men's Dress,Kinshasa,5.0,57691.0,95663.0,1699.0
+Africa,Sandal,Kinshasa,10.0,16662.0,104438.0,611.0
+Africa,Slipper,Kinshasa,11.0,52807.0,183937.0,1440.0
+Africa,Sport Shoe,Kinshasa,10.0,4888.0,27998.0,162.0
+Africa,Women's Casual,Kinshasa,1.0,17919.0,21363.0,400.0
+Africa,Women's Dress,Kinshasa,3.0,32928.0,87149.0,717.0
+Africa,Boot,Luanda,8.0,6081.0,51572.0,325.0
+Africa,Men's Casual,Luanda,3.0,62893.0,149864.0,1701.0
+Africa,Men's Dress,Luanda,2.0,29582.0,67247.0,705.0
+Africa,Sandal,Luanda,9.0,11145.0,19900.0,657.0
+Africa,Slipper,Luanda,5.0,19146.0,97060.0,701.0
+Africa,Sport Shoe,Luanda,2.0,801.0,3247.0,29.0
+Africa,Women's Dress,Luanda,1.0,8467.0,47387.0,210.0
+Africa,Boot,Nairobi,25.0,16282.0,66017.0,844.0
+Africa,Men's Dress,Nairobi,1.0,8587.0,20877.0,363.0
+Africa,Sandal,Nairobi,19.0,16289.0,47406.0,1175.0
+Africa,Slipper,Nairobi,12.0,34955.0,87438.0,1320.0
+Africa,Sport Shoe,Nairobi,10.0,2202.0,11328.0,174.0
+Africa,Women's Dress,Nairobi,3.0,28515.0,62740.0,678.0
+Asia,Boot,Bangkok,1.0,1996.0,9576.0,80.0
+Asia,Men's Dress,Bangkok,1.0,3033.0,20831.0,52.0
+Asia,Sandal,Bangkok,1.0,3230.0,15087.0,120.0
+Asia,Slipper,Bangkok,1.0,3019.0,16075.0,127.0
+Asia,Women's Casual,Bangkok,1.0,5389.0,16251.0,185.0
+Asia,Boot,Seoul,17.0,60712.0,160589.0,1296.0
+Asia,Men's Casual,Seoul,1.0,11754.0,2176.0,833.0
+Asia,Men's Dress,Seoul,7.0,116333.0,251803.0,2443.0
+Asia,Sandal,Seoul,3.0,4978.0,21483.0,105.0
+Asia,Slipper,Seoul,21.0,149013.0,469007.0,2941.0
+Asia,Sport Shoe,Seoul,1.0,937.0,455.0,10.0
+Asia,Women's Casual,Seoul,2.0,20448.0,36576.0,790.0
+Asia,Women's Dress,Seoul,7.0,78234.0,140628.0,1891.0
+Asia,Sport Shoe,Tokyo,1.0,1155.0,15602.0,22.0
+Canada,Boot,Calgary,8.0,17720.0,63280.0,472.0
+Canada,Men's Dress,Calgary,1.0,12775.0,39663.0,353.0
+Canada,Sandal,Calgary,7.0,2886.0,15838.0,147.0
+Canada,Slipper,Calgary,2.0,5676.0,48061.0,253.0
+Canada,Sport Shoe,Calgary,9.0,9745.0,38059.0,264.0
+Canada,Women's Dress,Calgary,2.0,12601.0,54677.0,488.0
+Canada,Boot,Montreal,25.0,40213.0,240132.0,1472.0
+Canada,Men's Casual,Montreal,3.0,53929.0,187155.0,2241.0
+Canada,Men's Dress,Montreal,11.0,112009.0,355170.0,3713.0
+Canada,Sandal,Montreal,7.0,3002.0,18382.0,122.0
+Canada,Slipper,Montreal,24.0,135305.0,500053.0,3395.0
+Canada,Sport Shoe,Montreal,31.0,29435.0,178128.0,1129.0
+Canada,Women's Casual,Montreal,2.0,24497.0,34808.0,832.0
+Canada,Women's Dress,Montreal,12.0,132638.0,483637.0,2880.0
+Canada,Boot,Ottawa,5.0,7892.0,28162.0,377.0
+Canada,Men's Casual,Ottawa,1.0,19210.0,29249.0,578.0
+Canada,Sandal,Ottawa,2.0,2600.0,1727.0,27.0
+Canada,Slipper,Ottawa,10.0,30905.0,89576.0,1397.0
+Canada,Sport Shoe,Ottawa,6.0,2598.0,15007.0,204.0
+Canada,Women's Casual,Ottawa,1.0,18712.0,46064.0,427.0
+Canada,Women's Dress,Ottawa,4.0,33824.0,84378.0,939.0
+Canada,Boot,Toronto,16.0,33291.0,149118.0,994.0
+Canada,Men's Casual,Toronto,2.0,15403.0,20811.0,1401.0
+Canada,Men's Dress,Toronto,2.0,37519.0,84690.0,806.0
+Canada,Sandal,Toronto,2.0,1190.0,6763.0,38.0
+Canada,Slipper,Toronto,14.0,80352.0,302074.0,1908.0
+Canada,Sport Shoe,Toronto,29.0,34585.0,164113.0,913.0
+Canada,Women's Casual,Toronto,4.0,63492.0,149239.0,1700.0
+Canada,Women's Dress,Toronto,7.0,53940.0,165711.0,1967.0
+Canada,Boot,Vancouver,31.0,286497.0,882080.0,9160.0
+Canada,Men's Casual,Vancouver,25.0,353361.0,671837.0,20470.0
+Canada,Men's Dress,Vancouver,28.0,757798.0,1847559.0,16833.0
+Canada,Sandal,Vancouver,15.0,5120.0,56325.0,294.0
+Canada,Slipper,Vancouver,27.0,700513.0,2520085.0,21247.0
+Canada,Sport Shoe,Vancouver,26.0,64026.0,370388.0,2297.0
+Canada,Women's Casual,Vancouver,20.0,304106.0,665323.0,8278.0
+Canada,Women's Dress,Vancouver,21.0,756347.0,2503387.0,19378.0
+Central America/Caribbean,Boot,Kingston,33.0,102372.0,393376.0,4454.0
+Central America/Caribbean,Men's Casual,Kingston,28.0,576112.0,1159556.0,20005.0
+Central America/Caribbean,Men's Dress,Kingston,23.0,270863.0,618703.0,7447.0
+Central America/Caribbean,Sandal,Kingston,15.0,200156.0,624163.0,8365.0
+Central America/Caribbean,Slipper,Kingston,37.0,476638.0,1555357.0,15713.0
+Central America/Caribbean,Sport Shoe,Kingston,23.0,18177.0,86162.0,944.0
+Central America/Caribbean,Women's Casual,Kingston,18.0,215069.0,275321.0,7361.0
+Central America/Caribbean,Women's Dress,Kingston,41.0,375817.0,1147300.0,11656.0
+Central America/Caribbean,Boot,Managua,17.0,34660.0,162033.0,1775.0
+Central America/Caribbean,Men's Casual,Managua,3.0,69276.0,79666.0,1861.0
+Central America/Caribbean,Men's Dress,Managua,4.0,35393.0,72044.0,1456.0
+Central America/Caribbean,Sandal,Managua,37.0,65478.0,261456.0,2524.0
+Central America/Caribbean,Slipper,Managua,25.0,92539.0,289520.0,2800.0
+Central America/Caribbean,Sport Shoe,Managua,14.0,5655.0,17155.0,269.0
+Central America/Caribbean,Women's Casual,Managua,3.0,48567.0,118849.0,1318.0
+Central America/Caribbean,Women's Dress,Managua,10.0,63238.0,163951.0,2308.0
+Central America/Caribbean,Boot,Mexico City,21.0,20819.0,79994.0,814.0
+Central America/Caribbean,Men's Casual,Mexico City,3.0,66216.0,70123.0,2198.0
+Central America/Caribbean,Men's Dress,Mexico City,3.0,30157.0,78950.0,1012.0
+Central America/Caribbean,Sandal,Mexico City,33.0,52233.0,175201.0,2127.0
+Central America/Caribbean,Slipper,Mexico City,31.0,96113.0,340122.0,4028.0
+Central America/Caribbean,Sport Shoe,Mexico City,3.0,2196.0,23183.0,59.0
+Central America/Caribbean,Women's Casual,Mexico City,2.0,31301.0,91171.0,973.0
+Central America/Caribbean,Women's Dress,Mexico City,7.0,69553.0,257437.0,1614.0
+Central America/Caribbean,Boot,San Juan,31.0,32892.0,135309.0,1504.0
+Central America/Caribbean,Men's Casual,San Juan,2.0,44909.0,182986.0,1355.0
+Central America/Caribbean,Men's Dress,San Juan,8.0,68482.0,137355.0,2756.0
+Central America/Caribbean,Sandal,San Juan,27.0,60515.0,210250.0,3287.0
+Central America/Caribbean,Slipper,San Juan,7.0,217891.0,707919.0,6825.0
+Central America/Caribbean,Sport Shoe,San Juan,4.0,936.0,4546.0,74.0
+Central America/Caribbean,Women's Casual,San Juan,10.0,104420.0,318207.0,4240.0
+Central America/Caribbean,Women's Dress,San Juan,16.0,109110.0,336513.0,3776.0
+Eastern Europe,Boot,Budapest,22.0,74102.0,317515.0,3341.0
+Eastern Europe,Men's Casual,Budapest,6.0,66936.0,87655.0,3944.0
+Eastern Europe,Men's Dress,Budapest,3.0,37499.0,147214.0,930.0
+Eastern Europe,Sandal,Budapest,5.0,1814.0,4894.0,96.0
+Eastern Europe,Slipper,Budapest,17.0,111816.0,453821.0,4070.0
+Eastern Europe,Sport Shoe,Budapest,23.0,16460.0,79416.0,790.0
+Eastern Europe,Women's Casual,Budapest,3.0,49880.0,137093.0,1528.0
+Eastern Europe,Women's Dress,Budapest,6.0,52022.0,144360.0,1452.0
+Eastern Europe,Boot,Moscow,23.0,67476.0,329604.0,3142.0
+Eastern Europe,Men's Casual,Moscow,3.0,55094.0,156554.0,1895.0
+Eastern Europe,Men's Dress,Moscow,11.0,113119.0,302236.0,4004.0
+Eastern Europe,Slipper,Moscow,11.0,127033.0,520271.0,3983.0
+Eastern Europe,Sport Shoe,Moscow,23.0,21464.0,110822.0,859.0
+Eastern Europe,Women's Casual,Moscow,6.0,104119.0,211220.0,2325.0
+Eastern Europe,Women's Dress,Moscow,10.0,72671.0,196973.0,2227.0
+Eastern Europe,Boot,Prague,11.0,86215.0,341326.0,3555.0
+Eastern Europe,Men's Casual,Prague,12.0,150273.0,336151.0,7455.0
+Eastern Europe,Men's Dress,Prague,9.0,102448.0,231514.0,2492.0
+Eastern Europe,Sandal,Prague,2.0,712.0,3384.0,48.0
+Eastern Europe,Slipper,Prague,29.0,128971.0,585026.0,5346.0
+Eastern Europe,Sport Shoe,Prague,18.0,23708.0,117976.0,623.0
+Eastern Europe,Women's Casual,Prague,1.0,15897.0,33800.0,414.0
+Eastern Europe,Women's Dress,Prague,14.0,128497.0,425237.0,3434.0
+Eastern Europe,Boot,Warsaw,26.0,78992.0,363358.0,3246.0
+Eastern Europe,Men's Casual,Warsaw,15.0,304093.0,729044.0,9364.0
+Eastern Europe,Men's Dress,Warsaw,10.0,82695.0,205338.0,2862.0
+Eastern Europe,Sandal,Warsaw,3.0,1190.0,960.0,57.0
+Eastern Europe,Slipper,Warsaw,16.0,141878.0,712365.0,6336.0
+Eastern Europe,Sport Shoe,Warsaw,19.0,29570.0,139313.0,1053.0
+Eastern Europe,Women's Casual,Warsaw,3.0,39360.0,102641.0,1365.0
+Eastern Europe,Women's Dress,Warsaw,19.0,108936.0,425390.0,4465.0
+Middle East,Boot,Al-Khobar,10.0,15062.0,44658.0,765.0
+Middle East,Men's Casual,Al-Khobar,24.0,340201.0,616745.0,13251.0
+Middle East,Men's Dress,Al-Khobar,22.0,261445.0,711246.0,6979.0
+Middle East,Sandal,Al-Khobar,2.0,1380.0,13343.0,62.0
+Middle East,Slipper,Al-Khobar,26.0,66796.0,201779.0,3052.0
+Middle East,Sport Shoe,Al-Khobar,2.0,449.0,1836.0,43.0
+Middle East,Women's Casual,Al-Khobar,13.0,226514.0,447377.0,5966.0
+Middle East,Women's Dress,Al-Khobar,11.0,241820.0,611686.0,6167.0
+Middle East,Boot,Dubai,15.0,90972.0,403259.0,4049.0
+Middle East,Men's Casual,Dubai,29.0,419336.0,868115.0,17552.0
+Middle East,Men's Dress,Dubai,25.0,324312.0,746970.0,8159.0
+Middle East,Sandal,Dubai,24.0,17492.0,59985.0,734.0
+Middle East,Slipper,Dubai,17.0,387680.0,1238698.0,12768.0
+Middle East,Sport Shoe,Dubai,5.0,1487.0,11432.0,70.0
+Middle East,Women's Casual,Dubai,19.0,233374.0,416012.0,8102.0
+Middle East,Women's Dress,Dubai,19.0,435891.0,1292400.0,12999.0
+Middle East,Boot,Tel Aviv,20.0,65248.0,222165.0,2320.0
+Middle East,Men's Casual,Tel Aviv,11.0,1298717.0,2881005.0,57362.0
+Middle East,Men's Dress,Tel Aviv,24.0,253814.0,631479.0,8727.0
+Middle East,Sandal,Tel Aviv,17.0,16314.0,71094.0,574.0
+Middle East,Slipper,Tel Aviv,21.0,208004.0,639427.0,7738.0
+Middle East,Sport Shoe,Tel Aviv,4.0,2071.0,15121.0,47.0
+Middle East,Women's Casual,Tel Aviv,19.0,288904.0,790386.0,12000.0
+Middle East,Women's Dress,Tel Aviv,18.0,434496.0,1272531.0,17394.0
+Pacific,Boot,Auckland,12.0,20141.0,97919.0,962.0
+Pacific,Men's Dress,Auckland,1.0,4892.0,538.0,325.0
+Pacific,Sandal,Auckland,1.0,325.0,23897.0,10.0
+Pacific,Slipper,Auckland,11.0,33000.0,136625.0,1321.0
+Pacific,Sport Shoe,Auckland,5.0,5117.0,35246.0,211.0
+Pacific,Women's Casual,Auckland,1.0,18189.0,15241.0,421.0
+Pacific,Women's Dress,Auckland,6.0,42760.0,158688.0,1278.0
+Pacific,Boot,Canberra,21.0,32640.0,188437.0,1237.0
+Pacific,Men's Casual,Canberra,1.0,24733.0,45172.0,614.0
+Pacific,Men's Dress,Canberra,1.0,4231.0,346780.0,350.0
+Pacific,Sandal,Canberra,1.0,1093.0,8711.0,21.0
+Pacific,Slipper,Canberra,10.0,44121.0,155948.0,1252.0
+Pacific,Sport Shoe,Canberra,10.0,12211.0,80393.0,336.0
+Pacific,Women's Casual,Canberra,1.0,15032.0,42469.0,409.0
+Pacific,Women's Dress,Canberra,5.0,21486.0,58824.0,1096.0
+Pacific,Boot,Jakarta,6.0,11975.0,50645.0,523.0
+Pacific,Men's Casual,Jakarta,12.0,373908.0,1139026.0,10960.0
+Pacific,Men's Dress,Jakarta,22.0,186631.0,559904.0,6447.0
+Pacific,Sandal,Jakarta,31.0,24940.0,134557.0,1112.0
+Pacific,Slipper,Jakarta,7.0,22060.0,82215.0,861.0
+Pacific,Sport Shoe,Jakarta,4.0,6110.0,26124.0,164.0
+Pacific,Women's Casual,Jakarta,1.0,18761.0,27749.0,468.0
+Pacific,Women's Dress,Jakarta,1.0,4659.0,19899.0,255.0
+Pacific,Boot,Kuala Lumpur,15.0,25796.0,143063.0,1110.0
+Pacific,Men's Casual,Kuala Lumpur,6.0,106657.0,310404.0,4092.0
+Pacific,Men's Dress,Kuala Lumpur,7.0,55667.0,161328.0,2288.0
+Pacific,Sandal,Kuala Lumpur,7.0,4130.0,24936.0,213.0
+Pacific,Slipper,Kuala Lumpur,17.0,83212.0,382786.0,2568.0
+Pacific,Sport Shoe,Kuala Lumpur,2.0,450.0,8136.0,42.0
+Pacific,Women's Casual,Kuala Lumpur,2.0,36110.0,91052.0,995.0
+Pacific,Women's Dress,Kuala Lumpur,8.0,61108.0,245543.0,1977.0
+Pacific,Boot,Manila,21.0,31503.0,110179.0,1449.0
+Pacific,Men's Casual,Manila,7.0,128309.0,264891.0,5285.0
+Pacific,Men's Dress,Manila,14.0,144151.0,464158.0,4414.0
+Pacific,Sandal,Manila,18.0,15759.0,65223.0,620.0
+Pacific,Slipper,Manila,14.0,171735.0,708799.0,5544.0
+Pacific,Sport Shoe,Manila,8.0,2281.0,15955.0,144.0
+Pacific,Women's Casual,Manila,9.0,131794.0,265543.0,4241.0
+Pacific,Women's Dress,Manila,12.0,229372.0,818328.0,7265.0
+Pacific,Boot,Singapore,2.0,1520.0,374.0,120.0
+Pacific,Men's Casual,Singapore,1.0,28761.0,89599.0,690.0
+Pacific,Men's Dress,Singapore,3.0,30619.0,103585.0,1148.0
+Pacific,Sandal,Singapore,1.0,2177.0,5897.0,35.0
+Pacific,Slipper,Singapore,6.0,36612.0,139288.0,843.0
+Pacific,Women's Dress,Singapore,5.0,40056.0,117217.0,1413.0
+South America,Boot,Bogota,19.0,15312.0,35805.0,1229.0
+South America,Men's Casual,Bogota,2.0,20835.0,43155.0,1136.0
+South America,Men's Dress,Bogota,4.0,37187.0,62770.0,1424.0
+South America,Sandal,Bogota,16.0,22712.0,62856.0,1292.0
+South America,Slipper,Bogota,15.0,33723.0,88411.0,2033.0
+South America,Sport Shoe,Bogota,19.0,4729.0,11597.0,333.0
+South America,Women's Dress,Bogota,14.0,71736.0,117761.0,2646.0
+South America,Boot,Buenos Aires,16.0,17027.0,39291.0,1073.0
+South America,Men's Casual,Buenos Aires,1.0,16019.0,15889.0,498.0
+South America,Men's Dress,Buenos Aires,1.0,14437.0,29932.0,354.0
+South America,Sandal,Buenos Aires,21.0,18765.0,75358.0,604.0
+South America,Slipper,Buenos Aires,8.0,11759.0,23822.0,939.0
+South America,Sport Shoe,Buenos Aires,14.0,3545.0,6103.0,229.0
+South America,Women's Casual,Buenos Aires,1.0,15470.0,19479.0,382.0
+South America,Women's Dress,Buenos Aires,4.0,21261.0,31081.0,964.0
+South America,Boot,Caracas,13.0,63697.0,307509.0,2731.0
+South America,Men's Casual,Caracas,14.0,245757.0,445579.0,7918.0
+South America,Men's Dress,Caracas,15.0,135371.0,275526.0,4710.0
+South America,Sandal,Caracas,29.0,22973.0,118535.0,1096.0
+South America,Slipper,Caracas,19.0,132853.0,457658.0,4609.0
+South America,Sport Shoe,Caracas,4.0,1716.0,12360.0,79.0
+South America,Women's Casual,Caracas,3.0,42654.0,68096.0,1525.0
+South America,Women's Dress,Caracas,26.0,144302.0,454123.0,5274.0
+South America,Boot,La Paz,21.0,36309.0,100618.0,2925.0
+South America,Men's Casual,La Paz,6.0,124203.0,184499.0,4046.0
+South America,Men's Dress,La Paz,11.0,131079.0,173417.0,3698.0
+South America,Sandal,La Paz,31.0,27728.0,81525.0,945.0
+South America,Slipper,La Paz,18.0,125763.0,338758.0,6501.0
+South America,Sport Shoe,La Paz,15.0,8095.0,25212.0,254.0
+South America,Women's Casual,La Paz,6.0,48260.0,138402.0,2547.0
+South America,Women's Dress,La Paz,8.0,29069.0,73048.0,1648.0
+South America,Boot,Montevideo,15.0,53703.0,150601.0,3226.0
+South America,Men's Casual,Montevideo,3.0,52968.0,76200.0,1811.0
+South America,Men's Dress,Montevideo,8.0,45566.0,125584.0,2708.0
+South America,Sandal,Montevideo,12.0,27742.0,90767.0,1913.0
+South America,Slipper,Montevideo,28.0,80525.0,236273.0,3419.0
+South America,Sport Shoe,Montevideo,22.0,8365.0,39256.0,361.0
+South America,Women's Casual,Montevideo,3.0,28343.0,66442.0,1374.0
+South America,Women's Dress,Montevideo,5.0,21434.0,63913.0,1213.0
+South America,Boot,Santiago,14.0,14907.0,39222.0,939.0
+South America,Men's Dress,Santiago,3.0,23117.0,44160.0,1026.0
+South America,Sandal,Santiago,22.0,12343.0,35668.0,631.0
+South America,Slipper,Santiago,9.0,23260.0,46106.0,1224.0
+South America,Sport Shoe,Santiago,6.0,4184.0,19113.0,112.0
+South America,Women's Casual,Santiago,1.0,5709.0,6972.0,506.0
+South America,Women's Dress,Santiago,3.0,21436.0,45398.0,759.0
+South America,Boot,Sao Paulo,12.0,44720.0,173578.0,2471.0
+South America,Men's Casual,Sao Paulo,5.0,85168.0,107413.0,3120.0
+South America,Men's Dress,Sao Paulo,5.0,38912.0,89758.0,1740.0
+South America,Sandal,Sao Paulo,18.0,33662.0,121645.0,1682.0
+South America,Slipper,Sao Paulo,21.0,54768.0,217967.0,2675.0
+South America,Sport Shoe,Sao Paulo,7.0,2427.0,10132.0,147.0
+South America,Women's Casual,Sao Paulo,3.0,38791.0,117081.0,1438.0
+South America,Women's Dress,Sao Paulo,13.0,68387.0,144670.0,2714.0
+United States,Boot,Chicago,16.0,82483.0,305061.0,3735.0
+United States,Men's Casual,Chicago,26.0,408978.0,831672.0,17907.0
+United States,Men's Dress,Chicago,28.0,261607.0,824485.0,8915.0
+United States,Sandal,Chicago,2.0,601.0,17121.0,35.0
+United States,Slipper,Chicago,13.0,329235.0,1049530.0,10654.0
+United States,Sport Shoe,Chicago,17.0,17347.0,74605.0,684.0
+United States,Women's Casual,Chicago,11.0,172021.0,474524.0,5399.0
+United States,Women's Dress,Chicago,37.0,293313.0,754157.0,10194.0
+United States,Boot,Los Angeles,14.0,85932.0,347252.0,3283.0
+United States,Men's Casual,Los Angeles,9.0,177010.0,401199.0,6336.0
+United States,Men's Dress,Los Angeles,15.0,147670.0,348869.0,4962.0
+United States,Sandal,Los Angeles,2.0,737.0,20838.0,38.0
+United States,Slipper,Los Angeles,11.0,98866.0,330743.0,3457.0
+United States,Sport Shoe,Los Angeles,19.0,16307.0,98221.0,601.0
+United States,Women's Casual,Los Angeles,6.0,62661.0,231285.0,2346.0
+United States,Women's Dress,Los Angeles,16.0,148129.0,452383.0,4289.0
+United States,Boot,Minneapolis,16.0,111940.0,615489.0,4475.0
+United States,Men's Casual,Minneapolis,16.0,263712.0,564741.0,9991.0
+United States,Men's Dress,Minneapolis,22.0,235842.0,623645.0,7344.0
+United States,Sandal,Minneapolis,8.0,3551.0,32907.0,161.0
+United States,Slipper,Minneapolis,16.0,131813.0,487233.0,4833.0
+United States,Sport Shoe,Minneapolis,29.0,18151.0,116192.0,1009.0
+United States,Women's Casual,Minneapolis,7.0,110760.0,287412.0,3440.0
+United States,Women's Dress,Minneapolis,27.0,224168.0,760977.0,5820.0
+United States,Boot,New York,18.0,97151.0,495479.0,3983.0
+United States,Men's Casual,New York,20.0,456985.0,890096.0,13453.0
+United States,Men's Dress,New York,18.0,191755.0,658134.0,5399.0
+United States,Sandal,New York,1.0,554.0,5060.0,23.0
+United States,Slipper,New York,24.0,252758.0,1059333.0,8503.0
+United States,Sport Shoe,New York,23.0,22190.0,141140.0,847.0
+United States,Women's Casual,New York,10.0,178842.0,438035.0,4236.0
+United States,Women's Dress,New York,17.0,288972.0,1129697.0,10257.0
+United States,Boot,Seattle,15.0,70790.0,226678.0,3039.0
+United States,Men's Casual,Seattle,6.0,65842.0,112538.0,3395.0
+United States,Men's Dress,Seattle,10.0,132397.0,274310.0,3153.0
+United States,Sandal,Seattle,10.0,6596.0,18768.0,181.0
+United States,Slipper,Seattle,10.0,155255.0,553502.0,5277.0
+United States,Sport Shoe,Seattle,29.0,30408.0,108266.0,1021.0
+United States,Women's Casual,Seattle,2.0,17252.0,28513.0,790.0
+United States,Women's Dress,Seattle,21.0,133405.0,392307.0,4037.0
+Western Europe,Boot,Copenhagen,2.0,1663.0,4657.0,129.0
+Western Europe,Men's Casual,Copenhagen,1.0,38492.0,90672.0,767.0
+Western Europe,Men's Dress,Copenhagen,2.0,12415.0,36074.0,686.0
+Western Europe,Slipper,Copenhagen,4.0,15908.0,69133.0,594.0
+Western Europe,Sport Shoe,Copenhagen,1.0,1927.0,17683.0,31.0
+Western Europe,Sport Shoe,Copenhagen,13.0,101922.0,327742.0,4204.0
+Western Europe,Women's Casual,Copenhagen,26.0,502636.0,1110412.0,17448.0
+Western Europe,Women's Dress,Copenhagen,3.0,18153.0,62048.0,664.0
+Western Europe,Boot,Geneva,22.0,41341.0,171030.0,1560.0
+Western Europe,Men's Casual,Geneva,4.0,71618.0,138897.0,2484.0
+Western Europe,Men's Dress,Geneva,3.0,26888.0,60544.0,1140.0
+Western Europe,Sandal,Geneva,3.0,736.0,3529.0,51.0
+Western Europe,Slipper,Geneva,27.0,109808.0,440623.0,3311.0
+Western Europe,Sport Shoe,Geneva,17.0,15951.0,119953.0,592.0
+Western Europe,Women's Casual,Geneva,5.0,69470.0,226247.0,2114.0
+Western Europe,Women's Dress,Geneva,14.0,111396.0,339166.0,3036.0
+Western Europe,Boot,Heidelberg,14.0,65610.0,301779.0,2829.0
+Western Europe,Men's Casual,Heidelberg,12.0,175694.0,595118.0,9845.0
+Western Europe,Men's Dress,Heidelberg,16.0,161679.0,468267.0,5373.0
+Western Europe,Sandal,Heidelberg,3.0,977.0,4618.0,62.0
+Western Europe,Slipper,Heidelberg,17.0,243342.0,928112.0,7940.0
+Western Europe,Sport Shoe,Heidelberg,11.0,38961.0,230819.0,1316.0
+Western Europe,Women's Casual,Heidelberg,9.0,141287.0,424473.0,3861.0
+Western Europe,Women's Dress,Heidelberg,23.0,140189.0,403156.0,4812.0
+Western Europe,Boot,Lisbon,18.0,76349.0,341911.0,3290.0
+Western Europe,Men's Casual,Lisbon,18.0,311341.0,502959.0,12247.0
+Western Europe,Men's Dress,Lisbon,8.0,108906.0,328209.0,2665.0
+Western Europe,Sandal,Lisbon,4.0,1650.0,24253.0,64.0
+Western Europe,Slipper,Lisbon,12.0,170694.0,865325.0,5925.0
+Western Europe,Sport Shoe,Lisbon,19.0,19686.0,118262.0,824.0
+Western Europe,Women's Casual,Lisbon,3.0,41939.0,112366.0,1266.0
+Western Europe,Women's Dress,Lisbon,17.0,167780.0,538624.0,4150.0
+Western Europe,Boot,London,31.0,54449.0,289527.0,2321.0
+Western Europe,Men's Casual,London,13.0,151402.0,401374.0,7159.0
+Western Europe,Men's Dress,London,13.0,151458.0,446963.0,4870.0
+Western Europe,Sandal,London,2.0,5217.0,11111.0,24.0
+Western Europe,Slipper,London,14.0,172002.0,625925.0,5620.0
+Western Europe,Sport Shoe,London,10.0,9165.0,42239.0,354.0
+Western Europe,Women's Casual,London,5.0,68962.0,162447.0,1978.0
+Western Europe,Women's Dress,London,25.0,149354.0,527226.0,5084.0
+Western Europe,Boot,Madrid,1.0,1179.0,1027.0,93.0
+Western Europe,Men's Casual,Madrid,4.0,71014.0,59011.0,3784.0
+Western Europe,Men's Dress,Madrid,4.0,54791.0,181739.0,1468.0
+Western Europe,Slipper,Madrid,4.0,12127.0,10234.0,500.0
+Western Europe,Women's Casual,Madrid,3.0,50146.0,113870.0,1216.0
+Western Europe,Women's Dress,Madrid,1.0,11385.0,59192.0,273.0
+Western Europe,Boot,Paris,15.0,19196.0,41506.0,1006.0
+Western Europe,Men's Casual,Paris,5.0,89416.0,156288.0,3863.0
+Western Europe,Men's Dress,Paris,16.0,203532.0,421109.0,5722.0
+Western Europe,Sandal,Paris,3.0,1520.0,23816.0,60.0
+Western Europe,Slipper,Paris,19.0,90975.0,251927.0,2372.0
+Western Europe,Sport Shoe,Paris,4.0,3449.0,28588.0,186.0
+Western Europe,Women's Casual,Paris,5.0,91243.0,184365.0,2388.0
+Western Europe,Women's Dress,Paris,19.0,122546.0,362247.0,3727.0
+Western Europe,Boot,Rome,23.0,36244.0,209271.0,1455.0
+Western Europe,Men's Casual,Rome,2.0,37271.0,91670.0,1761.0
+Western Europe,Men's Dress,Rome,2.0,28249.0,69058.0,651.0
+Western Europe,Sandal,Rome,3.0,1249.0,4611.0,48.0
+Western Europe,Slipper,Rome,13.0,42442.0,132283.0,1829.0
+Western Europe,Sport Shoe,Rome,14.0,9969.0,74848.0,549.0
+Western Europe,Women's Casual,Rome,2.0,19964.0,62256.0,954.0
+Western Europe,Women's Dress,Rome,16.0,106676.0,389861.0,3160.0

@@ -1,0 +1,1471 @@
+MSGID,MNEMONIC,LINENO,LEVEL,TEXT,PBUTTONS
+24.0,IN_NOT_AVAILABLE,1.0,N,This option is not yet available.,SASHELP.FSP.OK.SLIST
+29.0,IN_FETCH_MESSAGE_FAILED,1.0,E,%LAttempt to fetch message: %$ failed.,SASHELP.FSP.OK.SLIST
+36.0,IO_DS_NOT_REGISTERED,1.0,E,%1$ is not registered.,SASHELP.FSP.OK.SLIST
+37.0,IO_DS_NOT_EXIST_WARN,1.0,W,%L%1$ does not exist.,SASHELP.FSP.OK.SLIST
+39.0,IO_MBNAME_SET_TO_CURRENT,1.0,W,%1$ is missing. It has been set to the current repository.,SASHELP.FSP.OK.SLIST
+40.0,IO_VAR_MISS_ATTR,1.0,E,The selected columns are not registered in the repository with the correct attributes: %1$,SASHELP.FSP.OK.SLIST
+41.0,IO_DS_MISS_ATTR,1.0,E,The registration is missing the attributes: %1$,SASHELP.FSP.OK.SLIST
+42.0,IO_DS_MISS_HIERARCHY,1.0,E,The hierarchy %1$ is not registered for the data set,SASHELP.FSP.OK.SLIST
+42.0,IO_DS_MISS_HIERARCHY,2.0,E,%2$.,SASHELP.FSP.OK.SLIST
+43.0,IO_VAR_NOT_ON_HIERARCHY,1.0,E,%1$ is not on the registered hierarchy.,SASHELP.FSP.OK.SLIST
+44.0,IO_INVALID_CATALOG,1.0,E,Invalid catalog name. Please use only valid SAS names.,SASHELP.FSP.OK.SLIST
+48.0,IO_NO_RANGE,1.0,E,No ranges available in %1$,SASHELP.FSP.OK.SLIST
+51.0,IO_APPL_MISSING_INFO,1.0,W,"The application specified, %1$ is missing information.",SASHELP.FSP.OK.SLIST
+52.0,IO_APPLNAME_REQUIRED,1.0,E,An application name is required. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+53.0,IO_DEFINE_FOR_TEST,1.0,E,You must define an application before it can be tested.,SASHELP.FSP.OK.SLIST
+54.0,IO_DEFINE_FOR_SAVE,1.0,E,You must define an application before it can be saved.,SASHELP.FSP.OK.SLIST
+55.0,IO_UNIQUE_APPLNAME,1.0,E,%LSpecified application is not unique.,SASHELP.FSP.OK.SLIST
+66.0,IO_SPEC_TABLE,1.0,E,A table must be specified.,SASHELP.FSP.OK.SLIST
+86.0,IO_CANNOT_OPEN_MB,1.0,E,%lUnable to open repository %1$.,SASHELP.FSP.OK.SLIST
+105.0,IO_NOT_REGISTERED_IN_MB,1.0,E,%lThe specified table is not registered.,SASHELP.FSP.OK.SLIST
+106.0,IO_NO_COLS_SPECIFIED,1.0,E,%lColumns must be specified.,SASHELP.FSP.OK.SLIST
+107.0,IN_SPEC_OR_CANCEL,1.0,O,Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+108.0,IO_SPEC_ANALYSIS,1.0,E,%l At least one analysis column must be specified.,SASHELP.FSP.OK.SLIST
+110.0,IO_SPEC_DIMENSION,1.0,E,%l At least one dimension must be specified.,SASHELP.FSP.OK.SLIST
+114.0,IO_INVALID_FORMAT,1.0,E,%lInvalid format specified.,SASHELP.FSP.OK.SLIST
+115.0,IO_INVALID_RANGE,1.0,E,%lInvalid range specified.,SASHELP.FSP.OK.SLIST
+116.0,IN_SELECT_COLUMN,1.0,O,Select Column item to specify attributes.,SASHELP.FSP.OK.SLIST
+171.0,IO_GRSEG_REQUIRED,1.0,N,"%lIn order to define hotspots, a graph name is required.",SASHELP.FSP.OK.SLIST
+172.0,IO_APPL_NOTEXIST,1.0,W,"%lApplication specified, %1$ doesn't exist.",SASHELP.FSP.OK.SLIST
+173.0,IO_APPL_MISSINFO,1.0,W,"%lApplication specified, %1$ is missing information.",SASHELP.FSP.OK.SLIST
+174.0,IO_PCT_INVALID,1.0,E,%lScaling percentage must be greater than 0.,SASHELP.FSP.OK.SLIST
+175.0,IO_APPLNAME_INERROR,1.0,E,%lApplication name field is in error. Please correct to continue.,SASHELP.FSP.OK.SLIST
+178.0,IO_NOTES_NOTEXIST,1.0,N,%lThere are no notes for this report.,SASHELP.FSP.OK.SLIST
+179.0,IO_GRSEG_NOTEXIST,1.0,N,"%lHotspots cannot be defined because the graph, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+180.0,IO_HOTSPOT_NOTEXIST,1.0,W,%lNo hotspot has been defined. Make sure an area on the graph has been selected and a name has been specified.,SASHELP.FSP.OK.SLIST
+181.0,IO_NAME_INVALID,1.0,E,"%lA valid name must be given. Names can be up to eight characters long. The first character must be a letter or underscore. Blanks or special characters (for example, $,@,#) are not allowed.",SASHELP.FSP.OK.SLIST
+182.0,IN_HOTSPOT_NOTADDED,1.0,Q,"%lThe hotspot, %1$, has been defined but not permanently saved.   Select 'Save' if you want to save the hotspot. Select 'Cancel' to return to the window.",SASHELP.FSP.DCS.SLIST
+183.0,IO_SASCMD_REQUIRED,1.0,E,%lSAS command has been selected as the target application but no SAS command has been specified. Use the arrow to the right of the field for a partial list of SAS commands.,SASHELP.FSP.OK.SLIST
+184.0,IO_EISAPPL_REQUIRED,1.0,E,"%lA complete EIS Application name has not been specified.  Please check the Path, Application Database, Name and Type fields for missing information.",SASHELP.FSP.OK.SLIST
+185.0,IO_APPLDS_NOTEXIST,1.0,N,%lNo EIS application databases exist in the path specified. A selection list cannot be shown.,SASHELP.FSP.OK.SLIST
+186.0,IO_NOTES_NOTVALIDATED,1.0,W,"%lThe notes entry specified, %1$, does not currently exist.",SASHELP.FSP.OK.SLIST
+192.0,IO_FNAME_REQUIRED,1.0,E,"%lIn order to define hotspots, a filename or fileref is required.",SASHELP.FSP.OK.SLIST
+193.0,IO_ENAME_REQUIRED,1.0,E,"%lIn order to define hotspots, a catalog entry name is required.",SASHELP.FSP.OK.SLIST
+194.0,IO_FNAME_INERROR,1.0,E,%lFile name field is in error. Please correct to continue.,SASHELP.FSP.OK.SLIST
+195.0,IO_ENAME_INERROR,1.0,E,%lCatalog entry field is in error. Please correct to continue.,SASHELP.FSP.OK.SLIST
+196.0,IO_ENAME_NOTEXIST,1.0,N,"%lHotspots cannot be defined because the catalog entry, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+202.0,IN_CONFIRM_DELETE,1.0,Q,Are you sure you wish to delete:%n%1$?,SASHELP.FSP.OC.SLIST
+202.0,IN_CONFIRM_DELETE,2.0,Q,%n%n,SASHELP.FSP.OC.SLIST
+202.0,IN_CONFIRM_DELETE,3.0,Q,"Use OK to delete, Cancel to quit.",SASHELP.FSP.OC.SLIST
+233.0,IN_UNDER_CONSTRUCTION,1.0,O,This application is under construction.,SASHELP.FSP.OK.SLIST
+266.0,IN_CONFIRM_SAVE,1.0,Q,"Are you sure you wish to save changes to: %1$ ?%N%NUse Ok to save, Cancel to quit.",SASHELP.FSP.OC.SLIST
+268.0,IO_SASAPPL_NOTEXIST,1.0,N,%LNo EIS application databases exist in the data library referenced by the path ( %1$ ).,SASHELP.FSP.OK.SLIST
+286.0,IN_HIER_LEV_USED,1.0,N,Hierarchy level(s) %1$ already displayed.,SASHELP.FSP.OK.SLIST
+286.0,IN_HIER_LEV_USED,2.0,N,Displaying hierarchy level %2$.,SASHELP.FSP.OK.SLIST
+287.0,IN_ALL_HIER_LEV_USED,1.0,N,All levels of the %1$ hierarchy are currently displayed.,SASHELP.FSP.OK.SLIST
+288.0,IN_COLUMNS_REMOVED,1.0,E,A column may appear only once.,SASHELP.FSP.OK.SLIST
+288.0,IN_COLUMNS_REMOVED,2.0,E,Redundant columns selections for %1$ were removed.,SASHELP.FSP.OK.SLIST
+290.0,IN_CHANGES_CANCELED,1.0,N,A column may appear only once.,SASHELP.FSP.OK.SLIST
+290.0,IN_CHANGES_CANCELED,2.0,N,Changes canceled due to multiple uses of %1$ .,SASHELP.FSP.OK.SLIST
+293.0,IN_NOT_A_HIER,1.0,E,The selected cell does not contain a hierarchy.,SASHELP.FSP.OK.SLIST
+294.0,IN_NO_DUP_COLUMNS,1.0,E,Duplicate columns are not allowed in calculation.,SASHELP.FSP.OK.SLIST
+295.0,IN_EQUATION_COMPLETE,1.0,N,Equation is complete. Press Define.,SASHELP.FSP.OK.SLIST
+296.0,IN_NEEDS_MORE_DATA,1.0,E,Calculation requires more data. Please choose a column.,SASHELP.FSP.OK.SLIST
+297.0,IN_COLUMN_USED_IN_CALC,1.0,E,Column is used in calculation of %1$.,SASHELP.FSP.OK.SLIST
+298.0,IN_DESC_MUST_BE_UNIQUE,1.0,E,Description must be unique.,SASHELP.FSP.OK.SLIST
+305.0,IN_WNAME_COPYREG_NONMB,1.0,O,SAS/EIS: Copy,SASHELP.FSP.OK.SLIST
+311.0,IO_DESCRIP_REQUIRED,1.0,E,%lDescription is required.,SASHELP.FSP.OK.SLIST
+312.0,IO_ALIAS_REQUIRED,1.0,E,%lAlias is required.,SASHELP.FSP.OK.SLIST
+313.0,IO_PATH_REQUIRED,1.0,E,%lPath is required.,SASHELP.FSP.OK.SLIST
+314.0,IO_ALIAS_INVALID,1.0,E,%lAlias is not a valid SAS name.,SASHELP.FSP.OK.SLIST
+315.0,IO_DEVICE_INVALID,1.0,E,%lDevice in not valid.,SASHELP.FSP.OK.SLIST
+317.0,IN_NOT_A_HIER_VAR,1.0,W,The variable is not part of a hierarchy.,SASHELP.FSP.OK.SLIST
+318.0,IO_FILENAME_NOTEXIST,1.0,N,"%lHotspots and ranges cannot be defined because the filename, %1$, does not exist or cannot be read.",SASHELP.FSP.OK.SLIST
+319.0,IO_FILEREF1_NOTEXIST,1.0,N,"%lHotspots and ranges cannot be defined because the fileref, %1$, has not been assigned. The output cannot be displayed.",SASHELP.FSP.OK.SLIST
+320.0,IO_FILEREF2_NOTEXIST,1.0,N,"%lHotspots and ranges cannot be defined because the fileref, %1$, points to a file that does not exist or cannot be read.",SASHELP.FSP.OK.SLIST
+321.0,IN_UPDATE_DENIED,1.0,W,%$ could not be opened in update mode.,SASHELP.FSP.OK.SLIST
+322.0,IN_AXIS_RANGE_NOT_VALID,1.0,E,The specified axis range(s) are not valid.,SASHELP.FSP.OK.SLIST
+323.0,IN_OPEN_FAILED,1.0,E,Member level locking unavailable for %$.,SASHELP.FSP.OK.SLIST
+324.0,IO_AX_RNG_INC_NOT_POS,1.0,E,The specified axis increment must be positive.,SASHELP.FSP.OK.SLIST
+325.0,IO_VAR_NO_CATEGORY,1.0,E,There are no variables registered with the CATEGORY attribute.,SASHELP.FSP.OK.SLIST
+326.0,IO_INVALID_PATH,1.0,E,%LPath is invalid.,SASHELP.FSP.OK.SLIST
+327.0,IN_ALIAS_ASSIGNED,1.0,N,%LAlias assigned successfully.,SASHELP.FSP.OK.SLIST
+328.0,IN_ALIAS_CLEARED,1.0,N,%LAlias cleared successfully.,SASHELP.FSP.OK.SLIST
+329.0,IN_REMOTE_ALIAS_ENABLE,1.0,N,%LCheck log for results of remote alias enable.,SASHELP.FSP.OK.SLIST
+330.0,IN_REMOTE_ALIAS_DISABLE,1.0,N,%LCheck log for results of remote alias disable.,SASHELP.FSP.OK.SLIST
+331.0,IN_SINGON_REMOTE_FAILED,1.0,E,%LCould not signon to the remote session.,SASHELP.FSP.OK.SLIST
+335.0,IN_SELECT_ITEM,1.0,E,Select an item from the table.,SASHELP.FSP.OK.SLIST
+336.0,IO_SERVER_REQUIRED,1.0,E,%LA server is required.,SASHELP.FSP.OK.SLIST
+337.0,IO_COMAMID_REQUIRED,1.0,E,%LA COMAMID is required.,SASHELP.FSP.OK.SLIST
+338.0,IO_SCRIPT_REQUIRED,1.0,E,%LA script is required.,SASHELP.FSP.OK.SLIST
+339.0,IN_CNCT_SHARE_REQUIRED,1.0,E,%LYou must have SAS/CONNECT or SAS/SHARE software licensed.,SASHELP.FSP.OK.SLIST
+341.0,IO_INVALID_COMAMID,1.0,E,%LCOMAMID is invalid.,SASHELP.FSP.OK.SLIST
+342.0,IN_NO_SIGNOFF,1.0,E,%LSignoff was unsuccessful.,SASHELP.FSP.OK.SLIST
+343.0,IN_SIGNOFF_OK,1.0,N,%LSignoff completed successfully.,SASHELP.FSP.OK.SLIST
+344.0,IN_NO_SIGNON,1.0,E,%LCould not signon to remote session. Please see the log for details.,SASHELP.FSP.OK.SLIST
+345.0,IN_ALREADY_SIGNED_ON,1.0,N,%lYou are already signed on to the remote session.,SASHELP.FSP.OK.SLIST
+346.0,IN_NO_LINK,1.0,E,%LA link does not exist with the remote session.,SASHELP.FSP.OK.SLIST
+347.0,IN_SIGNON_OK,1.0,N,%LSignon completed successfully.,SASHELP.FSP.OK.SLIST
+348.0,IN_ENABLE_SHR_FAILED,1.0,E,%LCannot enable a Multi-user server.,SASHELP.FSP.OK.SLIST
+358.0,IN_SELECT_DATA,1.0,E,A database must first be selected.,SASHELP.FSP.OK.SLIST
+361.0,IO_NO_ANALYSIS_ATTR,1.0,E,There are no columns registered with the ANALYSIS attribute.,SASHELP.FSP.OK.SLIST
+363.0,IO_DS_NOT_EXIST_ERROR,1.0,E,%L%1$ does not exist.,SASHELP.FSP.OK.SLIST
+369.0,IO_VAR_MISS_ERROR,1.0,E,%lThe columns: %1$ do not exist on the table.,SASHELP.FSP.OK.SLIST
+372.0,IO_VAR_MISS_WARN,1.0,W,%lThe columns: %1$ do not exist on the table.,SASHELP.FSP.OK.SLIST
+373.0,DI_HIER_VAR_ERROR,1.0,E,%lThe columns: %1$ are assigned to a hierarchy but do,SASHELP.FSP.OK.SLIST
+373.0,DI_HIER_VAR_ERROR,2.0,E,not exist on the table.,SASHELP.FSP.OK.SLIST
+374.0,DI_HIER_EMPTY,1.0,E,%lThe hierarchy: %1$ has no assigned columns.,SASHELP.FSP.OK.SLIST
+375.0,DI_HIER_VAR_WARN,1.0,W,%lThe columns: %1$ are assigned to a hierarchy but do,SASHELP.FSP.OK.SLIST
+375.0,DI_HIER_VAR_WARN,2.0,W,not exist on the table.,SASHELP.FSP.OK.SLIST
+376.0,DI_HIER_REG_ERROR,1.0,E,%lThe columns: %1$ are assigned to a hierarchy but,SASHELP.FSP.OK.SLIST
+376.0,DI_HIER_REG_ERROR,2.0,E,are not registered.,SASHELP.FSP.OK.SLIST
+377.0,DI_HIER_REG_WARN,1.0,W,%lThe columns: %1$ are assigned to a hierarchy but,SASHELP.FSP.OK.SLIST
+377.0,DI_HIER_REG_WARN,2.0,W,are not registered,SASHELP.FSP.OK.SLIST
+378.0,DI_HIER_CAT_ERROR,1.0,E,%lThe columns: %1$ are assigned to a hierarchy but,SASHELP.FSP.OK.SLIST
+378.0,DI_HIER_CAT_ERROR,2.0,E,do not have the CATEGORY attribute.,SASHELP.FSP.OK.SLIST
+379.0,DI_HIER_CAT_WARN,1.0,W,%lThe columns: %1$ are assigned to a hierarchy but,SASHELP.FSP.OK.SLIST
+379.0,DI_HIER_CAT_WARN,2.0,W,do not have the CATEGORY attribute.,SASHELP.FSP.OK.SLIST
+380.0,CL_HOTSPOTS,1.0,L,"Show Hotspots, Hide Hotspots, Notes",
+381.0,IO_REMOTE_REQUIRED,1.0,E,%LIf the libname statement is to be submitted on a,SASHELP.FSP.OK.SLIST
+381.0,IO_REMOTE_REQUIRED,2.0,E,"remote host, a remote host value other than '-LOCAL-'",SASHELP.FSP.OK.SLIST
+381.0,IO_REMOTE_REQUIRED,3.0,E,is required.,SASHELP.FSP.OK.SLIST
+382.0,IO_NAME_NOT_EXIST,1.0,E,%LThe physical name does not currently exist.,SASHELP.FSP.OK.SLIST
+383.0,IN_ALIAS_ASSGN_FAILED,1.0,E,%LAlias assignment failed. See log for details.,SASHELP.FSP.OK.SLIST
+384.0,IN_ALIAS_NOT_ASSGN,1.0,N,%LAlias not assigned.,SASHELP.FSP.OK.SLIST
+385.0,IN_NO_CONFIG,1.0,N,%lNo configuration exists for this remote session.,SASHELP.FSP.OK.SLIST
+386.0,IN_REMOTE_SUBMIT_FAILED,1.0,E,%LRemote submit failed. See log for details.,SASHELP.FSP.OK.SLIST
+405.0,CL_MULTIDIM_POPMENU,1.0,L,"Appearance..., Select Columns..., Collapse, Computed Columns..., Computed Values..., Down, Drilldown, Expand, Left, Report Totals..., Right, Rotate,",
+405.0,CL_MULTIDIM_POPMENU,2.0,L,"Up, Report Layout, Subset by Dimensions",
+407.0,IN_COMP_LEVELS_TITLE,1.0,O,Computed Values,SASHELP.FSP.OK.SLIST
+408.0,IN_LEVELS,1.0,O,Values,SASHELP.FSP.OK.SLIST
+410.0,IN_MUST_HAVE_LOCATION,1.0,E,You must specify a location for the computed level.,SASHELP.FSP.OK.SLIST
+411.0,CL_CALCS_LIST,1.0,L,"Difference of two values, Sum of two or more values, Ratio of two values, Percent, Mean of two or more values, Minimum of two or more values, Maximum of two or more values",SASHELP.FSP.OK.SLIST
+412.0,IN_EOF_REACHED,1.0,N,End of file reached without a match.,SASHELP.FSP.OK.SLIST
+413.0,IO_ORG_BOTH_ATTR,1.0,W,The HIEARCH and ORGDATA attributes have been assigned to this table.,SASHELP.FSP.OK.SLIST
+413.0,IO_ORG_BOTH_ATTR,2.0,W,The organizational chart is assuming HIERARCH is the desired attribute.,SASHELP.FSP.OK.SLIST
+413.0,IO_ORG_BOTH_ATTR,3.0,W,The resulting chart may not be correct.,SASHELP.FSP.OK.SLIST
+417.0,IO_SHR_SERVER_REQUIRED,1.0,E,%LYou must specify a SAS/SHARE server.,SASHELP.FSP.OK.SLIST
+419.0,CL_GRAPHS_POPMENU,1.0,L,"Change Graph Type..., Colors..., Graph Fonts..., Titles...,",SASHELP.FSP.OK.SLIST
+419.0,CL_GRAPHS_POPMENU,2.0,L,"Footnotes..., Statistics..., Group & Axis..., Reference Lines...,",SASHELP.FSP.OK.SLIST
+419.0,CL_GRAPHS_POPMENU,3.0,L,Pie Options...,SASHELP.FSP.OK.SLIST
+420.0,IO_HOTSPOTR_NOTEXIST,1.0,W,%lNo hotspot has been defined.  Make sure an area on the report has been marked and a name has been specified.,SASHELP.FSP.OK.SLIST
+421.0,IO_HOTR_NAME_NOTADDED,1.0,W,%lAn area on the report was marked but a hotspot name was not given.  Do you want to return to the window and add the hotspot?,SASHELP.FSP.YN.SLIST
+422.0,IO_HOTG_NAME_NOTADDED,1.0,Q,%lAn area on the graph was selected but a hotspot name was not given.  Do you want to return to the window to add the hotspot?,SASHELP.FSP.YN.SLIST
+423.0,IO_HOTNAMEG_NOBLANK,1.0,E,"%lIf you want to delete the hotspot, %1$, select Delete.  To add anew hotspot, select a new area on the graph.",SASHELP.FSP.OK.SLIST
+424.0,IO_HOTNAMER_NOBLANK,1.0,E,"%lIf you want to delete the hotspot, %1$, select Delete. To add a new hotspot, mark a new area on the output.",SASHELP.FSP.OK.SLIST
+425.0,IO_HOTNAME_UNIQUE,1.0,E,"%lThe name, %1$, has already been used.  Each hotspot name must be unique.",SASHELP.FSP.OK.SLIST
+428.0,IN_VALUE_ATTRIBUTES,1.0,O,SAS/EIS: Column Appearance,SASHELP.FSP.OK.SLIST
+429.0,IN_LABEL_ATTRIBUTES,1.0,O,SAS/EIS: Label Appearance,SASHELP.FSP.OK.SLIST
+430.0,IN_OBJECT_NOT_SUPPORTED,1.0,E,This EIS object type cannot be added to,SASHELP.FSP.OK.SLIST
+430.0,IN_OBJECT_NOT_SUPPORTED,2.0,E,the desktop in this release.,SASHELP.FSP.OK.SLIST
+432.0,IO_NO_EDIT_METHOD,1.0,E,The edit method specified does not exist.,SASHELP.FSP.OK.SLIST
+450.0,IN_TOTAL,1.0,O,Total,SASHELP.FSP.OK.SLIST
+454.0,IO_NOT_SASAPPL,1.0,E,"%lThe application database, %1$, exists but it is not a valid EIS application database. Use the arrow to the right of the field to get a validlist of databases to choose from.",SASHELP.FSP.OK.SLIST
+455.0,IO_DSNAME_ALREADY_EXISTS,1.0,E,%lThe SAS dataset %1$ already exists in the specified Path.,SASHELP.FSP.OK.SLIST
+456.0,IO_INVALID_DATASET_NAME,1.0,E,%lInvalid dataset name ' %1$ '.   Please use a valid SAS name.,SASHELP.FSP.OK.SLIST
+457.0,IN_SELECT_OBJECT,1.0,E,%lAn object must first be selected.,SASHELP.FSP.OK.SLIST
+458.0,DI_ENTRY_NOTEXIST_WARN,1.0,W,"%lThe entry, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+460.0,IN_COMP_COL_REMOVED,1.0,N,Computed column %1$ is no longer valid.,SASHELP.FSP.OC.SLIST
+460.0,IN_COMP_COL_REMOVED,2.0,N,Column %2$ used in definition is no longer available.,SASHELP.FSP.OC.SLIST
+460.0,IN_COMP_COL_REMOVED,3.0,N,OK to delete computed column %1$ from the metabase.,SASHELP.FSP.OC.SLIST
+460.0,IN_COMP_COL_REMOVED,4.0,N,Cancel to cancel report.,SASHELP.FSP.OC.SLIST
+476.0,IN_READONLY_LIBRARY,1.0,N,You have selected a read-only library.,SASHELP.FSP.OK.SLIST
+485.0,IO_SASCOMMAND_REQUIRED,1.0,E,"%lYou have chosen SAS command(s) as the target application type, but no SAS command has been specified.  If you do not want to assign a target application, select 'None' as the type when you return to",SASHELP.FSP.OK.SLIST
+485.0,IO_SASCOMMAND_REQUIRED,2.0,E,the window.,SASHELP.FSP.OK.SLIST
+486.0,IO_LABEL_SASNAME,1.0,E,%lLabel is not a SAS name.,SASHELP.FSP.OK.SLIST
+510.0,IO_GRSEG_INERROR,1.0,E,%lThe graph name specified is invalid.  A valid name must be given.,SASHELP.FSP.OK.SLIST
+514.0,IO_INVALID_VARIABLE,1.0,E,%lThe variable %1$ does not exist.,SASHELP.FSP.OK.SLIST
+521.0,IO_INVALID_ACCESS_METHOD,1.0,E,%lA SAS Data Library configuration cannot be created,SASHELP.FSP.OK.SLIST
+521.0,IO_INVALID_ACCESS_METHOD,2.0,E,because the access method (comamid) associated with the,SASHELP.FSP.OK.SLIST
+521.0,IO_INVALID_ACCESS_METHOD,3.0,E,server that you have selected is not valid.,SASHELP.FSP.OK.SLIST
+534.0,IO_NOT_EDIT_SOURCE,1.0,W,"%lThe source entry, %1$, cannot be edited.",SASHELP.FSP.OK.SLIST
+551.0,IN_ANAL_VAR_NEEDED,1.0,E,Please select at least one analysis variable.,SASHELP.FSP.OK.SLIST
+552.0,IN_EMPTY_TABLE,1.0,N,You have created an empty report.,SASHELP.FSP.OK.SLIST
+552.0,IN_EMPTY_TABLE,2.0,N,Please verify that you have not requested,SASHELP.FSP.OK.SLIST
+552.0,IN_EMPTY_TABLE,3.0,N,a nonexistent subset.,SASHELP.FSP.OK.SLIST
+570.0,IN_FORMAT_NOT_FOUND,1.0,N,Format %1$ not found.,SASHELP.FSP.OK.SLIST
+570.0,IN_FORMAT_NOT_FOUND,2.0,N,Using unformatted values for column %2$.,SASHELP.FSP.OK.SLIST
+587.0,IO_OBJNAME_REQUIRED,1.0,E,An object name is required. Specify one or press,SASHELP.FSP.OK.SLIST
+587.0,IO_OBJNAME_REQUIRED,2.0,E,Cancel to quit.,SASHELP.FSP.OK.SLIST
+588.0,IO_EDITPGM_REQUIRED,1.0,E,An edit program is required. Specify one or press,SASHELP.FSP.OK.SLIST
+588.0,IO_EDITPGM_REQUIRED,2.0,E,Cancel to quit.,SASHELP.FSP.OK.SLIST
+589.0,IO_RUNPGM_REQUIRED,1.0,E,A run program is required.  Specify one or press,SASHELP.FSP.OK.SLIST
+589.0,IO_RUNPGM_REQUIRED,2.0,E,Cancel to quit.,SASHELP.FSP.OK.SLIST
+590.0,IO_UNIQUE_OBJNAME,1.0,E,The specified object name is not unique.,SASHELP.FSP.OK.SLIST
+591.0,IO_HOTOUT_BLANK,1.0,E,%lNo output was specified.  There is nothing to display.,SASHELP.FSP.OK.SLIST
+592.0,IO_HOTOUTG_BLANK,1.0,E,%lNo graph was specified.  There is nothing to display.,SASHELP.FSP.OK.SLIST
+593.0,IO_HOTOUTC_NOTEXIST,1.0,E,"%lThe catalog entry specified, %1$, does not exist or cannot be read.  There is no output to display.",SASHELP.FSP.OK.SLIST
+594.0,IO_HOTOUTF_NOTEXIST,1.0,E,"%lThe filename specified, %1$, does not exist or cannot be read. There is nothing to display.",SASHELP.FSP.OK.SLIST
+595.0,IO_HOTOUTG_NOTEXIST,1.0,E,"%lThe graph specified, %1$, does not exist or cannot not be read.  There is nothing to display.",SASHELP.FSP.OK.SLIST
+596.0,IO_HOTOUT_ALLOC,1.0,E,"%lThe fileref specified, %1$, has been assigned but the file it points to does not exist or cannot be read.  There is no output to display.",SASHELP.FSP.OK.SLIST
+597.0,IO_HOTOUT_NOALLOC,1.0,E,"%lThe fileref specified, %1$, has not been assigned.  The output cannot be displayed.",SASHELP.FSP.OK.SLIST
+602.0,IO_DIRECTORY_NOT_FILE,1.0,E,"%l %1$ is the name of a directory, not the name of a file.",SASHELP.FSP.OK.SLIST
+603.0,IN_EMPTY_TABLE_DND,1.0,E,You have removed all levels from both the down,SASHELP.FSP.OK.SLIST
+603.0,IN_EMPTY_TABLE_DND,2.0,E,and across dimensions.,SASHELP.FSP.OK.SLIST
+603.0,IN_EMPTY_TABLE_DND,3.0,E,This is not allowed.,SASHELP.FSP.OK.SLIST
+603.0,IN_EMPTY_TABLE_DND,4.0,E,Changes will be canceled.,SASHELP.FSP.OK.SLIST
+609.0,IO_DSDESC_INERROR,1.0,E,%lThe Application database specified is invalid.  Please correct to continue.,SASHELP.FSP.OK.SLIST
+610.0,IO_APPLTYPE_INERROR,1.0,E,%lThe application Type specified is invalid.  Please correct to continue.,SASHELP.FSP.OK.SLIST
+615.0,IN_NO_FORMULA,1.0,N,There is no formula specified. Please select a,SASHELP.FSP.OK.SLIST
+615.0,IN_NO_FORMULA,2.0,N,calculation type and specify columns.,SASHELP.FSP.OK.SLIST
+643.0,DI_VIEWER_REQD,1.0,E,%lA viewer is required.  Specify one or press,SASHELP.FSP.OK.SLIST
+643.0,DI_VIEWER_REQD,2.0,E,cancel to quit.,SASHELP.FSP.OK.SLIST
+655.0,IN_LEVEL_MUST_BE_UNIQUE,1.0,E,"Level ""%1$"" exists in the table. Please provide",SASHELP.FSP.OK.SLIST
+655.0,IN_LEVEL_MUST_BE_UNIQUE,2.0,E,an unique description.,SASHELP.FSP.OK.SLIST
+658.0,IN_INVALID_LOCATION,1.0,E,Location is not valid.,SASHELP.FSP.OK.SLIST
+658.0,IN_INVALID_LOCATION,2.0,E,A computed level cannot be inserted into the,SASHELP.FSP.OK.SLIST
+658.0,IN_INVALID_LOCATION,3.0,E,table before any other computed level used in its,SASHELP.FSP.OK.SLIST
+658.0,IN_INVALID_LOCATION,4.0,E,definition.,SASHELP.FSP.OK.SLIST
+719.0,IN_DELETE_COMPUTED_COLUMN,1.0,Q,Computed column %1$ is no longer valid.,SASHELP.FSP.DD.SLIST
+719.0,IN_DELETE_COMPUTED_COLUMN,2.0,Q,Column %2$ used in definition is no longer available.,SASHELP.FSP.DD.SLIST
+719.0,IN_DELETE_COMPUTED_COLUMN,3.0,Q,Delete computed column %1$ ?,SASHELP.FSP.DD.SLIST
+803.0,IO_MDDB_CREATED,1.0,N,Multidimensional Database %1$ has been created. %N,SASHELP.FSP.OK.SLIST
+803.0,IO_MDDB_CREATED,2.0,N,Completion time: %(2#time.),SASHELP.FSP.OK.SLIST
+821.0,IO_ENOTABLE,1.0,E,%lTable %1$ does not exist.,SASHELP.FSP.OK.SLIST
+860.0,IO_SEGMENT_SELECTED,1.0,E,Segment has already been selected.,SASHELP.FSP.OK.SLIST
+979.0,IN_INVALID_METABASE_ENTRY,1.0,E,%lEntry: %1$ is not a valid repository entry.,SASHELP.FSP.OK.SLIST
+1016.0,IO_OUTC_PERMISSION_PROBLEM,1.0,E,"%lThe catalog entry specified, %1$, does not exist or cannot be created.",SASHELP.FSP.OK.SLIST
+1027.0,CL_GRAPHS_CHARTS,1.0,L,"3D vertical bar, 3D vertical bar (prism), 3D vertical bar (cylinder), 3D vertical bar (hexagon), 3D vertical bar (star), 3D horizontal bar, 3D horizontal bar (prism), 3D horizontal bar (cylinder),",
+1027.0,CL_GRAPHS_CHARTS,2.0,L,"3D horizontal bar (hexagon), 3D horizontal bar (star), 3D pie, Vertical bar, Horizontal bar, Pie, Scatter, XY Plot, Needle, Step, Spline, Regression",
+1035.0,CL_DRILL,1.0,O,Drilldown,SASHELP.FSP.OK.SLIST
+1036.0,CL_DOWN,1.0,O,Down,SASHELP.FSP.OK.SLIST
+1037.0,CL_UP,1.0,O,Up,SASHELP.FSP.OK.SLIST
+1038.0,CL_LEFT,1.0,O,Left,SASHELP.FSP.OK.SLIST
+1039.0,CL_RIGHT,1.0,O,Right,SASHELP.FSP.OK.SLIST
+1040.0,CL_REPORT_LAYOUT,1.0,O,Report Layout...,SASHELP.FSP.OK.SLIST
+1041.0,CL_SUBSET,1.0,O,Subset by Dimension...,SASHELP.FSP.OK.SLIST
+1042.0,CL_STAT,1.0,O,Change Statistic...,SASHELP.FSP.OK.SLIST
+1043.0,CL_EXPAND,1.0,O,Expand,SASHELP.FSP.OK.SLIST
+1044.0,CL_COLLAPSE,1.0,O,Collapse,SASHELP.FSP.OK.SLIST
+1045.0,CL_VIEWPOINT,1.0,O,Viewpoint...,SASHELP.FSP.OK.SLIST
+1046.0,CL_CUSTOMIZE,1.0,O,Customize...,SASHELP.FSP.OK.SLIST
+1047.0,CL_CHART_TYPE,1.0,O,Change Graph Type...,SASHELP.FSP.OK.SLIST
+1070.0,CL_ROTATE,1.0,O,Rotate,SASHELP.FSP.OK.SLIST
+1071.0,CL_COMPUTED_VALUES,1.0,O,Computed Values...,SASHELP.FSP.OK.SLIST
+1072.0,CL_SHOW_DETAIL,1.0,O,Show Detail Data...,SASHELP.FSP.OK.SLIST
+1302.0,IO_FILENAME_ALREADY_EXISTS,1.0,E,File already exists and cannot be written over.,SASHELP.FSP.OK.SLIST
+1302.0,IO_FILENAME_ALREADY_EXISTS,2.0,E,Specify another file and/or path.,SASHELP.FSP.OK.SLIST
+1403.0,CL_RUNTGT,1.0,L,Run Target Application,
+1407.0,IO_ONE_FIELD_REQUIRED,1.0,E,%LA value is required for at least one of the,SASHELP.FSP.OK.SLIST
+1407.0,IO_ONE_FIELD_REQUIRED,2.0,E,fields.,SASHELP.FSP.OK.SLIST
+1408.0,CL_CLEAR_SUB,1.0,L,Clear Data Subset,
+1409.0,CL_DRILL_SUB,1.0,L,Subset Data,
+1413.0,IO_NO_STATS_SPECIFIED,1.0,E,A statistic is required.,SASHELP.FSP.OK.SLIST
+1416.0,IN_TABLE_ALREADY_DEFINED,1.0,E,The summarization table %$ is already defined.,SASHELP.FSP.OK.SLIST
+1560.0,CL_NAVIGATOR,1.0,O,Dimension Navigator...,SASHELP.FSP.OK.SLIST
+1562.0,CL_DRILLPATH,1.0,O,Show Drillpath...,SASHELP.FSP.OK.SLIST
+1564.0,CL_SHOW_MAP_TOOLBAR,1.0,O,Toggle Toolbar...,SASHELP.FSP.OK.SLIST
+1565.0,IO_ANAL_VAR_NEEDED,1.0,E,%lPlease select at least one analysis variable.,SASHELP.FSP.OK.SLIST
+1566.0,IO_NO_MAP_MIDPOINT,1.0,E,%lNo map dimension specified.,SASHELP.FSP.OK.SLIST
+1567.0,IO_STAT_NEEDED,1.0,E,%lPlease select a statistic for each analysis variable.,SASHELP.FSP.OK.SLIST
+1568.0,IO_NO_MAP_DATA,1.0,W,%lThere are no data available for the selected region.,SASHELP.FSP.OK.SLIST
+1569.0,IO_NO_MAP_INFO,1.0,W,%lThere is no map information available for the selected region.,SASHELP.FSP.OK.SLIST
+1570.0,CL_AREA_MAP_LABEL,1.0,O,Area Map,SASHELP.FSP.OK.SLIST
+1571.0,CL_MARKER_MAP_LABEL,1.0,O,Marker Map,SASHELP.FSP.OK.SLIST
+1572.0,DI_HIER_INVALID,1.0,E,%LThe hierarchy information is invalid or does not match the map information.,SASHELP.FSP.OK.SLIST
+1573.0,DI_MAPINFO_INVALID,1.0,E,%lThe map information is missing or does not match the hierarchy information.,SASHELP.FSP.OK.SLIST
+1574.0,CL_MAP_LABEL_TYPES,1.0,L,"Map Hierarchy, Color Column, Size Column, -NONE-",
+1575.0,CL_BROWSE,1.0,O,Browse,SASHELP.FSP.OK.SLIST
+1576.0,CL_EDIT,1.0,O,Edit,SASHELP.FSP.OK.SLIST
+1577.0,CL_NEW,1.0,O,New,SASHELP.FSP.OK.SLIST
+1578.0,CL_MARKER_TYPES,1.0,L,"3D Bar, Cube, Pyramid, Cylinder, Hexagon, Square, Circle, Diamond, Triangle, Star",
+1580.0,IN_EXCEL_NOT_FOUND,1.0,E,Excel executable cannot be found,SASHELP.FSP.OK.SLIST
+1581.0,IO_SAVEAS_DATA_CREATED,1.0,O,Data Type Created,SASHELP.FSP.OK.SLIST
+1582.0,IN_SPREADSHEET_WRITE_FAILED,1.0,E,Spreadsheet could not be written to %1$,SASHELP.FSP.OK.SLIST
+1632.0,IN_REPORT_CREATED_IN_FOLDNAME,1.0,N,Report created in %1$,SASHELP.FSP.OK.SLIST
+1633.0,IN_ITEM_CREATED_IN_FOLDNAME,1.0,N,Folder item created in %1$,SASHELP.FSP.OK.SLIST
+1634.0,IN_INSIGHT_CREATED_IN_FOLDNAME,1.0,N,SAS/Insight Application created in %1$,SASHELP.FSP.OK.SLIST
+1635.0,IN_FILE_WRITTEN_TO_EXCEL,1.0,N,File %1$ written to Excel spreadsheet .XLS file,SASHELP.FSP.OK.SLIST
+1636.0,IN_EXCEL_ICON_CREATED,1.0,N,Excel icon placed in %1$,SASHELP.FSP.OK.SLIST
+1637.0,IO_OVERWRITE_EXISTING_DATASET,1.0,Q,%1$ already exists. Do you wish to overwrite it?,SASHELP.FSP.YN.SLIST
+1638.0,IO_MB_REGISTRATION_COPIED,1.0,N,Repository registration %1$ copied to %2$,SASHELP.FSP.OK.SLIST
+1659.0,CL_ROTATE_MAP,1.0,O,Rotate Map...,SASHELP.FSP.OK.SLIST
+1678.0,IO_INVALID_MDDBNAME,1.0,E,%lThe MDDB name field is in error. Please correct,SASHELP.FSP.OK.SLIST
+1678.0,IO_INVALID_MDDBNAME,2.0,E,to continue.,SASHELP.FSP.OK.SLIST
+1679.0,IO_MDDBNAME_BLANK,1.0,E,%lA MDDB name is required. Please correct to,SASHELP.FSP.OK.SLIST
+1679.0,IO_MDDBNAME_BLANK,2.0,E,continue.,SASHELP.FSP.OK.SLIST
+1680.0,IO_MDDBPATH_BLANK,1.0,E,%LA MDDB path is required. Please correct to,SASHELP.FSP.OK.SLIST
+1680.0,IO_MDDBPATH_BLANK,2.0,E,continue.,SASHELP.FSP.OK.SLIST
+1681.0,IO_MDDB_EXIST,1.0,W,%LThe MDDB %1$ already exist. Do you wish to,SASHELP.FSP.YN.SLIST
+1681.0,IO_MDDB_EXIST,2.0,W,overwrite it?,SASHELP.FSP.YN.SLIST
+1683.0,IN_DATASET_CREATED,1.0,N,Dataset %1$ created.,SASHELP.FSP.OK.SLIST
+1684.0,IN_APPLICATION_CREATED,1.0,N,EIS Application %1$ created in %2$,SASHELP.FSP.OK.SLIST
+1685.0,IO_APPLDB_UNAVAILABLE,1.0,E,"The application database, %1$, cannot be used.",SASHELP.FSP.OK.SLIST
+1685.0,IO_APPLDB_UNAVAILABLE,2.0,E,Please select another one.,SASHELP.FSP.OK.SLIST
+1686.0,IO_FOLDER_CANNOT_BE_UPDATED,1.0,E,Folder %1$ is either read-only or cannot be created.,SASHELP.FSP.OK.SLIST
+1687.0,CL_SHOW_SUBSET,1.0,O,Show Subset...,SASHELP.FSP.OK.SLIST
+1688.0,CL_CHG_MAPTYPE,1.0,L,Toggle Map Type,
+1689.0,CL_MAP_ROTATE,1.0,L,Rotate Map...,
+1701.0,IN_APPLDB_NOT_IN_PREFERENCES,1.0,E,The Save As application database %1$ is invalid. Select another one in 'Saveas Preferences.',SASHELP.FSP.OK.SLIST
+1712.0,IN_CONVERT_611,1.0,O,"The application, %1$, needs to be converted to a new",SASHELP.FSP.OK.SLIST
+1712.0,IN_CONVERT_611,2.0,O,"format.  You may view the application using the new format,",SASHELP.FSP.OK.SLIST
+1712.0,IN_CONVERT_611,3.0,O,convert to the new format or cancel.,SASHELP.FSP.OK.SLIST
+1714.0,IN_REPLACE_APPLDB,1.0,Q,Converted applications will replace the applications on,SASHELP.FSP.YN.SLIST
+1714.0,IN_REPLACE_APPLDB,2.0,Q,the current application database.  Do you want to,SASHELP.FSP.YN.SLIST
+1714.0,IN_REPLACE_APPLDB,3.0,Q,make a backup copy of the application database?,SASHELP.FSP.YN.SLIST
+1715.0,DI_NO_CONVERT,1.0,E,"The application, %1$, was not converted due to errors in",SASHELP.FSP.OK.SLIST
+1715.0,DI_NO_CONVERT,2.0,E,the conversion.  Please check the log for further,SASHELP.FSP.OK.SLIST
+1715.0,DI_NO_CONVERT,3.0,E,information.,SASHELP.FSP.OK.SLIST
+1716.0,DI_SPEC_STAT,1.0,E,A statistic must be selected.  Please select one,SASHELP.FSP.OK.SLIST
+1716.0,DI_SPEC_STAT,2.0,E,or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+1717.0,DI_STAT_MISS_ERROR,1.0,E,"The specified statistics, %1$, are missing from",SASHELP.FSP.OK.SLIST
+1717.0,DI_STAT_MISS_ERROR,2.0,E,the MDDB.,SASHELP.FSP.OK.SLIST
+1718.0,DI_STAT_MISS_WARN,1.0,W,"The specified statistics, %1$, are missing from the MDDB.",SASHELP.FSP.OK.SLIST
+1719.0,IN_CONFIRM_CONVERT,1.0,O,"The application, %1$, needs to be converted to a new format.",SASHELP.FSP.OK.SLIST
+1719.0,IN_CONFIRM_CONVERT,2.0,O,"You may view the application using the new format, convert",SASHELP.FSP.OK.SLIST
+1719.0,IN_CONFIRM_CONVERT,3.0,O,"it to the new format, skip this application, or exit",SASHELP.FSP.OK.SLIST
+1719.0,IN_CONFIRM_CONVERT,4.0,O,the conversion process.,SASHELP.FSP.OK.SLIST
+1720.0,DI_NO_TEMP_APPLDB,1.0,E,"Unable to create the temporary application database,",SASHELP.FSP.OK.SLIST
+1720.0,DI_NO_TEMP_APPLDB,2.0,E,WORK._CNVTMP.  The application may not be viewed,SASHELP.FSP.OK.SLIST
+1720.0,DI_NO_TEMP_APPLDB,3.0,E,with the new format.,SASHELP.FSP.OK.SLIST
+1721.0,IN_CONVERT_OK,1.0,O,"The application, %1$, was successfully converted",SASHELP.FSP.OK.SLIST
+1721.0,IN_CONVERT_OK,2.0,O,.,SASHELP.FSP.OK.SLIST
+1728.0,CL_CHG_ROTMODE,1.0,O,Toggle Rotate Mode,SASHELP.FSP.OK.SLIST
+1736.0,IO_HIER_ALREADY_EXISTS,1.0,W,%lHierarchy '%$' already exists on MDDB registration.  It was not generated from the base table and has a different hierarchy member definition. %NDo you wish to override?,SASHELP.FSP.YN.SLIST
+1759.0,IO_METANAME_BLANK,1.0,E,%LA repository name is required. Please correct to,SASHELP.FSP.OK.SLIST
+1759.0,IO_METANAME_BLANK,2.0,E,continue.,SASHELP.FSP.OK.SLIST
+1761.0,IO_METAPATH_BLANK,1.0,E,%lA repository path is required. Please correct to,SASHELP.FSP.OK.SLIST
+1761.0,IO_METAPATH_BLANK,2.0,E,continue.,SASHELP.FSP.OK.SLIST
+1772.0,IO_SPEC_SHOW,1.0,E,A presentation file must be specified.,SASHELP.FSP.OK.SLIST
+1773.0,IO_SPEC_HIERARCHY,1.0,E,A hierarchy must be specified.,SASHELP.FSP.OK.SLIST
+1774.0,IO_SPEC_MIDPOINT,1.0,E,A midpoint must be specified.,SASHELP.FSP.OK.SLIST
+1807.0,DI_DUP_CROSSING,1.0,E,%LThe current crossing is a duplicate of an exiting crossing.  Please change or delete it before continuing.,SASHELP.FSP.OK.SLIST
+1830.0,IN_METABASE_REG_CREATED_IN_FOLDR,1.0,N,Repository registration %1$ placed in folder %2$.,SASHELP.FSP.OK.SLIST
+1832.0,DI_VAR_NOT_REG,1.0,E,"The column, %1$, is not registered for the table, %2$",SASHELP.FSP.OK.SLIST
+1832.0,DI_VAR_NOT_REG,2.0,E,"in repository, %3$.  Please update the registration",SASHELP.FSP.OK.SLIST
+1832.0,DI_VAR_NOT_REG,3.0,E,"before converting application, %4$.",SASHELP.FSP.OK.SLIST
+1833.0,DI_CONVERT_STAT,1.0,E,"The statistics PCT, CUMPCT and CUMFREQ are not supported",SASHELP.FSP.YN.SLIST
+1833.0,DI_CONVERT_STAT,2.0,E,"in this release.  They will be converted to SUM in application, %1$.",SASHELP.FSP.YN.SLIST
+1833.0,DI_CONVERT_STAT,3.0,E,Do you want to continue with the conversion?,SASHELP.FSP.YN.SLIST
+1834.0,DI_MISSING_ANALYSIS,1.0,E,At least one variable with the ANALYSIS attribute,SASHELP.FSP.OK.SLIST
+1834.0,DI_MISSING_ANALYSIS,2.0,E,"is required.  Please update the registration for table,",SASHELP.FSP.OK.SLIST
+1834.0,DI_MISSING_ANALYSIS,3.0,E,"%1$, in repository, %2$, before converting application, %3$.",SASHELP.FSP.OK.SLIST
+1835.0,DI_OVERRIDES,1.0,E,"These overrides to methods were found for application, %1$.",SASHELP.FSP.YN.SLIST
+1835.0,DI_OVERRIDES,2.0,E,They will be removed from the converted application.,SASHELP.FSP.YN.SLIST
+1835.0,DI_OVERRIDES,3.0,E,Do you want to continue with the conversion?,SASHELP.FSP.YN.SLIST
+1836.0,IO_LIBAPPL_IS_RO_OR_NO_AVAIL_MEM,1.0,E,Either the library you have selected is read-only or there are no application databases available in it. Please select another library.,SASHELP.FSP.OK.SLIST
+1838.0,IO_LIBMB_IS_RO_OR_NO_AVAIL_MEM,1.0,E,Either the library you have selected is read-only or there are no metabases available in it. Please select another library.,SASHELP.FSP.OK.SLIST
+1839.0,IO_ALL_FIELDS_MUST_BE_POPULATED,1.0,W,One or more fields is missing. Before leaving the window all fields must be populated. Correct this problem or 'Cancel' from the window.,SASHELP.FSP.OK.SLIST
+1866.0,IO_RANGE_DNE_CREATE,1.0,W,The range entry %1$ does not exist. Would you,SASHELP.FSP.YN.SLIST
+1866.0,IO_RANGE_DNE_CREATE,2.0,W,like to create it?,SASHELP.FSP.YN.SLIST
+1869.0,IO_NOT_DELETED,1.0,W,%l%1$ can not be deleted because it is open or currently in use.,SASHELP.FSP.OK.SLIST
+1874.0,IO_SPEC_VARIANCE,1.0,E,%l At least one complete pair of variance items must be specified.,SASHELP.FSP.OK.SLIST
+1876.0,IO_INCOMPLETE_VARIANCE,1.0,W,%lIncomplete pairs of variance items will be deleted.  Select Cancel to continue editing variance items.,SASHELP.FSP.OC.SLIST
+1879.0,IO_NOT_LOCKED,1.0,W,%L%1$ could not be locked at this time.,SASHELP.FSP.OK.SLIST
+1899.0,IO_ASDF,1.0,N,dfgdfsg a test...,SASHELP.FSP.OK.SLIST
+1939.0,IO_OVERWRITE_MDDB_REG,1.0,W,"%l Next time this application is run, the mddb",SASHELP.FSP.YN.SLIST
+1939.0,IO_OVERWRITE_MDDB_REG,2.0,W,registration will be overwritten since the Table,SASHELP.FSP.YN.SLIST
+1939.0,IO_OVERWRITE_MDDB_REG,3.0,W,has been changed.  Do you want to overwrite the,SASHELP.FSP.YN.SLIST
+1939.0,IO_OVERWRITE_MDDB_REG,4.0,W,previous mddb repository registration?,SASHELP.FSP.YN.SLIST
+1951.0,IO_ONE_ANALYSIS,1.0,W,3D Graph: Overlay plots are not possible with Group or Subgroup charts.  Only the first analysis variable will be used.,SASHELP.FSP.OK.SLIST
+1953.0,IN_NO_DATA,1.0,E,No data available.,SASHELP.FSP.OK.SLIST
+1953.0,IN_NO_DATA,2.0,E,Either your table is empty or no records,SASHELP.FSP.OK.SLIST
+1953.0,IN_NO_DATA,3.0,E,match the subset criteria.,SASHELP.FSP.OK.SLIST
+1965.0,IN_USE_REGISTRATION,1.0,Q,%lThe registration %1$ in the repository %2$ describes the chosen data.  Do you want to use this registration?,SASHELP.FSP.YN.SLIST
+2054.0,CL_VALUE,1.0,O,value,SASHELP.FSP.OK.SLIST
+2078.0,IO_SPEC,1.0,E,%lA viewpoint file must be specified.  Please specify,SASHELP.FSP.OK.SLIST
+2078.0,IO_SPEC,2.0,E,one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+2079.0,DI_FILE_NOT_EXIST,1.0,E,"%lThe viewpoint file, %1$, does not exist.  Please",SASHELP.FSP.OK.SLIST
+2079.0,DI_FILE_NOT_EXIST,2.0,E,specify an existing file.,SASHELP.FSP.OK.SLIST
+2109.0,IN_CS_WNAME,1.0,O,SAS/EIS: Client/Server,SASHELP.FSP.OK.SLIST
+2110.0,IO_NEW_VPTFILE,1.0,O,%lPlease enter the name of a file to which the sample,SASHELP.FSP.OK.SLIST
+2110.0,IO_NEW_VPTFILE,2.0,O,viewpoint image will be copied.,SASHELP.FSP.OK.SLIST
+2111.0,IN_LIB_WNAME,1.0,O,SAS/EIS: Link SAS Data Libraries,SASHELP.FSP.OK.SLIST
+2112.0,IN_FILE_WNAME,1.0,O,SAS/EIS: Link External Files,SASHELP.FSP.OK.SLIST
+2128.0,DI_NEW_CONFIRM_MISMATCH,1.0,E,%lThe new and confirmed passwords do not match.  Please type them again.,SASHELP.FSP.OK.SLIST
+2129.0,IO_NO_PASSWORD_GIVEN,1.0,E,"%lNo password given, and no way to prompt for one.",SASHELP.FSP.OK.SLIST
+2150.0,DI_MARKER_DS_NOT_EXIST,1.0,E,%LMarker data set %1$ does not exist.,SASHELP.FSP.OK.SLIST
+2156.0,IO_CHG_3DVBAR,1.0,W,3D Graph: A Group and/or Subgroup column must be displayed using a,SASHELP.FSP.OK.SLIST
+2156.0,IO_CHG_3DVBAR,2.0,W,bar chart.  The chart type is being changed to 3D vertical bar.,SASHELP.FSP.OK.SLIST
+2157.0,IO_CHG_VBARXY,1.0,W,3D Graph: A chart with multiple analysis columns cannot be dislayed with,SASHELP.FSP.OK.SLIST
+2157.0,IO_CHG_VBARXY,2.0,W,the current chart type.  A 3D vertical bar chart and XY line,SASHELP.FSP.OK.SLIST
+2157.0,IO_CHG_VBARXY,3.0,W,plots are being substituted.,SASHELP.FSP.OK.SLIST
+2199.0,DI_NO_COMPUTE_ERROR,1.0,E,"%lThe computed column, %1$, is not defined",SASHELP.FSP.OK.SLIST
+2200.0,DI_NO_COMPUTE_WARN,1.0,W,"%lThe computed column, %1$, is not defined.",SASHELP.FSP.OK.SLIST
+2201.0,DI_COMP_VAR_ERROR,1.0,E,"%lThe components: %1$, for the computed column,",SASHELP.FSP.OK.SLIST
+2201.0,DI_COMP_VAR_ERROR,2.0,E,"%2$, do not exist.",SASHELP.FSP.OK.SLIST
+2202.0,DI_COMP_VAR_WARN,1.0,W,%lThe components %1$ for the computed column,SASHELP.FSP.OK.SLIST
+2202.0,DI_COMP_VAR_WARN,2.0,W,%2$ do not exist. The computed column is dropped,SASHELP.FSP.OK.SLIST
+2202.0,DI_COMP_VAR_WARN,3.0,W,from the report.,SASHELP.FSP.OK.SLIST
+2203.0,DI_COMP_REG_ERROR,1.0,E,"%lThe components: %1$, for the computed column,",SASHELP.FSP.OK.SLIST
+2203.0,DI_COMP_REG_ERROR,2.0,E,"%2$, are not registered.",SASHELP.FSP.OK.SLIST
+2204.0,DI_COMP_REG_WARN,1.0,W,%lThe components %1$ for the computed column,SASHELP.FSP.OK.SLIST
+2204.0,DI_COMP_REG_WARN,2.0,W,%2$ are not available. The computed column is,SASHELP.FSP.OK.SLIST
+2204.0,DI_COMP_REG_WARN,3.0,W,dropped from the report.,SASHELP.FSP.OK.SLIST
+2205.0,DI_COMP_ANL_ERROR,1.0,E,"%lThe components: %1$, for the computed column,",SASHELP.FSP.OK.SLIST
+2205.0,DI_COMP_ANL_ERROR,2.0,E,"%2$, do not have the ANALYSIS attribute.",SASHELP.FSP.OK.SLIST
+2206.0,DI_COMP_ANL_WARN,1.0,W,%lThe components %1$ for the computed column,SASHELP.FSP.OK.SLIST
+2206.0,DI_COMP_ANL_WARN,2.0,W,%2$ do not have the ANALYSIS attribute. The computed,SASHELP.FSP.OK.SLIST
+2206.0,DI_COMP_ANL_WARN,3.0,W,column is dropped from the report.,SASHELP.FSP.OK.SLIST
+2207.0,DI_REQ_STAT_ERROR,1.0,E,%lNone of the requested statistics are available,SASHELP.FSP.OK.SLIST
+2207.0,DI_REQ_STAT_ERROR,2.0,E,for any of the requested analysis variables.,SASHELP.FSP.OK.SLIST
+2208.0,DI_REQ_STAT_WARN,1.0,W,%lNone of the requested statistics are available for,SASHELP.FSP.OK.SLIST
+2208.0,DI_REQ_STAT_WARN,2.0,W,any of the requested analysis variables.,SASHELP.FSP.OK.SLIST
+2209.0,DI_DROP_VAR_WARN,1.0,W,"%lNone of the reqested statistics, %1$, are available for",SASHELP.FSP.OK.SLIST
+2209.0,DI_DROP_VAR_WARN,2.0,W,column %2$. The column will not be displayed.,SASHELP.FSP.OK.SLIST
+2210.0,DI_DROP_STAT_WARN,1.0,W,%lThe statistics %1$ are not available for column %2$.,SASHELP.FSP.OK.SLIST
+2210.0,DI_DROP_STAT_WARN,2.0,W,These statistics will not be displayed.,SASHELP.FSP.OK.SLIST
+2220.0,DI_CANNOT_LAUNCH_EXCEL,1.0,E,%lUnable to launch Excel.,SASHELP.FSP.OK.SLIST
+2221.0,DI_CANNOT_EXIT_EXCEL,1.0,E,"%lUnable to Exit Excel,",SASHELP.FSP.OK.SLIST
+2221.0,DI_CANNOT_EXIT_EXCEL,2.0,E,%1$ .,SASHELP.FSP.OK.SLIST
+2222.0,IO_MDDBSERVER_NOT_LICENSED,1.0,E,%lThe SAS/MDDB Server is not licensed. Contact your site administrator.,SASHELP.FSP.OK.SLIST
+2224.0,DI_CANNOT_SAVE_XL_SPREADSHEET,1.0,E,"%lUnable to save Excel Spreadsheet, %1$ .",SASHELP.FSP.OK.SLIST
+2224.0,DI_CANNOT_SAVE_XL_SPREADSHEET,2.0,E,%2$,SASHELP.FSP.OK.SLIST
+2226.0,DI_CANNOT_OPEN_XL_SPREADSHEET,1.0,E,"%l Unable to open spreadsheet, %1$ .",SASHELP.FSP.OK.SLIST
+2226.0,DI_CANNOT_OPEN_XL_SPREADSHEET,2.0,E,%2$,SASHELP.FSP.OK.SLIST
+2227.0,IN_NO_SPREADSHEET_SELECTED,1.0,N,%lNo spreadsheet selected.  You must select,SASHELP.FSP.OK.SLIST
+2227.0,IN_NO_SPREADSHEET_SELECTED,2.0,N,a spreadsheet.,SASHELP.FSP.OK.SLIST
+2228.0,DI_MUST_LAUNCH_XL,1.0,E,%lYou must first launch Excel.,SASHELP.FSP.OK.SLIST
+2229.0,DI_CANNOT_WRITE_XL_SPREADSHEET,1.0,E,"%lUnable to write to Excel spreadsheet, %1$ .",SASHELP.FSP.OK.SLIST
+2229.0,DI_CANNOT_WRITE_XL_SPREADSHEET,2.0,E,%2$,SASHELP.FSP.OK.SLIST
+2230.0,DI_DATASET_EXISTS,1.0,E,%lDataset %1$ already exists.,SASHELP.FSP.OK.SLIST
+2231.0,DI_XL_SPREADSHEET_EMPTY,1.0,E,"%lSpreadsheet, %1$ is empty",SASHELP.FSP.OK.SLIST
+2232.0,DI_CANNOT_READ_XL_SPREADSHEET,1.0,E,"%lUnable to read spreadsheet, %1$.",SASHELP.FSP.OK.SLIST
+2232.0,DI_CANNOT_READ_XL_SPREADSHEET,2.0,E,%2$,SASHELP.FSP.OK.SLIST
+2239.0,IN_ANLSYS_STAT_PROB,1.0,E,The report contains a class column named _ANLSYS_ or _STATS_.,SASHELP.FSP.OK.SLIST
+2239.0,IN_ANLSYS_STAT_PROB,2.0,E,These names are reserved for the use by the MDDB Model class.,SASHELP.FSP.OK.SLIST
+2239.0,IN_ANLSYS_STAT_PROB,3.0,E,Please rename the column or columns.,SASHELP.FSP.OK.SLIST
+2329.0,IN_NO_NAMED_COLUMN,1.0,N,%lColumn %1$ does not exist in %2$,SASHELP.FSP.OK.SLIST
+2342.0,DI_HIER_DUP_ERROR,1.0,E,%lThe columns: %1$ are duplicated within the,SASHELP.FSP.OK.SLIST
+2342.0,DI_HIER_DUP_ERROR,2.0,E,hierarchies used in this application.,SASHELP.FSP.OK.SLIST
+2345.0,DI_HIER_DUP_WARN,1.0,W,%lThe columns: %1$ are duplicated within the,SASHELP.FSP.OK.SLIST
+2345.0,DI_HIER_DUP_WARN,2.0,W,hierarchies used in this application.,SASHELP.FSP.OK.SLIST
+2411.0,DI_PRESENT_NOT_EXIST,1.0,E,"The presentation file, %1$, does not exist.  Please specify an existing file.",SASHELP.FSP.OK.SLIST
+2419.0,IO_GMB_MISSING_APPLICATION,1.0,W,Graphics Menu Builder cannot locate all applications.,SASHELP.FSP.OK.SLIST
+2419.0,IO_GMB_MISSING_APPLICATION,2.0,W,Check that the applications used by the Graphics Menu Builder still exist and are in the correct application database.,SASHELP.FSP.OK.SLIST
+2440.0,IN_ERROR_TAKING_SNAPSHOT,1.0,E,Error taking snapshot. Unable to create snapshot file.,SASHELP.FSP.OK.SLIST
+2443.0,IN_SNAPSHOT_CREATED,1.0,N,Snapshot taken and written to %1$,SASHELP.FSP.OK.SLIST
+2447.0,DI_NO_UPDATE,1.0,E,"%lThe application database, %1$, could not be opened",SASHELP.FSP.OK.SLIST
+2447.0,DI_NO_UPDATE,2.0,E,"in update mode.  The application, %2$, contained on the",SASHELP.FSP.OK.SLIST
+2447.0,DI_NO_UPDATE,3.0,E,"Graphics Menu, %3$, cannot be converted.",SASHELP.FSP.OK.SLIST
+2448.0,IO_CONFIRM_GMB_APPL,1.0,Q,"%lThe application, %1$, in the Graphics Menu, %2$, needs to",SASHELP.FSP.YN.SLIST
+2448.0,IO_CONFIRM_GMB_APPL,2.0,Q,be converted to a new format.  Do you want to convert it?,SASHELP.FSP.YN.SLIST
+2449.0,DI_GMB_APPL_ERROR,1.0,E,%lOne or more SAS/EIS applications referenced in the,SASHELP.FSP.OK.SLIST
+2449.0,DI_GMB_APPL_ERROR,2.0,E,"application, %1$, could not be converted to the",SASHELP.FSP.OK.SLIST
+2449.0,DI_GMB_APPL_ERROR,3.0,E,new format.,SASHELP.FSP.OK.SLIST
+2453.0,CL_TYPE_DIMENSION,1.0,O,Dimension,SASHELP.FSP.OK.SLIST
+2454.0,CL_TYPE_ANALYSIS,1.0,O,Analysis,SASHELP.FSP.OK.SLIST
+2455.0,DI_UPDATE_GMB,1.0,E,"%lThe Graphics Menu, %1$, contains applications that",SASHELP.FSP.OK.SLIST
+2455.0,DI_UPDATE_GMB,2.0,E,"need to be converted.  However, the application database,",SASHELP.FSP.OK.SLIST
+2455.0,DI_UPDATE_GMB,3.0,E,"%2$, cannot be opened in update mode.",SASHELP.FSP.OK.SLIST
+2456.0,IO_MDDB_NOT_CREATED,1.0,E,%lThe Multidimensional Database %1$ was not created due,SASHELP.FSP.OK.SLIST
+2456.0,IO_MDDB_NOT_CREATED,2.0,E,to error condition.,SASHELP.FSP.OK.SLIST
+2460.0,DI_NO_UPDATE_APPL,1.0,E,"%lThe application database, %1$, could not be opened",SASHELP.FSP.OK.SLIST
+2460.0,DI_NO_UPDATE_APPL,2.0,E,"in update mode.  The application, %2$, cannot be converted.",SASHELP.FSP.OK.SLIST
+2461.0,IO_CONFIRM_CONVERT_APPL,1.0,Q,"%lThe application, %1$, needs to be converted to",SASHELP.FSP.YN.SLIST
+2461.0,IO_CONFIRM_CONVERT_APPL,2.0,Q,a new format.  Do you want to convert it?,SASHELP.FSP.YN.SLIST
+2463.0,IO_MISSING_VARIANCE_ITEM,1.0,E,%lAt least one variance pair is incomplete.,SASHELP.FSP.OK.SLIST
+2464.0,IO_MISSING_COLORSTATE,1.0,E,%lThere is at least one missing color state.,SASHELP.FSP.OK.SLIST
+2477.0,IO_HIER_INFO_DIFFERS,1.0,E,"%lHierarchy ""%1$"" has been changed in table %2$ registration. To update mddb hierarchy with new table hierarchy columns, reselect the mddb dimensions.",SASHELP.FSP.OK.SLIST
+2531.0,DI_REFILL_GMB,1.0,W,%lThis region needs to be emptied and re-filled with,SASHELP.FSP.OK.SLIST
+2531.0,DI_REFILL_GMB,2.0,W,"the application, %1$, once it has been converted",SASHELP.FSP.OK.SLIST
+2531.0,DI_REFILL_GMB,3.0,W,to the new format.,SASHELP.FSP.OK.SLIST
+2544.0,IN_ETS_REQUIRED,1.0,N,"This application requires SAS/ETS software, which is",SASHELP.FSP.OK.SLIST
+2544.0,IN_ETS_REQUIRED,2.0,N,not licensed on your machine.  SAS/ETS software,SASHELP.FSP.OK.SLIST
+2544.0,IN_ETS_REQUIRED,3.0,N,provides integrated capabilities for time series,SASHELP.FSP.OK.SLIST
+2544.0,IN_ETS_REQUIRED,4.0,N,"analysis and forecasting, econometrics and systems",SASHELP.FSP.OK.SLIST
+2544.0,IN_ETS_REQUIRED,5.0,N,"modeling, and financial analysis and reporting.  For",SASHELP.FSP.OK.SLIST
+2544.0,IN_ETS_REQUIRED,6.0,N,"more information, please contact your SAS site",SASHELP.FSP.OK.SLIST
+2544.0,IN_ETS_REQUIRED,7.0,N,representative.,SASHELP.FSP.OK.SLIST
+2605.0,DI_VALID_FILENAME,1.0,E,A valid filename is required.,SASHELP.FSP.OK.SLIST
+2684.0,IO_CANNOT_WRITE_TO_FOLDER,1.0,N,Note: Changes made to this folder will not be saved.,SASHELP.FSP.OK.SLIST
+2685.0,IO_DOUBLE_QUOTE,1.0,E,%lDouble quotes are not allowed within a computed,SASHELP.FSP.OK.SLIST
+2685.0,IO_DOUBLE_QUOTE,2.0,E,label.,SASHELP.FSP.OK.SLIST
+2765.0,DI_VALUE_POSITIVE,1.0,E,%$ must be a positive numeric value.,SASHELP.FSP.OK.SLIST
+2885.0,CL_STATISTIC_DESCRIPTIONS,1.0,L,"Sum,Percent of Sum,Average,Total Number of Nonmissing Values,",
+2885.0,CL_STATISTIC_DESCRIPTIONS,2.0,L,"Percent of Total Number,Minimum,Maximum,Range,",
+2885.0,CL_STATISTIC_DESCRIPTIONS,3.0,L,"Total Number of Missing Values,Standard Deviation,",
+2885.0,CL_STATISTIC_DESCRIPTIONS,4.0,L,"Standard Error of Mean,Lower Confidence Limit,Upper Confidence Limit,",
+2885.0,CL_STATISTIC_DESCRIPTIONS,5.0,L,"Uncorrected Sum of Squares,Corrected Sum of Squares,",
+2885.0,CL_STATISTIC_DESCRIPTIONS,6.0,L,"Variance,Coefficient of Variation,T Value,Probability of Greater Absolute Value,Sum of Weights, Unweighted Sum, Nunique",
+3004.0,IN_VERTICAL_BAR,1.0,O,Vertical bar,SASHELP.FSP.OK.SLIST
+3006.0,IN_PIE,1.0,O,Pie,SASHELP.FSP.OK.SLIST
+3007.0,IN_HORIZONTAL_BAR,1.0,O,Horizontal bar,SASHELP.FSP.OK.SLIST
+3752.0,CL_MEASURES_CHOICES,1.0,L,"Select initial subset value,Specify substitution value",
+3753.0,CL_MEASURES_TITLES,1.0,L,"Initial subset value,Substitution value",
+3801.0,IN_AC_NO_ACCESS,1.0,N,You are not authorized to run this application.,SASHELP.FSP.OK.SLIST
+3802.0,IN_AC_GENERIC,1.0,N,The report can not be displayed at this time.,SASHELP.FSP.OK.SLIST
+3803.0,IN_AC_NOT_ACTIVE,1.0,E,"The Access Control subsystem is not active at this time. Please start the system using the correct login procedure, or contact your system administrator.",SASHELP.FSP.OK.SLIST
+3804.0,IN_AC_FAIL,1.0,E,The Access Control subsystem can not be started at this time. You will not be able to run the application. Please contact your system administrator.,SASHELP.FSP.OK.SLIST
+3805.0,IN_AC_NO_QUERY,1.0,E,The Access Control information can not be successfully retrieved at this time. Please check your settings and the status for your server.,SASHELP.FSP.OK.SLIST
+3806.0,IN_AC_NO_UPDATE,1.0,E,The Access Control information can not be successfully updated at this time. Please check your settings and the status of your server.,SASHELP.FSP.OK.SLIST
+3811.0,CL_AC_TAGS,1.0,L,"None,Drop,Keep,Hide,Show,Initial,Add Value",
+3813.0,CL_AC_LABELS,1.0,L,"Tag,Name,Type,Description,Dimension,Value,Function",
+3814.0,CL_AC_FUNCTIONS,1.0,L,"Edit Access Control Definitions,Edit Metadata,Build Applications,Edit Objects,Report Layout,Computed Values,Show Detail Data,Save/Save As",
+3815.0,CL_AC_LOGIN_POPUP,1.0,L,"Default Login Dialog,Login Dialog with Change Password Button",
+3816.0,CL_AC_USERGROUP_POPUP,1.0,L,"User Management,Group Management",
+3817.0,CL_AC_ACL_POPUP,1.0,L,"Data Access Control,Application Access Control,Function Access Control",
+3818.0,CL_AC_LOGIN_LABELS,1.0,L,"Userid:,Password:",
+3819.0,CL_AC_USERGROUP_LABELS,1.0,L,"Users,Groups",
+3820.0,CL_AC_CHGPW_LABELS,1.0,L,"Access Control Key,Change Password for User:",
+3821.0,IN_AC_NO_EDIT,1.0,E,You are not authorized to change the Access Control settings. Please refer to the documentation to find out about Access Control administration authorization.,SASHELP.FSP.OK.SLIST
+3822.0,IN_CLOSE_VERIFY,1.0,Q,You have made changes to the settings without saving them. Closing the window will discard the changes. Do you want to close the window?,SASHELP.FSP.YN.SLIST
+3824.0,IN_AC_NO_PASSWORD,1.0,E,"You have activated Access Control, but not specified an Access Control key. Please specify a key first.",SASHELP.FSP.OK.SLIST
+3825.0,IN_AC_BAD_PATH,1.0,E,Your current settings for ACL Root Path and Host are not valid at this time. Please check your settings.,SASHELP.FSP.OK.SLIST
+3826.0,IN_AC_CREATE_OK,1.0,N,The Access Control files have been successfully created.,SASHELP.FSP.OK.SLIST
+3827.0,IN_AC_CREATE_FAIL,1.0,E,The Access Control file creation failed.,SASHELP.FSP.OK.SLIST
+3828.0,IN_AC_EXIST_WARN,1.0,E,Access Control files in the current ACL Root directory already exist and were created using a different password. Please either change your Access Control key to the password used to,SASHELP.FSP.OK.SLIST
+3828.0,IN_AC_EXIST_WARN,2.0,E,"create the existing Access Control files, or change the password on these files to match the current key setting, or delete the files.",SASHELP.FSP.OK.SLIST
+3829.0,IN_AC_SAVE_OK,1.0,N,The Access Control settings were successfully saved.,SASHELP.FSP.OK.SLIST
+3830.0,IN_AC_SAVE_FAIL,1.0,E,Saving the Access Control settings failed.,SASHELP.FSP.OK.SLIST
+3831.0,IN_AC_PW_SYNTAX,1.0,E,"The password is invalid. Passwords must be 3 to 8 characters long and start with a letter, followed by letters, numbers, or underscores.",SASHELP.FSP.OK.SLIST
+3832.0,IN_AC_PW_VERIFICATION_INVALID,1.0,E,The password you typed for verification does not match. Please retype both fields.,SASHELP.FSP.OK.SLIST
+3833.0,IN_AC_PW_CHANGE_FAILED,1.0,E,Password change failed.,SASHELP.FSP.OK.SLIST
+3834.0,IN_AC_INVALID_LOGIN,1.0,E,Invalid Userid/Password pair. Try again.,SASHELP.FSP.OK.SLIST
+3835.0,IN_AC_PW_WRONG,1.0,E,The password is not correct. Try again.,SASHELP.FSP.OK.SLIST
+3836.0,IN_LOG_BAD_PATH,1.0,E,Your current settings for Audit File Path and Host are not valid at this time. Please check your settings.,SASHELP.FSP.OK.SLIST
+3837.0,IN_LOG_CREATE_OK,1.0,N,The LOG file has been successfully created.,SASHELP.FSP.OK.SLIST
+3838.0,IN_LOG_CREATE_FAIL,1.0,E,The LOG file creation failed.,SASHELP.FSP.OK.SLIST
+3839.0,IN_LOG_EXIST_WARN,1.0,E,The LOG file in the current Audit File Path directory already exists and was created with a different password. Please either change your Access Control key to the password used to,SASHELP.FSP.OK.SLIST
+3839.0,IN_LOG_EXIST_WARN,2.0,E,"create the existing LOG file, or change the password on this file to match the current key setting, or delete the file.",SASHELP.FSP.OK.SLIST
+3840.0,IN_LOG_SAVE_OK,1.0,N,The Access Audit settings were successfully saved.,SASHELP.FSP.OK.SLIST
+3841.0,IN_LOG_SAVE_FAIL,1.0,E,Saving the Access Audit settings failed.,SASHELP.FSP.OK.SLIST
+3853.0,IN_AC_LOGIN_FAILED,1.0,E,Your Access Control account information can not be retrieved at this time.,SASHELP.FSP.OK.SLIST
+3853.0,IN_AC_LOGIN_FAILED,2.0,E,Please try again or contact your system administrator.,SASHELP.FSP.OK.SLIST
+3854.0,IN_AC_LOGIN_INCOMPLETE,1.0,E,Your Access Control account information is incomplete.,SASHELP.FSP.OK.SLIST
+3854.0,IN_AC_LOGIN_INCOMPLETE,2.0,E,You will not be able to run the application.,SASHELP.FSP.OK.SLIST
+3854.0,IN_AC_LOGIN_INCOMPLETE,3.0,E,Please contact your system adminstrator.,SASHELP.FSP.OK.SLIST
+3884.0,IN_OP_REF_LINES,1.0,O,Ref Lines,SASHELP.FSP.OK.SLIST
+3886.0,IN_OP_AXIS_OPTIONS,1.0,O,Axis Options,SASHELP.FSP.OK.SLIST
+3887.0,IN_OP_LEGEND_OPTIONS,1.0,O,Legend Options,SASHELP.FSP.OK.SLIST
+3888.0,IN_OP_PIE_OPTIONS,1.0,O,Pie Options,SASHELP.FSP.OK.SLIST
+3889.0,IN_OP_AXIS_RANGES,1.0,O,Axis Ranges,SASHELP.FSP.OK.SLIST
+3890.0,IN_OP_MISC_OPTIONS,1.0,O,Misc. Options,SASHELP.FSP.OK.SLIST
+3891.0,IN_OP_BAR_COLORS,1.0,O,Bar Colors,SASHELP.FSP.OK.SLIST
+3892.0,IN_OP_MARKER_OPTIONS,1.0,O,Marker Options,SASHELP.FSP.OK.SLIST
+3893.0,IN_OP_TABLE_ATTRIBUTE,1.0,O,Table Attribute,SASHELP.FSP.OK.SLIST
+3894.0,IN_OP_TOTALS,1.0,O,Totals,SASHELP.FSP.OK.SLIST
+3895.0,IN_OP_CHART_OPTIONS,1.0,O,Chart options,SASHELP.FSP.OK.SLIST
+3896.0,IN_OP_NODES,1.0,O,Nodes,SASHELP.FSP.OK.SLIST
+3897.0,IN_OP_TARGETS,1.0,O,Targets,SASHELP.FSP.OK.SLIST
+3898.0,IN_OP_RANGES,1.0,O,Ranges,SASHELP.FSP.OK.SLIST
+3899.0,IN_OP_APPEARANCE,1.0,O,Appearance,SASHELP.FSP.OK.SLIST
+3900.0,IN_OP_MARKER,1.0,O,Marker,SASHELP.FSP.OK.SLIST
+3901.0,IN_OP_LABELS,1.0,O,Labels,SASHELP.FSP.OK.SLIST
+3902.0,IN_OP_RANGE,1.0,O,Range,SASHELP.FSP.OK.SLIST
+3903.0,IN_OP_LEGEND,1.0,O,Legend,SASHELP.FSP.OK.SLIST
+3904.0,IN_OP_VIEW_OPTIONS,1.0,O,View Options,SASHELP.FSP.OK.SLIST
+3905.0,IN_OP_FORECAST_ATTRIBUTES,1.0,O,Forecast Attributes,SASHELP.FSP.OK.SLIST
+3907.0,IN_OP_TITLES,1.0,O,Titles,SASHELP.FSP.OK.SLIST
+3909.0,IN_OP_FOOTNOTES,1.0,O,Footnotes,SASHELP.FSP.OK.SLIST
+3910.0,IN_OP_COLORS,1.0,O,Colors,SASHELP.FSP.OK.SLIST
+3912.0,IN_OP_FONTS,1.0,O,Fonts,SASHELP.FSP.OK.SLIST
+3913.0,IN_OP_FORMATS,1.0,O,Formats,SASHELP.FSP.OK.SLIST
+3914.0,IN_OP_COLUMN_LABELS,1.0,O,Column Labels,SASHELP.FSP.OK.SLIST
+3915.0,IN_OP_CATEGORY_SORT,1.0,O,Category Sort,SASHELP.FSP.OK.SLIST
+3918.0,IN_OP_ANALYSIS_SORT,1.0,O,Analysis Sort,SASHELP.FSP.OK.SLIST
+4077.0,IN_REGISTRY_GET_ERROR,1.0,W,Could not read items from Registry. See Log for,SASHELP.FSP.OK.SLIST
+4077.0,IN_REGISTRY_GET_ERROR,2.0,W,any messages.,SASHELP.FSP.OK.SLIST
+4078.0,IN_REGISTRY_SET_ERROR,1.0,W,Cannot set items into Registry. See Log for,SASHELP.FSP.OK.SLIST
+4078.0,IN_REGISTRY_SET_ERROR,2.0,W,any messages.,SASHELP.FSP.OK.SLIST
+4080.0,CL_SUBSET_PREFIX,1.0,O,Subset:,SASHELP.FSP.OK.SLIST
+4097.0,IN_WNAME_CONVERT_CATVIEW,1.0,Q,SAS/EIS Catalog Entry Viewer with Hotspots Conversion,SASHELP.FSP.OK.SLIST
+4099.0,IN_WNAME_CONVERT_VIEWFILE,1.0,Q,SAS/EIS External File Conversion,SASHELP.FSP.OK.SLIST
+4100.0,IN_WNAME_CONVERT_FILEVIEW,1.0,Q,SAS/EIS External File Viewer With Hotspots Conversion,SASHELP.FSP.OK.SLIST
+4103.0,IN_WNAME_CONVERT_OUTPUT,1.0,Q,SAS/EIS Output Entry Conversion,SASHELP.FSP.OK.SLIST
+4104.0,IN_REPORT_CONVERT,1.0,Q,"This application contains either a custom Command menu, a Display Initialization or a Selection Action method. These methods will not be converted. %N%N",SASHELP.FSP.YN.SLIST
+4104.0,IN_REPORT_CONVERT,2.0,Q,Do you wish to continue with the conversion?,SASHELP.FSP.YN.SLIST
+4105.0,IN_WNAME_CONVERT_SOURCE,1.0,Q,SAS/EIS Source Entry Conversion,SASHELP.FSP.OK.SLIST
+4106.0,IN_WNAME_CONVERT_REPORT,1.0,Q,SAS/EIS General Reporting Conversion,SASHELP.FSP.OK.SLIST
+4109.0,DI_MODEL_REQD,1.0,E,%lA model is required.  Specify one or press,SASHELP.FSP.OK.SLIST
+4109.0,DI_MODEL_REQD,2.0,E,cancel to quit.,SASHELP.FSP.OK.SLIST
+4180.0,IO_SPEC_SLICEVAR,1.0,E,A slice variable must be specified.,SASHELP.FSP.OK.SLIST
+4229.0,IN_REGISTRY_BAD_LIST_ID,1.0,E,%l Invalid item list or object id for Registry Class.,SASHELP.FSP.OK.SLIST
+4236.0,IN_REGISTRY_INVALID_QUERY,1.0,E,%lCould not query the specified values from the,SASHELP.FSP.OK.SLIST
+4236.0,IN_REGISTRY_INVALID_QUERY,2.0,E,registry.,SASHELP.FSP.OK.SLIST
+4238.0,IN_REGISTRY_FAIL_TO_LIST,1.0,E,%lCould not list the(se) value(s) from the Registry.,SASHELP.FSP.OK.SLIST
+4239.0,IN_REGISTRY_CHAR_KEY_FAILED,1.0,E,%lCould not set character value into this key,SASHELP.FSP.OK.SLIST
+4242.0,IN_REGISTRY_NUM_KEY_FAILED,1.0,E,%lCould not set this numeric value into Registry,SASHELP.FSP.OK.SLIST
+4242.0,IN_REGISTRY_NUM_KEY_FAILED,2.0,E,key.,SASHELP.FSP.OK.SLIST
+4341.0,IO_FORECAST_FAIL,1.0,E,Error Running Forecast method.  %1$,SASHELP.FSP.OK.SLIST
+4342.0,CL_TABLE_OPTIONS,1.0,O,Table Options...,SASHELP.FSP.OK.SLIST
+4343.0,CL_FORECAST_OPTIONS,1.0,O,Forecast and Graph Options...,SASHELP.FSP.OK.SLIST
+4344.0,CL_CHGFOR_PLOTS,1.0,O,Change Forecast Plots...,SASHELP.FSP.OK.SLIST
+4345.0,CL_SHOW_FORDATA,1.0,O,Show Forecast Data...,SASHELP.FSP.OK.SLIST
+4346.0,CL_SHOW_FORSTAT,1.0,O,Show Forecast Statistics...,SASHELP.FSP.OK.SLIST
+4347.0,CL_GRAPH_TABLE,1.0,O,Create Graph...,SASHELP.FSP.OK.SLIST
+4388.0,CL_TEXT_3D,1.0,L,"User Specified, Red Sphere, Yellow Sphere, Green Sphere, Blue Sphere, Gray Sphere, Purple Sphere, Cyan Sphere,",SASHELP.FSP.OK.SLIST
+4388.0,CL_TEXT_3D,2.0,L,"Red Cube, Yellow Cube, Green Cube, Blue Cube, Gray Cube, Purple Cube, Cyan Cube,",SASHELP.FSP.OK.SLIST
+4388.0,CL_TEXT_3D,3.0,L,"Red Pyramid, Yellow Pyramid, Green Pyramid, Blue Pyramid, Gray Pyramid, Purple Pyramid, Cyan Pyramid,",SASHELP.FSP.OK.SLIST
+4388.0,CL_TEXT_3D,4.0,L,"Red Star, Yellow Star, Green Star, Blue Star, Gray Star, Purple Star, Cyan Star,",SASHELP.FSP.OK.SLIST
+4388.0,CL_TEXT_3D,5.0,L,"Red Cross, Yellow Cross, Green Cross, Blue Cross, Gray Cross, Purple Cross, Cyan Cross,",SASHELP.FSP.OK.SLIST
+4388.0,CL_TEXT_3D,6.0,L,"Red Plus, Yellow Plus, Green Plus, Blue Plus, Gray Plus, Purple Plus, Cyan Plus,",SASHELP.FSP.OK.SLIST
+4388.0,CL_TEXT_3D,7.0,L,"Red Diamond, Yellow Diamond, Green Diamond, Blue Diamond, Gray Diamond, Purple Diamond, Cyan Diamond,",SASHELP.FSP.OK.SLIST
+4388.0,CL_TEXT_3D,8.0,L,"Red Dollar, Yellow Dollar, Green Dollar, Blue Dollar, Gray Dollar, Purple Dollar, Cyan Dollar,",SASHELP.FSP.OK.SLIST
+4388.0,CL_TEXT_3D,9.0,L,"Red XMark, Yellow XMark, Green XMark, Blue XMark, Gray XMark, Purple XMark, Cyan XMark",SASHELP.FSP.OK.SLIST
+4394.0,CL_TEXT_2D,1.0,L,"None, Plus, X, Star, Square, Diamond, Triangle, Hash, Y, Z,",SASHELP.FSP.OK.SLIST
+4394.0,CL_TEXT_2D,2.0,L,"Paw, Point, Dot, Circle",SASHELP.FSP.OK.SLIST
+4414.0,IO_MISSING_VALID_VARINFMT,1.0,E,%l Missing valid date format for VARINFMT attribute of the date variable in repository registration.,SASHELP.FSP.OK.SLIST
+4433.0,IO_SUBSET_CONFLICT,1.0,E,%lNo data to forecast due to conflict with,SASHELP.FSP.OK.SLIST
+4433.0,IO_SUBSET_CONFLICT,2.0,E,forecast plot subset and Subset by Dimension.,SASHELP.FSP.OK.SLIST
+4433.0,IO_SUBSET_CONFLICT,3.0,E,Current forecast plots will be cleared because,SASHELP.FSP.OK.SLIST
+4433.0,IO_SUBSET_CONFLICT,4.0,E,Subset by Dimension takes precedence.,SASHELP.FSP.OK.SLIST
+4434.0,IO_DATASET_IO_ERROR,1.0,E,%lProblem reading dataset %1$. RC= %2$,SASHELP.FSP.OK.SLIST
+4434.0,IO_DATASET_IO_ERROR,2.0,E,Contact System Administrator.,SASHELP.FSP.OK.SLIST
+4475.0,IO_INC_MDDBUPDATE_FAILED,1.0,E,%lIncremental update of MDDB failed. %1$,SASHELP.FSP.OK.SLIST
+4489.0,CL_MAP_OPTIONS,1.0,O,Map Options...,SASHELP.FSP.OK.SLIST
+4490.0,CL_CHART_OPTIONS,1.0,O,Chart Options...,SASHELP.FSP.OK.SLIST
+4514.0,IO_HALT,1.0,E,Unable to perform function. Program halted due to,SASHELP.FSP.OK.SLIST
+4514.0,IO_HALT,2.0,E,an internal error.,SASHELP.FSP.OK.SLIST
+4537.0,IN_EMPTY_DATA_TABLE,1.0,W,No data available to satisfy request.,SASHELP.FSP.OK.SLIST
+4537.0,IN_EMPTY_DATA_TABLE,2.0,W,Please verify the subset information.,SASHELP.FSP.OK.SLIST
+4549.0,DI_GVAR_CONFLICT,1.0,E,The graph could not be completed due to a conflict between,SASHELP.FSP.OK.SLIST
+4549.0,DI_GVAR_CONFLICT,2.0,E,a column in the hierarchy and an analysis column.,SASHELP.FSP.OK.SLIST
+4557.0,IN_AC_DOUBLE_LOGIN,1.0,W,%LYou are currently logged in as %1$.,SASHELP.FSP.OK.SLIST
+4557.0,IN_AC_DOUBLE_LOGIN,2.0,W,The new login attempt as %2$ is ignored.,SASHELP.FSP.OK.SLIST
+4558.0,IN_AC_OPT_IGNORE,1.0,W,%LAccess Control is not currently active.,SASHELP.FSP.OK.SLIST
+4558.0,IN_AC_OPT_IGNORE,2.0,W,The additional command options are ignored.,SASHELP.FSP.OK.SLIST
+4566.0,IO_VAR_HIDDEN,1.0,W,%LThe column %1$ is hidden from the report.,SASHELP.FSP.OK.SLIST
+4590.0,IO_FNAME_ENTRY_REQD,1.0,E,%LA %1$ is required.,SASHELP.FSP.OK.SLIST
+4601.0,IO_MDDB_NO_OBS,1.0,W,%LThe table %1$ contains no data.  The Multidimensionsal Database will not be created.,SASHELP.FSP.OK.SLIST
+4607.0,CL_GVAR_POPMENU,1.0,L,"Vertical bar, Horizontal bar, Scroll bars on, Scroll bars off",SASHELP.FSP.OK.SLIST
+4608.0,IN_GVAR_AMTLABEL,1.0,O,Amount,SASHELP.FSP.OK.SLIST
+4609.0,DI_GVAR_ONEHIER,1.0,N,There is only one available hierarchy.,SASHELP.FSP.OK.SLIST
+4625.0,CL_3DGRAPH_COLORSCHEMES,1.0,L,"Default, Spring, Fall, Industry, International, Commerce, Finance, Southwest, Beach, Colorprint, Greyscale",SASHELP.FSP.OK.SLIST
+4650.0,CL_DEFAULT_RANGE,1.0,O,Default Range,SASHELP.FSP.OK.SLIST
+4684.0,IO_ACTION_WIDGET_NOT_EXIST,1.0,E,The target widget %1$ of the selected action does not exist.,SASHELP.FSP.OK.SLIST
+4685.0,IO_ACTION_METHOD_NOT_EXIST,1.0,E,The method %1$ specified as an action does not exist in your,SASHELP.FSP.OK.SLIST
+4685.0,IO_ACTION_METHOD_NOT_EXIST,2.0,E,target widget.,SASHELP.FSP.OK.SLIST
+4686.0,CL_ACTION_TYPE_LIST,1.0,L,"General, Application:, Command:, Method:, Select..., Edit Command..., Edit Method...",SASHELP.FSP.OK.SLIST
+4687.0,IO_APPLSCR_CANCEL_BUILD,1.0,W,%lYou cancelled out of the build environment. The,SASHELP.FSP.OK.SLIST
+4687.0,IO_APPLSCR_CANCEL_BUILD,2.0,W,Application Screen Builder application is not created.,SASHELP.FSP.OK.SLIST
+4688.0,IO_APPLSCR_RESOURCE_REQUIRED,1.0,E,%lA resource is required. Specify on or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+4689.0,IO_SPEC_AXIS,1.0,E,%lX and Y axes must be specified.,SASHELP.FSP.OK.SLIST
+4692.0,CL_SELECT_VALUE,1.0,O,Select Value...,SASHELP.FSP.OK.SLIST
+4695.0,CL_CHANGE_DIMENSION,1.0,O,Change Dimension...,SASHELP.FSP.OK.SLIST
+4696.0,CL_CSF_OPTIONS,1.0,O,CSF Options...,SASHELP.FSP.OK.SLIST
+4698.0,CL_CSF_STYLES,1.0,L,"None, Simple, Shaded",SASHELP.FSP.OK.SLIST
+4699.0,CL_CSF_TYPES,1.0,L,"Classic, Digital, Speedometer",SASHELP.FSP.OK.SLIST
+4700.0,CL_CSF_ARROW_TYPES,1.0,L,"Line, Arrow, Spear, Harpoon",SASHELP.FSP.OK.SLIST
+4701.0,CL_CSF_FORMAT_SOURCE,1.0,L,"Variable Format, Range Format",SASHELP.FSP.OK.SLIST
+4702.0,CL_CSF_LABEL_POSITION,1.0,L,"TopLeft, TopCenter, TopRight, BottomLeft, BottomCenter, BottomRight",SASHELP.FSP.OK.SLIST
+4703.0,IO_CSF_DUMMY_NOT_EXIST,1.0,W,%lThe specified DummyClassVariable %$1 is not valid. %n,SASHELP.FSP.OK.SLIST
+4703.0,IO_CSF_DUMMY_NOT_EXIST,2.0,W,Default variable is taked instead.,SASHELP.FSP.OK.SLIST
+4722.0,CL_CSF_CHANGE_VARIABLE,1.0,O,Change Variable...,SASHELP.FSP.OK.SLIST
+4723.0,IO_DATAGROUPPROCESSINGERROR,1.0,O,Data Group processing error,SASHELP.FSP.OK.SLIST
+4726.0,IO_UNIQUE_REGNAME,1.0,E,%lA unique registration name is required.  Specify one or,SASHELP.FSP.OK.SLIST
+4726.0,IO_UNIQUE_REGNAME,2.0,E,press Cancel to quit.,SASHELP.FSP.OK.SLIST
+4757.0,IN_SELECT_ALL,1.0,O,Select All,SASHELP.FSP.OK.SLIST
+4770.0,IO_RANGE_ENTRY_NOT_FOUND,1.0,E,"%lUnable to find or access the entry, %1$. Ranges and hotspots may not be defined for the General Reporting object, %2$, upon conversion.",SASHELP.FSP.OK.SLIST
+4775.0,IO_RANGER_NAME_NOTADDED,1.0,Q,%lAn area on the report was marked but a name for the range entry was not given.  Do you want to return to the window to add the range entry?,SASHELP.FSP.YN.SLIST
+4776.0,IN_SAVE_QUERY,1.0,Q,Save changes to %1$?,SASHELP.FSP.YNC.SLIST
+4777.0,IN_RANGE_NOTADDED,1.0,Q,"%lA range for the entry, %1$, has been defined but not permanently saved.  Select 'Save' if you want to save the range. Select 'Cancel' to return to the window.",SASHELP.FSP.DCS.SLIST
+4778.0,IO_RANGE_NOTEXIST,1.0,W,%lNo range has been defined. Make sure an area on the report has been marked and a name has been specified.,SASHELP.FSP.OK.SLIST
+4779.0,IO_RANGE_NOBLANK,1.0,E,"%lIf you want to delete the range, %1$, select Delete. To add a new range, mark a new area on the report.",SASHELP.FSP.OK.SLIST
+4780.0,IN_PRT_HOSTPRINT_FEATURE,1.0,E,Host printing is turned off.,SASHELP.FSP.OK.SLIST
+4780.0,IN_PRT_HOSTPRINT_FEATURE,2.0,E,Host printing is required to use this feature.,SASHELP.FSP.OK.SLIST
+4781.0,IN_PRT_HOSTPRINT_REQUIRED,1.0,E,Host printing is turned off.,SASHELP.FSP.OK.SLIST
+4781.0,IN_PRT_HOSTPRINT_REQUIRED,2.0,E,Host printing is required to print this report.,SASHELP.FSP.OK.SLIST
+4782.0,IN_PRT_OBJECT_SELECT,1.0,E,You need to select at least one object to print,SASHELP.FSP.OK.SLIST
+4782.0,IN_PRT_OBJECT_SELECT,2.0,E,in the Page Layout window.,SASHELP.FSP.OK.SLIST
+4783.0,IN_PRT_NO_OBJECTS,1.0,E,The screen does not contain any printable objects.,SASHELP.FSP.OK.SLIST
+4784.0,IN_PRT_NO_TITLES,1.0,E,Titles can not be printed for %1$ report.,SASHELP.FSP.OK.SLIST
+4785.0,CL_TOOLBAR_OK,1.0,L,"OK,Close Window and Apply Changes,Close Window and Apply Changes",
+4786.0,CL_TOOLBAR_HELP,1.0,L,"Help,Help",
+4787.0,CL_TOOLBAR_CANCEL,1.0,L,"Cancel,Close Window Without Saving Changes,Discard Changes and Close",
+4788.0,CL_PRT_TOOLBAR_SAVE,1.0,L,"Save,Save as Report Style Default Settings,Save as Default",
+4789.0,CL_TOOLBAR_DEFAULTS,1.0,L,"Defaults,Set Back to Defaults,Set Back to Defaults",
+4790.0,CL_PRT_UNITS,1.0,L,"Inches,Centimeters,Millimeters,Points,Picas,Pixels,Lines",
+4791.0,CL_PRT_WTITLES,1.0,L,"Page Layout,Print Defaults,Titles,Footnotes",
+4795.0,CL_PRT_FILLTYPES,1.0,L,"Report Title,Report Footnote,Window Title,",
+4795.0,CL_PRT_FILLTYPES,2.0,L,"Drill Path,Text,Clear",
+4796.0,IO_FIELD_ERROR,1.0,E,Fields in error. Please correct.,SASHELP.FSP.OK.SLIST
+4797.0,IO_DEFAULT_SAVE,1.0,Q,You are saving the current Page Layout settings as %1$,SASHELP.FSP.YN.SLIST
+4797.0,IO_DEFAULT_SAVE,2.0,Q,report type Print Default settings in your user profile.,SASHELP.FSP.YN.SLIST
+4797.0,IO_DEFAULT_SAVE,3.0,Q,Do you want to continue?,SASHELP.FSP.YN.SLIST
+4798.0,CL_PRT_COPY,1.0,L,"Copy After, Copy Before",
+4799.0,CL_PRT_INSERT,1.0,L,"Insert After,Insert Before",
+4800.0,CL_PRT_INSERT_ALL,1.0,L,"Insert all Report Titles,Insert All Report Footnotes",
+4801.0,CL_PRT_TFLINE,1.0,L,"Title Line,Footnote Line",
+4802.0,CL_PRT_GLOBAL_LABEL,1.0,L,Global,
+4833.0,IN_UPDATE_V6_DENIED,1.0,W,%1$ could not be opened in update mode.  Engine V6,SASHELP.FSP.OK.SLIST
+4833.0,IN_UPDATE_V6_DENIED,2.0,W,does not support write access.,SASHELP.FSP.OK.SLIST
+4843.0,CL_BUBBLE_MARKERS,1.0,L,"Square, Triangle, Circle, Plus, Cross, Minus, Diamond, Hexagon",SASHELP.FSP.OK.SLIST
+4848.0,CL_SELECT_CHART_MODE,1.0,O,Select chart mode   >,SASHELP.FSP.OK.SLIST
+4849.0,CL_CHART_MODES,1.0,L,"Navigate mode, Probe mode, Zoom mode, Panning mode, Legend mode, Reference line mode",SASHELP.FSP.OK.SLIST
+4860.0,CL_EXPLODE_,1.0,O,Explode,SASHELP.FSP.OK.SLIST
+4861.0,CL_UNEXPLODE_,1.0,O,Unexplode,SASHELP.FSP.OK.SLIST
+4862.0,CL_CHART_MODE_,1.0,O,Chart mode...,SASHELP.FSP.OK.SLIST
+4863.0,CL_CHART_TYPE_,1.0,O,Chart type...,SASHELP.FSP.OK.SLIST
+4907.0,IO_SPEC_DATE,1.0,E,A date column must be specified.,SASHELP.FSP.OK.SLIST
+4927.0,IN_DIMNAV_READ_ONLY,1.0,N,%lObject was ported read-only from the experimental version.%n,SASHELP.FSP.OK.SLIST
+4927.0,IN_DIMNAV_READ_ONLY,2.0,N,Please delete and re-create the object if you need modifications.,SASHELP.FSP.OK.SLIST
+4928.0,IN_DRILL_SUBSETS_EXIST,1.0,N,Drill subsets are active for the selected hierarchy.,SASHELP.FSP.OK.SLIST
+4928.0,IN_DRILL_SUBSETS_EXIST,2.0,N,"If you make any changes to hierarchy, the subsets will cease to be drill subsets",SASHELP.FSP.OK.SLIST
+4928.0,IN_DRILL_SUBSETS_EXIST,3.0,N,and they will not be affected by navigation.,SASHELP.FSP.OK.SLIST
+4928.0,IN_DRILL_SUBSETS_EXIST,4.0,N,"(Up, Left, Right)",SASHELP.FSP.OK.SLIST
+4961.0,CL_ZOOM_OUT,1.0,L,Zoom Out,SASHELP.FSP.OK.SLIST
+5000.0,CL_TYPE_MIDPOINT,1.0,O,Midpoint,SASHELP.FSP.OK.SLIST
+5001.0,CL_TYPE_GROUP,1.0,O,Group,SASHELP.FSP.OK.SLIST
+5002.0,CL_TYPE_SUBGROUP,1.0,O,Subgroup,SASHELP.FSP.OK.SLIST
+5003.0,IN_OP_GRAPH_TYPE,1.0,O,Graph Type,SASHELP.FSP.OK.SLIST
+5004.0,CL_TYPE_DOWN,1.0,O,Down,SASHELP.FSP.OK.SLIST
+5005.0,CL_TYPE_ACROSS,1.0,O,Across,SASHELP.FSP.OK.SLIST
+5006.0,CL_TYPE_HIERARCHY,1.0,O,Hierarchy,SASHELP.FSP.OK.SLIST
+5010.0,CL_SIMPLE_FORECAST_TXT,1.0,O,Simple Forecast :,SASHELP.FSP.OK.SLIST
+5013.0,CL_FCST_RUNNING_TXT,1.0,O,Forecast running.........,SASHELP.FSP.OK.SLIST
+5037.0,IN_PRESENTS_NOMO,1.0,N,%LThe SAS/EIS Presents object is no longer supported.,SASHELP.FSP.OK.SLIST
+5057.0,IO_EISAPPL_NOT_EXIST,1.0,E,%lThe EIS application %1$ cannot be displayed.,SASHELP.FSP.OK.SLIST
+5177.0,IN_SELECT_AN_APPL,1.0,N,%LSelect an application,SASHELP.FSP.OK.SLIST
+5183.0,IO_NOSEL_AVAIL,1.0,O,%LNo selections available.,SASHELP.FSP.OK.SLIST
+5184.0,IO_APPLTYPE_REQUIRED,1.0,E,%LAn application type is required. Specify one or press cancel to quit.,SASHELP.FSP.OK.SLIST
+5185.0,IO_APPLDB_REQUIRED,1.0,E,%LAn application database is required. Please specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5186.0,IO_LIBDB_REQUIRED,1.0,E,%LA library and application database are required. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5188.0,IO_SPECIFY_DB,1.0,E,%LSpecify an existing database first.,SASHELP.FSP.OK.SLIST
+5189.0,IO_NOT_EXIST_NOTE,1.0,N,%L%1$ does not exist.,SASHELP.FSP.OK.SLIST
+5190.0,IO_INVALID_TYPE_SPEC,1.0,E,%LInvalid type specified.,SASHELP.FSP.OK.SLIST
+5198.0,IO_INVALID_NAME,1.0,E,%LInvalid SAS name.,SASHELP.FSP.OK.SLIST
+5200.0,IN_NAME_REQD,1.0,E,%LA 2 or 4-level name is required.,SASHELP.FSP.OK.SLIST
+5201.0,IO_FIELDS_IN_ERROR,1.0,E,"%LOne or more fields in error, correct error to continue.",SASHELP.FSP.OK.SLIST
+5206.0,IN_SPECIFY_LIB,1.0,E,%lSpecify an existing library first.,SASHELP.FSP.OK.SLIST
+5212.0,IN_SELECT_ANALYSIS_VAR,1.0,N,%LYou have chosen SUM or Mean as the statistic to be,SASHELP.FSP.OK.SLIST
+5212.0,IN_SELECT_ANALYSIS_VAR,2.0,N,"computed. However, no analysis variable has been",SASHELP.FSP.OK.SLIST
+5212.0,IN_SELECT_ANALYSIS_VAR,3.0,N,"chosen. When you return, select 'Analysis variable'",SASHELP.FSP.OK.SLIST
+5212.0,IN_SELECT_ANALYSIS_VAR,4.0,N,to make a selection.,SASHELP.FSP.OK.SLIST
+5219.0,IO_VAR_NO_ANALYSIS,1.0,E,%LThere are no variables registered with the ANALYSIS attribute.,SASHELP.FSP.OK.SLIST
+5229.0,IO_REPORT_REQD,1.0,E,%lA report is required.;,SASHELP.FSP.OK.SLIST
+5234.0,IO_APPLNAME_REQD,1.0,W,%lAn application name is required.,SASHELP.FSP.OK.SLIST
+5237.0,IN_4LEV_HELPNAME_REQD,1.0,E,%LA 4-level name is required for Global help.,SASHELP.FSP.OK.SLIST
+5239.0,IO_HELP_VALID_AFTYPE,1.0,E,%LA help must be a valid SAS/AF type.,SASHELP.FSP.OK.SLIST
+5243.0,IO_SPECOUTPUT_OBJ,1.0,N,%lSpecify an output object.,SASHELP.FSP.OK.SLIST
+5245.0,IN_DEFINE_MENU,1.0,E,%LYou must define a menu before it can be tested.,SASHELP.FSP.OK.SLIST
+5246.0,IN_WNAME_BLKMENU,1.0,O,SAS/EIS: Block Menu,SASHELP.FSP.OK.SLIST
+5247.0,IO_CHARTDS_NOT_SPEC,1.0,E,%LThe chart data set is not available or is not specified.,SASHELP.FSP.OK.SLIST
+5248.0,IN_OUTPUT_CATLG,1.0,O,SAS/EIS: Output in Catalog,SASHELP.FSP.OK.SLIST
+5249.0,IN_NOTES,1.0,O,SAS/EIS: Notes,SASHELP.FSP.OK.SLIST
+5250.0,IN_SPECIFY_COMMANDS,1.0,W,%lYou must specify commands to execute.,SASHELP.FSP.OK.SLIST
+5251.0,IN_COMMAND_EXECREQD,1.0,W,%lA command to execute is required. Specify one or press Cancel to quit.;,SASHELP.FSP.OK.SLIST
+5252.0,IO_CHARTDS_NOT_EXIST,1.0,E,%LThe chart data set is not available or does not exist.,SASHELP.FSP.OK.SLIST
+5253.0,IO_CHARTDS_NOT_REG,1.0,E,%LThe chart data set is not registered.,SASHELP.FSP.OK.SLIST
+5254.0,IO_VARIABLE_REQD,1.0,E,%LA variable is required.,SASHELP.FSP.OK.SLIST
+5255.0,IO_CHART_INFO_MISSING,1.0,E,%LThe chart cannot be tested with missing information.,SASHELP.FSP.OK.SLIST
+5256.0,IO_VAR_NO_ATTR,1.0,E,%LThe dataset does not contain any variables with the attribute: %1$,SASHELP.FSP.OK.SLIST
+5257.0,CL_GRAPH_CUSTOM_OPTS,1.0,L,"Statistical options..., Bar chart subgroups..., Axis options..., Color customization..., Pie rotation...",SASHELP.FSP.OK.SLIST
+5258.0,IN_HIER_LEV_CHANGE,1.0,W,%LThe starting level of the hierarchy has been changed to the first level.,SASHELP.FSP.OK.SLIST
+5269.0,IN_WNAME_CHARTS,1.0,O,SAS/EIS: Charts,SASHELP.FSP.OK.SLIST
+5270.0,IN_CHART_VARIABLE,1.0,O,Chart variable,SASHELP.FSP.OK.SLIST
+5273.0,IO_LIBCATNAME_REQD,1.0,E,"%LA library, catalog, and entry name must be specified before it can be tested.",SASHELP.FSP.OK.SLIST
+5278.0,IN_SPECIFY_CAT_LIBREF,1.0,E,"%LYou must first specify both a libref and a catalog name, or leave both fields blank.",SASHELP.FSP.OK.SLIST
+5279.0,IO_LIB_NOT_EXIST,1.0,E,%LThe library specified does not exist.,SASHELP.FSP.OK.SLIST
+5280.0,IN_SPECIFY_LIB_CAT_NAME,1.0,E,"%LA library, catalog, and entry name must be specified first.",SASHELP.FSP.OK.SLIST
+5281.0,IN_CALC_NEEDED,1.0,E,%LYou must have SAS/CALC software to perform this task.,SASHELP.FSP.OK.SLIST
+5282.0,IN_CALC_WNAME,1.0,O,SAS/EIS: Spreadsheet Application,SASHELP.FSP.OK.SLIST
+5283.0,IN_SPRDSHT_CAT_WNAME,1.0,O,SAS/EIS: Spreadsheet Catalog,SASHELP.FSP.OK.SLIST
+5284.0,IN_BLDCMD_APP,1.0,O,Build a command menu command application.,SASHELP.FSP.OK.SLIST
+5286.0,IN_SAS_COMMANDS_WNAME,1.0,O,SAS/EIS: SAS Commands,SASHELP.FSP.OK.SLIST
+5288.0,IN_CAT_SRCHPTH_WNAME,1.0,O,SAS/EIS: Catalog Search Path,SASHELP.FSP.OK.SLIST
+5289.0,IN_BLDOBJECT_ERROR,1.0,E,%LYou must first build an object. Build one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5290.0,IO_RESOURCE_MISSING,1.0,E,%L%1$ could not be found. The resource must be available in order to edit this application.,SASHELP.FSP.OK.SLIST
+5291.0,IN_GRAPHICS_MB_WNAME,1.0,O,SAS/EIS: Graphics Menu Builder,SASHELP.FSP.OK.SLIST
+5292.0,IN_CSF_WNAME,1.0,O,SAS/EIS: Critical Success Factors,SASHELP.FSP.OK.SLIST
+5293.0,IN_DBASE_SRCHPTH_WNAME,1.0,O,SAS/EIS: Database Search Path,SASHELP.FSP.OK.SLIST
+5295.0,IO_APPL_REQUIRED,1.0,E,%LAn application to display is required. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5296.0,IO_SPECIFY_AF_APP,1.0,E,%LA SAS/AF application must be specified.,SASHELP.FSP.OK.SLIST
+5297.0,IN_VALID_WITH_FRAME,1.0,E,%LThis selection is only valid with FRAME entries.,SASHELP.FSP.OK.SLIST
+5298.0,IN_SELECT_FRAME,1.0,E,%LA FRAME entry must first be selected as the SAS/AF application.,SASHELP.FSP.OK.SLIST
+5299.0,IN_AF_APP_WNAME,1.0,O,SAS/EIS: SAS/AF Application,SASHELP.FSP.OK.SLIST
+5300.0,IN_RESOURCE_WNAME,1.0,O,SAS/EIS: Resource,SASHELP.FSP.OK.SLIST
+5301.0,IO_SPECIFY_DATASET,1.0,E,%LA data set must be specified.,SASHELP.FSP.OK.SLIST
+5302.0,IO_DATASET_OR_QUIT,1.0,E,%LA dataset must be specified. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5304.0,IN_SAS_DS_WNAME,1.0,O,SAS/EIS: SAS Data Set,SASHELP.FSP.OK.SLIST
+5305.0,IO_INVALID_DSNAME,1.0,E,%LInvalid data set name.,SASHELP.FSP.OK.SLIST
+5306.0,IN_ONLY_BROWSING,1.0,W,%LOnly browsing is permitted here.,SASHELP.FSP.OK.SLIST
+5307.0,IO_INVALID_DS_PASSWD,1.0,E,%LAn invalid password was specified for the data set.,SASHELP.FSP.OK.SLIST
+5308.0,IN_CUSTOM_CATNAME,1.0,O,SAS/EIS: Custom Catalog,SASHELP.FSP.OK.SLIST
+5309.0,CL_PASSWORD_CHK,1.0,L,"INVALID OR MISSING WRITE PASSWORD,INVALID OR MISSING READ PASSWORD,INVALID OR MISSING ALTER PASSWORD",SASHELP.FSP.OK.SLIST
+5310.0,IO_FILEREF_EXISTS,1.0,W,%LThe specified fileref already exists and will be replaced.,SASHELP.FSP.OK.SLIST
+5312.0,IO_FILEREF_MISSING,1.0,E,%LThe required fileref name is missing.,SASHELP.FSP.OK.SLIST
+5313.0,IO_FILEREF_ALRDYEXISTS,1.0,W,%lThe %1$ '%2$' already exists.,SASHELP.FSP.OK.SLIST
+5314.0,IN_RESOURCE_MGMT_WNAME,1.0,O,SAS/EIS: Resource Management,SASHELP.FSP.OK.SLIST
+5316.0,IO_NONSAS_FILE_MISSING,1.0,E,%LThe required name of the non-SAS file is missing.,SASHELP.FSP.OK.SLIST
+5317.0,IN_ASSIGN_FILEREF_WNAME,1.0,O,SAS/EIS: Assign a Fileref,SASHELP.FSP.OK.SLIST
+5318.0,IN_QUOTES_STRIPPED,1.0,N,%LLeading and trailing quotes are automatically stripped.,SASHELP.FSP.OK.SLIST
+5319.0,IO_EXTFILE_IS_DIR,1.0,E,%LThe specified external file is a directory.,SASHELP.FSP.OK.SLIST
+5320.0,CL_APPL_CANNOT_RUN,1.0,L,"This type of application,cannot be run.,Press Enter to return.",SASHELP.FSP.OK.SLIST
+5323.0,IO_NOOBS_DATASET,1.0,W,%LThe selected data set has 0 observations.,SASHELP.FSP.OK.SLIST
+5324.0,DI_MISSING_DATE_VALUES,1.0,E,%LThe data set contains missing values for the date variable.,SASHELP.FSP.OK.SLIST
+5325.0,DI_DATE_NOT_ORDERED,1.0,E,%LValues for the date variable are out of sequence.,SASHELP.FSP.OK.SLIST
+5326.0,IN_SELECT_DS_FIRST,1.0,E,%LA data set must first be selected.,SASHELP.FSP.OK.SLIST
+5327.0,IO_FILL_REQD_FLDS,1.0,E,%LValues must first be selected for all REQUIRED fields.,SASHELP.FSP.OK.SLIST
+5328.0,IN_FILL_REQD_FLDS,1.0,E,%LValues must first be selected for all REQUIRED fields. Specify them or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5329.0,IN_SERIES_INTERVAL,1.0,W,%LWarning the interval of the time series could not be determined.,SASHELP.FSP.OK.SLIST
+5330.0,IO_CANNOT_OPEN_DS,1.0,E,%LThe %1$ data set cannot be opened.,SASHELP.FSP.OK.SLIST
+5331.0,IO_VARIABLE_MISSING,1.0,E,"%LThe variable, %1$, is missing from the data set.",SASHELP.FSP.OK.SLIST
+5332.0,CL_DATA,1.0,O,Data,SASHELP.FSP.OK.SLIST
+5333.0,IN_SIMPLE_FORECAST_WNAME,1.0,O,SAS/EIS: Simple Forecasting,SASHELP.FSP.OK.SLIST
+5334.0,CL_TIME_INTERVALS,1.0,L,"Daily,Weekly,Semi-Monthly,Monthly,Quarterly,Semi-Annual,Annual,Ten Day",SASHELP.FSP.OK.SLIST
+5335.0,IO_EXTFILE_NOT_EXIST,1.0,W,%LThe referenced external file does not exist.,SASHELP.FSP.OK.SLIST
+5336.0,IO_FILEREF_NOT_ASSIGN,1.0,W,%LSpecified file reference is not assigned.,SASHELP.FSP.OK.SLIST
+5337.0,IN_REFFILE_IS_DIR,1.0,E,%LThe referenced external file is a directory. Specify another or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5340.0,IO_REFFILE_IS_DIR,1.0,E,%LThe referenced external file is a directory.,SASHELP.FSP.OK.SLIST
+5341.0,IN_FILEREF_INVALID,1.0,E,%LFile reference is an invalid SAS name. Specify another or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5342.0,IO_FILEREF_INVALID,1.0,E,%LFile reference is an invalid SAS name.,SASHELP.FSP.OK.SLIST
+5343.0,IN_GRAPHNM_WNAME,1.0,O,SAS/EIS: Graph Name,SASHELP.FSP.OK.SLIST
+5344.0,IN_SPECIFY_GRAPH,1.0,E,%LA graph must be specified before testing.,SASHELP.FSP.OK.SLIST
+5345.0,IO_GRAPH_NAME_REQD,1.0,E,%LA graph name is required. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5347.0,IO_GRAPH_NOT_EXIST,1.0,E,%LThe specified graph does not exist.,SASHELP.FSP.OK.SLIST
+5348.0,IN_GRAPHICS_WNAME,1.0,O,SAS/EIS: Graphics,SASHELP.FSP.OK.SLIST
+5349.0,IN_HOST_SYSCMD_WNAME,1.0,O,SAS/EIS: Host System Commands,SASHELP.FSP.OK.SLIST
+5350.0,IO_4LEVHELP_REQD,1.0,E,%LA 4-level name is required for help.,SASHELP.FSP.OK.SLIST
+5351.0,CL_EXIT_LIST,1.0,L,"EXIT,Exit menu",SASHELP.FSP.OK.SLIST
+5352.0,CL_MENU_ITEM,1.0,L,"Menu Items,Menu item",SASHELP.FSP.OK.SLIST
+5353.0,IO_APPL_NOT_EXIST,1.0,N,%LThe application specified does not exist.,SASHELP.FSP.OK.SLIST
+5354.0,IO_DB_NOT_EXIST,1.0,N,"%LThe database specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5355.0,IO_SPECIFY_VALID_DB,1.0,E,%LA list cannot be obtained until a valid database is specified.,SASHELP.FSP.OK.SLIST
+5356.0,IO_APPL_MISS_INFO,1.0,E,%LThe application specified is missing information.,SASHELP.FSP.OK.SLIST
+5357.0,IN_NO_MENU_ITEMS,1.0,E,%LThere are no menu items to copy from.,SASHELP.FSP.OK.SLIST
+5359.0,CL_ORDER,1.0,L,"Ascending order,Descending order",SASHELP.FSP.OK.SLIST
+5360.0,IN_SPECIFY_LETTER_CAT,1.0,E,%LA letter catalog must be specified.,SASHELP.FSP.OK.SLIST
+5363.0,IO_INVALID_CATNAME,1.0,E,%LInvalid catalog name.,SASHELP.FSP.OK.SLIST
+5364.0,IO_DS_NOTEXIST_ERROR,1.0,E,%LThe data set specified does not exist.,SASHELP.FSP.OK.SLIST
+5365.0,IO_DS_NOTEXIST_WARN,1.0,W,%LThe data set specified does not exist.,SASHELP.FSP.OK.SLIST
+5366.0,IO_PRINT_DS_REQD,1.0,E,%LA data set is required to print.,SASHELP.FSP.OK.SLIST
+5368.0,IN_PRINT_DS_REQD,1.0,E,%LA data set is required to print. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5369.0,IO_PRINT_LETTER_REQD,1.0,E,%LA letter entry is required to print.,SASHELP.FSP.OK.SLIST
+5370.0,IN_PRINT_LETTER_REQD,1.0,E,%LA letter entry is required to print. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5371.0,IO_SEND_LETTER_REQD,1.0,E,%LA letter entry is required to send.,SASHELP.FSP.OK.SLIST
+5372.0,IN_SEND_LETTER_REQD,1.0,E,%LA letter entry is required to send. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5373.0,IN_LETTER_CAT_WNAME,1.0,O,SAS/EIS: Letter Catalog,SASHELP.FSP.OK.SLIST
+5374.0,IN_LETTER_APP_LEG1,1.0,O,SAS/EIS: Letter Application,SASHELP.FSP.OK.SLIST
+5375.0,IO_REQD_LIBREF_MISSING,1.0,E,%LThe required libref name is missing.,SASHELP.FSP.OK.SLIST
+5376.0,IO_SASDATA_LIBNAME_REQD,1.0,E,%LThe name of the SAS data library is required.,SASHELP.FSP.OK.SLIST
+5377.0,IN_SHARE_SW_REQD,1.0,E,%LYou must have SAS/SHARE software to use this engine. Call your SAS Software Representative for more information.,SASHELP.FSP.OK.SLIST
+5378.0,IN_ASSIGN_LIBREF_LEG1,1.0,O,SAS/EIS: Assign a Libref,SASHELP.FSP.OK.SLIST
+5379.0,IN_CMD_MENU_WNAME,1.0,O,SAS/EIS: Command Menu,SASHELP.FSP.OK.SLIST
+5380.0,IN_LIST_MENU_WNAME,1.0,O,SAS/EIS: List Menu,SASHELP.FSP.OK.SLIST
+5386.0,IN_DEFINE_PLOT,1.0,E,%LYou must define a plot before it can be tested.,SASHELP.FSP.OK.SLIST
+5388.0,IO_PLOTDS_NOT_AVAIL,1.0,E,%LThe plot data set is not available or is not specified.,SASHELP.FSP.OK.SLIST
+5389.0,IO_PLOTDS_NOT_REG,1.0,E,%LThe plot data set is not registered.,SASHELP.FSP.OK.SLIST
+5390.0,IO_HVAR_NOT_AVAIL,1.0,E,%LThe horizontal variable is not available or is not specified.,SASHELP.FSP.OK.SLIST
+5391.0,IO_VVAR_NOT_AVAIL,1.0,E,%LThe vertical variable is not available or is not specified.,SASHELP.FSP.OK.SLIST
+5392.0,IO_REG_DS_NOTEXIST,1.0,E,%LSpecified dataset is registered but does not exist.,SASHELP.FSP.OK.SLIST
+5393.0,IN_PLOTS_WNAME,1.0,O,SAS/EIS: Plots,SASHELP.FSP.OK.SLIST
+5394.0,IN_EDITRANGE_OR_QUIT,1.0,E,%LYou must first edit a range. Edit one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5395.0,IN_RANGES_WNAME,1.0,O,SAS/EIS: Ranges,SASHELP.FSP.OK.SLIST
+5396.0,IO_FORECAST_ATTR_MISS,1.0,E,%LThere are no variables registered with the attribute of FORECAST.,SASHELP.FSP.OK.SLIST
+5396.0,IO_FORECAST_ATTR_MISS,2.0,E,Select Metabase under Setup to register data sets and to assign,SASHELP.FSP.OK.SLIST
+5396.0,IO_FORECAST_ATTR_MISS,3.0,E,attributes to variables.,SASHELP.FSP.OK.SLIST
+5397.0,IO_MISSING_DATE_ATTR,1.0,E,%LThere are no variables registered with the attribute of DATE.,SASHELP.FSP.OK.SLIST
+5397.0,IO_MISSING_DATE_ATTR,2.0,E,Select Metabase under Setup to register data sets and to assign,SASHELP.FSP.OK.SLIST
+5397.0,IO_MISSING_DATE_ATTR,3.0,E,attributes to variables.,SASHELP.FSP.OK.SLIST
+5398.0,IO_NO_DATE_ATTR,1.0,E,%LThere are no variables registered with the attribute of DATE.,SASHELP.FSP.OK.SLIST
+5399.0,IO_MISSING_X_ATTR,1.0,E,%LThere are no variables registered with the attribute of INDEPENDENT(X).,SASHELP.FSP.OK.SLIST
+5399.0,IO_MISSING_X_ATTR,2.0,E,Select Metabase under Setup to register the data sets and to assign,SASHELP.FSP.OK.SLIST
+5399.0,IO_MISSING_X_ATTR,3.0,E,attributes to variables.,SASHELP.FSP.OK.SLIST
+5400.0,IN_WHATIF_WNAME,1.0,O,SAS/EIS: What-If Analysis,SASHELP.FSP.OK.SLIST
+5401.0,IO_SAS_PGM_REQD,1.0,E,%LA SAS program to execute is required. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5402.0,IO_SPECIFY_A_PGM,1.0,E,%LA program must be specified before it can be tested.,SASHELP.FSP.OK.SLIST
+5403.0,IN_SRC_CAT_WNAME,1.0,O,SAS/EIS: Source in Catalog,SASHELP.FSP.OK.SLIST
+5404.0,IN_EXECUTE_SAS_PGM_WNAME,1.0,O,SAS/EIS: Execute a SAS program,SASHELP.FSP.OK.SLIST
+5406.0,IO_SPECIFY_APPL,1.0,E,%LYou must specify an application. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5407.0,IO_INVALID_APPLNAME,1.0,E,%LApplication name is not a valid SAS name.,SASHELP.FSP.OK.SLIST
+5408.0,IO_SPECIFY_LEVNAME,1.0,E,%LYou must specify a 2-level or 4-level name.,SASHELP.FSP.OK.SLIST
+5409.0,IN_APPS_TO_EXECUTE,1.0,O,SAS/EIS: Applications to Execute,SASHELP.FSP.OK.SLIST
+5410.0,IN_APPS_SCRIPT_WNAME,1.0,O,SAS/EIS: Script of SAS/EIS Applications,SASHELP.FSP.OK.SLIST
+5411.0,IO_REMOTE_VALUE_REQD,1.0,E,%LA remote= value is required.,SASHELP.FSP.OK.SLIST
+5412.0,IO_COMAMID_VALUE_REQD,1.0,E,%LA comamid value is required.,SASHELP.FSP.OK.SLIST
+5413.0,IN_REMOTE_CONNECT,1.0,O,SAS/EIS: Remote Connect,SASHELP.FSP.OK.SLIST
+5414.0,IO_VARS_MISSING,1.0,E,%LOne or more variables are missing.,SASHELP.FSP.OK.SLIST
+5415.0,IN_VARS_MISSING,1.0,E,%LOne or more variables are missing. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5416.0,IO_DS_MISSING_ATTRS,1.0,E,%LThe data set registration is missing one or more attributes.,SASHELP.FSP.OK.SLIST
+5417.0,IN_HIER_LEVEL_CHANGED,1.0,W,%LThe starting level of the hierarchy has been changed to 1.,SASHELP.FSP.OK.SLIST
+5418.0,CL_CUST_POPMENU,1.0,L,"Colors/Attributes...,Labels/Formats...,Calculations...",SASHELP.FSP.OK.SLIST
+5419.0,IN_VAR_REPORT_WNAME,1.0,O,SAS/EIS: Variance Report,SASHELP.FSP.OK.SLIST
+5420.0,IN_WELCOME_TO_SYSTEM,1.0,O,Welcome to the System,SASHELP.FSP.OK.SLIST
+5421.0,IN_WELCOME_WNAME,1.0,O,SAS/EIS: Welcome Window,SASHELP.FSP.OK.SLIST
+5422.0,IN_VER_PROGRAM_WNAME,1.0,O,SAS/EIS: Verification Program,SASHELP.FSP.OK.SLIST
+5423.0,IN_COMPANY_LOGO,1.0,O,SAS/EIS: Company Logo Graph,SASHELP.FSP.OK.SLIST
+5424.0,IN_REPORT_REQD,1.0,E,%LA report is required. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5425.0,IN_GEN_REPORT_WNAME,1.0,O,SAS/EIS: General Reporting,SASHELP.FSP.OK.SLIST
+5429.0,CL_FMT_DESCRIPTS,1.0,L,"convert to ASCII,convert to binary,standard character data,convert to EBCDIC,convert to hex,convert to octal,varying-length values,standard character data",SASHELP.FSP.OK.SLIST
+5431.0,IN_SELECT_CHOICE,1.0,O,Select One Choice and Hit Enter,SASHELP.FSP.OK.SLIST
+5432.0,IO_CANNOT_CONVERT_DS,1.0,W,%LThe data set %1$ could not be converted to the new format. Either the data set could not be opened for update or output.,SASHELP.FSP.OK.SLIST
+5433.0,IO_NO_MENUITEMS_DEF,1.0,E,%LNo menu items have previously been defined.,SASHELP.FSP.OK.SLIST
+5434.0,CL_COPYBLCK_MSGS,1.0,L,"******    Undefined    ******,****** Item to copy to ******",SASHELP.FSP.OK.SLIST
+5435.0,IO_BAD_FORMAT,1.0,E,%LFormat does not match variable type or does not exist.,SASHELP.FSP.OK.SLIST
+5436.0,IN_VARIANCE_VARLABEL,1.0,O,Variance,SASHELP.FSP.OK.SLIST
+5437.0,IN_OK_CANCEL,1.0,O,"Use OK to delete entry, Cancel to keep entry.",SASHELP.FSP.OK.SLIST
+5438.0,IN_LIBRARY_REQUIRED,1.0,O,You cannot make this selection before you have a selected a library. Please select a library now.,SASHELP.FSP.OK.SLIST
+5439.0,IO_CANNOT_DISPLAY_CAT,1.0,O,The requested catalog cannot be displayed.,SASHELP.FSP.OK.SLIST
+5440.0,IN_SELECT_LIBRARY,1.0,E,%LSelect library to continue. Goback to return.,SASHELP.FSP.OK.SLIST
+5441.0,IN_SELECT_CATALOG,1.0,E,%LSelect catalog to continue.,SASHELP.FSP.OK.SLIST
+5442.0,IN_SEE_HELP,1.0,N,%LSee Help for information on valid commands for particular entry types.,SASHELP.FSP.OK.SLIST
+5443.0,IN_VALID_PREFIX_CMDS,1.0,O,Valid prefix selection field commands that can be entered below are:,SASHELP.FSP.OK.SLIST
+5444.0,IN_PREFIX_CMDS,1.0,O,B=Browse        G=Execute        P=Print        F=File,SASHELP.FSP.OK.SLIST
+5445.0,IN_EIS_DIR,1.0,O,EIS: DIRECTORY,SASHELP.FSP.OK.SLIST
+5446.0,IN_BROWSE_CATALOG,1.0,O,SAS/EIS: Browse Catalog Contents,SASHELP.FSP.OK.SLIST
+5447.0,IN_FORMS_MGMT,1.0,O,SAS/EIS: Forms Management,SASHELP.FSP.OK.SLIST
+5448.0,IN_ENTER_FORM_NAME,1.0,O,Enter the name of a form to edit or create in the current forms catalog.,SASHELP.FSP.OK.SLIST
+5449.0,IN_USE_CFCAT_BUTTON,1.0,O,"To specify a different catalog, use the ""Current forms catalog"" pushbutton.",SASHELP.FSP.OK.SLIST
+5450.0,IN_ENTER_OR_GOBACK,1.0,O,Press Enter to proceed. Use Goback to return.,SASHELP.FSP.OK.SLIST
+5451.0,IN_BELOW_IS_LIST,1.0,O,Below is a list of forms stored in your current forms catalog. Select a,SASHELP.FSP.OK.SLIST
+5452.0,IN_BELOW_IS_LIST2,1.0,O,form to be edited. Scroll to view the entire list.,SASHELP.FSP.OK.SLIST
+5453.0,IN_SELECT_FORM,1.0,O,Select a form to be edited.,SASHELP.FSP.OK.SLIST
+5454.0,IO_INVALID_FORMNAME,1.0,E,%LThe specified form name is not a valid SAS name.,SASHELP.FSP.OK.SLIST
+5455.0,IN_NO_FORM_SEL,1.0,N,%LNo form selected for editing.,SASHELP.FSP.OK.SLIST
+5456.0,IN_FORMSCAT_NOT_CREATED,1.0,N,"%LForms catalog, %1$, has not been created.",SASHELP.FSP.OK.SLIST
+5456.0,IN_FORMSCAT_NOT_CREATED,2.0,N,"To create it, enter a form name.",SASHELP.FSP.OK.SLIST
+5457.0,IO_LIBNAME_NOT_ASSIGN,1.0,E,%LLibname %1$ is not currently assigned.,SASHELP.FSP.OK.SLIST
+5458.0,IO_WIDTH_MINMAX,1.0,E,%LWidth value must be between %1$ and %2$.,SASHELP.FSP.OK.SLIST
+5460.0,IO_VALUE_LT_WIDTH,1.0,E,%LDecimal value must be less than the width.,SASHELP.FSP.OK.SLIST
+5461.0,IO_DECVALUE_MINMAX,1.0,E,%LDecimal value must be between %1$ and %2$.,SASHELP.FSP.OK.SLIST
+5462.0,CL_FONT_SELECTION,1.0,L,"Default,Swiss,Swissl,Centx,Centxi,Complex,Duplex,Titalic,Triplex,Zapf,Zapfb,Zapfi,Italic,Brush",
+5463.0,IO_CONFIDENCE_LIMITS,1.0,E,%LConfidence limits must be between 80 and 99.,SASHELP.FSP.OK.SLIST
+5464.0,IN_CONFIDENCE_LIMITS,1.0,O,Confidence limits must be between 01 and 99.,SASHELP.FSP.OK.SLIST
+5465.0,IN_DEVICE_DRV_MGMT,1.0,O,SAS/EIS: Device Driver Management,SASHELP.FSP.OK.SLIST
+5466.0,IN_ACTIVE_GRAPHICS_WNAME,1.0,O,SAS/EIS: Active Graphics Device,SASHELP.FSP.OK.SLIST
+5467.0,IN_DEVICE_SUPP_CMD,1.0,O,SAS/EIS: Device Driver Supplemental Commands,SASHELP.FSP.OK.SLIST
+5468.0,IN_SELECT_GRAPHICS_DEVICE,1.0,O,Select a graphics device driver before entering commands.,SASHELP.FSP.OK.SLIST
+5470.0,IN_BEFORE_GRAPH_CMDS,1.0,O,Enter the commands to be issued BEFORE the graph is produced.,SASHELP.FSP.OK.SLIST
+5471.0,IN_AFTER_GRAPH_CMDS,1.0,O,Enter the commands to be issued AFTER the graph is produced.,SASHELP.FSP.OK.SLIST
+5473.0,IN_SELECT_END,1.0,O,Use 'End' under the FILE pull-down menu to return.,SASHELP.FSP.OK.SLIST
+5474.0,IN_SYSTEM_CMDS_SYNTAX,1.0,O,Precede all system commands with an 'X' and terminate them with a ';'.,SASHELP.FSP.OK.SLIST
+5475.0,IN_DEVICE_DRIVER,1.0,O,Device Driver,SASHELP.FSP.OK.SLIST
+5476.0,IN_DEVICE_DRIVER_WNAME,1.0,O,SAS/EIS: Device Driver,SASHELP.FSP.OK.SLIST
+5477.0,IO_SELECT_GRPH_DEVDRV,1.0,E,%LA graphics device driver must first be selected.,SASHELP.FSP.OK.SLIST
+5478.0,IN_PREFIX_TITLE,1.0,O,Prefix Commands,SASHELP.FSP.OK.SLIST
+5479.0,IN_SUFFIX_TITLE,1.0,O,Suffix Commands,SASHELP.FSP.OK.SLIST
+5480.0,IN_DEVICE_DRIVERS,1.0,O,SAS/EIS: Device Drivers,SASHELP.FSP.OK.SLIST
+5481.0,IN_ASSIGN_GDEVICE0,1.0,O,Libref 'GDEVICE0' must be assigned before copying or modifying drivers.,SASHELP.FSP.OK.SLIST
+5482.0,IN_GRPHCAT_MGMT_WNAME,1.0,O,SAS/EIS: Graphics Device Catalog Management,SASHELP.FSP.OK.SLIST
+5483.0,IN_COPY_ADDL_DRIVERS,1.0,N,%LDrivers have been copied. Reselect 'Copy' to copy additional drivers.,SASHELP.FSP.OK.SLIST
+5485.0,IN_COPY_DRIVER_INFO,1.0,O,Up to 20 device drivers may be copied at one time.,SASHELP.FSP.OK.SLIST
+5486.0,IN_PROC_GDEVICE_ACTIVE,1.0,W,%LPROC GDEVICE is still active. Use 'END' from the 'File' pull-down menu to return to EIS.,SASHELP.FSP.OK.SLIST
+5487.0,IO_GDEVICE_NOT_ASSIGN,1.0,O,Libref 'GDEVICE0' has not been assigned to your 'DEVICES' catalog.,SASHELP.FSP.OK.SLIST
+5488.0,IN_DEVICE_TYPE_WNAME,1.0,O,SAS/EIS: Device Types,SASHELP.FSP.OK.SLIST
+5489.0,IO_INVALID_DSID,1.0,E,%LInvalid data set id.,SASHELP.FSP.OK.SLIST
+5491.0,CL_ERROR_WARN_MSG,1.0,L,"****** ERROR ******,****** WARNING ******,****** MESSAGE ******",SASHELP.FSP.OK.SLIST
+5492.0,IN_DISPLAY_INITIAL,1.0,O,SAS/EIS: Display Initialization,SASHELP.FSP.OK.SLIST
+5493.0,IN_SELECTION_ACTION,1.0,O,SAS/EIS: Selection Action,SASHELP.FSP.OK.SLIST
+5494.0,CL_METHODS_MENU,1.0,L,"Pull-down menu (PMENU),None",SASHELP.FSP.OK.SLIST
+5498.0,CL_NFMT_FMT_DESC,1.0,L,"standard numeric,choose best notation,print commas in numbers,print dollar sign and commas,scientific notation,print fractions,numeric hexadecimal,integer binary,packed decimal,",SASHELP.FSP.OK.SLIST
+5498.0,CL_NFMT_FMT_DESC,2.0,L,"positive integer binary,real binary (floating pt),Roman numerals,Social security numbers,numbers as words,numbers +fract. as words,print leading zeros,zoned decimal,print date as ddMMMyy,",SASHELP.FSP.OK.SLIST
+5498.0,CL_NFMT_FMT_DESC,3.0,L,"print date and time,date as day/month/year,hour and minutes hh:mm,hour and decimal fraction,date as month/day/year,minutes and seconds,month and year,time values,time-of-day,date and weekday,",SASHELP.FSP.OK.SLIST
+5498.0,CL_NFMT_FMT_DESC,4.0,L,"date in words,date as year/month/day,year and quarter",SASHELP.FSP.OK.SLIST
+5499.0,IN_HELP_NOT_AVAIL,1.0,W,%LHelp not available here.,SASHELP.FSP.OK.SLIST
+5500.0,IO_LIBREF_NOT_EXIST,1.0,W,%LSpecified libref does not exist.,SASHELP.FSP.OK.SLIST
+5501.0,IN_CORRECT_OR_CANCEL,1.0,O,Please correct errors or use Cancel to go back.,SASHELP.FSP.OK.SLIST
+5502.0,IO_CATALOG_NOT_EXIST,1.0,W,%LSpecified catalog does not exist.,SASHELP.FSP.OK.SLIST
+5503.0,IO_LIBRARY_FIRST,1.0,W,%LA library must be specified first.,SASHELP.FSP.OK.SLIST
+5504.0,IO_CATALOG_FIRST,1.0,W,%LA catalog must be specified first.,SASHELP.FSP.OK.SLIST
+5505.0,IO_EXTFILE_NOTEXIST,1.0,W,%LThe specified external file does not exist.,SASHELP.FSP.OK.SLIST
+5512.0,IO_DS_NO_VARATTR,1.0,E,%LThe data set does not contain variables with the specified attribute: %1$,SASHELP.FSP.OK.SLIST
+5520.0,IO_RUNEIS_INFO,1.0,L,"ERROR: The correct use of RUNEIS is:,RUNEIS APPL=LIB.APPLDATABASE.APPLICATION.TYPE,MBREG=REGISTRATION REP=REPOSITORY",SASHELP.FSP.OK.SLIST
+5522.0,CL_PRIMCLR_MENULIST,1.0,L,"SAS/EIS,Primary Menu Color,Secondary Menu Color,Next,Previous,OK,Cancel,Block Menu Color",SASHELP.FSP.OK.SLIST
+5526.0,IN_CLEAR_FILEREF,1.0,O,Select a fileref to be cleared.,SASHELP.FSP.OK.SLIST
+5527.0,IN_FILEREF_CLEARED,1.0,N,%LThe fileref '%1$' has successfully been cleared.,SASHELP.FSP.OK.SLIST
+5532.0,IN_FILEREFS_IN_EFFECT,1.0,O,The filerefs currently in effect:,SASHELP.FSP.OK.SLIST
+5535.0,IN_CURRENT_FILEREF_LIST,1.0,O,SAS/ASSIST: List of Current Filerefs,SASHELP.FSP.OK.SLIST
+5536.0,IN_DEFINED_FILEREFS_LIST,1.0,O,The following is a list of the currently defined filerefs.,SASHELP.FSP.OK.SLIST
+5538.0,IN_ASSIST_EXTERNAL_FILES,1.0,O,SAS/ASSIST: External Files,SASHELP.FSP.OK.SLIST
+5540.0,IN_EXTERNAL_FILES,1.0,O,External Files...,SASHELP.FSP.OK.SLIST
+5541.0,IN_EIS_EXTERNAL_FILES,1.0,O,SAS/EIS: External Files,SASHELP.FSP.OK.SLIST
+5542.0,IN_SELECT_FILEREF_OPER,1.0,O,Select the desired operation to perform on a SAS fileref.,SASHELP.FSP.OK.SLIST
+5543.0,IN_ASSIST_CLEAR_FILEREF,1.0,O,SAS/ASSIST: Clear a Fileref,SASHELP.FSP.OK.SLIST
+5544.0,IN_FILEREF_OKCANCEL,1.0,O,"Use OK to clear the fileref, Cancel to return without clearing the fileref.",SASHELP.FSP.OK.SLIST
+5545.0,IN_CLEAR_CURRENT_FILEREF,1.0,O,Clear one of the currently defined filerefs.,SASHELP.FSP.OK.SLIST
+5546.0,IN_LIBREF_CLEARED,1.0,N,%LThe libref '%1$' has successfully been cleared.,SASHELP.FSP.OK.SLIST
+5547.0,IN_LIBREFS_IN_EFFECT,1.0,O,The librefs currently in effect:,SASHELP.FSP.OK.SLIST
+5548.0,IN_CLEAR_LIBREF,1.0,O,Select a libref to be cleared.,SASHELP.FSP.OK.SLIST
+5549.0,IN_ASSIST_DATA_LIBS,1.0,O,SAS/ASSIST: SAS Data Libraries,SASHELP.FSP.OK.SLIST
+5550.0,CL_FILEREF,1.0,O,fileref,SASHELP.FSP.OK.SLIST
+5551.0,IN_EIS_DATA_LIBS,1.0,O,SAS/EIS: SAS Data Libraries,SASHELP.FSP.OK.SLIST
+5552.0,IN_DATA_LIBS,1.0,O,SAS Data Libraries...,SASHELP.FSP.OK.SLIST
+5553.0,IN_ASSIST_CLEAR_LIBREF,1.0,O,SAS/ASSIST: Clear a Libref,SASHELP.FSP.OK.SLIST
+5554.0,IN_CLEAR_CURRENT_LIBREF,1.0,O,Clear one of the currently defined librefs.,SASHELP.FSP.OK.SLIST
+5555.0,IN_LIBREF_OKCANCEL,1.0,O,Use OK to clear the libref. Cancel to return without clearing the libref.,SASHELP.FSP.OK.SLIST
+5556.0,IN_SELECT_LIB_OPER,1.0,O,Select the desired operation to perform on a SAS data library.,SASHELP.FSP.OK.SLIST
+5557.0,IN_LIST_CURRENT_LIBREFS,1.0,O,SAS/ASSIST: List Current Librefs,SASHELP.FSP.OK.SLIST
+5558.0,IN_CURRENT_LIBREFS_LIST,1.0,O,The following is a list of the currently defined librefs.,SASHELP.FSP.OK.SLIST
+5559.0,IN_SET_APPS_WNAME,1.0,O,SAS/EIS: Set Applications,SASHELP.FSP.OK.SLIST
+5560.0,IN_PRIMPRIV_APP_WNAME,1.0,O,SAS/EIS: Primary Private Application,SASHELP.FSP.OK.SLIST
+5561.0,IN_PRIMPUB_APP_WNAME,1.0,O,SAS/EIS: Primary Public Application,SASHELP.FSP.OK.SLIST
+5563.0,CL_LIBREF,1.0,O,libref,SASHELP.FSP.OK.SLIST
+5564.0,IN_RESOURCE_NAME_WNAME,1.0,O,SAS/EIS: Resource Name,SASHELP.FSP.OK.SLIST
+5565.0,IO_SPECIFY_RESNAME,1.0,E,%LA resource name must first be specified.,SASHELP.FSP.OK.SLIST
+5566.0,IO_RESOURCE_NOT_EXIST,1.0,E,%LThe resource specified does not exist. Use the Edit resource pushbutton to create the new resource or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5569.0,IO_APPL_NOTEXIST_ERROR,1.0,E,"%LThe application specified %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5571.0,IO_APPL_MISSINFO_ERROR,1.0,E,"%LThe application specified, %1$, is missing information.",SASHELP.FSP.OK.SLIST
+5573.0,IO_HELP_NOTEXIST,1.0,E,"%LThe help specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5574.0,IN_HELP_AVAIL,1.0,N,%LNo help is available.,SASHELP.FSP.OK.SLIST
+5575.0,IO_BLKMENU_NO_ENTRIES,1.0,E,%LThis block menu has no entries in it.,SASHELP.FSP.OK.SLIST
+5578.0,IN_CAT_SEARCH_LIST,1.0,O,Catalog Search List:,SASHELP.FSP.OK.SLIST
+5580.0,IO_DS_NOTEXIST,1.0,E,"%LThe data set specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5581.0,IO_DS_CANNOT_OPEN,1.0,E,"%LThe data set specified, %1$, could not be opened in %2$ mode.",SASHELP.FSP.OK.SLIST
+5582.0,IO_NEED_SAS_FSP,1.0,E,%LYou must have SAS/FSP software to perform this task.,SASHELP.FSP.OK.SLIST
+5583.0,CL_ADD_MODE,1.0,O,Add,SASHELP.FSP.OK.SLIST
+5584.0,IO_DB_NOTEXIST_ERROR,1.0,E,"%LThe database specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5585.0,IO_RUN_METHOD_NOTEXIST,1.0,E,%LThe run method specified does not exist.,SASHELP.FSP.OK.SLIST
+5586.0,IO_DB_WRONG_TYPE,1.0,E,"%LThe database specified, %1$, is the wrong type.",SASHELP.FSP.OK.SLIST
+5587.0,IO_BAD_USER_ACCESS,1.0,E,"%LUser, %1$, has insufficient access.",SASHELP.FSP.OK.SLIST
+5588.0,IO_FILE_NOTEXIST,1.0,E,"%LThe file specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5589.0,IO_FILEREF_NOT_ASSIGN_ERROR,1.0,E,"%LThe file reference specified, %1$, is not assigned.",SASHELP.FSP.OK.SLIST
+5590.0,IO_EXTFILE_NOTEXIST_ERROR,1.0,E,"%LThe external file referenced by, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5591.0,IN_OPEN_BROWSE_MODE,1.0,N,%LUnable to open %1$ in edit mode due to insufficient authorization. Opened in browse mode instead.,SASHELP.FSP.OK.SLIST
+5592.0,IN_EDIT_FILE_WNAME,1.0,O,SAS/EIS: Edit File,SASHELP.FSP.OK.SLIST
+5593.0,IO_FILE_NOTEXIST_WARN,1.0,W,"%LThe file specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5594.0,IO_FILEREF_NOTEXIST_WARN,1.0,W,"%LThe fileref specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5595.0,CL_EIS_LABEL,1.0,O,SAS/EIS:,SASHELP.FSP.OK.SLIST
+5598.0,IN_GETTING_STARTED,1.0,O,Getting Started,SASHELP.FSP.OK.SLIST
+5599.0,IO_DS_MISSING_REG,1.0,E,%L%1$ is missing registration for data set %2$.,SASHELP.FSP.OK.SLIST
+5600.0,IO_FILEREF_ASSIGNED,1.0,O,Fileref %1$ successfully assigned.,SASHELP.FSP.OK.SLIST
+5601.0,IO_FILEREF_REPLACED,1.0,O,Fileref %1$ successfully replaced.,SASHELP.FSP.OK.SLIST
+5602.0,IO_FILEREF_CLEARED,1.0,O,Fileref %1$ successfully cleared.,SASHELP.FSP.OK.SLIST
+5603.0,IO_LETTERCAT_NOTEXIST,1.0,E,"%LThe letter/letter catalog specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5604.0,IO_CATLIBREF_INVALID,1.0,E,%LCatalog libref is invalid.,SASHELP.FSP.OK.SLIST
+5605.0,IO_DSLIBREF_INVALID,1.0,E,%LData set libref is invalid.,SASHELP.FSP.OK.SLIST
+5606.0,IO_DATALIB_NOTEXIST,1.0,N,%LThe specified SAS data library does not currently exist.,SASHELP.FSP.OK.SLIST
+5607.0,IO_LIBREF_REPLACED,1.0,O,Libref %1$ successfully replaced.,SASHELP.FSP.OK.SLIST
+5608.0,IO_LIBREF_ASSIGNED,1.0,O,Libref %1$ successfully assigned.,SASHELP.FSP.OK.SLIST
+5609.0,IO_LIBREF_CLEARED,1.0,O,Libref %1$ successfully cleared.,SASHELP.FSP.OK.SLIST
+5610.0,IO_LISTMENU_NO_ENTRIES,1.0,E,%LThis list menu has no entries in it.,SASHELP.FSP.OK.SLIST
+5611.0,IO_OUTPUTOBJ_NOTEXIST,1.0,E,"%LThe output object specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5612.0,IO_SRCOBJ_NOTEXIST,1.0,E,"%LThe source object specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5613.0,IO_CAT_NOTEXIST_ERROR,1.0,E,"%LThe catalog specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5614.0,CL_OBJECT,1.0,O,Object,SASHELP.FSP.OK.SLIST
+5615.0,CL_OUTPUT_SOURCE,1.0,L,"Output,Source",SASHELP.FSP.OK.SLIST
+5616.0,IO_SRCENTRY_NOTEXIST,1.0,E,"%LThe source entry specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5617.0,IO_EXTERNAL_FILE_NOTEXIST,1.0,E,"%LThe external file specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5619.0,IO_EXTFILE_NOT_SRCFILE,1.0,E,"%LThe external file specified, %1$, is a directory not a source file.",SASHELP.FSP.OK.SLIST
+5620.0,IO_FILEREF_NOT_SRCFILE,1.0,E,"%LThe external file referenced by, %1$, is a directory not a source file.",SASHELP.FSP.OK.SLIST
+5621.0,IN_RUN_SCRIPT,1.0,O,SAS/EIS: Run the Script,SASHELP.FSP.OK.SLIST
+5622.0,IO_ALREADY_SIGNEDON,1.0,E,%LYou are already signed on.,SASHELP.FSP.OK.SLIST
+5624.0,IO_NEED_SAS_CONNECT,1.0,E,%LYou must have SAS/CONNECT software to perform this task.,SASHELP.FSP.OK.SLIST
+5625.0,IN_NOT_SIGNED_ON,1.0,E,%LYou are not signed on to the remote session.,SASHELP.FSP.OK.SLIST
+5626.0,IN_AVAIL_ATTRLST_EMPTY,1.0,E,%LAvailable-attributes list is empty.,SASHELP.FSP.OK.SLIST
+5627.0,IN_SRCHPATH_WNAME,1.0,O,SAS/EIS: Search Path,SASHELP.FSP.OK.SLIST
+5628.0,IN_RUN_APPL_WNAME,1.0,O,SAS/EIS: Run an Application,SASHELP.FSP.OK.SLIST
+5629.0,IN_SPECIFY_DB,1.0,W,%LA database must be specified.,SASHELP.FSP.OK.SLIST
+5630.0,IN_SELECT_ONE_DS,1.0,O,Select one data set.,SASHELP.FSP.OK.SLIST
+5631.0,IO_APPL_NOTEXIST_NOTE,1.0,N,"%LThe application specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5632.0,IO_DS_NOTEXIST_NOTE,1.0,N,"%LThe data set specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5633.0,IO_LIB_NOTEXIST_NOTE,1.0,N,"%LThe library specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5634.0,IO_LIST_NEEDS_VALIDDS,1.0,W,%LA list cannot be obtained until a valid data set is specified.,SASHELP.FSP.OK.SLIST
+5636.0,IN_EDIT_REFRESH,1.0,O,"E=Edit range, R=Refresh range",SASHELP.FSP.OK.SLIST
+5637.0,IN_ADD_APPLY_RANGE,1.0,O,Use Add to apply a range to report column values.,SASHELP.FSP.OK.SLIST
+5638.0,IN_GENERIC_OK_CANCEL,1.0,O,Use OK to save changes. Cancel to return without saving.,SASHELP.FSP.OK.SLIST
+5639.0,IO_NO_RANGE_APPS,1.0,E,%LThere are no range applications on %1$.,SASHELP.FSP.OK.SLIST
+5640.0,IO_NO_ADDL_COLS,1.0,E,%LThere are no additional columns.,SASHELP.FSP.OK.SLIST
+5641.0,IN_SELECT_RANGE,1.0,O,Select a range.,SASHELP.FSP.OK.SLIST
+5642.0,CL_REFRESH,1.0,O,Refresh,SASHELP.FSP.OK.SLIST
+5643.0,IN_NO_RANGES_APPLIED,1.0,O,No ranges currently applied.,SASHELP.FSP.OK.SLIST
+5644.0,IN_RANGES_APPLIED,1.0,O,Ranges applied to report column values.,SASHELP.FSP.OK.SLIST
+5645.0,IO_DISPLAY_TEXT_REQD,1.0,E,%LText to display is required. Specify some or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5646.0,IO_COLOR_REQD,1.0,E,%LA color is required. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5647.0,IO_FONT_REQD,1.0,E,%LA font is required. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5648.0,IO_INVALID_COLOR,1.0,E,%LInvalid color.,SASHELP.FSP.OK.SLIST
+5649.0,IO_INVALID_FONT,1.0,E,%LInvalid font specified.,SASHELP.FSP.OK.SLIST
+5650.0,IN_WELCOME_SCREEN_TXT,1.0,O,SAS/EIS: Welcome Screen Text,SASHELP.FSP.OK.SLIST
+5651.0,CL_COLORS,1.0,L,"Blue,Red,Pink,Green,Cyan,Yellow,White,Orange,Black,Magenta,Gray,Brown",SASHELP.FSP.OK.SLIST
+5652.0,CL_FONTS,1.0,L,"Simplex,Swiss,Swissl,Centx,Centxi,Complex,Duplex,Titalic,Triplex,Zapf,Zapfb,Zapfi,Italic,Brush",
+5653.0,IO_PRT_RENDER_ERROR,1.0,E,Print request could not be completed as requested.,SASHELP.FSP.OK.SLIST
+5653.0,IO_PRT_RENDER_ERROR,2.0,E,Please check the Log for messages.,SASHELP.FSP.OK.SLIST
+5654.0,IO_PRT_RENDER_WARN,1.0,W,Not all elements could be printed as requested.,SASHELP.FSP.OK.SLIST
+5654.0,IO_PRT_RENDER_WARN,2.0,W,Please check the Log for messages and your output or missing elements.,SASHELP.FSP.OK.SLIST
+5655.0,IN_SETUP_WNAME,1.0,O,SAS/EIS: Setup,SASHELP.FSP.OK.SLIST
+5656.0,IN_PRIVPUB_APPS_WNAME,1.0,O,SAS/EIS: Private/public applications,SASHELP.FSP.OK.SLIST
+5657.0,IN_ENTER_HOSTCMD_WNAME,1.0,O,SAS/EIS: Enter Host Command,SASHELP.FSP.OK.SLIST
+5662.0,IN_SPECIFY_ARG,1.0,O,SAS/EIS: Specify Arguments to a Function,SASHELP.FSP.OK.SLIST
+5665.0,IO_PARMVALUE_REQD,1.0,E,%LParameter value is required.,SASHELP.FSP.OK.SLIST
+5666.0,IO_PARAMETERS_REQD,1.0,E,%LParameters 1 - %1$ are required.,SASHELP.FSP.OK.SLIST
+5667.0,IO_LGE_FUNCTION_PARMS,1.0,E,%LFunction parameters too large for formula.,SASHELP.FSP.OK.SLIST
+5668.0,IO_INVALID_NUMERIC,1.0,E,%LParameter value %1$ is not a valid numeric expression.,SASHELP.FSP.OK.SLIST
+5669.0,IO_INVALID_FMTPARM,1.0,E,%LParameter value %1$ is not a valid format.,SASHELP.FSP.OK.SLIST
+5670.0,IO_INVALID_CHAR_PARM,1.0,E,%LParameter value %1$ is not a valid character expression.,SASHELP.FSP.OK.SLIST
+5671.0,IO_INVALID_INFMTPARM,1.0,E,%LParameter value %1$ is not a valid informat.,SASHELP.FSP.OK.SLIST
+5673.0,IO_INCORRECT_DS_FMT,1.0,W,%L%1$ is in incorrect format.,SASHELP.FSP.OK.SLIST
+5674.0,IO_CANNOT_UPDATE_DS,1.0,E,%L%1$ could not be opened for update.,SASHELP.FSP.OK.SLIST
+5675.0,IN_APPS_WNAME,1.0,O,SAS/EIS: Applications,SASHELP.FSP.OK.SLIST
+5676.0,IN_RUN_PRIVATE_APP,1.0,O,SAS/EIS: Run Private Application,SASHELP.FSP.OK.SLIST
+5677.0,IN_RUN_PUBLIC_APP,1.0,O,SAS/EIS: Run Public Application,SASHELP.FSP.OK.SLIST
+5678.0,IO_APPLDB_NOT_EXIST,1.0,E,"%LThe application database specified, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+5679.0,IO_NO_APPL_SPECIFIED,1.0,E,%LNo application has been specified. Choose Set applications... to specify one.,SASHELP.FSP.OK.SLIST
+5680.0,IO_SESSION_TERMINATED,1.0,O,Neither a permanent nor a temporary user parameter data set could,SASHELP.FSP.OK.SLIST
+5680.0,IO_SESSION_TERMINATED,2.0,O,be opened or created. Your SAS/EIS session is being terminated.,SASHELP.FSP.OK.SLIST
+5681.0,CL_APPLDB_DESCRIPTS,1.0,L,"Name of Application,Application Type,Description,EIS Catalog Entry Location,Edit program,Run program,Additional entry,Icon number",SASHELP.FSP.OK.SLIST
+5685.0,IO_INVALID_PARMSDS,1.0,O,"Data set, %1$ is not a valid parms data set. A temporary EISPARM data set is being created.",SASHELP.FSP.OK.SLIST
+5686.0,IO_GVAR_VARITEMS_FIRST,1.0,O,Select first variable,SASHELP.FSP.OK.SLIST
+5687.0,IO_CREATING_EISPARM_DS,1.0,O,"Data set, %1$, exists but cannot be accessed. A temporary EISPARM data set is being created.",SASHELP.FSP.OK.SLIST
+5688.0,IO_INVALID_DBNAME,1.0,E,%LInvalid database name.,SASHELP.FSP.OK.SLIST
+5689.0,IO_NOT_APPS_DB,1.0,E,%LNot an applications database.,SASHELP.FSP.OK.SLIST
+5690.0,IO_CANNOT_USE_DB,1.0,E,%LUnable to use this database.,SASHELP.FSP.OK.SLIST
+5691.0,IN_CONSTANT_WNAME,1.0,O,SAS/EIS: Constant,SASHELP.FSP.OK.SLIST
+5692.0,IN_ENTER_CONSTANT,1.0,O,Enter a value for the %1$ constant in the field below.,SASHELP.FSP.OK.SLIST
+5693.0,IN_VARREP_DROP_HEADERS,1.0,N,%lOne or more heading lines have been dropped.,SASHELP.FSP.OK.SLIST
+5694.0,DI_REPORT_NOT_COMPLETE,1.0,E,%lThe report could not be completed.,SASHELP.FSP.OK.SLIST
+5695.0,IN_INIT_METHOD_NOT_AVAILABLE,1.0,N,%lThe specified initialization method is not available.,SASHELP.FSP.OK.SLIST
+5696.0,IN_SELECT_NOT_AVAILABLE,1.0,N,%lThe specified selection method is not available.,SASHELP.FSP.OK.SLIST
+5697.0,IN_NO_HOTSPOTS,1.0,N,%lNo hotspots available.,SASHELP.FSP.OK.SLIST
+5698.0,CL_CHAR_NUM,1.0,L,"Character,Numeric,Character or Numeric",SASHELP.FSP.OK.SLIST
+5699.0,IN_NO_LEVEL_HOTSPOTS,1.0,N,%lNo hotspots available for the current drill level.,SASHELP.FSP.OK.SLIST
+5700.0,IO_GVAR_VARITEMS_SECOND,1.0,O,Select second variable,SASHELP.FSP.OK.SLIST
+5701.0,IN_CURRENT_FORMSCAT_WNAME,1.0,O,SAS/EIS: Current Forms Catalog,SASHELP.FSP.OK.SLIST
+5702.0,IO_MULTI_QUOTES_INVALID,1.0,E,%LMultiple quoted strings not allowed.,SASHELP.FSP.OK.SLIST
+5703.0,IO_MIXED_QUOTES_INVALID,1.0,E,%LMixed quotes not allowed.,SASHELP.FSP.OK.SLIST
+5704.0,IO_NUMERIC_INVALID,1.0,E,%LInvalid numeric value.,SASHELP.FSP.OK.SLIST
+5705.0,IO_INVALID_FMT,1.0,E,%LInvalid for format: %1$,SASHELP.FSP.OK.SLIST
+5707.0,IO_INVALID_CHARSTR,1.0,E,%LInvalid character string.,SASHELP.FSP.OK.SLIST
+5708.0,IN_TEXTCASE_MATCH_DATA,1.0,N,"%LWhen entering text values, the case must match the data.",SASHELP.FSP.OK.SLIST
+5709.0,IO_SUPPLY_A_VALUE,1.0,E,%LPlease supply a value.,SASHELP.FSP.OK.SLIST
+5710.0,IO_QUOTES_FOR_CHARNUMS,1.0,N,"%LIf constant is a character number, enclose it with quotes.",SASHELP.FSP.OK.SLIST
+5711.0,IN_ENTER_CATNAME,1.0,O,Enter the name of the catalog in which each type of object should be saved.,SASHELP.FSP.OK.SLIST
+5712.0,IO_INVALID_LIBNAME,1.0,E,%LThe specified libname is not a valid SAS name.,SASHELP.FSP.OK.SLIST
+5713.0,IO_CATNAME_INVALID,1.0,E,%LThe specified catalog is not a valid SAS name.,SASHELP.FSP.OK.SLIST
+5714.0,IO_LIBNAME_NOT_DEFINED,1.0,W,%LThe specified libname is not currently defined.,SASHELP.FSP.OK.SLIST
+5715.0,IO_SPECIFY_LIBNAME,1.0,E,%LYou must first specify a libname.,SASHELP.FSP.OK.SLIST
+5716.0,IN_SELECT_LIBREF,1.0,O,Select one libref.,SASHELP.FSP.OK.SLIST
+5717.0,IN_SELECT_ONE_CATALOG,1.0,O,Select one catalog.,SASHELP.FSP.OK.SLIST
+5718.0,IN_SELECT_WHEREVAR,1.0,O,Select a variable to be used in building the WHERE clause.,SASHELP.FSP.OK.SLIST
+5719.0,IN_VARIABLE_WNAME,1.0,O,SAS/EIS: Variable,SASHELP.FSP.OK.SLIST
+5720.0,IN_COMP_OPERATOR_WNAME,1.0,O,SAS/EIS: Comparison Operator,SASHELP.FSP.OK.SLIST
+5721.0,IN_SELECT_WHERE_OPER,1.0,O,Select the operator to be used in building the WHERE clause.,SASHELP.FSP.OK.SLIST
+5722.0,DI_NO_VALID_REPORT,1.0,E,%lThe specified initializaiton method did not return a,SASHELP.FSP.OK.SLIST
+5722.0,DI_NO_VALID_REPORT,2.0,E,valid report name and the default initialization was preempted.,SASHELP.FSP.OK.SLIST
+5723.0,IN_LOGICAL_OPER_WNAME,1.0,O,SAS/EIS: Logical Operator,SASHELP.FSP.OK.SLIST
+5724.0,IO_WHERE_TOO_LONG,1.0,E,%LThe WHERE clause cannot be longer than 200 characters.,SASHELP.FSP.OK.SLIST
+5725.0,IN_MATH_OPER_WNAME,1.0,O,SAS/EIS: Mathematical Operator,SASHELP.FSP.OK.SLIST
+5726.0,IN_SELECT_ONE,1.0,O,Make one selection.,SASHELP.FSP.OK.SLIST
+5727.0,IN_EDIT_WHERE_STMT,1.0,O,Edit the current WHERE clause:,SASHELP.FSP.OK.SLIST
+5729.0,IN_SUBSET_WNAME,1.0,O,SAS/EIS: Subset,SASHELP.FSP.OK.SLIST
+5731.0,IO_UNMATCHED_PARENS,1.0,E,%LThere are unmatched parentheses in the WHERE clause.,SASHELP.FSP.OK.SLIST
+5732.0,IO_INVALID_WHERE,1.0,E,%LThe currently defined WHERE clause is invalid.,SASHELP.FSP.OK.SLIST
+5733.0,IO_CANNOT_UNDO,1.0,E,%LUnable to perform undo at this time.,SASHELP.FSP.OK.SLIST
+5734.0,IO_CANNOT_SUBSET_DS,1.0,E,%LCannot subset because the data set does not exist.,SASHELP.FSP.OK.SLIST
+5735.0,IO_NOOBS_DS_WHERE,1.0,E,%LThe WHERE clause will generate a data set with no observations.,SASHELP.FSP.OK.SLIST
+5736.0,CL_EISWHERE_SELS,1.0,L,"Variable...,Constant...,Comparison operator...,Logical operator...,Arithmetic operator...,Concatenate,NOT,Opening parenthesis,Closing parenthesis,Undo last operation",SASHELP.FSP.OK.SLIST
+5737.0,CL_NUMERIC_OPERS_DESC,1.0,L,"plus,minus,multiply,divide,power",SASHELP.FSP.OK.SLIST
+5740.0,CL_LOGICAL_OPERS_DESC,1.0,L,"logical and,logical or",SASHELP.FSP.OK.SLIST
+5741.0,CL_COMPARISON_OPERS_DESC,1.0,L,"equal,less than,less or equal,greater than,greater or equal,not equal,like,contains,in,between",SASHELP.FSP.OK.SLIST
+5746.0,CL_SIMPLE,1.0,O,Simple Smoothing,SASHELP.FSP.OK.SLIST
+5751.0,CL_EISWHERE_INITVALS,1.0,L,"Select:,WHERE clause being built:",SASHELP.FSP.OK.SLIST
+5752.0,CL_BEST,1.0,O,Best Model,SASHELP.FSP.OK.SLIST
+5753.0,IN_REPORT_PRINTED,1.0,N,%lReport has been printed.,SASHELP.FSP.OK.SLIST
+5754.0,IN_FORM_NOT_EXIST,1.0,W,"%lForm, %1$, does not exist, default used.",SASHELP.FSP.OK.SLIST
+5755.0,IN_LOADED_TEMPLATE,1.0,N,"%lLoaded existing template, %1$.",SASHELP.FSP.OK.SLIST
+5756.0,IN_COPIED_ENTRY,1.0,N,%lCopied %1$.,SASHELP.FSP.OK.SLIST
+5757.0,IN_EDIT_NEW_TEMPLATE,1.0,N,%lEditing new template %1$.,SASHELP.FSP.OK.SLIST
+5758.0,CL_BESTN,1.0,O,Best Non-Seasonal Model,SASHELP.FSP.OK.SLIST
+5759.0,CL_BESTS,1.0,O,Best Seasonal Model,SASHELP.FSP.OK.SLIST
+5760.0,IN_TEMPLATE_NOT_EXIST,1.0,N,%lThe specified template does not exist.,SASHELP.FSP.OK.SLIST
+5761.0,CL_PLOT1,1.0,O,Plot 1,SASHELP.FSP.OK.SLIST
+5762.0,DI_NO_VALID_TEMPLATE,1.0,E,%lA valid template must be specified.,SASHELP.FSP.OK.SLIST
+5763.0,DI_NO_TEMPLATES_IN_APPLDB,1.0,E,%lNo templates available in %1$.,SASHELP.FSP.OK.SLIST
+5764.0,DI_EMPTY_TEMPLATE,1.0,E,"%lThe template is empty.  Edit the template, specify another",SASHELP.FSP.OK.SLIST
+5764.0,DI_EMPTY_TEMPLATE,2.0,E,"one, or press Cancel to quit.",SASHELP.FSP.OK.SLIST
+5765.0,DI_UNABLE_TO_COPY,1.0,E,%lUnable to copy %1$.,SASHELP.FSP.OK.SLIST
+5766.0,DI_TEMPLATE_NAME_REQUIRED,1.0,E,%lA template name is required.  Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5767.0,CL_PLOT2,1.0,O,Plot 2,SASHELP.FSP.OK.SLIST
+5768.0,IN_MARK_HOTSPOT_CORNER,1.0,N,%lMark the opposite corner of the hotspot.,SASHELP.FSP.OK.SLIST
+5769.0,CL_PLOT3,1.0,O,Plot 3,SASHELP.FSP.OK.SLIST
+5770.0,IN_USE_ACTIONS,1.0,N,%lUse Actions to define hotspot attributes.,SASHELP.FSP.OK.SLIST
+5771.0,DI_HOTSPOT_WITHIN_AREA,1.0,E,%lHotspot must end within the %1$ section.,SASHELP.FSP.OK.SLIST
+5772.0,DI_HOTSPOT_ON_SAME_PAGE,1.0,E,%lHotspots in the headings must start and end on the same page.,SASHELP.FSP.OK.SLIST
+5773.0,CL_PLOT4,1.0,O,Plot 4,SASHELP.FSP.OK.SLIST
+5774.0,IN_HEADER_WORD,1.0,O,HEADER,SASHELP.FSP.OK.SLIST
+5775.0,DI_HOTSPOT_TOO_SMALL,1.0,E,%lHotspot too small.,SASHELP.FSP.OK.SLIST
+5777.0,IN_TITLE_WORD,1.0,O,TITLE,SASHELP.FSP.OK.SLIST
+5778.0,IN_LOADED_RANGE,1.0,N,%lLoaded existing range %1$.,SASHELP.FSP.OK.SLIST
+5779.0,IN_EDIT_NEW_RANGE,1.0,N,%lEditing new range %1$.,SASHELP.FSP.OK.SLIST
+5780.0,IN_RANGE_NOT_EXIST,1.0,N,%lThe specified range does not exist.,SASHELP.FSP.OK.SLIST
+5781.0,DI_NO_VALID_RANGE,1.0,E,%lA valid range must be specified.,SASHELP.FSP.OK.SLIST
+5782.0,DI_NO_RANGES_ON_APPLDB,1.0,E,%lNo ranges available in %1$.,SASHELP.FSP.OK.SLIST
+5783.0,DI_EMPTY_RANGE,1.0,E,"%lThe range is empty.  Edit the range, specify another range",SASHELP.FSP.OK.SLIST
+5783.0,DI_EMPTY_RANGE,2.0,E,or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5784.0,DI_RANGE_NAME_REQUIRED,1.0,E,%lA range name is required.  Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5785.0,DI_HOTSPOT_EXISTS,1.0,E,%lThe specified hotspot already exists.,SASHELP.FSP.OK.SLIST
+5787.0,CL_DIMENSION_LABELS,1.0,O,"Hierarchy, Category, Value",SASHELP.FSP.OK.SLIST
+5788.0,DI_HOTSPOT_NAME_REQUIRED,1.0,E,%lA hotspot name is required.,SASHELP.FSP.OK.SLIST
+5789.0,IN_TARGET_APPL_NOT_EXIST,1.0,N,%lThe specified target application does not exist.,SASHELP.FSP.OK.SLIST
+5790.0,IO_NO_LIB_CAT,1.0,E,%lA library and catalog are required.  Specify one or,SASHELP.FSP.OK.SLIST
+5790.0,IO_NO_LIB_CAT,2.0,E,press Cancel to return.,SASHELP.FSP.OK.SLIST
+5791.0,IO_SPECIFY_VALID_SASNAME,1.0,E,%l%1$ is not a valid SAS name.  Specify one or press,SASHELP.FSP.OK.SLIST
+5791.0,IO_SPECIFY_VALID_SASNAME,2.0,E,Cancel to return.,SASHELP.FSP.OK.SLIST
+5792.0,IO_NOT_VALID_SASNAME,1.0,E,%l%1$ is not a valid SAS name.,SASHELP.FSP.OK.SLIST
+5793.0,IO_SPECIFY_DATABASE,1.0,W,%lA database must also be specified.  Specify one or press,SASHELP.FSP.OK.SLIST
+5793.0,IO_SPECIFY_DATABASE,2.0,W,Cancel to return.,SASHELP.FSP.OK.SLIST
+5794.0,IO_SPECIFY_LIBRARY,1.0,E,%lA library must also be specified.  Specify one or press,SASHELP.FSP.OK.SLIST
+5794.0,IO_SPECIFY_LIBRARY,2.0,E,Cancel to return.,SASHELP.FSP.OK.SLIST
+5795.0,IO_SPECIFY_TYPE,1.0,E,%lA type is required.  Specify one or press Cancel to return.,SASHELP.FSP.OK.SLIST
+5796.0,IO_TYPE_NOT_VALID,1.0,E,%lSpecified type is not valid.  Specify one or press Cancel to return.,SASHELP.FSP.OK.SLIST
+5797.0,IO_ENTRY_REQUIRED,1.0,E,%lAn entry is required.  Specify one or press Cancel to return.,SASHELP.FSP.OK.SLIST
+5798.0,IO_DATABASE_NOT_EXIST,1.0,E,%lSpecified database does not exist.,SASHELP.FSP.OK.SLIST
+5799.0,IO_NOT_VALID_APPLDB,1.0,E,%l%1$ is not a valid application data set.,SASHELP.FSP.OK.SLIST
+5800.0,IN_WORD_OR,1.0,O,OR,SASHELP.FSP.OK.SLIST
+5801.0,IN_NO_MORE_DRILLS,1.0,N,%lNo further drill variables available.,SASHELP.FSP.OK.SLIST
+5802.0,DI_NO_HIER_DATASET,1.0,E,%lUnable to display the Hierarchy window.  Could not,SASHELP.FSP.OK.SLIST
+5802.0,DI_NO_HIER_DATASET,2.0,E,open dataset: %1$.,SASHELP.FSP.OK.SLIST
+5803.0,DI_NO_DEFAULT_HIERARCHY,1.0,E,%lUnable to display the Hierarchy window.  There is,SASHELP.FSP.OK.SLIST
+5803.0,DI_NO_DEFAULT_HIERARCHY,2.0,E,not a default drill hierarchy.,SASHELP.FSP.OK.SLIST
+5804.0,IO_SELECT_DRILLS,1.0,E,%lNo drill variables have been selected.  Select at,SASHELP.FSP.OK.SLIST
+5804.0,IO_SELECT_DRILLS,2.0,E,least one in the Drill box.,SASHELP.FSP.OK.SLIST
+5805.0,DI_SUBSET_NOT_EXIST,1.0,E,%lThe specified subset does not exist.  Change your,SASHELP.FSP.OK.SLIST
+5805.0,DI_SUBSET_NOT_EXIST,2.0,E,selections or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5806.0,IO_SELECT_REPORT_VAR,1.0,E,%lA report variable must be selected.  Use Report to,SASHELP.FSP.OK.SLIST
+5806.0,IO_SELECT_REPORT_VAR,2.0,E,specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+5810.0,IO_VARGRAPH_WNAME,1.0,O,SAS/EIS: GRAPH:,SASHELP.FSP.OK.SLIST
+5811.0,DI_NEGATIVE_PIE_VALUES,1.0,N,%lThe pie data contains negative values.  A bar chart is,SASHELP.FSP.OK.SLIST
+5811.0,DI_NEGATIVE_PIE_VALUES,2.0,N,substituted.,SASHELP.FSP.OK.SLIST
+5816.0,CL_DAMPED,1.0,O,Damped-trend Smoothing,SASHELP.FSP.OK.SLIST
+5817.0,CL_LINEAR,1.0,O,Linear Smoothing,SASHELP.FSP.OK.SLIST
+5818.0,CL_DOUBLE,1.0,O,Double Smoothing,SASHELP.FSP.OK.SLIST
+5819.0,CL_SEASONAL,1.0,O,Seasonal Smoothing,SASHELP.FSP.OK.SLIST
+5820.0,CL_WINTERS_ADD,1.0,O,Winters Method Additive,SASHELP.FSP.OK.SLIST
+5821.0,CL_WINTERS_MULTI,1.0,O,Winters Method Multiplicative,SASHELP.FSP.OK.SLIST
+5826.0,DI_USERID_PW_INVALID,1.0,E,%lSpecified user id and password are invalid.,SASHELP.FSP.OK.SLIST
+5828.0,CL_FNAME_FLD_LABELS,1.0,L,"Fileref:,Filename:,Catalog Entry:",SASHELP.FSP.OK.SLIST
+5829.0,CL_TITLE_TEXT,1.0,O,Title,SASHELP.FSP.OK.SLIST
+5830.0,CL_NOTE_TEXT,1.0,O,Note,SASHELP.FSP.OK.SLIST
+5831.0,CL_MIXED_SELECT,1.0,O,*MIXED SELECTIONS,SASHELP.FSP.OK.SLIST
+5853.0,CL_ONE,1.0,O,1,SASHELP.FSP.OK.SLIST
+5854.0,CL_TWO,1.0,O,2,SASHELP.FSP.OK.SLIST
+5855.0,CL_THREE,1.0,O,3,SASHELP.FSP.OK.SLIST
+5856.0,CL_FOUR,1.0,O,4,SASHELP.FSP.OK.SLIST
+5858.0,IN_DISPLAY_VALUE,1.0,O,Click on data point to display value.,SASHELP.FSP.OK.SLIST
+5873.0,CL_CHART_TYPES,1.0,L,"None,Scatter,Join,Needle,Step,Spline,Regression,Vertical Bar,Horizontal Bar,High/Low,High/Low/Close,Open/High/Low/Close,Japanese Candlestick,Stochastics,Pie",SASHELP.FSP.OK.SLIST
+5874.0,CL_APPLSCR_DEFAULT_DESC,1.0,L,Application Screen Builder,SASHELP.FSP.OK.SLIST
+5875.0,CL_DESKTOP_DEFAULT_DESC,1.0,L,Graphics Menu Builder,SASHELP.FSP.OK.SLIST
+5876.0,CL_SAVEASAB_WNAME_APPLSCR,1.0,L,Save As Application Screen Builder,SASHELP.FSP.OK.SLIST
+5877.0,CL_SAVEASAB_WNAME_DESKTOP,1.0,L,Save As Graphics Menu Builder,SASHELP.FSP.OK.SLIST
+5878.0,CL_SAVEASAB_TAB_ITEMS,1.0,L,"Report, Item in Folder",SASHELP.FSP.OK.SLIST
+5879.0,CL_DIM_OPTS_IMAGES,1.0,L,"Images, Set Image Control Appearance Options, Image Control Appearance",
+5880.0,CL_FONT_SELECTION_UPCASE,1.0,L,"DEFAULT,SWISS,SWISSL,CENTX,CENTXI,COMPLEX,DUPLEX,TITALIC,TRIPLEX,ZAPF,ZAPFB,ZAPFI,ITALIC,BRUSH",SASHELP.FSP.OK.SLIST
+5882.0,CL_CUSTOM_CALCULATION,1.0,O,Custom Calculation,SASHELP.FSP.OK.SLIST
+5883.0,CL_DETAIL_DATA_WINDOW_TITLE,1.0,O,Detail Data,SASHELP.FSP.OK.SLIST
+5884.0,IO_UNABLE_TO_FIND_PARM,1.0,E,Unable to find %1$,SASHELP.FSP.OK.SLIST
+5885.0,IN_SHAPE_ORDER,1.0,O,Shape Order,SASHELP.FSP.OK.SLIST
+5886.0,IN_BUBBLE,1.0,O,Bubble,SASHELP.FSP.OK.SLIST
+5887.0,IN_REFLINES,1.0,O,Reflines,SASHELP.FSP.OK.SLIST
+5888.0,IN_MAP_APP_OP,1.0,O,Set Map Appearance Options,SASHELP.FSP.OK.SLIST
+5889.0,IN_MAP_MARK_OP,1.0,O,Set Map Marker Options,SASHELP.FSP.OK.SLIST
+5890.0,IN_MAP_LAB_OP,1.0,O,Set Map Label Options,SASHELP.FSP.OK.SLIST
+5891.0,IN_MAP_RAN_OP,1.0,O,Set Map Range Option,SASHELP.FSP.OK.SLIST
+5892.0,IN_MAP_LEG_OP,1.0,O,Set Map Legend Options,SASHELP.FSP.OK.SLIST
+5893.0,IN_CHART_APP,1.0,O,Set Chart Appearance,SASHELP.FSP.OK.SLIST
+5894.0,IN_BUB_APP,1.0,O,Set Bubble Appearance,SASHELP.FSP.OK.SLIST
+5895.0,IN_BUB_REF_LIN,1.0,O,Set Bubble Reference Lines,SASHELP.FSP.OK.SLIST
+5896.0,CL_DONE,1.0,O,Done...,SASHELP.FSP.OK.SLIST
+5898.0,CL_DIM_OPTS_CONTROLS,1.0,L,"Controls, Set Controls Appearance Options, Controls Appearance",
+5899.0,CL_DIM_OPTS_TEXT,1.0,L,"Text, Set Text Appearance Options, Text Appearance",
+5900.0,CL_DIM_OPTS_DISPLAY,1.0,L,"Display, Set Navigation Path Display Options, Navigation Path Display",
+5901.0,CL_DIM_OPTS_TITLE,1.0,L,"Title, Set Title Appearance Options, Title Appearance",
+5902.0,CL_DIM_OPTS_LISTBOX,1.0,L,"Listbox, Set Listbox Appearance Options, Listbox Appearance",
+5906.0,IO_CSF_DUMMY_NOT_VALID,1.0,W,%lSpecified DummyClassVariable %1$ not valid. Default variable taken instead.,SASHELP.FSP.OK.SLIST
+5907.0,CL_COLUMN_LABELS,1.0,L,"Name, Description, Type",
+5908.0,CL_CSF7_OPTS_APPEA,1.0,L,"CSF Appearance, Set CSF Appearance Options",
+5910.0,CL_CSF7_OPTS_TEXT,1.0,L,"Text Appearance, Set CSF Text Appearance Options",
+5926.0,IN_PRINTING_DONE,1.0,O,Printing done.,SASHELP.FSP.OK.SLIST
+5927.0,IO_CHG_TYPE_WNAME,1.0,O,Graph Type,SASHELP.FSP.OK.SLIST
+5928.0,CL_PRINT_POPMENU,1.0,O,"Print, Print Setup, Print Preview",SASHELP.FSP.OK.SLIST
+5929.0,IN_SNAPSHOT,1.0,O,SNAPSHOT,SASHELP.FSP.OK.SLIST
+5930.0,CL_CSF_OPTS_POS,1.0,L,"Position, Set CSF Label Position Options",
+5931.0,CL_CHANGE_RANGE,1.0,L,Change Range...,SASHELP.FSP.OK.SLIST
+5932.0,CL_CHANGE_FMT,1.0,L,Change Format...,
+5933.0,CL_EDIT_RANGE,1.0,L,Edit Range...,
+5934.0,CL_ACTION_ITEMS,1.0,L,"Actions, Double Click, Popmenu",
+5935.0,DI_SIZE_RANGE,1.0,E,%lValue must be between 0 and 3.,SASHELP.FSP.OK.SLIST
+5936.0,CL_TEXT_ATTRS,1.0,L,"None, Highlight, Underline, Blinking, Reverse, Hirev",
+5938.0,IN_SELECT_LINE_VARS,1.0,O,Select line variables.,SASHELP.FSP.OK.SLIST
+5939.0,CL_BAR_STATS_LIST,1.0,L,"Sum,Mean,Max,Min,Std,N,Nunique,Nmiss,Range,Std,Stderr,USS,Var,CSS,CV",SASHELP.FSP.OK.SLIST
+5940.0,IO_INVALID_DS,1.0,E,%LInvalid data set specified.,SASHELP.FSP.OK.SLIST
+5941.0,IN_SELECT_BAR_VARS,1.0,O,Select bar variables.,SASHELP.FSP.OK.SLIST
+5942.0,IN_CANNOT_SPECIFY_VAR,1.0,W,%LThe variable %1$ cannot be specified here.,SASHELP.FSP.OK.SLIST
+5943.0,CL_SAVEIT_LABELS,1.0,O,"Report Layout, Drill Level, Computed Values, Print Settings, Restricted Values",SASHELP.FSP.OK.SLIST
+5944.0,IN_SELECT_INDEP_VAR,1.0,O,Select independent variable.,SASHELP.FSP.OK.SLIST
+5945.0,DI_IMAGE_NO_ACCESS,1.0,W,%lInsufficient authorization to access image file.,SASHELP.FSP.OK.SLIST
+5947.0,DI_IMAGE_NOT_VALID,1.0,E,%lThe image file selection is not valid.,SASHELP.FSP.OK.SLIST
+5948.0,DI_ROWS_GT_ZERO,1.0,E,%lNumber of rows must be greater than zero.,SASHELP.FSP.OK.SLIST
+5949.0,DI_COLS_GT_ZERO,1.0,E,%lNumber of columns must be greater than zero.,SASHELP.FSP.OK.SLIST
+5950.0,DI_BUTTON_WIDTH,1.0,E,%lButton width must be positive.,SASHELP.FSP.OK.SLIST
+5951.0,DI_BUTTON_NUMBER,1.0,E,%lNumber of buttons must be greater than or equal to zero.,SASHELP.FSP.OK.SLIST
+5952.0,DI_SIZE_PREFS,1.0,N,%lCurrent setting for size preference is %1 x %2.,SASHELP.FSP.OK.SLIST
+5953.0,CL_SELECT_FONT,1.0,L,Select a font,SASHELP.FSP.OK.SLIST
+5954.0,DI_IMAGE_NOT_SIZE,1.0,E,%lSelected image is not available for size.,SASHELP.FSP.OK.SLIST
+5955.0,DI_IMAGE_SETTING,1.0,N,%lCurrent setting is %1 x %2.,SASHELP.FSP.OK.SLIST
+5958.0,IN_SPECIFY_GRAPHICS_DEVICE,1.0,O,A graphics device was not specified.,SASHELP.FSP.OK.SLIST
+5959.0,CL_HIERARCHY_MIDPOINT,1.0,O,Hierarchy/Midpoint,SASHELP.FSP.OK.SLIST
+5960.0,CL_ACTION_WIN_LABELS,1.0,L,"Application:, Select..., Command:, Edit Command..., Method:, Edit Method...",SASHELP.FSP.OK.SLIST
+5961.0,CL_MIDPOINT_DOWN,1.0,O,Midpoint/Down,SASHELP.FSP.OK.SLIST
+5962.0,CL_GROUP_ACROSS,1.0,O,Group/Across,SASHELP.FSP.OK.SLIST
+5963.0,CL_HIERARCHY_DOWN,1.0,O,Hierarchy/Down,SASHELP.FSP.OK.SLIST
+5964.0,CL_STACK_ACROSS,1.0,O,Stack/Across,SASHELP.FSP.OK.SLIST
+5965.0,CL_DIFFERENCE_LABEL,1.0,O,Difference,SASHELP.FSP.OK.SLIST
+5966.0,CL_RATIO_LABEL,1.0,O,Ratio,SASHELP.FSP.OK.SLIST
+5967.0,IO_GDEVICE_UNKNOWN,1.0,E,%LGraphics device unknown or could not be queried. Use Active Graphics Device under Setup to select a display device driver.,SASHELP.FSP.OK.SLIST
+5968.0,IO_COULDNOT_OPEN_DS,1.0,E,%LThe data set %1$ could not be opened.,SASHELP.FSP.OK.SLIST
+5969.0,CL_FORECAST_LABELS,1.0,L,"Forecast,All,Diagnostics,Residual plot",SASHELP.FSP.OK.SLIST
+5971.0,CL_GENERAL_ACTIONS,1.0,L,"General, Invoke EIS Application, Call SAS Command(s), Exit Application, Help",SASHELP.FSP.OK.SLIST
+5973.0,IN_BUSREF_LINE_COLOR,1.0,O,Line color,SASHELP.FSP.OK.SLIST
+5974.0,IN_XY_PLOT,1.0,O,XY Plot,SASHELP.FSP.OK.SLIST
+5975.0,IN_3D_BAR,1.0,O,3D vertical bar,SASHELP.FSP.OK.SLIST
+5977.0,IN_FORECAST_TXT,1.0,O,Forecast,SASHELP.FSP.OK.SLIST
+5978.0,CL_BUSREF,1.0,L,"Reference Line,of",SASHELP.FSP.OK.SLIST
+5979.0,IO_NAME_REQUIRED,1.0,E,An application name is required.,SASHELP.FSP.OK.SLIST
+5982.0,IO_DSNAME_REQD,1.0,W,Data set name is required.,SASHELP.FSP.OK.SLIST
+5983.0,IO_SUPPLY_REQUIRED_FIELDS,1.0,W,Values must be supplied for all required fields,SASHELP.FSP.OK.SLIST
+5984.0,IO_CANNOT_CREATE_TIMEID,1.0,W,Time ID creation is not supported in this version.,SASHELP.FSP.OK.SLIST
+5985.0,IO_SELECT_FORECAST_VARIABLE,1.0,W,A valid forecast variable must first be selected.,SASHELP.FSP.OK.SLIST
+5986.0,IO_SELECT_TIMEID_VARIABLE,1.0,W,A valid time ID variable must first be selected.,SASHELP.FSP.OK.SLIST
+5987.0,IO_SPECIFY_INTERVAL,1.0,W,A valid interval must first be specified.,SASHELP.FSP.OK.SLIST
+5988.0,IO_INVALID_INTERVAL,1.0,W,Invalid interval specification.,SASHELP.FSP.OK.SLIST
+5989.0,IO_TERMINATE_FORECAST,1.0,W,You must terminate the forecast task first.,SASHELP.FSP.OK.SLIST
+5990.0,IO_PROJECT_WILL_BE_CLEARED,1.0,W,Previous contents of project will be cleared.,SASHELP.FSP.OC.SLIST
+5991.0,IN_CALC_NOT_IN_RELEASE,1.0,E,%lSAS/CALC is not available with this release.,SASHELP.FSP.OK.SLIST
+5993.0,IN_RESTRICT_SUBSET_APPLIED,1.0,N,A subset has been applied to the report due to a RESTRICT attribute.,SASHELP.FSP.YN.SLIST
+5993.0,IN_RESTRICT_SUBSET_APPLIED,2.0,N,The subset is %1$.%n%nShow this message again?,SASHELP.FSP.YN.SLIST
+5997.0,CL_ORGTGT,1.0,L,"-NONE-,-GLOBAL-,Chart Description",SASHELP.FSP.OK.SLIST
+6002.0,CL_COLORS2,1.0,L,"Blue,Red,Pink,Green,Cyan,Yellow,White,Orange,Black,Magenta,Gray,Brown,Background,Secondary Background,Border,Secondary Border,Foreground",SASHELP.FSP.OK.SLIST
+6003.0,IN_VARIABLE_REQUIRED,1.0,E,%LVariable is required.,SASHELP.FSP.OK.SLIST
+6004.0,IN_DS_SELECT,1.0,E,%LA data set must first be selected.,SASHELP.FSP.OK.SLIST
+6005.0,IN_SELECT_CSF_VARIABLE,1.0,O,Select a CSF variable,SASHELP.FSP.OK.SLIST
+6006.0,IN_FILENAME_REQUIRED,1.0,W,%LA filename is required.,SASHELP.FSP.OK.SLIST
+6007.0,IN_ACCESS_IMAGE_FILE,1.0,W,%LInsufficient Authorization to access image file.,SASHELP.FSP.OK.SLIST
+6008.0,IN_IMAGE_NOT_VALID,1.0,W,%LThe image file selection is not valid.,SASHELP.FSP.OK.SLIST
+6009.0,IN_SCALING,1.0,O,Scaling Percentage must be greater than 0.,SASHELP.FSP.OK.SLIST
+6010.0,IN_IMAGE_NOT_SIZE,1.0,E,%LSelected image is not available for size,SASHELP.FSP.OK.SLIST
+6011.0,IN_CURRENT_SETTING,1.0,N,%LCurrent setting is,SASHELP.FSP.OK.SLIST
+6016.0,IN_DISPLAY_STATS_TEXT,1.0,O,Displayable statistics for:,SASHELP.FSP.OK.SLIST
+6017.0,IN_ETS_SW_REQD,1.0,E,%LYou cannot perform this task without SAS/ETS software. Call your SAS Software Representative for more information.,SASHELP.FSP.OK.SLIST
+6018.0,IO_INPUT_INFO,1.0,W,%LYou cannot execute this program without first specifying all required information. Please do so now.,SASHELP.FSP.OK.SLIST
+6019.0,IN_FSP_SW_REQD,1.0,E,%LYou cannot perform this task without SAS/FSP software.  Call your SAS Software Representative for more information.,SASHELP.FSP.OK.SLIST
+6021.0,CL_DESC_NAME_TYPE,1.0,L,"Description,Name,Type",SASHELP.FSP.OK.SLIST
+6022.0,IN_NONE_TEXT,1.0,O,NONE,SASHELP.FSP.OK.SLIST
+6023.0,IN_EIS_ADD,1.0,O,SAS/EIS: Add,SASHELP.FSP.OK.SLIST
+6024.0,IN_EISMOD_APPL,1.0,O,Application Database:,SASHELP.FSP.OK.SLIST
+6025.0,IN_EISMOD_OBJECT,1.0,O,Object Database:,SASHELP.FSP.OK.SLIST
+6026.0,IN_EISMOD_UPDATE,1.0,N,"%LApplication database, %1$ can not be opened for update.",SASHELP.FSP.OK.SLIST
+6028.0,IN_METHOD_TREND_TITLE,1.0,O,%1$ Method with %2$ Trend,SASHELP.FSP.OK.SLIST
+6030.0,IN_GENERAL_HELP,1.0,O,General Help,SASHELP.FSP.OK.SLIST
+6031.0,IN_ADDMTH_NAME_ADD,1.0,O,SAS/EIS: Add,SASHELP.FSP.OK.SLIST
+6032.0,IN_ADDMTH_NAME_EDIT,1.0,O,SAS/EIS: Edit,SASHELP.FSP.OK.SLIST
+6033.0,DI_CBTFRAME_NOT_VALID,1.0,E,%lMust be a number or valid SAS name.,SASHELP.FSP.OK.SLIST
+6034.0,IN_DBLCLICK_TEXT_LABEL,1.0,O,Double Click,SASHELP.FSP.OK.SLIST
+6035.0,IN_POPMENU_TEXT_LABEL,1.0,O,Popmenu,SASHELP.FSP.OK.SLIST
+6036.0,IN_METHOD_TEXT_LABEL,1.0,O,Method:,SASHELP.FSP.OK.SLIST
+6037.0,IN_WNAME_BUILD_EIS,1.0,O,SAS/EIS: Build EIS,SASHELP.FSP.OK.SLIST
+6038.0,IO_APPL_NOT_REPLACED,1.0,W,%LThe application cannot be replaced.,SASHELP.FSP.OK.SLIST
+6039.0,IN_ENTRY_TEXT_LABEL,1.0,O,Entry:,SASHELP.FSP.OK.SLIST
+6040.0,IN_ALREADY_EXISTS_TEXT,1.0,O,already exists.,SASHELP.FSP.OK.SLIST
+6041.0,IN_OK_OR_CANCEL_TEXT,1.0,O,Use OK to replace/rename or Cancel to quit.,SASHELP.FSP.OK.SLIST
+6045.0,IN_FORECAST_STARTUP,1.0,O,Initializing Forecasting System,SASHELP.FSP.OK.SLIST
+6046.0,IN_LOG_TRANSFORM,1.0,O,Adjusted for Log Transformation,SASHELP.FSP.OK.SLIST
+6047.0,IN_LINE_OPTS_WNAME,1.0,O,SAS/EIS: Line Options,SASHELP.FSP.OK.SLIST
+6048.0,IO_INVALID_STYLE,1.0,E,%LInvalid style specified.,SASHELP.FSP.OK.SLIST
+6049.0,IO_INVALID_SYMBOL,1.0,E,%LInvalid symbol specified.,SASHELP.FSP.OK.SLIST
+6050.0,IN_SYMBOL_OPTS_WNAME,1.0,O,SAS/EIS: Symbol Options,SASHELP.FSP.OK.SLIST
+6051.0,CL_HOTGRAPH_POPMENU,1.0,L,"Show Hotspots,Hide Hotspots,Notes,Print,Save as",SASHELP.FSP.OK.SLIST
+6052.0,IN_FIT_METHOD_TEXT,1.0,O,FIT method:,SASHELP.FSP.OK.SLIST
+6053.0,IN_INTERVAL_TEXT,1.0,O,Interval:,SASHELP.FSP.OK.SLIST
+6055.0,IN_NO_HOTSPOTS_AVAIL,1.0,N,%LNo hotspots available.,SASHELP.FSP.OK.SLIST
+6056.0,IN_NO_NOTES,1.0,N,%LThere are no notes for this application.,SASHELP.FSP.OK.SLIST
+6057.0,IO_GRAPH_NOTEXIST,1.0,E,%LThe specified graph %1$ does not exist.,SASHELP.FSP.OK.SLIST
+6058.0,IN_DATASET_FORCHART_NOTAVAILABLE,1.0,E,%lThe dataset to be charted is not available.,SASHELP.FSP.OK.SLIST
+6059.0,IN_CHART_NOT_COMPLETE,1.0,E,%lThe chart could not be completed.,SASHELP.FSP.OK.SLIST
+6060.0,IN_NO_ATTRENTRY_SPEC,1.0,O,No user attribute entry specified.,SASHELP.FSP.OK.SLIST
+6063.0,IN_GRAPH_SW_REQD,1.0,E,%LYou cannot perform this task without SAS/GRAPH software. Call your SAS Software Representative for more information.,SASHELP.FSP.OK.SLIST
+6064.0,CL_RUNCHART_OPTIONS,1.0,L,"Statistical options...,Type of chart...,Hierarchy...,Color customization...,Axis options...,Pie rotation...",
+6067.0,IN_DATASET_FORPLOT_NOTAVAILABLE,1.0,E,%lThe dataset to be plotted is not available.,SASHELP.FSP.OK.SLIST
+6068.0,IN_PLOT_NOT_COMPLETE,1.0,E,%lThe plot could not be completed.,SASHELP.FSP.OK.SLIST
+6069.0,IN_VAR_NO_CLASS,1.0,E,%lThere are no variables registered with the CLASS attribute,SASHELP.FSP.OK.SLIST
+6071.0,IN_WNAME_OBJECT_MANAGER,1.0,N,SAS/EIS: Object Manager,SASHELP.FSP.OK.SLIST
+6072.0,IN_DETAIL_SAVEAS_WNAME,1.0,O,Show Detail Save As,SASHELP.FSP.OK.SLIST
+6073.0,IN_SAVEAS_WNAME,1.0,O,Save As,SASHELP.FSP.OK.SLIST
+6075.0,CL_NEWOBJ_CMDLIST,1.0,L,"Description to appear in list,Create/updatemethod,Execute method,Display init method,Selection program,Help for object,Command Menu,Icon number,CBT Frame,Use in Application Screen Builder?",SASHELP.FSP.OK.SLIST
+6078.0,DI_NO_MODEL_REPLACE_PROJECT,1.0,W,No forecasting model in project.  Project file will be replaced.,SASHELP.FSP.OK.SLIST
+6079.0,DI_NO_MODEL_UPDATE_PROJECT,1.0,W,No forecasting model in project.  Project file,SASHELP.FSP.OK.SLIST
+6079.0,DI_NO_MODEL_UPDATE_PROJECT,2.0,W,will be updated.,SASHELP.FSP.OK.SLIST
+6080.0,IN_TERMINATE_FORECAST_TASK,1.0,W,You must terminate the forecast task first.,SASHELP.FSP.OK.SLIST
+6081.0,DI_CORRECT_PROJECT_NAME,1.0,E,You must correct the project name first.,SASHELP.FSP.OK.SLIST
+6082.0,DI_PROJECT_NAME_REQUIRED,1.0,E,Project name is required.,SASHELP.FSP.OK.SLIST
+6083.0,DI_NO_FORECASTING_MODEL,1.0,W,No forecasting model has been fit.,SASHELP.FSP.OK.SLIST
+6084.0,IN_MODOPT_TITLE,1.0,O,EIS - Forecasting Model Fitting,SASHELP.FSP.OK.SLIST
+6085.0,IN_BLDUNIF_TITLE,1.0,O,EIS - Univariate Forecasting Object,SASHELP.FSP.OK.SLIST
+6090.0,IN_OP_SUBSETS,1.0,O,Subset Options,SASHELP.FSP.OK.SLIST
+6091.0,IN_EXCEL_LABEL,1.0,O,Excel Spreadsheet,SASHELP.FSP.OK.SLIST
+6094.0,IN_INSIGHT_LABEL,1.0,O,Insight Application,SASHELP.FSP.OK.SLIST
+6114.0,DI_LABEL_MUST_BE_SPECIFIED,1.0,E,%lA tab label must be specified.  Please enter one or,SASHELP.FSP.OK.SLIST
+6114.0,DI_LABEL_MUST_BE_SPECIFIED,2.0,E,press Reset or Cancel.,SASHELP.FSP.OK.SLIST
+6115.0,DI_MODEL_MUST_BE_SPECIFIED,1.0,E,%lA model for the tab must be specified.  Please enter one or,SASHELP.FSP.OK.SLIST
+6115.0,DI_MODEL_MUST_BE_SPECIFIED,2.0,E,press Reset or Cancel.,SASHELP.FSP.OK.SLIST
+6116.0,DI_COMPOSIT_MUST_BE_SPECIFIED,1.0,E,%lA composite for the tab must be specified.  Please enter one or,SASHELP.FSP.OK.SLIST
+6116.0,DI_COMPOSIT_MUST_BE_SPECIFIED,2.0,E,press Reset or cancel.,SASHELP.FSP.OK.SLIST
+6135.0,DI_NO_SAVEAS_FORMATS,1.0,E,%lThere are no valid formats to save to.,SASHELP.FSP.OK.SLIST
+6200.0,IN_REPLACE_STATISTICS,1.0,W,%lThe following statistics were not available for %1$:,SASHELP.FSP.OK.SLIST
+6200.0,IN_REPLACE_STATISTICS,2.0,W,%2$.  These statistics were used instead: %3$.,SASHELP.FSP.OK.SLIST
+6201.0,IO_ACTIONNAME_REQUIRED,1.0,E,%lAn action name is required. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+6206.0,IO_METHODNAME_REQUIRED,1.0,E,%lA method name is required. Specify one or press Cancel to quit.,SASHELP.FSP.OK.SLIST
+6242.0,IN_METABASE_UPDATED,1.0,W,The metadata for %1$ in repository %2$ has been modified.,SASHELP.FSP.OK.SLIST
+6242.0,IN_METABASE_UPDATED,2.0,W,%nYou have existing reports using the metadata as previously defined.,SASHELP.FSP.OK.SLIST
+6242.0,IN_METABASE_UPDATED,3.0,W,Please shut down all reports using this registration and restart.,SASHELP.FSP.OK.SLIST
+6242.0,IN_METABASE_UPDATED,4.0,W,%nYou may encounter errors if you continue.,SASHELP.FSP.OK.SLIST
+6249.0,IO_INVALID_FORECAST_PERIOD,1.0,E,%lInvalid forecast period specified. Valid value,SASHELP.FSP.OK.SLIST
+6249.0,IO_INVALID_FORECAST_PERIOD,2.0,E,is a positive integer.,SASHELP.FSP.OK.SLIST
+6279.0,IO_TIME_INTERVAL_TEXT,1.0,O,(Time interval is,SASHELP.FSP.OK.SLIST
+6282.0,IO_RESET_SELECTED,1.0,O,Reset Selected to Defaults,SASHELP.FSP.OK.SLIST
+6286.0,IO_MULTIPLE_FONT,1.0,O,<Multiple Fonts>,SASHELP.FSP.OK.SLIST
+6287.0,IO_MULTIPLE_FORMATS,1.0,O,<Multiple Formats>,SASHELP.FSP.OK.SLIST
+6288.0,IO_SUBSET_TEXT,1.0,O,Subset,SASHELP.FSP.OK.SLIST
+6289.0,IO_ONLY_POS_INTEGER,1.0,E,%LOnly positive integer allowed,SASHELP.FSP.OK.SLIST
+6297.0,IN_OF_TEXT,1.0,O,%1$ of %2$,SASHELP.FSP.OK.SLIST
+6298.0,IN_DATE_TEXT,1.0,O,Date,SASHELP.FSP.OK.SLIST
+6299.0,IN_NONE_LABEL,1.0,O,NONE,SASHELP.FSP.OK.SLIST
+6315.0,CL_SUMMARY_DS_FLAG,1.0,O,"( Summarized ),( Non-Summarized )",SASHELP.FSP.OK.SLIST
+6316.0,CL_SELECT_LABELS,1.0,O,"Select All, Select All Category, Select All Analysis, Reset Selected to Defaults",SASHELP.FSP.OK.SLIST
+6317.0,CL_FORECAST_LEGEND,1.0,O,"Actual, Predicted, Lower Confidence Limit, Upper Confidence Limit, Actual&Predicted",SASHELP.FSP.OK.SLIST
+6319.0,CL_SAMPLE,1.0,O,Sample,SASHELP.FSP.OK.SLIST
+6326.0,IN_GRPBAR_TEMPLATE_TITLE,1.0,O,Grouped Bar Chart Printing Template,SASHELP.FSP.OK.SLIST
+6329.0,CL_VIEWOPT_TITLE_TEXT,1.0,L,"Rotation,Tilt,Zoom",SASHELP.FSP.OK.SLIST
+6330.0,IO_CANNOT_REPLACE,1.0,W,The application cannot be replaced.,SASHELP.FSP.OK.SLIST
+6349.0,IN_DESKTOP_DESC,1.0,N,Graphics menu builder,SASHELP.FSP.OK.SLIST
+6350.0,IO_RISIDUALS,1.0,O,Residuals,SASHELP.FSP.OK.SLIST
+6351.0,IN_CSF_DESC,1.0,N,Critical success factors,SASHELP.FSP.OK.SLIST
+6419.0,IN_TEXT_PROVIDED,1.0,O,Text must be provided.,SASHELP.FSP.OK.SLIST
+6420.0,IN_SELECT_A_FONT,1.0,O,Select a font,SASHELP.FSP.OK.SLIST
+6421.0,DI_NO_OBJ_ATTRS,1.0,E,%lThe custom attributes for a SAS/EIS viewer are only available,SASHELP.FSP.OK.SLIST
+6421.0,DI_NO_OBJ_ATTRS,2.0,E,while editing the viewer within an Application Screen Builder,SASHELP.FSP.OK.SLIST
+6421.0,DI_NO_OBJ_ATTRS,3.0,E,or a Graphics Menu Builder.,SASHELP.FSP.OK.SLIST
+6422.0,CL_FILETYPE_LABELS,1.0,L,"Catalog:, Filename:, Fileref:",SASHELP.FSP.OK.SLIST
+6423.0,CL_TEXT_ATTRS2,1.0,L,"Highlight, Underline, Blinking, Reverse, Hirev, None",SASHELP.FSP.OK.SLIST
+6424.0,IN_OF,1.0,O,%1$ of %2$,SASHELP.FSP.OK.SLIST
+6425.0,IN_PREVIEW_NOTES,1.0,O,Notes,SASHELP.FSP.OK.SLIST
+6431.0,IN_ACTIVE_WORKSHEET,1.0,O,Active worksheet,SASHELP.FSP.OK.SLIST
+6432.0,IN_DIM_IMAGE_APPEARANCE,1.0,O,Image Control Appearance,SASHELP.FSP.OK.SLIST
+6433.0,IN_DIM_CONTROLS_APPEARANCE,1.0,O,Controls Appearance,SASHELP.FSP.OK.SLIST
+6434.0,IN_DIM_TEXT_APPEARANCE,1.0,O,Text Appearance,SASHELP.FSP.OK.SLIST
+6435.0,IN_DIM_NAV_PATH_DISPLAY,1.0,O,Navigation Path Display,SASHELP.FSP.OK.SLIST
+6436.0,IN_DIM_TITLE_APPEARANCE,1.0,O,Title Appearance,SASHELP.FSP.OK.SLIST
+6437.0,IN_DIM_LISTBOX_APPEARANCE,1.0,O,Listbox Appearance,SASHELP.FSP.OK.SLIST
+6438.0,CL_CSF_RUN_POPMENU,1.0,L,"Change Variable..., Change Statistic..., CSF Options...",SASHELP.FSP.OK.SLIST
+6440.0,CL_POPULATE_OPTIONS,1.0,O,"Most Paths Covered,Use Minimal Disk,Best Performance",SASHELP.FSP.OK.SLIST
+6456.0,CL_DIM_OPTS_ORG,1.0,L,"Appearance, Set Tree View Appearance",SASHELP.FSP.OK.SLIST
+6457.0,CL_DIM_OPTS_ORG1,1.0,L,"Behavior, Set Tree View Behavior",
+6458.0,CL_DIM_NODE_TYPES,1.0,L,"Dimension Name, Dimensional Level, Active Dimensional Level, Dimensional Level Values",SASHELP.FSP.OK.SLIST
+6585.0,IN_TABLE_TEXT,1.0,O,Table,SASHELP.FSP.OK.SLIST
+6610.0,IO_V7MDDB,1.0,E,MDDB %$ was created with SAS Release 7.01 and cannot be,SASHELP.FSP.OK.SLIST
+6610.0,IO_V7MDDB,2.0,E,used by SAS Version 8. The MDDB needs to be recreated.,SASHELP.FSP.OK.SLIST
+6619.0,IO_USER_SPECIFIED_MAKER,1.0,E,%LA user marker style catalog entry or external file specification is required for this type of marker style. Either enter a catalog entry or external file to use for the marker or specify another,SASHELP.FSP.OK.SLIST
+6619.0,IO_USER_SPECIFIED_MAKER,2.0,E,marker style.,SASHELP.FSP.OK.SLIST
+6621.0,DI_CANNOT_READ_HOLAP,1.0,E,%lThe HOLAP attribute information could not be read.,SASHELP.FSP.OK.SLIST
+6810.0,IN_CLEAR_PROBLEM_SUBSET,1.0,O,Clear subset causing problem to display graph again.,SASHELP.FSP.OK.SLIST
+6833.0,IO_NO_EDIT_BUILD,1.0,N,"You must have write access to the application database, %1$, in order to display the build window for this EIS application.",SASHELP.FSP.OK.SLIST
+6834.0,IO_EISAPPL_NOT_INSTANCED,1.0,E,"A problem was encountered while attempting to add the EIS application, %1$ to the frame. You may need to increase the size of the region.",SASHELP.FSP.OK.SLIST
+6889.0,CL_MULT_SELS_DESC,1.0,L,"< Multiple columns >, < Multiple fonts >, < Multiple labels >, < Multiple colors >",SASHELP.FSP.OK.SLIST
+6890.0,CL_NUNIQUE_VALUES,1.0,O,Distinct Values (NUNIQUE)...,SASHELP.FSP.OK.SLIST
+6900.0,DI_NOT_SCLC_DATASET,1.0,E,%1%$ is not an SCL Coverage Analyzer data set.,SASHELP.FSP.OK.SLIST
+6901.0,IN_ONOT_AVAILABLE,1.0,N,%$ not available at this time.,SASHELP.FSP.OK.SLIST
+6902.0,IO_TXT_FOUND,1.0,N,%$ found.,SASHELP.FSP.OK.SLIST
+6903.0,IO_TEXT_NOTFOUND,1.0,N,%$ not found.,SASHELP.FSP.OK.SLIST
+6904.0,IO_TXT_FOUNDLINE,1.0,N,%$ found at line %2#.,SASHELP.FSP.OK.SLIST
+6908.0,IN_STATS_SAVED_TO_DS,1.0,N,Currently displayed statistics of fit information saved to dataset WORK.OUTSTATS.,SASHELP.FSP.OK.SLIST
+6961.0,IO_NUNIQUE_ANALYSIS,1.0,E,NUNIQUE columns can only be compared to other NUNIQUE columns.,SASHELP.FSP.OK.SLIST
+6963.0,CL_PLOT_WORD,1.0,O,PLOT,SASHELP.FSP.OK.SLIST
+6972.0,IO_NUNIQUE_CONFLICT,1.0,Q,The non-registered nunique column(s):%n%$%nconflict with Metabase registrations.  The Metabase registrations will be used.%nSave the non-registered customizations?,SASHELP.FSP.YN.SLIST
+6974.0,IO_N_EQUALS,1.0,O,N=,SASHELP.FSP.OK.SLIST
+6982.0,CL_FORE_METHODS,1.0,O,"STEPAR,EXPO,WINTERS",SASHELP.FSP.OK.SLIST
+6983.0,CL_FORE_TRENDS,1.0,O,"Constant, Linear, Quadratic",SASHELP.FSP.OK.SLIST
+7046.0,IO_NO_PLOTS_SELECTED,1.0,E,"%LNo plot lines selected.  Select at least one plot,",SASHELP.FSP.OK.SLIST
+7046.0,IO_NO_PLOTS_SELECTED,2.0,E,"or select Clear to remove all Forecast Plot selections,",SASHELP.FSP.OK.SLIST
+7046.0,IO_NO_PLOTS_SELECTED,3.0,E,or select Cancel to quit.,SASHELP.FSP.OK.SLIST
+7088.0,CL_APPL_PATH,1.0,L,"Application Database, Path",SASHELP.FSP.OK.SLIST
+7089.0,IN_OP_BAR_DEFAULT,1.0,O,Default,SASHELP.FSP.OK.SLIST
+7099.0,CL_CONFID_LIMIT_TEXT,1.0,O,Confidence Limit,SASHELP.FSP.OK.SLIST
+7100.0,CL_PLOT_LINE_ONE_TEXT,1.0,O,Plot Line 1,SASHELP.FSP.OK.SLIST
+7101.0,CL_PLOT_LINE_TWO_TEXT,1.0,O,Plot Line 2,SASHELP.FSP.OK.SLIST
+7102.0,CL_PLOT_LINE_THREE_TEXT,1.0,O,Plot Line 3,SASHELP.FSP.OK.SLIST
+7103.0,CL_PLOT_LINE_FOUR_TEXT,1.0,O,Plot Line 4,SASHELP.FSP.OK.SLIST
+7104.0,CL_BACKGROUND_TEXT,1.0,O,Background,SASHELP.FSP.OK.SLIST
+7230.0,IN_DISPLAY_FORMAT_INVALID,1.0,W,"%lThe display format, %1$, does not exist.  The display format will be ignored.",SASHELP.FSP.OK.SLIST
+7356.0,IN_NO_UNFMT_VALUES,1.0,W,%LUnformatted values are not available for class %1$.  The,SASHELP.FSP.OK.SLIST
+7356.0,IN_NO_UNFMT_VALUES,2.0,W,requested sort will not be applied.,SASHELP.FSP.OK.SLIST
+7359.0,IN_BUSREF_LINE,1.0,O,Reference line %1$ of %2$,SASHELP.FSP.OK.SLIST
+7698.0,CL_CUSTOM_TEXT,1.0,O,Custom,SASHELP.FSP.OK.SLIST

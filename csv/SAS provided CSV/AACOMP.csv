@@ -1,0 +1,2021 @@
+locale,key,lineno,text
+en,MODEL_ASE_VLABEL,1.0,Average Squared Error
+en,MODEL_CCUT_VLABEL,1.0,Classification Cutoff
+en,MODEL_CODEDEPENDENCY_ERROR,1.0,Unable to determine the code variable dependencies.
+en,MODEL_CORRECTRATE_VLABEL,1.0,Overall Precision Rate
+en,MODEL_CRCUT_VLABEL,1.0,CR Cutoff
+en,MODEL_CRDEPTH_VLABEL,1.0,CR Sample Depth
+en,MODEL_CREATEINTERMEDIATEFILE_ERROR,1.0,Intermediate file creation failed.
+en,MODEL_CR_VLABEL,1.0,Maximum Classification Rate (CR)
+en,MODEL_CUMEVENTCOUNT_VLABEL,1.0,Cumulative Event Count
+en,MODEL_CUMLIFT_VLABEL,1.0,Cumulative Lift
+en,MODEL_CUMNOBS_VLABEL,1.0,Cumulative Number of Observations
+en,MODEL_CUMNONEVENTCOUNT_VLABEL,1.0,Cumulative Nonevent Count
+en,MODEL_CUMPCTEVENT_VLABEL,1.0,Cumulative Percentage of Events
+en,MODEL_CUMPCTNONEVENT_VLABEL,1.0,Cumulative Percentage of Nonevents
+en,MODEL_CUMPREDCOUNT_VLABEL,1.0,Cumulative Predicted Count
+en,MODEL_CVP_VLABEL,1.0,Coefficient Variation of Prediction
+en,MODEL_C_EVENT_PCT_VLABEL,1.0,Cumulative Percentage of Events
+en,MODEL_C_GAIN_VLABEL,1.0,Cumulative Gain
+en,MODEL_C_LIFT_VLABEL,1.0,Cumulative Lift
+en,MODEL_DATAROLE_VLABEL,1.0,Data Role
+en,MODEL_DEPENDENCYDATAERROR_ERROR,1.0,Unable to open dependency data.
+en,MODEL_DEPTH_C_EVENT_PCT_VLABEL,1.0,Cumulative Percentage of Events (%s)
+en,MODEL_DEPTH_C_GAIN_VLABEL,1.0,Cumulative Gain (%s)
+en,MODEL_DEPTH_C_LIFT_VLABEL,1.0,Cumulative Lift (%s)
+en,MODEL_DEPTH_GAIN_VLABEL,1.0,Gain (%s)
+en,MODEL_DEPTH_LIFT_VLABEL,1.0,Lift (%s)
+en,MODEL_DEPTH_TCEVENTPCT_VLABEL,1.0,Train: Cumulative Percentage of Events (%s)
+en,MODEL_DEPTH_TCGAIN_VLABEL,1.0,Train: Cumulative Gain (%s)
+en,MODEL_DEPTH_TCLIFT_VLABEL,1.0,Train: Cumulative Lift (%s)
+en,MODEL_DEPTH_TGAIN_VLABEL,1.0,Train: Gain (%s)
+en,MODEL_DEPTH_TLIFT_VLABEL,1.0,Train: Lift (%s)
+en,MODEL_DEPTH_VCEVENTPCT_VLABEL,1.0,Valid: Cumulative Percentage of Events (%s)
+en,MODEL_DEPTH_VCGAIN_VLABEL,1.0,Valid: Cumulative Gain (%s)
+en,MODEL_DEPTH_VCLIFT_VLABEL,1.0,Valid: Cumulative Lift (%s)
+en,MODEL_DEPTH_VGAIN_VLABEL,1.0,Valid: Gain (%s)
+en,MODEL_DEPTH_VLABEL,1.0,Depth
+en,MODEL_DEPTH_VLIFT_VLABEL,1.0,Valid: Lift (%s)
+en,MODEL_DIV_VLABEL,1.0,Divisor for ASE
+en,MODEL_ERRORRATE_VLABEL,1.0,Error Rate
+en,MODEL_EVENTCOUNT_VLABEL,1.0,Event Count
+en,MODEL_EVENTMISS_VLABEL,1.0,Event with Predicted Missing
+en,MODEL_EVENTRATE_VLABEL,1.0,Event Precision Rate
+en,MODEL_EVENTTOCOUNT_NOTE,1.0,Event %s will be counted.
+en,MODEL_FREQVARNOTFOUND_ERROR,1.0,Frequency variable %s not found in the data.
+en,MODEL_GAIN_VLABEL,1.0,Gain
+en,MODEL_INCONSISTENTITEMSTORE_ERROR,1.0,Itemstore is not consistent. Some class variable (s) are not found in the VariableInfo table.
+en,MODEL_INPUTVARIABLEXML_ERROR,1.0,Writing input variable xml failed.
+en,MODEL_INVALIDNUMBINS_ERROR,1.0,"Invalid number of bins, must be number be greater or equal to 2."
+en,MODEL_ITEMSTOREINFONOTFOUND_ERROR,1.0,Itemstore information does not exist.
+en,MODEL_ITEMSTORENOPROGRAM_WARNING,1.0,Itemstore does not contain the training program.
+en,MODEL_ITEMSTORENOTFOUND_ERROR,1.0,"Itemstore, %s, does not exist."
+en,MODEL_KSCUT_VLABEL,1.0,KS Cutoff
+en,MODEL_KSDEPTH_VLABEL,1.0,KS Sample Depth
+en,MODEL_KSREF_VLABEL,1.0,KS Reference Line
+en,MODEL_KSR_VLABEL,1.0,Maximum Separation
+en,MODEL_KS_VLABEL,1.0,Kolmogorov-Smirnov (KS)
+en,MODEL_LIFT_VLABEL,1.0,Lift
+en,MODEL_LOADINGEVAL_NOTE,1.0,Loading the aa_model_eval macro
+en,MODEL_LOADINGREGISTER_NOTE,1.0,Loading the aa_model_register macro
+en,MODEL_MCUT_VLABEL,1.0,Median Event Detection Cutoff
+en,MODEL_MDEPTH_VLABEL,1.0,Median EventDetection Depth
+en,MODEL_MEANP_VLABEL,1.0,Mean Prediction
+en,MODEL_MINEQUALMAX_WARNING,1.0,Minimum equals Maximum.  The FUZZ option will be enabled. (%s)
+en,MODEL_MISC_VLABEL,1.0,Misclassification Rate
+en,MODEL_NOACTION_ERROR,1.0,No action taken since request for spk and registration are both set to N.
+en,MODEL_NOBS_VLABEL,1.0,Number of Observations
+en,MODEL_NODATA_ERROR,1.0,"Data set, %s, is not available."
+en,MODEL_NODEPENDECYVARIABLES_NOTE,1.0,No variable dependencies found in code.
+en,MODEL_NOINPUTMETADATA_ERROR,1.0,Cannot generate metadata for the input variables.
+en,MODEL_NOMODELNAME_NOTE,1.0,Model name was not specified.  The default name %s will be used.
+en,MODEL_NONEVENTCOUNT_VLABEL,1.0,Nonevent Count
+en,MODEL_NONEVENTRATE_VLABEL,1.0,Nonevent Precision Rate
+en,MODEL_NOOUTPUTVAR_ERROR,1.0,No output variable defined.
+en,MODEL_NOSCORECODEFILE_ERROR,1.0,No score code file specified.
+en,MODEL_NOSPKFOLDERNAME_ERROR,1.0,SPK Folder name is not specified.
+en,MODEL_NOTARGETEVENT_ERROR,1.0,No target event defined.
+en,MODEL_NOTARGETLEVEL_ERROR,1.0,No measurement level for the target variable defined.
+en,MODEL_NOTARGET_ERROR,1.0,No target variable defined.
+en,MODEL_NUMBINS_VLABEL,1.0,Number of Bins
+en,MODEL_ONEMINUSSPECIFICITY_VLABEL,1.0,1 - Specificity
+en,MODEL_OUTPUTVARIABLEXML_ERROR,1.0,Writing output variable xml failed.
+en,MODEL_OUTPUTVAR_VLABEL,1.0,Output Variable
+en,MODEL_PCTEVENT_VLABEL,1.0,Percentage of Events
+en,MODEL_PCTNONEVENT_VLABEL,1.0,Percentage of Nonevents
+en,MODEL_PMMLFILENOTFOUND_ERROR,1.0,"Specified pmml file, %s, does not exist."
+en,MODEL_PREDCOUNT_VLABEL,1.0,Predicted Count
+en,MODEL_PREDICTCUT_VLABEL,1.0,Prediction at Cutoff %s
+en,MODEL_PREDICTEDBINMEAN_VLABEL,1.0,Predicted Bin Mean
+en,MODEL_PREDICTEDMAX_VLABEL,1.0,Predicted Max
+en,MODEL_PREDICTEDMIN_VLABEL,1.0,Predicted Min
+en,MODEL_PREDICTIONATCUTOFF_VLABEL,1.0,Prediction at Cutoff %s
+en,MODEL_PREDMISS_VLABEL,1.0,Predicted Missing
+en,MODEL_RANKINGVARNOTFOUND_ERROR,1.0,Ranking variable %s not found in the data.
+en,MODEL_RASE_VLABEL,1.0,Root Average Squared Error
+en,MODEL_REPOSITORYNOTFOUND_ERROR,1.0,"Repository folder, %s, does not exist."
+en,MODEL_RESIDUALBINMEAN_VLABEL,1.0,Residual Bin Mean
+en,MODEL_RESIDUALMAX_VLABEL,1.0,Residual Max
+en,MODEL_RESIDUALMIN_VLABEL,1.0,Residual Min
+en,MODEL_RESIDUALSQUAREDBINMEAN_VLABEL,1.0,Residual Squared Bin Mean
+en,MODEL_SCORECODEFILENOTFOUND_ERROR,1.0,"Score code file, %s, does not exist."
+en,MODEL_SEGMENTVARNOTFOUND_ERROR,1.0,Segment variable %s not found in the data.
+en,MODEL_SENSITIVITY_VLABEL,1.0,Sensitivity
+en,MODEL_SEPARATIONKS_VLABEL,1.0,Separation - KS
+en,MODEL_SPECIFICITY_VLABEL,1.0,Specificity
+en,MODEL_SSE_VLABEL,1.0,Sum of Squared Errors
+en,MODEL_STDP_VLABEL,1.0,Prediction Std Deviation
+en,MODEL_SUMMARIZEEVENT_NOTE,1.0,Detect event %#1s for variable %#2s.
+en,MODEL_SUMMARIZENOEVENT_NOTE,1.0,No event provided.
+en,MODEL_SUMMARIZE_NOTE,1.0,"Variable %#1s will be summarized over the interval ( %#2s, %#3s)"
+en,MODEL_TARGETBINMEAN_VLABEL,1.0,Target Bin Mean
+en,MODEL_TARGETCOUNT_VLABEL,1.0,Target Count
+en,MODEL_TARGETEVENT_VLABEL,1.0,Target Event
+en,MODEL_TARGETLEVEL_VLABEL,1.0,Target Level
+en,MODEL_TARGETMAX_VLABEL,1.0,Target Max
+en,MODEL_TARGETMIN_VLABEL,1.0,Target Min
+en,MODEL_TARGETMISS_VLABEL,1.0,Target Missing
+en,MODEL_TARGETVALUE_VLABEL,1.0,Target Value
+en,MODEL_TARGETVARNOTFOUND_ERROR,1.0,Target variable %s not found in the data.
+en,MODEL_TARGET_VLABEL,1.0,Target Variable
+en,MODEL_TCCUT_VLABEL,1.0,Train: Classification Cutoff
+en,MODEL_TCEVENTPCT_VLABEL,1.0,Train:  Cumulative Percentage of Events
+en,MODEL_TCGAIN_VLABEL,1.0,Train: Cumulative Gain
+en,MODEL_TCLIFT_VLABEL,1.0,Train: Cumulative Lift
+en,MODEL_TCORRECTRATE_VLABEL,1.0,Train: Overall Precision Rate
+en,MODEL_TCRCUT_VLABEL,1.0,Train: CR Cutoff
+en,MODEL_TCRDEPTH_VLABEL,1.0,Train: CR Sample Depth
+en,MODEL_TCR_VLABEL,1.0,Train: Maximum Classification Rate (CR)
+en,MODEL_TDEPTH_VLABEL,1.0,Train: Depth
+en,MODEL_TERRORRATE_VLABEL,1.0,Train: Error Rate
+en,MODEL_TEVENTCOUNT_VLABEL,1.0,Train: Event Count
+en,MODEL_TEVENTMISSCOUNT_VLABEL,1.0,Train: Event with Predicted Missing
+en,MODEL_TEVENTRATE_VLABEL,1.0,Train: Event Precision Rate
+en,MODEL_TGAIN_VLABEL,1.0,Train: Gain
+en,MODEL_TKSCUT_VLABEL,1.0,Train: KS Cutoff
+en,MODEL_TKSDEPTH_VLABEL,1.0,Train: KS Sample Depth
+en,MODEL_TKSREF_VLABEL,1.0,Train: KS Reference Line
+en,MODEL_TKSR_VLABEL,1.0,Train: Maximum Separation
+en,MODEL_TKS_VLABEL,1.0,Train: Kolmogorov-Smirnov (KS)
+en,MODEL_TLIFT_VLABEL,1.0,Train: Lift
+en,MODEL_TMCUT_VLABEL,1.0,Train: Median Event Detection Cutoff
+en,MODEL_TMDEPTH_VLABEL,1.0,Train: Median EventDetection Depth
+en,MODEL_TNOBS_VLABEL,1.0,Train: Number of Observations
+en,MODEL_TNONEVENTCOUNT_VLABEL,1.0,Train: Nonevent Count
+en,MODEL_TNONEVENTRATE_VLABEL,1.0,Train: Nonevent Precision Rate
+en,MODEL_TOTALCOUNT_VLABEL,1.0,Total Count
+en,MODEL_TPREDCOUNT_VLABEL,1.0,Train: Predicted Count
+en,MODEL_TPREDICTCUT_VLABEL,1.0,Train: Prediction at Cutoff %s
+en,MODEL_TPREDMISS_VLABEL,1.0,Train: Predicted Missing
+en,MODEL_TRAINASE_VLABEL,1.0,Train: Average Squared Error
+en,MODEL_TRAINDIV_VLABEL,1.0,Train: Divisor for ASE
+en,MODEL_TRAININGFILENOTFOUND_ERROR,1.0,"Specified training file, %s, does not exist."
+en,MODEL_TRAINMISC_VLABEL,1.0,Train: Misclassification Rate
+en,MODEL_TRAINRASE_VLABEL,1.0,Train: Root Average Squared Error
+en,MODEL_TRAINSSE_VLABEL,1.0,Train: Sum of Squared Errors
+en,MODEL_TSEPARATIONKS_VLABEL,1.0,Train: Separation - KS
+en,MODEL_TTARGETCOUNT_VLABEL,1.0,Train: Target Count
+en,MODEL_TTARGETMISS_VLABEL,1.0,Train: Target Missing
+en,MODEL_TTARGETVALUE_VLABEL,1.0,Train: Target Value
+en,MODEL_TTOTALCOUNT_VLABEL,1.0,Train: Total Count
+en,MODEL_VARSNOTFOUND_ERROR,1.0,Variable(s) %#1s not in the data set %#2s.
+en,MODEL_VASE_VLABEL,1.0,valid: Average Squared Error
+en,MODEL_VCCUT_VLABEL,1.0,Valid: Classification Cutoff
+en,MODEL_VCEVENTPCT_VLABEL,1.0,Valid:  Cumulative Percentage of Events
+en,MODEL_VCGAIN_VLABEL,1.0,Valid: Cumulative Gain
+en,MODEL_VCLIFT_VLABEL,1.0,Valid: Cumulative Lift
+en,MODEL_VCORRECTRATE_VLABEL,1.0,Valid: Overall Precision Rate
+en,MODEL_VCRCUT_VLABEL,1.0,Valid: CR Cutoff
+en,MODEL_VCRDEPTH_VLABEL,1.0,Valid: CR Sample Depth
+en,MODEL_VCR_VLABEL,1.0,Valid: Maximum Classification Rate (CR)
+en,MODEL_VCVP_VLABEL,1.0,Valid: Coefficient Variation of Prediction
+en,MODEL_VDEPTH_VLABEL,1.0,Valid: Depth
+en,MODEL_VDIV_VLABEL,1.0,Valid: Divisor for ASE
+en,MODEL_VERRORRATE_VLABEL,1.0,Valid: Error Rate
+en,MODEL_VEVENTCOUNT_VLABEL,1.0,Valid: Event Count
+en,MODEL_VEVENTMISSCOUNT_VLABEL,1.0,Valid: Event with Predicted Missing
+en,MODEL_VEVENTRATE_VLABEL,1.0,Valid: Event Precision Rate
+en,MODEL_VGAIN_VLABEL,1.0,Valid: Gain
+en,MODEL_VKSCUT_VLABEL,1.0,Valid: KS Cutoff
+en,MODEL_VKSDEPTH_VLABEL,1.0,Valid: KS Sample Depth
+en,MODEL_VKSREF_VLABEL,1.0,Valid: KS Reference Line
+en,MODEL_VKSR_VLABEL,1.0,Valid: Maximum Separation
+en,MODEL_VKS_VLABEL,1.0,Valid: Kolmogorov-Smirnov (KS)
+en,MODEL_VLIFT_VLABEL,1.0,Valid: Lift
+en,MODEL_VMCUT_VLABEL,1.0,Valid: Median Event Detection Cutoff
+en,MODEL_VMDEPTH_VLABEL,1.0,Valid: Median EventDetection Depth
+en,MODEL_VMEANP_VLABEL,1.0,Valid: Mean Prediction
+en,MODEL_VMISC_VLABEL,1.0,Valid: Misclassification Rate
+en,MODEL_VNOBS_VLABEL,1.0,Valid: Number of Observations
+en,MODEL_VNONEVENTCOUNT_VLABEL,1.0,Valid: Nonevent Count
+en,MODEL_VNONEVENTRATE_VLABEL,1.0,Valid: Nonevent Precision Rate
+en,MODEL_VPREDCOUNT_VLABEL,1.0,Valid: Predicted Count
+en,MODEL_VPREDICTCUT_VLABEL,1.0,Valid: Prediction at Cutoff %s
+en,MODEL_VPREDMISS_VLABEL,1.0,Valid: Predicted Missing
+en,MODEL_VRASE_VLABEL,1.0,Valid: Root Average Squared Error
+en,MODEL_VSEPARATIONKS_VLABEL,1.0,Valid: Separation - KS
+en,MODEL_VSSE_VLABEL,1.0,Valid: Sum of Squared Errors
+en,MODEL_VSTDP_VLABEL,1.0,Valid: Prediction Std Deviation
+en,MODEL_VTARGETCOUNT_VLABEL,1.0,Valid: Target Count
+en,MODEL_VTARGETMISS_VLABEL,1.0,Valid: Target Missing
+en,MODEL_VTARGETVALUE_VLABEL,1.0,Valid: Target Value
+en,MODEL_VTOTALCOUNT_VLABEL,1.0,Valid: Total Count
+en,MODEL_WRONGVARLEVEL_ERROR,1.0,Unknown level type %#1s for variable %#2s.
+es,MODEL_ASE_VLABEL,1.0,Error cuadr\u00e1tico medio
+es,MODEL_CCUT_VLABEL,1.0,Corte de clasificaci\u00f3n
+es,MODEL_CODEDEPENDENCY_ERROR,1.0,No es posible determinar las dependencias de variable de c\u00f3digo.
+es,MODEL_CORRECTRATE_VLABEL,1.0,Tasa de precisi\u00f3n total
+es,MODEL_CRCUT_VLABEL,1.0,Cutoff CR
+es,MODEL_CRDEPTH_VLABEL,1.0,Profundidad de muestra CR
+es,MODEL_CREATEINTERMEDIATEFILE_ERROR,1.0,Fallo en la creaci\u00f3n del archivo intermedio.
+es,MODEL_CR_VLABEL,1.0,Tasa de clasificaci\u00f3n m\u00e1xima (CR)
+es,MODEL_CUMEVENTCOUNT_VLABEL,1.0,Conteo de eventos acumulado
+es,MODEL_CUMLIFT_VLABEL,1.0,Mejora acumulada
+es,MODEL_CUMNOBS_VLABEL,1.0,N\u00famero acumulado de observaciones
+es,MODEL_CUMNONEVENTCOUNT_VLABEL,1.0,Conteo acumulado de noeventos
+es,MODEL_CUMPCTEVENT_VLABEL,1.0,Porcentaje acumulado de eventos
+es,MODEL_CUMPCTNONEVENT_VLABEL,1.0,Porcentaje acumulado de noeventos
+es,MODEL_CUMPREDCOUNT_VLABEL,1.0,Conteo de predicho acumulado
+es,MODEL_CVP_VLABEL,1.0,Variaci\u00f3n de coeficiente de predicci\u00f3n
+es,MODEL_C_EVENT_PCT_VLABEL,1.0,Porcentaje acumulado de eventos
+es,MODEL_C_GAIN_VLABEL,1.0,Ganancia acumulada
+es,MODEL_C_LIFT_VLABEL,1.0,Mejora acumulada
+es,MODEL_DATAROLE_VLABEL,1.0,Rol de los datos
+es,MODEL_DEPENDENCYDATAERROR_ERROR,1.0,No es posible abrir los datos de dependencia.
+es,MODEL_DEPTH_C_EVENT_PCT_VLABEL,1.0,Porcentaje acumulado de eventos (%s)
+es,MODEL_DEPTH_C_GAIN_VLABEL,1.0,Ganancia acumulada (%s)
+es,MODEL_DEPTH_C_LIFT_VLABEL,1.0,Mejora acumulada (%s)
+es,MODEL_DEPTH_GAIN_VLABEL,1.0,Ganancia (%s)
+es,MODEL_DEPTH_LIFT_VLABEL,1.0,Mejora (%s)
+es,MODEL_DEPTH_TCEVENTPCT_VLABEL,1.0,Entrenar: Porcentaje acumulado de eventos (%s)
+es,MODEL_DEPTH_TCGAIN_VLABEL,1.0,Entrenar: Ganancia acumulada (%s)
+es,MODEL_DEPTH_TCLIFT_VLABEL,1.0,Entrenar: Mejora acumulada (%s)
+es,MODEL_DEPTH_TGAIN_VLABEL,1.0,Entrenar: Ganancia (%s)
+es,MODEL_DEPTH_TLIFT_VLABEL,1.0,Entrenar: Mejora (%s)
+es,MODEL_DEPTH_VCEVENTPCT_VLABEL,1.0,Validar: Porcentaje acumulado de eventos (%s)
+es,MODEL_DEPTH_VCGAIN_VLABEL,1.0,Validar: Ganancia acumulada (%s)
+es,MODEL_DEPTH_VCLIFT_VLABEL,1.0,Validar: Mejora acumulada (%s)
+es,MODEL_DEPTH_VGAIN_VLABEL,1.0,Validar: Ganancia (%s)
+es,MODEL_DEPTH_VLABEL,1.0,Profundidad
+es,MODEL_DEPTH_VLIFT_VLABEL,1.0,Validar: Mejora (%s)
+es,MODEL_DIV_VLABEL,1.0,Divisor para ASE
+es,MODEL_ERRORRATE_VLABEL,1.0,Tasa de error
+es,MODEL_EVENTCOUNT_VLABEL,1.0,Conteo de eventos
+es,MODEL_EVENTMISS_VLABEL,1.0,Evento con predichos ausentes
+es,MODEL_EVENTRATE_VLABEL,1.0,Tasa de precisi\u00f3n de evento
+es,MODEL_EVENTTOCOUNT_NOTE,1.0,El evento %s ser\u00e1 contado.
+es,MODEL_FREQVARNOTFOUND_ERROR,1.0,Variable de frecuencia %s no encontrada en los datos.
+es,MODEL_GAIN_VLABEL,1.0,Ganancia
+es,MODEL_INCONSISTENTITEMSTORE_ERROR,1.0,Itemstore no es consistente. Algunas variables de clase no se encontraron en la tabla VariableInfo.
+es,MODEL_INPUTVARIABLEXML_ERROR,1.0,Fallo de escritura de la variable input xml.
+es,MODEL_INVALIDNUMBINS_ERROR,1.0,"N\u00famero de bins no v\u00e1lido, debe ser mayor o igual que 2."
+es,MODEL_ITEMSTOREINFONOTFOUND_ERROR,1.0,No existe la informaci\u00f3n de Itemstore.
+es,MODEL_ITEMSTORENOPROGRAM_WARNING,1.0,Itemstore no contiene el programa de entrenamiento.
+es,MODEL_ITEMSTORENOTFOUND_ERROR,1.0,"Itemstore, %s, no existe."
+es,MODEL_KSCUT_VLABEL,1.0,Corte (Cutoff) KS
+es,MODEL_KSDEPTH_VLABEL,1.0,Profundidad de muestra KS
+es,MODEL_KSREF_VLABEL,1.0,L\u00ednea de referencia KS
+es,MODEL_KSR_VLABEL,1.0,Separaci\u00f3n m\u00e1xima
+es,MODEL_KS_VLABEL,1.0,Kolmogorov-Smirnov (KS)
+es,MODEL_LIFT_VLABEL,1.0,Mejora
+es,MODEL_LOADINGEVAL_NOTE,1.0,Cargando la macro aa_model_eval
+es,MODEL_LOADINGREGISTER_NOTE,1.0,Cargando la macro aa_model_register
+es,MODEL_MCUT_VLABEL,1.0,Cutoff de detecci\u00f3n de evento mediana
+es,MODEL_MDEPTH_VLABEL,1.0,Profundidad de detecci\u00f3n de evento mediana
+es,MODEL_MEANP_VLABEL,1.0,Predicci\u00f3n media
+es,MODEL_MINEQUALMAX_WARNING,1.0,El m\u00ednimo es igual que el m\u00e1ximo. Se activar\u00e1 la opci\u00f3n FUZZ. (%s)
+es,MODEL_MISC_VLABEL,1.0,Tasa de clasificaci\u00f3n err\u00f3nea
+es,MODEL_NOACTION_ERROR,1.0,No se llev\u00f3 a cabo ninguna acci\u00f3n puesto que las solicitudes para spk y registros se han establecido como N.
+es,MODEL_NOBS_VLABEL,1.0,N\u00famero de observaciones
+es,MODEL_NODATA_ERROR,1.0,"El conjunto de datos, %s, no est\u00e1 disponible."
+es,MODEL_NODEPENDECYVARIABLES_NOTE,1.0,No se encontraron dependencias de variable en el c\u00f3digo.
+es,MODEL_NOINPUTMETADATA_ERROR,1.0,No se pueden generar los metadatos para las variables input.
+es,MODEL_NOMODELNAME_NOTE,1.0,No se especific\u00f3 el nombre del modelo. Se utilizar\u00e1 el nombre predeterminado. Se utilizar\u00e1 el nombre predeterminado %s.
+es,MODEL_NONEVENTCOUNT_VLABEL,1.0,Conteo de noeventos
+es,MODEL_NONEVENTRATE_VLABEL,1.0,Tasa de precisi\u00f3n de noevento
+es,MODEL_NOOUTPUTVAR_ERROR,1.0,No hay una variable de salida definida.
+es,MODEL_NOSCORECODEFILE_ERROR,1.0,No se especific\u00f3 un archivo de c\u00f3digo de scoring.
+es,MODEL_NOSPKFOLDERNAME_ERROR,1.0,No se ha especificado el nombre de la carpeta SPK Folder.
+es,MODEL_NOTARGETEVENT_ERROR,1.0,No hay un evento target definido.
+es,MODEL_NOTARGETLEVEL_ERROR,1.0,No hay un nivel de medida para la variable target definida.
+es,MODEL_NOTARGET_ERROR,1.0,No hay una variable target definida.
+es,MODEL_NUMBINS_VLABEL,1.0,N\u00famero de bins
+es,MODEL_ONEMINUSSPECIFICITY_VLABEL,1.0,1 - Especificidad
+es,MODEL_OUTPUTVARIABLEXML_ERROR,1.0,Fallo de escritura de variable de salida xml.
+es,MODEL_OUTPUTVAR_VLABEL,1.0,Variable de salida
+es,MODEL_PCTEVENT_VLABEL,1.0,Porcentaje de eventos
+es,MODEL_PCTNONEVENT_VLABEL,1.0,Porcentaje de noeventos
+es,MODEL_PMMLFILENOTFOUND_ERROR,1.0,"El archivo especificado pmml, %s, no existe."
+es,MODEL_PREDCOUNT_VLABEL,1.0,Conteo de predichos
+es,MODEL_PREDICTCUT_VLABEL,1.0,Predicci\u00f3n en el corte (Cutoff) %s
+es,MODEL_PREDICTEDBINMEAN_VLABEL,1.0,Media de bin predicha
+es,MODEL_PREDICTEDMAX_VLABEL,1.0,M\u00e1x. predicho
+es,MODEL_PREDICTEDMIN_VLABEL,1.0,M\u00edn. predicho
+es,MODEL_PREDICTIONATCUTOFF_VLABEL,1.0,Predicci\u00f3n en el corte (Cutoff) %s
+es,MODEL_PREDMISS_VLABEL,1.0,Falta el valor predicho
+es,MODEL_RANKINGVARNOTFOUND_ERROR,1.0,Variable de clasificaci\u00f3n %s no encontrada en los datos.
+es,MODEL_RASE_VLABEL,1.0,Error cuadr\u00e1tico medio de la ra\u00edz
+es,MODEL_REPOSITORYNOTFOUND_ERROR,1.0,"La carpeta del repositorio, %s, no existe."
+es,MODEL_RESIDUALBINMEAN_VLABEL,1.0,Media de bin residual
+es,MODEL_RESIDUALMAX_VLABEL,1.0,M\u00e1x. residual
+es,MODEL_RESIDUALMIN_VLABEL,1.0,M\u00edn. residual
+es,MODEL_RESIDUALSQUAREDBINMEAN_VLABEL,1.0,Media de bin cuadrada residual
+es,MODEL_SCORECODEFILENOTFOUND_ERROR,1.0,"El archivo de c\u00f3digo de scoring, %s, no existe."
+es,MODEL_SEGMENTVARNOTFOUND_ERROR,1.0,La variable del segmento %s no se encontr\u00f3 en los datos.
+es,MODEL_SENSITIVITY_VLABEL,1.0,Sensibilidad
+es,MODEL_SEPARATIONKS_VLABEL,1.0,Separaci\u00f3n - KS
+es,MODEL_SPECIFICITY_VLABEL,1.0,Especificidad
+es,MODEL_SSE_VLABEL,1.0,Suma de errores cuadr\u00e1ticos
+es,MODEL_STDP_VLABEL,1.0,Desviaci\u00f3n est\u00e1ndar de predicci\u00f3n
+es,MODEL_SUMMARIZEEVENT_NOTE,1.0,Detectar el evento %#1s para la variable %#2s.
+es,MODEL_SUMMARIZENOEVENT_NOTE,1.0,No se ha proporcionado un evento.
+es,MODEL_SUMMARIZE_NOTE,1.0,"La variable %#1s estar\u00e1 sumarizada en el intervalor ( %#2s, %#3s)"
+es,MODEL_TARGETBINMEAN_VLABEL,1.0,Media de bin de target
+es,MODEL_TARGETCOUNT_VLABEL,1.0,Conteo de target
+es,MODEL_TARGETEVENT_VLABEL,1.0,Evento objetivo
+es,MODEL_TARGETLEVEL_VLABEL,1.0,Nivel objetivo
+es,MODEL_TARGETMAX_VLABEL,1.0,M\u00e1x. de target
+es,MODEL_TARGETMIN_VLABEL,1.0,M\u00edn. de target
+es,MODEL_TARGETMISS_VLABEL,1.0,Falta el target
+es,MODEL_TARGETVALUE_VLABEL,1.0,Valor objetivo
+es,MODEL_TARGETVARNOTFOUND_ERROR,1.0,Variable target %s no encontrada en los datos.
+es,MODEL_TARGET_VLABEL,1.0,Variable target
+es,MODEL_TCCUT_VLABEL,1.0,Entrenar: Corte de clasificaci\u00f3n
+es,MODEL_TCEVENTPCT_VLABEL,1.0,Entrenar: Porcentaje acumulado de eventos
+es,MODEL_TCGAIN_VLABEL,1.0,Entrenar: Ganancia acumulada
+es,MODEL_TCLIFT_VLABEL,1.0,Entrenar: Mejora acumulada
+es,MODEL_TCORRECTRATE_VLABEL,1.0,Entrenar: Tasa de precisi\u00f3n total
+es,MODEL_TCRCUT_VLABEL,1.0,Entrenar: Corte (Cutoff) CR
+es,MODEL_TCRDEPTH_VLABEL,1.0,Entrenar: Profundidad de muestra CR
+es,MODEL_TCR_VLABEL,1.0,Entrenar: Tasa de clasificaci\u00f3n m\u00e1xima (CR)
+es,MODEL_TDEPTH_VLABEL,1.0,Entrenar: Profundidad
+es,MODEL_TERRORRATE_VLABEL,1.0,Entrenar: Tasa de error
+es,MODEL_TEVENTCOUNT_VLABEL,1.0,Entrenar: Conteo de eventos
+es,MODEL_TEVENTMISSCOUNT_VLABEL,1.0,Entrenar: Evento con valores predichos ausentes
+es,MODEL_TEVENTRATE_VLABEL,1.0,Entrenar: Tasa de precisi\u00f3n de eventos
+es,MODEL_TGAIN_VLABEL,1.0,Entrenar: Ganancia
+es,MODEL_TKSCUT_VLABEL,1.0,Entrenar: Cutoff KS
+es,MODEL_TKSDEPTH_VLABEL,1.0,Entrenar: Profundidad de muestra KS
+es,MODEL_TKSREF_VLABEL,1.0,Entrenar: L\u00ednea de referencia KS
+es,MODEL_TKSR_VLABEL,1.0,Entrenar: Separaci\u00f3n m\u00e1xima
+es,MODEL_TKS_VLABEL,1.0,Entrenar: Kolmogorov-Smirnov (KS)
+es,MODEL_TLIFT_VLABEL,1.0,Entrenar: Mejora
+es,MODEL_TMCUT_VLABEL,1.0,Entrenar: Corte (Cutoff) de detecci\u00f3n de eventos mediana
+es,MODEL_TMDEPTH_VLABEL,1.0,Entrenar: Profundidad de detecci\u00f3n de evento mediana
+es,MODEL_TNOBS_VLABEL,1.0,Entrenar: N\u00famero de observaciones
+es,MODEL_TNONEVENTCOUNT_VLABEL,1.0,Entrenar: Conteo de noeventos
+es,MODEL_TNONEVENTRATE_VLABEL,1.0,Entrenar: Tasa de precisi\u00f3n de noeventos
+es,MODEL_TOTALCOUNT_VLABEL,1.0,Conteo total
+es,MODEL_TPREDCOUNT_VLABEL,1.0,Entrenar: Conteo de predichos
+es,MODEL_TPREDICTCUT_VLABEL,1.0,Entrenar: Predicci\u00f3n en el corte (Cutoff) %s
+es,MODEL_TPREDMISS_VLABEL,1.0,Entrenar: Valores predichos ausentes
+es,MODEL_TRAINASE_VLABEL,1.0,Entrenar: Error cuadr\u00e1tico medio
+es,MODEL_TRAINDIV_VLABEL,1.0,Entrenar: Divisor para ASE
+es,MODEL_TRAININGFILENOTFOUND_ERROR,1.0,"El archivo de entrenamiento especificado, %s, no existe."
+es,MODEL_TRAINMISC_VLABEL,1.0,Entrenar: Tasa de clasificaci\u00f3n err\u00f3nea
+es,MODEL_TRAINRASE_VLABEL,1.0,Entrenar: Error cuadr\u00e1tico medio de la ra\u00edz
+es,MODEL_TRAINSSE_VLABEL,1.0,Entrenar: Suma de errores cuadr\u00e1ticos
+es,MODEL_TSEPARATIONKS_VLABEL,1.0,Entrenar: Separaci\u00f3n - KS
+es,MODEL_TTARGETCOUNT_VLABEL,1.0,Entrenar: Conteo de targets
+es,MODEL_TTARGETMISS_VLABEL,1.0,Entrenar: Valores target ausentes
+es,MODEL_TTARGETVALUE_VLABEL,1.0,Entrenar: Valor objetivo
+es,MODEL_TTOTALCOUNT_VLABEL,1.0,Entrenar: Conteo total
+es,MODEL_VARSNOTFOUND_ERROR,1.0,Las variables %#1s no est\u00e1n en el conjunto de datos %#2s.
+es,MODEL_VASE_VLABEL,1.0,Validar: Error cuadr\u00e1tico medio
+es,MODEL_VCCUT_VLABEL,1.0,Validar: Corte de clasificaci\u00f3n
+es,MODEL_VCEVENTPCT_VLABEL,1.0,Validar: Porcentaje acumulado de eventos
+es,MODEL_VCGAIN_VLABEL,1.0,Validar: Ganancia acumulada
+es,MODEL_VCLIFT_VLABEL,1.0,Validar: Mejora acumulada
+es,MODEL_VCORRECTRATE_VLABEL,1.0,Validar: Tasa de precisi\u00f3n total
+es,MODEL_VCRCUT_VLABEL,1.0,Validar: Corte (Cutoff) CR
+es,MODEL_VCRDEPTH_VLABEL,1.0,Validar: Profundidad de muestra CR
+es,MODEL_VCR_VLABEL,1.0,Validar: Tasa de clasificaci\u00f3n m\u00e1xima (CR)
+es,MODEL_VCVP_VLABEL,1.0,Validar: Variaci\u00f3n de coeficiente de predicci\u00f3n
+es,MODEL_VDEPTH_VLABEL,1.0,Validar: Profundidad
+es,MODEL_VDIV_VLABEL,1.0,Validar: Divisor para ASE
+es,MODEL_VERRORRATE_VLABEL,1.0,Validar: Tasa de error
+es,MODEL_VEVENTCOUNT_VLABEL,1.0,Validar: Conteo de eventos
+es,MODEL_VEVENTMISSCOUNT_VLABEL,1.0,Validar: Evento con valores predichos ausentes
+es,MODEL_VEVENTRATE_VLABEL,1.0,Validar: Tasa de precisi\u00f3n de evento
+es,MODEL_VGAIN_VLABEL,1.0,Validar: Ganancia
+es,MODEL_VKSCUT_VLABEL,1.0,Validar: Corte (Cutoff) KS
+es,MODEL_VKSDEPTH_VLABEL,1.0,Validar: Profundidad de muestra KS
+es,MODEL_VKSREF_VLABEL,1.0,Validar: L\u00ednea de referencia KS
+es,MODEL_VKSR_VLABEL,1.0,Validar: Separaci\u00f3n m\u00e1xima
+es,MODEL_VKS_VLABEL,1.0,Validar: Kolmogorov-Smirnov (KS)
+es,MODEL_VLIFT_VLABEL,1.0,Validar: Mejora
+es,MODEL_VMCUT_VLABEL,1.0,Validar: Corte de detecci\u00f3n de eventos mediana
+es,MODEL_VMDEPTH_VLABEL,1.0,Validar: Profundidad de detecci\u00f3n de eventos mediana
+es,MODEL_VMEANP_VLABEL,1.0,Validar: Predicci\u00f3n de la media
+es,MODEL_VMISC_VLABEL,1.0,Validar: Tasa de clasificaci\u00f3n err\u00f3nea
+es,MODEL_VNOBS_VLABEL,1.0,Validar: N\u00famero de observaciones
+es,MODEL_VNONEVENTCOUNT_VLABEL,1.0,Validar: Conteo de noeventos
+es,MODEL_VNONEVENTRATE_VLABEL,1.0,Validar: Tasa de precisi\u00f3n de noevento
+es,MODEL_VPREDCOUNT_VLABEL,1.0,Validar: Conteo de predichos
+es,MODEL_VPREDICTCUT_VLABEL,1.0,Validar: Predicci\u00f3n en el corte (Cutoff) %s
+es,MODEL_VPREDMISS_VLABEL,1.0,Validar: Conteo de predichos
+es,MODEL_VRASE_VLABEL,1.0,Validar: Error cuadr\u00e1tico medio de la ra\u00edz
+es,MODEL_VSEPARATIONKS_VLABEL,1.0,Validar: Separaci\u00f3n - KS
+es,MODEL_VSSE_VLABEL,1.0,Validar: Suma de errores cuadr\u00e1ticos
+es,MODEL_VSTDP_VLABEL,1.0,Validar: Desv std de la predicci\u00f3n
+es,MODEL_VTARGETCOUNT_VLABEL,1.0,Validar: Conteo de target
+es,MODEL_VTARGETMISS_VLABEL,1.0,Validar: Target ausente
+es,MODEL_VTARGETVALUE_VLABEL,1.0,Validar: Valor objetivo
+es,MODEL_VTOTALCOUNT_VLABEL,1.0,Validar: Conteo total
+es,MODEL_WRONGVARLEVEL_ERROR,1.0,Tipo de nivel desconocido %#1s para la variable %#2s.
+fr,MODEL_ASE_VLABEL,1.0,Erreur quadratique approch\u00e9e
+fr,MODEL_CCUT_VLABEL,1.0,Coupure de classification
+fr,MODEL_CODEDEPENDENCY_ERROR,1.0,Impossible de d\u00e9terminer les d\u00e9pendances de variables du code.
+fr,MODEL_CORRECTRATE_VLABEL,1.0,Taux de pr\u00e9cision global
+fr,MODEL_CRCUT_VLABEL,1.0,Coupure CR
+fr,MODEL_CRDEPTH_VLABEL,1.0,Profondeur d'\u00e9chantillon CR
+fr,MODEL_CREATEINTERMEDIATEFILE_ERROR,1.0,La cr\u00e9ation de fichier interm\u00e9diaire a \u00e9chou\u00e9.
+fr,MODEL_CR_VLABEL,1.0,Taux de classification (CR) maximal
+fr,MODEL_CUMEVENTCOUNT_VLABEL,1.0,Nombre d'\u00e9v\u00e9nements cumul\u00e9
+fr,MODEL_CUMLIFT_VLABEL,1.0,Lift cumul\u00e9
+fr,MODEL_CUMNOBS_VLABEL,1.0,Nombre cumul\u00e9 d'observations
+fr,MODEL_CUMNONEVENTCOUNT_VLABEL,1.0,Nombre cumul\u00e9 de non-\u00e9v\u00e9nements
+fr,MODEL_CUMPCTEVENT_VLABEL,1.0,Pourcentage cumul\u00e9 d'\u00e9v\u00e9nements
+fr,MODEL_CUMPCTNONEVENT_VLABEL,1.0,Pourcentage cumul\u00e9 de non-\u00e9v\u00e9nements
+fr,MODEL_CUMPREDCOUNT_VLABEL,1.0,Nombre pr\u00e9dit cumul\u00e9
+fr,MODEL_CVP_VLABEL,1.0,Variation de coefficient de la pr\u00e9diction
+fr,MODEL_C_EVENT_PCT_VLABEL,1.0,Pourcentage cumul\u00e9 d'\u00e9v\u00e9nements
+fr,MODEL_C_GAIN_VLABEL,1.0,Gain cumul\u00e9
+fr,MODEL_C_LIFT_VLABEL,1.0,Lift cumul\u00e9
+fr,MODEL_DATAROLE_VLABEL,1.0,R\u00f4le des donn\u00e9es
+fr,MODEL_DEPENDENCYDATAERROR_ERROR,1.0,Impossible d'ouvrir les donn\u00e9es de d\u00e9pendance.
+fr,MODEL_DEPTH_C_EVENT_PCT_VLABEL,1.0,Pourcentage cumul\u00e9 d'\u00e9v\u00e9nements (%s)
+fr,MODEL_DEPTH_C_GAIN_VLABEL,1.0,Gain cumul\u00e9 (%s)
+fr,MODEL_DEPTH_C_LIFT_VLABEL,1.0,Lift cumul\u00e9 (%s)
+fr,MODEL_DEPTH_GAIN_VLABEL,1.0,Gain (%s)
+fr,MODEL_DEPTH_LIFT_VLABEL,1.0,Lift (%s)
+fr,MODEL_DEPTH_TCEVENTPCT_VLABEL,1.0,Apprentissage : pourcentage cumul\u00e9 d'\u00e9v\u00e9nements (%s)
+fr,MODEL_DEPTH_TCGAIN_VLABEL,1.0,Apprentissage : gain cumul\u00e9 (%s)
+fr,MODEL_DEPTH_TCLIFT_VLABEL,1.0,Apprentissage : lift cumul\u00e9 (%s)
+fr,MODEL_DEPTH_TGAIN_VLABEL,1.0,Apprentissage : gain (%s)
+fr,MODEL_DEPTH_TLIFT_VLABEL,1.0,Apprentissage : Lift (%s)
+fr,MODEL_DEPTH_VCEVENTPCT_VLABEL,1.0,Validation : pourcentage cumul\u00e9 d'\u00e9v\u00e9nements (%s)
+fr,MODEL_DEPTH_VCGAIN_VLABEL,1.0,Validation : gain cumul\u00e9 (%s)
+fr,MODEL_DEPTH_VCLIFT_VLABEL,1.0,Validation : lift cumul\u00e9 (%s)
+fr,MODEL_DEPTH_VGAIN_VLABEL,1.0,Validation : gain (%s)
+fr,MODEL_DEPTH_VLABEL,1.0,Profondeur
+fr,MODEL_DEPTH_VLIFT_VLABEL,1.0,Validation : Lift (%s)
+fr,MODEL_DIV_VLABEL,1.0,Diviseur de l'ASE
+fr,MODEL_ERRORRATE_VLABEL,1.0,Taux d'erreur
+fr,MODEL_EVENTCOUNT_VLABEL,1.0,Nombre d'\u00e9v\u00e9nements
+fr,MODEL_EVENTMISS_VLABEL,1.0,Ev\u00e9nement avec valeur pr\u00e9dite manquante
+fr,MODEL_EVENTRATE_VLABEL,1.0,Taux de pr\u00e9cision de l'\u00e9v\u00e9nement
+fr,MODEL_EVENTTOCOUNT_NOTE,1.0,L'\u00e9v\u00e9nement %s sera comptabilis\u00e9.
+fr,MODEL_FREQVARNOTFOUND_ERROR,1.0,La variable de fr\u00e9quence %s est introuvable dans les donn\u00e9es.
+fr,MODEL_GAIN_VLABEL,1.0,Gain
+fr,MODEL_INCONSISTENTITEMSTORE_ERROR,1.0,Le magasin d'\u00e9l\u00e9ments est incoh\u00e9rent. Certaines variables qualitatives sont introuvables dans la table VariableInfo.
+fr,MODEL_INPUTVARIABLEXML_ERROR,1.0,L'\u00e9criture des variables d'entr\u00e9e a \u00e9chou\u00e9.
+fr,MODEL_INVALIDNUMBINS_ERROR,1.0,Nombre de classes non valide. Il doit \u00eatre sup\u00e9rieur ou \u00e9gal \u00e0 2.
+fr,MODEL_ITEMSTOREINFONOTFOUND_ERROR,1.0,Les informations du magasin d'\u00e9l\u00e9ments n'existent pas.
+fr,MODEL_ITEMSTORENOPROGRAM_WARNING,1.0,Le magasin d'\u00e9l\u00e9ments ne contient pas le programme d'apprentissage.
+fr,MODEL_ITEMSTORENOTFOUND_ERROR,1.0,Le magasin d'\u00e9l\u00e9ments %s n'existe pas.
+fr,MODEL_KSCUT_VLABEL,1.0,Coupure KS
+fr,MODEL_KSDEPTH_VLABEL,1.0,Profondeur de l'\u00e9chantillon KS
+fr,MODEL_KSREF_VLABEL,1.0,Ligne de r\u00e9f\u00e9rence KS
+fr,MODEL_KSR_VLABEL,1.0,S\u00e9paration maximale
+fr,MODEL_KS_VLABEL,1.0,Kolmogorov-Smirnov (KS)
+fr,MODEL_LIFT_VLABEL,1.0,Lift
+fr,MODEL_LOADINGEVAL_NOTE,1.0,Chargement de la macro aa_model_eval
+fr,MODEL_LOADINGREGISTER_NOTE,1.0,Chargement de la macro aa_model_register
+fr,MODEL_MCUT_VLABEL,1.0,Coupure m\u00e9diane de d\u00e9tection d'\u00e9v\u00e9nement
+fr,MODEL_MDEPTH_VLABEL,1.0,Profondeur m\u00e9diane de d\u00e9tection d'\u00e9v\u00e9nement
+fr,MODEL_MEANP_VLABEL,1.0,Pr\u00e9diction moyenne
+fr,MODEL_MINEQUALMAX_WARNING,1.0,La valeur minimale est \u00e9gale \u00e0 la valeur maximale. L'option FUZZ sera activ\u00e9e. (%s)
+fr,MODEL_MISC_VLABEL,1.0,Taux de mauvaise classification
+fr,MODEL_NOACTION_ERROR,1.0,Aucune action n'a \u00e9t\u00e9 effectu\u00e9e car la demande de package SAS et le r\u00e9f\u00e9rencement sont tous deux d\u00e9finis sur N.
+fr,MODEL_NOBS_VLABEL,1.0,Nombre d'observations
+fr,MODEL_NODATA_ERROR,1.0,La table %s n'est pas disponible.
+fr,MODEL_NODEPENDECYVARIABLES_NOTE,1.0,Aucune d\u00e9pendance de variable n'a \u00e9t\u00e9 trouv\u00e9e dans le code.
+fr,MODEL_NOINPUTMETADATA_ERROR,1.0,Impossible de g\u00e9n\u00e9rer les m\u00e9tadonn\u00e9es pour les variables d'entr\u00e9e.
+fr,MODEL_NOMODELNAME_NOTE,1.0,Le nom du mod\u00e8le n'a pas \u00e9t\u00e9 sp\u00e9cifi\u00e9. Le nom par d\u00e9faut %s sera utilis\u00e9.
+fr,MODEL_NONEVENTCOUNT_VLABEL,1.0,Nombre de non-\u00e9v\u00e9nements
+fr,MODEL_NONEVENTRATE_VLABEL,1.0,Taux de pr\u00e9cision du non-\u00e9v\u00e9nement
+fr,MODEL_NOOUTPUTVAR_ERROR,1.0,Aucune variable de sortie n'est d\u00e9finie.
+fr,MODEL_NOSCORECODEFILE_ERROR,1.0,Aucun fichier de script de scoring n'est sp\u00e9cifi\u00e9.
+fr,MODEL_NOSPKFOLDERNAME_ERROR,1.0,Le nom du dossier du package SAS n'est pas sp\u00e9cifi\u00e9.
+fr,MODEL_NOTARGETEVENT_ERROR,1.0,Aucun \u00e9v\u00e9nement cible n'est d\u00e9fini.
+fr,MODEL_NOTARGETLEVEL_ERROR,1.0,Aucun niveau de mesure n'est d\u00e9fini pour la variable \u00e0 expliquer.
+fr,MODEL_NOTARGET_ERROR,1.0,Aucune variable \u00e0 expliquer n'est d\u00e9finie.
+fr,MODEL_NUMBINS_VLABEL,1.0,Nombre de classes
+fr,MODEL_ONEMINUSSPECIFICITY_VLABEL,1.0,1 - sp\u00e9cificit\u00e9
+fr,MODEL_OUTPUTVARIABLEXML_ERROR,1.0,L'\u00e9criture des variables de sortie a \u00e9chou\u00e9.
+fr,MODEL_OUTPUTVAR_VLABEL,1.0,Variable de sortie
+fr,MODEL_PCTEVENT_VLABEL,1.0,Pourcentage d'\u00e9v\u00e9nements
+fr,MODEL_PCTNONEVENT_VLABEL,1.0,Pourcentage de non-\u00e9v\u00e9nements
+fr,MODEL_PMMLFILENOTFOUND_ERROR,1.0,Le fichier pmml %s n'existe pas.
+fr,MODEL_PREDCOUNT_VLABEL,1.0,Nombre pr\u00e9dit
+fr,MODEL_PREDICTCUT_VLABEL,1.0,Pr\u00e9diction \u00e0 la coupure %s
+fr,MODEL_PREDICTEDBINMEAN_VLABEL,1.0,Moyenne de la classe pr\u00e9dite
+fr,MODEL_PREDICTEDMAX_VLABEL,1.0,Valeur pr\u00e9dite max.
+fr,MODEL_PREDICTEDMIN_VLABEL,1.0,Valeur pr\u00e9dite min.
+fr,MODEL_PREDICTIONATCUTOFF_VLABEL,1.0,Pr\u00e9diction \u00e0 la coupure %s
+fr,MODEL_PREDMISS_VLABEL,1.0,Valeur pr\u00e9dite manquante
+fr,MODEL_RANKINGVARNOTFOUND_ERROR,1.0,La variable de classement %s est introuvable dans les donn\u00e9es.
+fr,MODEL_RASE_VLABEL,1.0,Racine de l'erreur quadratique approch\u00e9e
+fr,MODEL_REPOSITORYNOTFOUND_ERROR,1.0,"Le dossier du r\u00e9f\u00e9rentiel, %s, n'existe pas."
+fr,MODEL_RESIDUALBINMEAN_VLABEL,1.0,Moyenne de la classe r\u00e9siduelle
+fr,MODEL_RESIDUALMAX_VLABEL,1.0,Valeur r\u00e9siduelle max.
+fr,MODEL_RESIDUALMIN_VLABEL,1.0,Valeur r\u00e9siduelle min.
+fr,MODEL_RESIDUALSQUAREDBINMEAN_VLABEL,1.0,R\u00e9sidu de la moyenne de la classe au carr\u00e9
+fr,MODEL_SCORECODEFILENOTFOUND_ERROR,1.0,Le fichier de script de scoring %s n'existe pas.
+fr,MODEL_SEGMENTVARNOTFOUND_ERROR,1.0,La variable de segmentation %s n'a pas \u00e9t\u00e9 trouv\u00e9e dans les donn\u00e9es.
+fr,MODEL_SENSITIVITY_VLABEL,1.0,Sensibilit\u00e9
+fr,MODEL_SEPARATIONKS_VLABEL,1.0,S\u00e9paration - KS
+fr,MODEL_SPECIFICITY_VLABEL,1.0,Sp\u00e9cificit\u00e9
+fr,MODEL_SSE_VLABEL,1.0,Erreurs de la somme des carr\u00e9s
+fr,MODEL_STDP_VLABEL,1.0,Ecart-type de la pr\u00e9diction
+fr,MODEL_SUMMARIZEEVENT_NOTE,1.0,D\u00e9tecter l'\u00e9v\u00e9nement %#1s pour la variable %#2s.
+fr,MODEL_SUMMARIZENOEVENT_NOTE,1.0,Aucun \u00e9v\u00e9nement n'est fourni.
+fr,MODEL_SUMMARIZE_NOTE,1.0,"La variable %#1s sera synth\u00e9tis\u00e9e sur l'intervalle ( %#2s, %#3s)"
+fr,MODEL_TARGETBINMEAN_VLABEL,1.0,Moyenne de la classe cible
+fr,MODEL_TARGETCOUNT_VLABEL,1.0,Nombre cible
+fr,MODEL_TARGETEVENT_VLABEL,1.0,Ev\u00e9nement cible
+fr,MODEL_TARGETLEVEL_VLABEL,1.0,Niveau cible
+fr,MODEL_TARGETMAX_VLABEL,1.0,Cible max.
+fr,MODEL_TARGETMIN_VLABEL,1.0,Cible min.
+fr,MODEL_TARGETMISS_VLABEL,1.0,Cible manquante
+fr,MODEL_TARGETVALUE_VLABEL,1.0,Valeur cible
+fr,MODEL_TARGETVARNOTFOUND_ERROR,1.0,La variable \u00e0 expliquer %s est introuvable dans les donn\u00e9es.
+fr,MODEL_TARGET_VLABEL,1.0,Variable \u00e0 expliquer
+fr,MODEL_TCCUT_VLABEL,1.0,Apprentissage : coupure de classification
+fr,MODEL_TCEVENTPCT_VLABEL,1.0,Apprentissage : pourcentage cumul\u00e9 d'\u00e9v\u00e9nements
+fr,MODEL_TCGAIN_VLABEL,1.0,Apprentissage : gain cumul\u00e9
+fr,MODEL_TCLIFT_VLABEL,1.0,Apprentissage : lift cumul\u00e9
+fr,MODEL_TCORRECTRATE_VLABEL,1.0,Apprentissage : taux de pr\u00e9cision global
+fr,MODEL_TCRCUT_VLABEL,1.0,Apprentissage : coupure CR
+fr,MODEL_TCRDEPTH_VLABEL,1.0,Apprentissage : profondeur de l'\u00e9chantillon CR
+fr,MODEL_TCR_VLABEL,1.0,Apprentissage : taux de classification (CR) maximal
+fr,MODEL_TDEPTH_VLABEL,1.0,Apprentissage : profondeur
+fr,MODEL_TERRORRATE_VLABEL,1.0,Apprentissage : taux d'erreur
+fr,MODEL_TEVENTCOUNT_VLABEL,1.0,Apprentissage : nombre d'\u00e9v\u00e9nements
+fr,MODEL_TEVENTMISSCOUNT_VLABEL,1.0,Apprentissage : \u00e9v\u00e9nement avec valeur pr\u00e9dite manquante
+fr,MODEL_TEVENTRATE_VLABEL,1.0,Apprentissage : taux de pr\u00e9cision de l'\u00e9v\u00e9nement
+fr,MODEL_TGAIN_VLABEL,1.0,Apprentissage : gain
+fr,MODEL_TKSCUT_VLABEL,1.0,Apprentissage : coupure KS
+fr,MODEL_TKSDEPTH_VLABEL,1.0,Apprentissage : profondeur de l'\u00e9chantillon KS
+fr,MODEL_TKSREF_VLABEL,1.0,Apprentissage : ligne de r\u00e9f\u00e9rence KS
+fr,MODEL_TKSR_VLABEL,1.0,Apprentissage : s\u00e9paration maximale
+fr,MODEL_TKS_VLABEL,1.0,Apprentissage : Kolmogorov-Smirnov (KS)
+fr,MODEL_TLIFT_VLABEL,1.0,Apprentissage : lift
+fr,MODEL_TMCUT_VLABEL,1.0,Apprentissage : coupure m\u00e9diane de d\u00e9tection d'\u00e9v\u00e9nement
+fr,MODEL_TMDEPTH_VLABEL,1.0,Apprentissage : profondeur m\u00e9diane de d\u00e9tection d'\u00e9v\u00e9nement
+fr,MODEL_TNOBS_VLABEL,1.0,Apprentissage : nombre d'observations
+fr,MODEL_TNONEVENTCOUNT_VLABEL,1.0,Apprentissage : nombre de non-\u00e9v\u00e9nements
+fr,MODEL_TNONEVENTRATE_VLABEL,1.0,Apprentissage : taux de pr\u00e9cision du non-\u00e9v\u00e9nement
+fr,MODEL_TOTALCOUNT_VLABEL,1.0,Total
+fr,MODEL_TPREDCOUNT_VLABEL,1.0,Apprentissage : nombre pr\u00e9dit
+fr,MODEL_TPREDICTCUT_VLABEL,1.0,Apprentissage : pr\u00e9diction \u00e0 la coupure %s
+fr,MODEL_TPREDMISS_VLABEL,1.0,Apprentissage : valeur pr\u00e9dite manquante
+fr,MODEL_TRAINASE_VLABEL,1.0,Apprentissage : erreur quadratique approch\u00e9e
+fr,MODEL_TRAINDIV_VLABEL,1.0,Apprentissage : diviseur de l'ASE
+fr,MODEL_TRAININGFILENOTFOUND_ERROR,1.0,Le fichier d'apprentissage %s n'existe pas.
+fr,MODEL_TRAINMISC_VLABEL,1.0,Apprentissage : taux de mauvaise classification
+fr,MODEL_TRAINRASE_VLABEL,1.0,Apprentissage : racine de l'erreur quadratique approch\u00e9e
+fr,MODEL_TRAINSSE_VLABEL,1.0,Apprentissage : erreurs de la somme des carr\u00e9s
+fr,MODEL_TSEPARATIONKS_VLABEL,1.0,Apprentissage : s\u00e9paration - KS
+fr,MODEL_TTARGETCOUNT_VLABEL,1.0,Apprentissage : nombre cible
+fr,MODEL_TTARGETMISS_VLABEL,1.0,Apprentissage : cible manquante
+fr,MODEL_TTARGETVALUE_VLABEL,1.0,Apprentissage : valeur cible
+fr,MODEL_TTOTALCOUNT_VLABEL,1.0,Apprentissage : total
+fr,MODEL_VARSNOTFOUND_ERROR,1.0,La ou les variables %#1s ne sont pas dans la table %#2s.
+fr,MODEL_VASE_VLABEL,1.0,Validation : erreur quadratique approch\u00e9e
+fr,MODEL_VCCUT_VLABEL,1.0,Validation : coupure de classification
+fr,MODEL_VCEVENTPCT_VLABEL,1.0,Validation : pourcentage cumul\u00e9 d'\u00e9v\u00e9nements
+fr,MODEL_VCGAIN_VLABEL,1.0,Validation : gain cumul\u00e9
+fr,MODEL_VCLIFT_VLABEL,1.0,Validation : lift cumul\u00e9
+fr,MODEL_VCORRECTRATE_VLABEL,1.0,Validation : taux de pr\u00e9cision global
+fr,MODEL_VCRCUT_VLABEL,1.0,Validation : coupure CR
+fr,MODEL_VCRDEPTH_VLABEL,1.0,Validation : profondeur de l'\u00e9chantillon CR
+fr,MODEL_VCR_VLABEL,1.0,Validation : taux de classification (CR) maximal
+fr,MODEL_VCVP_VLABEL,1.0,Validation : variation de coefficient de la pr\u00e9diction
+fr,MODEL_VDEPTH_VLABEL,1.0,Validation : profondeur
+fr,MODEL_VDIV_VLABEL,1.0,Validation : diviseur de l'ASE
+fr,MODEL_VERRORRATE_VLABEL,1.0,Validation : taux d'erreur
+fr,MODEL_VEVENTCOUNT_VLABEL,1.0,Validation : nombre d'\u00e9v\u00e9nements
+fr,MODEL_VEVENTMISSCOUNT_VLABEL,1.0,Validation : \u00e9v\u00e9nement avec valeur pr\u00e9dite manquante
+fr,MODEL_VEVENTRATE_VLABEL,1.0,Validation : taux de pr\u00e9cision de l'\u00e9v\u00e9nement
+fr,MODEL_VGAIN_VLABEL,1.0,Validation : gain
+fr,MODEL_VKSCUT_VLABEL,1.0,Validation : coupure KS
+fr,MODEL_VKSDEPTH_VLABEL,1.0,Validation : profondeur de l'\u00e9chantillon KS
+fr,MODEL_VKSREF_VLABEL,1.0,Validation : ligne de r\u00e9f\u00e9rence KS
+fr,MODEL_VKSR_VLABEL,1.0,Validation : s\u00e9paration maximale
+fr,MODEL_VKS_VLABEL,1.0,Validation : Kolmogorov-Smirnov (KS)
+fr,MODEL_VLIFT_VLABEL,1.0,Validation : lift
+fr,MODEL_VMCUT_VLABEL,1.0,Validation : coupure m\u00e9diane de d\u00e9tection d'\u00e9v\u00e9nement
+fr,MODEL_VMDEPTH_VLABEL,1.0,Validation : profondeur m\u00e9diane de d\u00e9tection d'\u00e9v\u00e9nement
+fr,MODEL_VMEANP_VLABEL,1.0,Validation : pr\u00e9diction moyenne
+fr,MODEL_VMISC_VLABEL,1.0,Validation : taux de classification erron\u00e9e
+fr,MODEL_VNOBS_VLABEL,1.0,Validation : nombre d'observations
+fr,MODEL_VNONEVENTCOUNT_VLABEL,1.0,Validation : nombre de non-\u00e9v\u00e9nements
+fr,MODEL_VNONEVENTRATE_VLABEL,1.0,Validation : taux de pr\u00e9cision du non-\u00e9v\u00e9nement
+fr,MODEL_VPREDCOUNT_VLABEL,1.0,Validation : nombre pr\u00e9dit
+fr,MODEL_VPREDICTCUT_VLABEL,1.0,Validation : pr\u00e9diction \u00e0 la coupure %s
+fr,MODEL_VPREDMISS_VLABEL,1.0,Validation : valeur pr\u00e9dite manquante
+fr,MODEL_VRASE_VLABEL,1.0,Validation : racine de l'erreur quadratique approch\u00e9e
+fr,MODEL_VSEPARATIONKS_VLABEL,1.0,Validation : s\u00e9paration - KS
+fr,MODEL_VSSE_VLABEL,1.0,Validation : erreurs de la somme des carr\u00e9s
+fr,MODEL_VSTDP_VLABEL,1.0,Validation : \u00e9cart-type de la pr\u00e9diction
+fr,MODEL_VTARGETCOUNT_VLABEL,1.0,Validation : nombre cible
+fr,MODEL_VTARGETMISS_VLABEL,1.0,Validation : cible manquante
+fr,MODEL_VTARGETVALUE_VLABEL,1.0,Validation : valeur cible
+fr,MODEL_VTOTALCOUNT_VLABEL,1.0,Validation : total
+fr,MODEL_WRONGVARLEVEL_ERROR,1.0,Type de niveau inconnu %#1s pour la variable %#2s.
+it,MODEL_ASE_VLABEL,1.0,Average Squared Error
+it,MODEL_CCUT_VLABEL,1.0,Cutoff di classificazione
+it,MODEL_CODEDEPENDENCY_ERROR,1.0,Impossibile determinare le dipendenze delle variabili del codice.
+it,MODEL_CORRECTRATE_VLABEL,1.0,Tasso di precisione globale
+it,MODEL_CRCUT_VLABEL,1.0,Cutoff CR
+it,MODEL_CRDEPTH_VLABEL,1.0,Profondit\u00e0 campione CR
+it,MODEL_CREATEINTERMEDIATEFILE_ERROR,1.0,Creazione del file intermedio non riuscita.
+it,MODEL_CR_VLABEL,1.0,Tasso di classificazione (CR) massimo
+it,MODEL_CUMEVENTCOUNT_VLABEL,1.0,Conteggio degli eventi cumulativo
+it,MODEL_CUMLIFT_VLABEL,1.0,Lift cumulativo
+it,MODEL_CUMNOBS_VLABEL,1.0,Numero di osservazioni cumulativo
+it,MODEL_CUMNONEVENTCOUNT_VLABEL,1.0,Conteggio cumulativo dei non eventi
+it,MODEL_CUMPCTEVENT_VLABEL,1.0,Percentuale cumulativa di eventi
+it,MODEL_CUMPCTNONEVENT_VLABEL,1.0,Percentuale cumulativa di non eventi
+it,MODEL_CUMPREDCOUNT_VLABEL,1.0,Conteggio previsti cumulativo
+it,MODEL_CVP_VLABEL,1.0,Coefficiente di variazione della previsione
+it,MODEL_C_EVENT_PCT_VLABEL,1.0,Percentuale cumulativa di eventi
+it,MODEL_C_GAIN_VLABEL,1.0,Gain cumulativo
+it,MODEL_C_LIFT_VLABEL,1.0,Lift cumulativo
+it,MODEL_DATAROLE_VLABEL,1.0,Ruolo dei dati
+it,MODEL_DEPENDENCYDATAERROR_ERROR,1.0,Impossibile aprire i dati delle dipendenze.
+it,MODEL_DEPTH_C_EVENT_PCT_VLABEL,1.0,Percentuale cumulativa di eventi (%s)
+it,MODEL_DEPTH_C_GAIN_VLABEL,1.0,Gain cumulativo (%s)
+it,MODEL_DEPTH_C_LIFT_VLABEL,1.0,Lift cumulativo (%s)
+it,MODEL_DEPTH_GAIN_VLABEL,1.0,Gain (%s)
+it,MODEL_DEPTH_LIFT_VLABEL,1.0,Lift (%s)
+it,MODEL_DEPTH_TCEVENTPCT_VLABEL,1.0,Train: percentuale cumulativa di eventi (%s)
+it,MODEL_DEPTH_TCGAIN_VLABEL,1.0,Train: gain cumulativo (%s)
+it,MODEL_DEPTH_TCLIFT_VLABEL,1.0,Train: lift cumulativo (%s)
+it,MODEL_DEPTH_TGAIN_VLABEL,1.0,Train: gain (%s)
+it,MODEL_DEPTH_TLIFT_VLABEL,1.0,Train: lift (%s)
+it,MODEL_DEPTH_VCEVENTPCT_VLABEL,1.0,Valid: percentuale cumulativa di eventi (%s)
+it,MODEL_DEPTH_VCGAIN_VLABEL,1.0,Valid: gain cumulativo (%s)
+it,MODEL_DEPTH_VCLIFT_VLABEL,1.0,Valid: lift cumulativo (%s)
+it,MODEL_DEPTH_VGAIN_VLABEL,1.0,Valid: gain (%s)
+it,MODEL_DEPTH_VLABEL,1.0,Profondit\u00e0
+it,MODEL_DEPTH_VLIFT_VLABEL,1.0,Valid: lift (%s)
+it,MODEL_DIV_VLABEL,1.0,Divisore per ASE
+it,MODEL_ERRORRATE_VLABEL,1.0,Tasso di errore
+it,MODEL_EVENTCOUNT_VLABEL,1.0,Conteggio eventi
+it,MODEL_EVENTMISS_VLABEL,1.0,Evento con mancanti previsti
+it,MODEL_EVENTRATE_VLABEL,1.0,Tasso di precisione evento
+it,MODEL_EVENTTOCOUNT_NOTE,1.0,L'evento %s verr\u00f2 conteggiato.
+it,MODEL_FREQVARNOTFOUND_ERROR,1.0,Variabile di frequenza %s non trovata nei dati.
+it,MODEL_GAIN_VLABEL,1.0,Gain
+it,MODEL_INCONSISTENTITEMSTORE_ERROR,1.0,L'itemstore non \u00e8 coerente. Non trovate alcune variabili di classificazione nella tabella VariableInfo.
+it,MODEL_INPUTVARIABLEXML_ERROR,1.0,Scrittura dell'xml delle variabili di input non riuscita.
+it,MODEL_INVALIDNUMBINS_ERROR,1.0,Numero non valido di raggruppamenti; deve essere un numero maggiore o uguale a 2.
+it,MODEL_ITEMSTOREINFONOTFOUND_ERROR,1.0,Le informazioni sull'itemstore non esistono.
+it,MODEL_ITEMSTORENOPROGRAM_WARNING,1.0,L'itemstore non contiene il programma di training.
+it,MODEL_ITEMSTORENOTFOUND_ERROR,1.0,"L'itemstore, %s, non esiste."
+it,MODEL_KSCUT_VLABEL,1.0,Cutoff KS
+it,MODEL_KSDEPTH_VLABEL,1.0,Profondit\u00e0 del campione KS
+it,MODEL_KSREF_VLABEL,1.0,Linea di riferimento KS
+it,MODEL_KSR_VLABEL,1.0,Separazione massima
+it,MODEL_KS_VLABEL,1.0,Kolmogorov-Smirnov (KS)
+it,MODEL_LIFT_VLABEL,1.0,Lift
+it,MODEL_LOADINGEVAL_NOTE,1.0,Caricamento della macro aa_model_eval
+it,MODEL_LOADINGREGISTER_NOTE,1.0,Caricamento della macro aa_model_register
+it,MODEL_MCUT_VLABEL,1.0,Cutoff rilevamento eventi mediano
+it,MODEL_MDEPTH_VLABEL,1.0,Profondit\u00e0 rilevamento eventi mediana
+it,MODEL_MEANP_VLABEL,1.0,Previsione media
+it,MODEL_MINEQUALMAX_WARNING,1.0,Minimo uguale al massimo. L'opzione FUZZ verr\u00e0 disattivata. (%s)
+it,MODEL_MISC_VLABEL,1.0,Errore di classificazione
+it,MODEL_NOACTION_ERROR,1.0,Non intraprese azioni perch\u00e9 la richiesta di spk e la registrazione sono entrambe impostate a N.
+it,MODEL_NOBS_VLABEL,1.0,Numero di osservazioni
+it,MODEL_NODATA_ERROR,1.0,"Data set, %s, non disponibile."
+it,MODEL_NODEPENDECYVARIABLES_NOTE,1.0,Non trovate dipendenze di variabili nel codice.
+it,MODEL_NOINPUTMETADATA_ERROR,1.0,Impossibile generare metadati per le variabili di input.
+it,MODEL_NOMODELNAME_NOTE,1.0,Nome del modello non specificato. Verr\u00e0 usato il nome predefinito %s.
+it,MODEL_NONEVENTCOUNT_VLABEL,1.0,Conteggio dei non eventi
+it,MODEL_NONEVENTRATE_VLABEL,1.0,Tasso di precisione non evento
+it,MODEL_NOOUTPUTVAR_ERROR,1.0,Nessuna variabile di output definita.
+it,MODEL_NOSCORECODEFILE_ERROR,1.0,Non specificato alcun file del codice di scoring.
+it,MODEL_NOSPKFOLDERNAME_ERROR,1.0,Nome della cartella SPK non specificato.
+it,MODEL_NOTARGETEVENT_ERROR,1.0,Nessun evento target definito.
+it,MODEL_NOTARGETLEVEL_ERROR,1.0,Nessun livello di misurazione definito per la variabile target.
+it,MODEL_NOTARGET_ERROR,1.0,Nessuna variabile target definita.
+it,MODEL_NUMBINS_VLABEL,1.0,Numero di raggruppamenti
+it,MODEL_ONEMINUSSPECIFICITY_VLABEL,1.0,1 - Specificit\u00e0
+it,MODEL_OUTPUTVARIABLEXML_ERROR,1.0,Scrittura dell'xml delle variabili di output non riuscita.
+it,MODEL_OUTPUTVAR_VLABEL,1.0,Variabile di output
+it,MODEL_PCTEVENT_VLABEL,1.0,Percentuale di eventi
+it,MODEL_PCTNONEVENT_VLABEL,1.0,Percentuale di non eventi
+it,MODEL_PMMLFILENOTFOUND_ERROR,1.0,"Il file pmml specificato, %s, non esiste."
+it,MODEL_PREDCOUNT_VLABEL,1.0,Conteggio previsti
+it,MODEL_PREDICTCUT_VLABEL,1.0,Previsione al cutoff %s
+it,MODEL_PREDICTEDBINMEAN_VLABEL,1.0,Media raggruppamenti prevista
+it,MODEL_PREDICTEDMAX_VLABEL,1.0,Max previsto
+it,MODEL_PREDICTEDMIN_VLABEL,1.0,Min previsto
+it,MODEL_PREDICTIONATCUTOFF_VLABEL,1.0,Previsione al cutoff %s
+it,MODEL_PREDMISS_VLABEL,1.0,Mancanti previsti
+it,MODEL_RANKINGVARNOTFOUND_ERROR,1.0,Variabile di classificazione in ranghi %s non trovata nei dati.
+it,MODEL_RASE_VLABEL,1.0,Root Average Squared Error
+it,MODEL_REPOSITORYNOTFOUND_ERROR,1.0,"La cartella del repository, %s, non esiste."
+it,MODEL_RESIDUALBINMEAN_VLABEL,1.0,Media raggruppamenti residua
+it,MODEL_RESIDUALMAX_VLABEL,1.0,Max residuo
+it,MODEL_RESIDUALMIN_VLABEL,1.0,Min residuo
+it,MODEL_RESIDUALSQUAREDBINMEAN_VLABEL,1.0,Media raggruppamenti quadratica residua
+it,MODEL_SCORECODEFILENOTFOUND_ERROR,1.0,"Il file del codice di scoring, %s, non esiste."
+it,MODEL_SEGMENTVARNOTFOUND_ERROR,1.0,Variabile del segmento %s non trovata nei dati.
+it,MODEL_SENSITIVITY_VLABEL,1.0,Sensitivit\u00e0
+it,MODEL_SEPARATIONKS_VLABEL,1.0,Separazione - KS
+it,MODEL_SPECIFICITY_VLABEL,1.0,Specificit\u00e0
+it,MODEL_SSE_VLABEL,1.0,Somma degli errori quadratici
+it,MODEL_STDP_VLABEL,1.0,Deviazione std previsione
+it,MODEL_SUMMARIZEEVENT_NOTE,1.0,Rilevato evento %#1s per la variabile %#2s.
+it,MODEL_SUMMARIZENOEVENT_NOTE,1.0,Nessun evento specificato.
+it,MODEL_SUMMARIZE_NOTE,1.0,"La variabile %#1s verr\u00e0 sommarizzata oltre l'intervallo (%#2s, %#3s)"
+it,MODEL_TARGETBINMEAN_VLABEL,1.0,Media raggruppamenti target
+it,MODEL_TARGETCOUNT_VLABEL,1.0,Conteggio target
+it,MODEL_TARGETEVENT_VLABEL,1.0,Evento target
+it,MODEL_TARGETLEVEL_VLABEL,1.0,Livello target
+it,MODEL_TARGETMAX_VLABEL,1.0,Max target
+it,MODEL_TARGETMIN_VLABEL,1.0,Min target
+it,MODEL_TARGETMISS_VLABEL,1.0,Mancanti target
+it,MODEL_TARGETVALUE_VLABEL,1.0,Valore target
+it,MODEL_TARGETVARNOTFOUND_ERROR,1.0,Variabile target %s non trovata nei dati.
+it,MODEL_TARGET_VLABEL,1.0,Variabile target
+it,MODEL_TCCUT_VLABEL,1.0,Train: cutoff di classificazione
+it,MODEL_TCEVENTPCT_VLABEL,1.0,Train: percentuale cumulativa di eventi
+it,MODEL_TCGAIN_VLABEL,1.0,Train: gain cumulativo
+it,MODEL_TCLIFT_VLABEL,1.0,Train.: lift cumulativa
+it,MODEL_TCORRECTRATE_VLABEL,1.0,Train.: tasso di precisione globale
+it,MODEL_TCRCUT_VLABEL,1.0,Train.: cutoff CR
+it,MODEL_TCRDEPTH_VLABEL,1.0,Train.: profondit\u00e0 del campione CR
+it,MODEL_TCR_VLABEL,1.0,Train.: errore di classificazione (CR) massimo
+it,MODEL_TDEPTH_VLABEL,1.0,Train.: profondit\u00e0
+it,MODEL_TERRORRATE_VLABEL,1.0,Train.: tasso di errore
+it,MODEL_TEVENTCOUNT_VLABEL,1.0,Train.: conteggio eventi
+it,MODEL_TEVENTMISSCOUNT_VLABEL,1.0,Train.: evento con mancanti previsti
+it,MODEL_TEVENTRATE_VLABEL,1.0,Train.: tasso di precisione evento
+it,MODEL_TGAIN_VLABEL,1.0,Train: gain
+it,MODEL_TKSCUT_VLABEL,1.0,Train.: cutoff KS
+it,MODEL_TKSDEPTH_VLABEL,1.0,Train.: profondit\u00e0 del campione KS
+it,MODEL_TKSREF_VLABEL,1.0,Train.: linea di riferimento KS
+it,MODEL_TKSR_VLABEL,1.0,Train.: separazione massima
+it,MODEL_TKS_VLABEL,1.0,Train.: Kolmogorov-Smirnov (KS)
+it,MODEL_TLIFT_VLABEL,1.0,Train.: lift
+it,MODEL_TMCUT_VLABEL,1.0,Train.: cutoff rilevamento eventi mediano
+it,MODEL_TMDEPTH_VLABEL,1.0,Train.: profondit\u00e0 rilevamento eventi mediana
+it,MODEL_TNOBS_VLABEL,1.0,Train.: numero osservazioni
+it,MODEL_TNONEVENTCOUNT_VLABEL,1.0,Train.: conteggio non eventi
+it,MODEL_TNONEVENTRATE_VLABEL,1.0,Train.: tasso di precisione non evento
+it,MODEL_TOTALCOUNT_VLABEL,1.0,Conteggio totale
+it,MODEL_TPREDCOUNT_VLABEL,1.0,Train.: conteggio previsti
+it,MODEL_TPREDICTCUT_VLABEL,1.0,Train.: previsione al cutoff %s
+it,MODEL_TPREDMISS_VLABEL,1.0,Train.: mancanti previsti
+it,MODEL_TRAINASE_VLABEL,1.0,Train.: Average Squared Error
+it,MODEL_TRAINDIV_VLABEL,1.0,Train.: divisore per ASE
+it,MODEL_TRAININGFILENOTFOUND_ERROR,1.0,"Il file di training specificato, %s, non esiste."
+it,MODEL_TRAINMISC_VLABEL,1.0,Train.: errore di classificazione
+it,MODEL_TRAINRASE_VLABEL,1.0,Train.: Root Average Squared Error
+it,MODEL_TRAINSSE_VLABEL,1.0,Train: somma degli errori quadratici
+it,MODEL_TSEPARATIONKS_VLABEL,1.0,Train.: separazione - KS
+it,MODEL_TTARGETCOUNT_VLABEL,1.0,Train.: conteggio target
+it,MODEL_TTARGETMISS_VLABEL,1.0,Train.: mancanti target
+it,MODEL_TTARGETVALUE_VLABEL,1.0,Train.: valore target
+it,MODEL_TTOTALCOUNT_VLABEL,1.0,Train.: conteggio totale
+it,MODEL_VARSNOTFOUND_ERROR,1.0,Variabile/i %#1s non nel data set %#2s.
+it,MODEL_VASE_VLABEL,1.0,Valid.: Average Squared Error
+it,MODEL_VCCUT_VLABEL,1.0,Valid: cutoff di classificazione
+it,MODEL_VCEVENTPCT_VLABEL,1.0,Valid: percentuale cumulativa di eventi
+it,MODEL_VCGAIN_VLABEL,1.0,Valid: gain cumulativo
+it,MODEL_VCLIFT_VLABEL,1.0,Valid.: lift cumulativa
+it,MODEL_VCORRECTRATE_VLABEL,1.0,Valid.: tasso di precisione globale
+it,MODEL_VCRCUT_VLABEL,1.0,Valid.: cutoff CR
+it,MODEL_VCRDEPTH_VLABEL,1.0,Valid.: profondit\u00e0 del campione CR
+it,MODEL_VCR_VLABEL,1.0,Valid.: errore di classificazione massimo (CR)
+it,MODEL_VCVP_VLABEL,1.0,Valid: coefficiente di variazione della previsione
+it,MODEL_VDEPTH_VLABEL,1.0,Valid.: profondit\u00e0
+it,MODEL_VDIV_VLABEL,1.0,Valid.: divisore per ASE
+it,MODEL_VERRORRATE_VLABEL,1.0,Valid.: tasso di errore
+it,MODEL_VEVENTCOUNT_VLABEL,1.0,Valid.: conteggio eventi
+it,MODEL_VEVENTMISSCOUNT_VLABEL,1.0,Valid.: evento con mancanti previsti
+it,MODEL_VEVENTRATE_VLABEL,1.0,Valid.: tasso di precisione evento
+it,MODEL_VGAIN_VLABEL,1.0,Valid: gain
+it,MODEL_VKSCUT_VLABEL,1.0,Valid.: cutoff KS
+it,MODEL_VKSDEPTH_VLABEL,1.0,Valid.: profondit\u00e0 del campione KS
+it,MODEL_VKSREF_VLABEL,1.0,Valid.: linea di riferimento KS
+it,MODEL_VKSR_VLABEL,1.0,Valid.: separazione massima
+it,MODEL_VKS_VLABEL,1.0,Valid.: Kolmogorov-Smirnov (KS)
+it,MODEL_VLIFT_VLABEL,1.0,Valid.: lift
+it,MODEL_VMCUT_VLABEL,1.0,Valid.: cutoff rilevamento eventi mediano
+it,MODEL_VMDEPTH_VLABEL,1.0,Valid.: profondit\u00e0 rilevamento eventi mediana
+it,MODEL_VMEANP_VLABEL,1.0,Valid: previsione media
+it,MODEL_VMISC_VLABEL,1.0,Valid.: errore di classificazione
+it,MODEL_VNOBS_VLABEL,1.0,Valid.: numero osservazioni
+it,MODEL_VNONEVENTCOUNT_VLABEL,1.0,Valid.: conteggio non eventi
+it,MODEL_VNONEVENTRATE_VLABEL,1.0,Valid.: tasso di precisione non evento
+it,MODEL_VPREDCOUNT_VLABEL,1.0,Valid.: conteggio previsti
+it,MODEL_VPREDICTCUT_VLABEL,1.0,Valid.: previsione al cutoff %s
+it,MODEL_VPREDMISS_VLABEL,1.0,Valid.: mancanti previsti
+it,MODEL_VRASE_VLABEL,1.0,Valid.: Root Average Squared Error
+it,MODEL_VSEPARATIONKS_VLABEL,1.0,Valid.: separazione - KS
+it,MODEL_VSSE_VLABEL,1.0,Valid: somma degli errori quadratici
+it,MODEL_VSTDP_VLABEL,1.0,Valid: deviazione std previsione
+it,MODEL_VTARGETCOUNT_VLABEL,1.0,Valid.: conteggio target
+it,MODEL_VTARGETMISS_VLABEL,1.0,Valid.: mancanti target
+it,MODEL_VTARGETVALUE_VLABEL,1.0,Valid.: valore target
+it,MODEL_VTOTALCOUNT_VLABEL,1.0,Valid.: conteggio totale
+it,MODEL_WRONGVARLEVEL_ERROR,1.0,Tipo di livello sconosciuto %#1s per la variabile %#2s.
+ja,MODEL_ASE_VLABEL,1.0,\u5e73\u5747\u5e73\u65b9\u8aa4\u5dee (ASE)
+ja,MODEL_CCUT_VLABEL,1.0,\u5206\u985e\u30ab\u30c3\u30c8\u30aa\u30d5
+ja,MODEL_CODEDEPENDENCY_ERROR,1.0,\u30b3\u30fc\u30c9\u5909\u6570\u306e\u4f9d\u5b58\u95a2\u4fc2\u3092\u7279\u5b9a\u3067\u304d\u307e\u305b\u3093\u3002
+ja,MODEL_CORRECTRATE_VLABEL,1.0,\u5168\u4f53\u306e\u9069\u5408\u7387
+ja,MODEL_CRCUT_VLABEL,1.0,CR\u30ab\u30c3\u30c8\u30aa\u30d5
+ja,MODEL_CRDEPTH_VLABEL,1.0,CR\u30b5\u30f3\u30d7\u30eb\u306e\u6df1\u3055
+ja,MODEL_CREATEINTERMEDIATEFILE_ERROR,1.0,\u4e2d\u9593\u30d5\u30a1\u30a4\u30eb\u306e\u4f5c\u6210\u306b\u5931\u6557\u3057\u307e\u3057\u305f\u3002
+ja,MODEL_CR_VLABEL,1.0,\u6700\u5927\u5206\u985e\u7387 (CR)
+ja,MODEL_CUMEVENTCOUNT_VLABEL,1.0,\u7d2f\u7a4d\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,MODEL_CUMLIFT_VLABEL,1.0,\u7d2f\u7a4d\u30ea\u30d5\u30c8
+ja,MODEL_CUMNOBS_VLABEL,1.0,\u7d2f\u7a4d\u30aa\u30d6\u30b6\u30d9\u30fc\u30b7\u30e7\u30f3\u6570
+ja,MODEL_CUMNONEVENTCOUNT_VLABEL,1.0,\u7d2f\u7a4d\u975e\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,MODEL_CUMPCTEVENT_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u306e\u7d2f\u7a4d\u30d1\u30fc\u30bb\u30f3\u30c8
+ja,MODEL_CUMPCTNONEVENT_VLABEL,1.0,\u975e\u30a4\u30d9\u30f3\u30c8\u306e\u7d2f\u7a4d\u30d1\u30fc\u30bb\u30f3\u30c8
+ja,MODEL_CUMPREDCOUNT_VLABEL,1.0,\u7d2f\u7a4d\u4e88\u6e2c\u5ea6\u6570
+ja,MODEL_CVP_VLABEL,1.0,\u4e88\u6e2c\u306e\u5909\u52d5\u4fc2\u6570
+ja,MODEL_C_EVENT_PCT_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u306e\u7d2f\u7a4d\u30d1\u30fc\u30bb\u30f3\u30c8
+ja,MODEL_C_GAIN_VLABEL,1.0,\u7d2f\u7a4d\u30b2\u30a4\u30f3
+ja,MODEL_C_LIFT_VLABEL,1.0,\u7d2f\u7a4d\u30ea\u30d5\u30c8
+ja,MODEL_DATAROLE_VLABEL,1.0,\u30c7\u30fc\u30bf\u306e\u5f79\u5272
+ja,MODEL_DEPENDENCYDATAERROR_ERROR,1.0,\u4f9d\u5b58\u95a2\u4fc2\u30c7\u30fc\u30bf\u3092\u958b\u3051\u307e\u305b\u3093\u3002
+ja,MODEL_DEPTH_C_EVENT_PCT_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u306e\u7d2f\u7a4d\u30d1\u30fc\u30bb\u30f3\u30c8 (%s)
+ja,MODEL_DEPTH_C_GAIN_VLABEL,1.0,\u7d2f\u7a4d\u30b2\u30a4\u30f3 (%s)
+ja,MODEL_DEPTH_C_LIFT_VLABEL,1.0,\u7d2f\u7a4d\u30ea\u30d5\u30c8 (%s)
+ja,MODEL_DEPTH_GAIN_VLABEL,1.0,\u30b2\u30a4\u30f3 (%s)
+ja,MODEL_DEPTH_LIFT_VLABEL,1.0,\u30ea\u30d5\u30c8 (%s)
+ja,MODEL_DEPTH_TCEVENTPCT_VLABEL,1.0,\u5b66\u7fd2: \u30a4\u30d9\u30f3\u30c8\u306e\u7d2f\u7a4d\u30d1\u30fc\u30bb\u30f3\u30c8 (%s)
+ja,MODEL_DEPTH_TCGAIN_VLABEL,1.0,\u5b66\u7fd2: \u7d2f\u7a4d\u30b2\u30a4\u30f3 (%s)
+ja,MODEL_DEPTH_TCLIFT_VLABEL,1.0,\u5b66\u7fd2: \u7d2f\u7a4d\u30ea\u30d5\u30c8 (%s)
+ja,MODEL_DEPTH_TGAIN_VLABEL,1.0,\u5b66\u7fd2: \u30b2\u30a4\u30f3 (%s)
+ja,MODEL_DEPTH_TLIFT_VLABEL,1.0,\u5b66\u7fd2: \u30ea\u30d5\u30c8 (%s)
+ja,MODEL_DEPTH_VCEVENTPCT_VLABEL,1.0,\u691c\u8a3c: \u30a4\u30d9\u30f3\u30c8\u306e\u7d2f\u7a4d\u30d1\u30fc\u30bb\u30f3\u30c8 (%s)
+ja,MODEL_DEPTH_VCGAIN_VLABEL,1.0,\u691c\u8a3c: \u7d2f\u7a4d\u30b2\u30a4\u30f3 (%s)
+ja,MODEL_DEPTH_VCLIFT_VLABEL,1.0,\u691c\u8a3c: \u7d2f\u7a4d\u30ea\u30d5\u30c8 (%s)
+ja,MODEL_DEPTH_VGAIN_VLABEL,1.0,\u691c\u8a3c: \u30b2\u30a4\u30f3 (%s)
+ja,MODEL_DEPTH_VLABEL,1.0,\u6df1\u3055
+ja,MODEL_DEPTH_VLIFT_VLABEL,1.0,\u691c\u8a3c: \u30ea\u30d5\u30c8 (%s)
+ja,MODEL_DIV_VLABEL,1.0,ASE \u306e\u9664\u6570
+ja,MODEL_ERRORRATE_VLABEL,1.0,\u904e\u8aa4\u7387
+ja,MODEL_EVENTCOUNT_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,MODEL_EVENTMISS_VLABEL,1.0,\u4e88\u6e2c\u304c\u6b20\u640d\u3057\u3066\u3044\u308b\u30a4\u30d9\u30f3\u30c8
+ja,MODEL_EVENTRATE_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u306e\u9069\u5408\u7387
+ja,MODEL_EVENTTOCOUNT_NOTE,1.0,\u30a4\u30d9\u30f3\u30c8 %s \u306f\u30ab\u30a6\u30f3\u30c8\u3055\u308c\u307e\u3059\u3002
+ja,MODEL_FREQVARNOTFOUND_ERROR,1.0,\u5ea6\u6570\u5909\u6570 %s \u304c\u30c7\u30fc\u30bf\u306b\u898b\u3064\u304b\u308a\u307e\u305b\u3093\u3002
+ja,MODEL_GAIN_VLABEL,1.0,\u30b2\u30a4\u30f3
+ja,MODEL_INCONSISTENTITEMSTORE_ERROR,1.0,Itemstore \u306b\u6574\u5408\u6027\u304c\u3042\u308a\u307e\u305b\u3093\u3002VariableInfo \u30c6\u30fc\u30d6\u30eb\u306b\u898b\u3064\u304b\u3089\u306a\u3044\u5206\u985e\u5909\u6570\u304c\u3042\u308a\u307e\u3059\u3002
+ja,MODEL_INPUTVARIABLEXML_ERROR,1.0,\u5165\u529b\u5909\u6570\u306e xml \u306e\u66f8\u304d\u8fbc\u307f\u306b\u5931\u6557\u3057\u307e\u3057\u305f\u3002
+ja,MODEL_INVALIDNUMBINS_ERROR,1.0,\u30d3\u30f3\u306e\u6570\u304c\u7121\u52b9\u3067\u3059\u30022 \u4ee5\u4e0a\u306e\u6570\u5024\u306b\u3057\u3066\u304f\u3060\u3055\u3044\u3002
+ja,MODEL_ITEMSTOREINFONOTFOUND_ERROR,1.0,Itemstore \u60c5\u5831\u304c\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,MODEL_ITEMSTORENOPROGRAM_WARNING,1.0,Itemstore \u306b\u306f\u5b66\u7fd2\u30d7\u30ed\u30b0\u30e9\u30e0\u304c\u542b\u307e\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,MODEL_ITEMSTORENOTFOUND_ERROR,1.0,Itemstore %s \u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,MODEL_KSCUT_VLABEL,1.0,KS\u30ab\u30c3\u30c8\u30aa\u30d5
+ja,MODEL_KSDEPTH_VLABEL,1.0,KS\u30b5\u30f3\u30d7\u30eb\u306e\u6df1\u3055
+ja,MODEL_KSREF_VLABEL,1.0,KS\u53c2\u7167\u7dda
+ja,MODEL_KSR_VLABEL,1.0,\u6700\u5927\u5206\u96e2
+ja,MODEL_KS_VLABEL,1.0,Kolmogorov-Smirnov (KS)
+ja,MODEL_LIFT_VLABEL,1.0,\u30ea\u30d5\u30c8
+ja,MODEL_LOADINGEVAL_NOTE,1.0,aa_model_eval macro \u30de\u30af\u30ed\u3092\u30ed\u30fc\u30c9\u3057\u3066\u3044\u307e\u3059
+ja,MODEL_LOADINGREGISTER_NOTE,1.0,aa_model_register \u30de\u30af\u30ed\u3092\u30ed\u30fc\u30c9\u3057\u3066\u3044\u307e\u3059
+ja,MODEL_MCUT_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u691c\u51fa\u306e\u30ab\u30c3\u30c8\u30aa\u30d5\u306e\u4e2d\u592e\u5024
+ja,MODEL_MDEPTH_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u691c\u51fa\u306e\u6df1\u3055\u306e\u4e2d\u592e\u5024
+ja,MODEL_MEANP_VLABEL,1.0,\u5e73\u5747\u4e88\u6e2c
+ja,MODEL_MINEQUALMAX_WARNING,1.0,\u6700\u5c0f\u3068\u6700\u5927\u304c\u540c\u3058\u3067\u3059\u3002FUZZ \u30aa\u30d7\u30b7\u30e7\u30f3\u304c\u6709\u52b9\u5316\u3055\u308c\u307e\u3059\u3002(%s)
+ja,MODEL_MISC_VLABEL,1.0,\u8aa4\u5206\u985e\u7387
+ja,MODEL_NOACTION_ERROR,1.0,SPK \u3068\u767b\u9332\u306e\u8981\u6c42\u306f\u4e21\u65b9\u3068\u3082 N \u306b\u8a2d\u5b9a\u3055\u308c\u3066\u3044\u308b\u305f\u3081\u3001\u30a2\u30af\u30b7\u30e7\u30f3\u306f\u884c\u308f\u308c\u307e\u305b\u3093\u3002
+ja,MODEL_NOBS_VLABEL,1.0,\u30aa\u30d6\u30b6\u30d9\u30fc\u30b7\u30e7\u30f3\u6570
+ja,MODEL_NODATA_ERROR,1.0,\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8 %s \u306f\u4f7f\u7528\u3067\u304d\u307e\u305b\u3093\u3002
+ja,MODEL_NODEPENDECYVARIABLES_NOTE,1.0,\u30b3\u30fc\u30c9\u306b\u5909\u6570\u306e\u4f9d\u5b58\u95a2\u4fc2\u304c\u898b\u3064\u304b\u308a\u307e\u305b\u3093\u3002
+ja,MODEL_NOINPUTMETADATA_ERROR,1.0,\u5165\u529b\u5909\u6570\u306e\u30e1\u30bf\u30c7\u30fc\u30bf\u3092\u751f\u6210\u3067\u304d\u307e\u305b\u3093\u3002
+ja,MODEL_NOMODELNAME_NOTE,1.0,\u30e2\u30c7\u30eb\u540d\u304c\u6307\u5b9a\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002\u30c7\u30d5\u30a9\u30eb\u30c8\u540d %s \u304c\u4f7f\u7528\u3055\u308c\u307e\u3059\u3002
+ja,MODEL_NONEVENTCOUNT_VLABEL,1.0,\u975e\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,MODEL_NONEVENTRATE_VLABEL,1.0,\u975e\u30a4\u30d9\u30f3\u30c8\u306e\u9069\u5408\u7387
+ja,MODEL_NOOUTPUTVAR_ERROR,1.0,\u51fa\u529b\u5909\u6570\u304c\u5b9a\u7fa9\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,MODEL_NOSCORECODEFILE_ERROR,1.0,\u30b9\u30b3\u30a2\u30b3\u30fc\u30c9\u30d5\u30a1\u30a4\u30eb\u304c\u6307\u5b9a\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,MODEL_NOSPKFOLDERNAME_ERROR,1.0,SPK \u30d5\u30a9\u30eb\u30c0\u540d\u304c\u6307\u5b9a\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,MODEL_NOTARGETEVENT_ERROR,1.0,\u30bf\u30fc\u30b2\u30c3\u30c8\u30a4\u30d9\u30f3\u30c8\u304c\u5b9a\u7fa9\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,MODEL_NOTARGETLEVEL_ERROR,1.0,\u30bf\u30fc\u30b2\u30c3\u30c8\u5909\u6570\u306b\u6e2c\u5b9a\u6c34\u6e96\u304c\u5b9a\u7fa9\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,MODEL_NOTARGET_ERROR,1.0,\u30bf\u30fc\u30b2\u30c3\u30c8\u5909\u6570\u304c\u5b9a\u7fa9\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,MODEL_NUMBINS_VLABEL,1.0,\u30d3\u30f3\u306e\u6570
+ja,MODEL_ONEMINUSSPECIFICITY_VLABEL,1.0,1 - \u7279\u7570\u5ea6
+ja,MODEL_OUTPUTVARIABLEXML_ERROR,1.0,\u51fa\u529b\u5909\u6570\u306e xml \u306e\u66f8\u304d\u8fbc\u307f\u306b\u5931\u6557\u3057\u307e\u3057\u305f\u3002
+ja,MODEL_OUTPUTVAR_VLABEL,1.0,\u51fa\u529b\u5909\u6570
+ja,MODEL_PCTEVENT_VLABEL,1.0,\u30a4\u30d9\u30f3\u30c8\u306e\u30d1\u30fc\u30bb\u30f3\u30c8
+ja,MODEL_PCTNONEVENT_VLABEL,1.0,\u975e\u30a4\u30d9\u30f3\u30c8\u306e\u30d1\u30fc\u30bb\u30f3\u30c8
+ja,MODEL_PMMLFILENOTFOUND_ERROR,1.0,\u6307\u5b9a\u3057\u305f pmml \u30d5\u30a1\u30a4\u30eb %s \u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,MODEL_PREDCOUNT_VLABEL,1.0,\u4e88\u6e2c\u5ea6\u6570
+ja,MODEL_PREDICTCUT_VLABEL,1.0,\u30ab\u30c3\u30c8\u30aa\u30d5 %s \u306e\u4e88\u6e2c
+ja,MODEL_PREDICTEDBINMEAN_VLABEL,1.0,\u4e88\u6e2c\u30d3\u30f3\u5e73\u5747
+ja,MODEL_PREDICTEDMAX_VLABEL,1.0,\u6700\u5927\u4e88\u6e2c
+ja,MODEL_PREDICTEDMIN_VLABEL,1.0,\u6700\u5c0f\u4e88\u6e2c
+ja,MODEL_PREDICTIONATCUTOFF_VLABEL,1.0,\u30ab\u30c3\u30c8\u30aa\u30d5 %s \u306e\u4e88\u6e2c
+ja,MODEL_PREDMISS_VLABEL,1.0,\u4e88\u6e2c\u6b20\u640d
+ja,MODEL_RANKINGVARNOTFOUND_ERROR,1.0,\u30e9\u30f3\u30af\u4ed8\u3051\u5909\u6570 %s \u304c\u30c7\u30fc\u30bf\u306b\u898b\u3064\u304b\u308a\u307e\u305b\u3093\u3002
+ja,MODEL_RASE_VLABEL,1.0,\u5e73\u5747\u5e73\u65b9\u8aa4\u5dee (ASE) \u306e\u5e73\u65b9\u6839
+ja,MODEL_REPOSITORYNOTFOUND_ERROR,1.0,\u30ea\u30dd\u30b8\u30c8\u30ea\u30d5\u30a9\u30eb\u30c0 %s \u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,MODEL_RESIDUALBINMEAN_VLABEL,1.0,\u6b8b\u5dee\u30d3\u30f3\u5e73\u5747
+ja,MODEL_RESIDUALMAX_VLABEL,1.0,\u6b8b\u5dee\u6700\u5927
+ja,MODEL_RESIDUALMIN_VLABEL,1.0,\u6b8b\u5dee\u6700\u5c0f
+ja,MODEL_RESIDUALSQUAREDBINMEAN_VLABEL,1.0,\u6b8b\u5dee\u5e73\u65b9\u30d3\u30f3\u5e73\u5747
+ja,MODEL_SCORECODEFILENOTFOUND_ERROR,1.0,\u30b9\u30b3\u30a2\u30b3\u30fc\u30c9\u30d5\u30a1\u30a4\u30eb %s \u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,MODEL_SEGMENTVARNOTFOUND_ERROR,1.0,\u30bb\u30b0\u30e1\u30f3\u30c8\u5909\u6570 %s \u304c\u30c7\u30fc\u30bf\u306b\u898b\u3064\u304b\u308a\u307e\u305b\u3093\u3002
+ja,MODEL_SENSITIVITY_VLABEL,1.0,\u611f\u5ea6
+ja,MODEL_SEPARATIONKS_VLABEL,1.0,\u5206\u96e2 - KS
+ja,MODEL_SPECIFICITY_VLABEL,1.0,\u7279\u7570\u5ea6
+ja,MODEL_SSE_VLABEL,1.0,\u8aa4\u5dee\u5e73\u65b9\u548c
+ja,MODEL_STDP_VLABEL,1.0,\u4e88\u6e2c\u6a19\u6e96\u504f\u5dee
+ja,MODEL_SUMMARIZEEVENT_NOTE,1.0,\u5909\u6570 %#2s \u306e\u30a4\u30d9\u30f3\u30c8 %#1s \u3092\u691c\u51fa\u3057\u3066\u304f\u3060\u3055\u3044\u3002
+ja,MODEL_SUMMARIZENOEVENT_NOTE,1.0,\u30a4\u30d9\u30f3\u30c8\u304c\u6307\u5b9a\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002
+ja,MODEL_SUMMARIZE_NOTE,1.0,"\u5909\u6570 %#1s \u306f\u9593\u9694 ( %#2s, %#3s) \u306b\u5bfe\u3057\u3066\u8981\u7d04\u3055\u308c\u307e\u3059\u3002"
+ja,MODEL_TARGETBINMEAN_VLABEL,1.0,\u30bf\u30fc\u30b2\u30c3\u30c8\u30d3\u30f3\u5e73\u5747
+ja,MODEL_TARGETCOUNT_VLABEL,1.0,\u30bf\u30fc\u30b2\u30c3\u30c8\u5ea6\u6570
+ja,MODEL_TARGETEVENT_VLABEL,1.0,\u30bf\u30fc\u30b2\u30c3\u30c8\u30a4\u30d9\u30f3\u30c8
+ja,MODEL_TARGETLEVEL_VLABEL,1.0,\u30bf\u30fc\u30b2\u30c3\u30c8\u6c34\u6e96
+ja,MODEL_TARGETMAX_VLABEL,1.0,\u6700\u5927\u30bf\u30fc\u30b2\u30c3\u30c8
+ja,MODEL_TARGETMIN_VLABEL,1.0,\u6700\u5c0f\u30bf\u30fc\u30b2\u30c3\u30c8
+ja,MODEL_TARGETMISS_VLABEL,1.0,\u30bf\u30fc\u30b2\u30c3\u30c8\u6b20\u640d
+ja,MODEL_TARGETVALUE_VLABEL,1.0,\u30bf\u30fc\u30b2\u30c3\u30c8\u5024
+ja,MODEL_TARGETVARNOTFOUND_ERROR,1.0,\u30bf\u30fc\u30b2\u30c3\u30c8\u5909\u6570 %s \u304c\u30c7\u30fc\u30bf\u306b\u898b\u3064\u304b\u308a\u307e\u305b\u3093\u3002
+ja,MODEL_TARGET_VLABEL,1.0,\u30bf\u30fc\u30b2\u30c3\u30c8\u5909\u6570
+ja,MODEL_TCCUT_VLABEL,1.0,\u5b66\u7fd2: \u5206\u985e\u30ab\u30c3\u30c8\u30aa\u30d5
+ja,MODEL_TCEVENTPCT_VLABEL,1.0,\u5b66\u7fd2: \u30a4\u30d9\u30f3\u30c8\u306e\u7d2f\u7a4d\u30d1\u30fc\u30bb\u30f3\u30c8
+ja,MODEL_TCGAIN_VLABEL,1.0,\u5b66\u7fd2: \u7d2f\u7a4d\u30b2\u30a4\u30f3
+ja,MODEL_TCLIFT_VLABEL,1.0,\u5b66\u7fd2: \u7d2f\u7a4d\u30ea\u30d5\u30c8
+ja,MODEL_TCORRECTRATE_VLABEL,1.0,\u5b66\u7fd2: \u5168\u4f53\u306e\u9069\u5408\u7387
+ja,MODEL_TCRCUT_VLABEL,1.0,\u5b66\u7fd2: CR\u30ab\u30c3\u30c8\u30aa\u30d5
+ja,MODEL_TCRDEPTH_VLABEL,1.0,\u5b66\u7fd2: CR\u30b5\u30f3\u30d7\u30eb\u306e\u6df1\u3055
+ja,MODEL_TCR_VLABEL,1.0,\u5b66\u7fd2: \u6700\u5927\u5206\u985e\u7387 (CR)
+ja,MODEL_TDEPTH_VLABEL,1.0,\u5b66\u7fd2: \u6df1\u3055
+ja,MODEL_TERRORRATE_VLABEL,1.0,\u5b66\u7fd2: \u904e\u8aa4\u7387
+ja,MODEL_TEVENTCOUNT_VLABEL,1.0,\u5b66\u7fd2: \u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,MODEL_TEVENTMISSCOUNT_VLABEL,1.0,\u5b66\u7fd2: \u4e88\u6e2c\u304c\u6b20\u640d\u3057\u3066\u3044\u308b\u30a4\u30d9\u30f3\u30c8
+ja,MODEL_TEVENTRATE_VLABEL,1.0,\u5b66\u7fd2: \u30a4\u30d9\u30f3\u30c8\u306e\u9069\u5408\u7387
+ja,MODEL_TGAIN_VLABEL,1.0,\u5b66\u7fd2: \u30b2\u30a4\u30f3
+ja,MODEL_TKSCUT_VLABEL,1.0,\u5b66\u7fd2: KS\u30ab\u30c3\u30c8\u30aa\u30d5
+ja,MODEL_TKSDEPTH_VLABEL,1.0,\u5b66\u7fd2: KS\u30b5\u30f3\u30d7\u30eb\u306e\u6df1\u3055
+ja,MODEL_TKSREF_VLABEL,1.0,\u5b66\u7fd2: KS\u53c2\u7167\u7dda
+ja,MODEL_TKSR_VLABEL,1.0,\u5b66\u7fd2: \u6700\u5927\u5206\u96e2
+ja,MODEL_TKS_VLABEL,1.0,\u5b66\u7fd2: Kolmogorov-Smirnov (KS)
+ja,MODEL_TLIFT_VLABEL,1.0,\u5b66\u7fd2: \u30ea\u30d5\u30c8
+ja,MODEL_TMCUT_VLABEL,1.0,\u5b66\u7fd2: \u30a4\u30d9\u30f3\u30c8\u691c\u51fa\u306e\u30ab\u30c3\u30c8\u30aa\u30d5\u306e\u4e2d\u592e\u5024
+ja,MODEL_TMDEPTH_VLABEL,1.0,\u5b66\u7fd2: \u30a4\u30d9\u30f3\u30c8\u691c\u51fa\u306e\u6df1\u3055\u306e\u4e2d\u592e\u5024
+ja,MODEL_TNOBS_VLABEL,1.0,\u5b66\u7fd2: \u30aa\u30d6\u30b6\u30d9\u30fc\u30b7\u30e7\u30f3\u6570
+ja,MODEL_TNONEVENTCOUNT_VLABEL,1.0,\u5b66\u7fd2: \u975e\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,MODEL_TNONEVENTRATE_VLABEL,1.0,\u5b66\u7fd2: \u975e\u30a4\u30d9\u30f3\u30c8\u306e\u9069\u5408\u7387
+ja,MODEL_TOTALCOUNT_VLABEL,1.0,\u5408\u8a08\u6570
+ja,MODEL_TPREDCOUNT_VLABEL,1.0,\u5b66\u7fd2: \u4e88\u6e2c\u5ea6\u6570
+ja,MODEL_TPREDICTCUT_VLABEL,1.0,\u5b66\u7fd2: \u30ab\u30c3\u30c8\u30aa\u30d5 %s \u306e\u4e88\u6e2c
+ja,MODEL_TPREDMISS_VLABEL,1.0,\u5b66\u7fd2: \u4e88\u6e2c\u6b20\u640d
+ja,MODEL_TRAINASE_VLABEL,1.0,\u5b66\u7fd2: \u5e73\u5747\u5e73\u65b9\u8aa4\u5dee (ASE)
+ja,MODEL_TRAINDIV_VLABEL,1.0,\u5b66\u7fd2: ASE\u306e\u9664\u6570
+ja,MODEL_TRAININGFILENOTFOUND_ERROR,1.0,\u6307\u5b9a\u3057\u305f\u5b66\u7fd2\u30d5\u30a1\u30a4\u30eb %s \u306f\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,MODEL_TRAINMISC_VLABEL,1.0,\u5b66\u7fd2: \u8aa4\u5206\u985e\u7387
+ja,MODEL_TRAINRASE_VLABEL,1.0,\u5b66\u7fd2: \u5e73\u5747\u5e73\u65b9\u8aa4\u5dee (ASE) \u306e\u5e73\u65b9\u6839
+ja,MODEL_TRAINSSE_VLABEL,1.0,\u5b66\u7fd2: \u8aa4\u5dee\u5e73\u65b9\u548c
+ja,MODEL_TSEPARATIONKS_VLABEL,1.0,\u5b66\u7fd2: \u5206\u96e2 - KS
+ja,MODEL_TTARGETCOUNT_VLABEL,1.0,\u5b66\u7fd2: \u30bf\u30fc\u30b2\u30c3\u30c8\u5ea6\u6570
+ja,MODEL_TTARGETMISS_VLABEL,1.0,\u5b66\u7fd2: \u30bf\u30fc\u30b2\u30c3\u30c8\u6b20\u640d
+ja,MODEL_TTARGETVALUE_VLABEL,1.0,\u5b66\u7fd2: \u30bf\u30fc\u30b2\u30c3\u30c8\u5024
+ja,MODEL_TTOTALCOUNT_VLABEL,1.0,\u5b66\u7fd2: \u5408\u8a08\u6570
+ja,MODEL_VARSNOTFOUND_ERROR,1.0,\u5909\u6570 %#1s \u306f\u30c7\u30fc\u30bf\u30bb\u30c3\u30c8 %#2s \u306b\u5b58\u5728\u3057\u307e\u305b\u3093\u3002
+ja,MODEL_VASE_VLABEL,1.0,\u691c\u8a3c: \u5e73\u5747\u5e73\u65b9\u8aa4\u5dee (ASE)
+ja,MODEL_VCCUT_VLABEL,1.0,\u691c\u8a3c: \u5206\u985e\u30ab\u30c3\u30c8\u30aa\u30d5
+ja,MODEL_VCEVENTPCT_VLABEL,1.0,\u691c\u8a3c: \u30a4\u30d9\u30f3\u30c8\u306e\u7d2f\u7a4d\u30d1\u30fc\u30bb\u30f3\u30c8
+ja,MODEL_VCGAIN_VLABEL,1.0,\u691c\u8a3c: \u7d2f\u7a4d\u30b2\u30a4\u30f3
+ja,MODEL_VCLIFT_VLABEL,1.0,\u691c\u8a3c: \u7d2f\u7a4d\u30ea\u30d5\u30c8
+ja,MODEL_VCORRECTRATE_VLABEL,1.0,\u691c\u8a3c: \u5168\u4f53\u306e\u9069\u5408\u7387
+ja,MODEL_VCRCUT_VLABEL,1.0,\u691c\u8a3c: CR\u30ab\u30c3\u30c8\u30aa\u30d5
+ja,MODEL_VCRDEPTH_VLABEL,1.0,\u691c\u8a3c: CR\u30b5\u30f3\u30d7\u30eb\u306e\u6df1\u3055
+ja,MODEL_VCR_VLABEL,1.0,\u691c\u8a3c: \u6700\u5927\u5206\u985e\u7387 (CR)
+ja,MODEL_VCVP_VLABEL,1.0,\u691c\u8a3c: \u4e88\u6e2c\u306e\u5909\u52d5\u4fc2\u6570
+ja,MODEL_VDEPTH_VLABEL,1.0,\u691c\u8a3c: \u6df1\u3055
+ja,MODEL_VDIV_VLABEL,1.0,\u691c\u8a3c: ASE\u306e\u9664\u6570
+ja,MODEL_VERRORRATE_VLABEL,1.0,\u691c\u8a3c: \u904e\u8aa4\u7387
+ja,MODEL_VEVENTCOUNT_VLABEL,1.0,\u691c\u8a3c: \u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,MODEL_VEVENTMISSCOUNT_VLABEL,1.0,\u691c\u8a3c: \u4e88\u6e2c\u304c\u6b20\u640d\u3057\u3066\u3044\u308b\u30a4\u30d9\u30f3\u30c8
+ja,MODEL_VEVENTRATE_VLABEL,1.0,\u691c\u8a3c: \u30a4\u30d9\u30f3\u30c8\u306e\u9069\u5408\u7387
+ja,MODEL_VGAIN_VLABEL,1.0,\u691c\u8a3c: \u30b2\u30a4\u30f3
+ja,MODEL_VKSCUT_VLABEL,1.0,\u691c\u8a3c: KS\u30ab\u30c3\u30c8\u30aa\u30d5
+ja,MODEL_VKSDEPTH_VLABEL,1.0,\u691c\u8a3c: KS\u30b5\u30f3\u30d7\u30eb\u306e\u6df1\u3055
+ja,MODEL_VKSREF_VLABEL,1.0,\u691c\u8a3c: KS\u53c2\u7167\u7dda
+ja,MODEL_VKSR_VLABEL,1.0,\u691c\u8a3c: \u6700\u5927\u5206\u96e2
+ja,MODEL_VKS_VLABEL,1.0,\u691c\u8a3c: Kolmogorov-Smirnov (KS)
+ja,MODEL_VLIFT_VLABEL,1.0,\u691c\u8a3c: \u30ea\u30d5\u30c8
+ja,MODEL_VMCUT_VLABEL,1.0,\u691c\u8a3c: \u30a4\u30d9\u30f3\u30c8\u691c\u51fa\u306e\u30ab\u30c3\u30c8\u30aa\u30d5\u306e\u4e2d\u592e\u5024
+ja,MODEL_VMDEPTH_VLABEL,1.0,\u691c\u8a3c: \u30a4\u30d9\u30f3\u30c8\u691c\u51fa\u306e\u6df1\u3055\u306e\u4e2d\u592e\u5024
+ja,MODEL_VMEANP_VLABEL,1.0,\u691c\u8a3c: \u5e73\u5747\u4e88\u6e2c
+ja,MODEL_VMISC_VLABEL,1.0,\u691c\u8a3c: \u8aa4\u5206\u985e\u7387
+ja,MODEL_VNOBS_VLABEL,1.0,\u691c\u8a3c: \u30aa\u30d6\u30b6\u30d9\u30fc\u30b7\u30e7\u30f3\u6570
+ja,MODEL_VNONEVENTCOUNT_VLABEL,1.0,\u691c\u8a3c: \u975e\u30a4\u30d9\u30f3\u30c8\u5ea6\u6570
+ja,MODEL_VNONEVENTRATE_VLABEL,1.0,\u691c\u8a3c: \u975e\u30a4\u30d9\u30f3\u30c8\u306e\u9069\u5408\u7387
+ja,MODEL_VPREDCOUNT_VLABEL,1.0,\u691c\u8a3c: \u4e88\u6e2c\u5ea6\u6570
+ja,MODEL_VPREDICTCUT_VLABEL,1.0,\u691c\u8a3c: \u30ab\u30c3\u30c8\u30aa\u30d5 %s \u306e\u4e88\u6e2c
+ja,MODEL_VPREDMISS_VLABEL,1.0,\u691c\u8a3c: \u4e88\u6e2c\u6b20\u640d
+ja,MODEL_VRASE_VLABEL,1.0,\u691c\u8a3c: \u5e73\u5747\u5e73\u65b9\u8aa4\u5dee (ASE) \u306e\u5e73\u65b9\u6839
+ja,MODEL_VSEPARATIONKS_VLABEL,1.0,\u691c\u8a3c: \u5206\u96e2 - KS
+ja,MODEL_VSSE_VLABEL,1.0,\u691c\u8a3c: \u8aa4\u5dee\u5e73\u65b9\u548c
+ja,MODEL_VSTDP_VLABEL,1.0,\u691c\u8a3c: \u4e88\u6e2c\u6a19\u6e96\u504f\u5dee
+ja,MODEL_VTARGETCOUNT_VLABEL,1.0,\u691c\u8a3c: \u30bf\u30fc\u30b2\u30c3\u30c8\u5ea6\u6570
+ja,MODEL_VTARGETMISS_VLABEL,1.0,\u691c\u8a3c: \u30bf\u30fc\u30b2\u30c3\u30c8\u6b20\u640d
+ja,MODEL_VTARGETVALUE_VLABEL,1.0,\u691c\u8a3c: \u30bf\u30fc\u30b2\u30c3\u30c8\u5024
+ja,MODEL_VTOTALCOUNT_VLABEL,1.0,\u691c\u8a3c: \u5408\u8a08\u6570
+ja,MODEL_WRONGVARLEVEL_ERROR,1.0,\u5909\u6570 %#2s \u306e\u6c34\u6e96\u306e\u7a2e\u985e %#1s \u306f\u4e0d\u660e\u3067\u3059\u3002
+ko,MODEL_ASE_VLABEL,1.0,\ud3c9\uade0\uc81c\uacf1\uc624\ucc28
+ko,MODEL_CCUT_VLABEL,1.0,\ubd84\ub958 \uc808\uc0ac\uac12
+ko,MODEL_CODEDEPENDENCY_ERROR,1.0,\ucf54\ub4dc \ubcc0\uc218 \uc885\uc18d \uad00\uacc4\ub97c \ud655\uc778\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_CORRECTRATE_VLABEL,1.0,\uc804\uccb4 \uc815\ubc00\ub3c4 \ube44\uc728
+ko,MODEL_CRCUT_VLABEL,1.0,CR \uc808\uc0ac\uac12
+ko,MODEL_CRDEPTH_VLABEL,1.0,CR \ud45c\ubcf8 \uc2ec\ub3c4
+ko,MODEL_CREATEINTERMEDIATEFILE_ERROR,1.0,\uc911\uac04 \ud30c\uc77c \uc0dd\uc131\uc5d0 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4.
+ko,MODEL_CR_VLABEL,1.0,\ucd5c\ub300 \ubd84\ub958 \ube44\uc728(CR)
+ko,MODEL_CUMEVENTCOUNT_VLABEL,1.0,\ub204\uc801 \uc774\ubca4\ud2b8 \uc218
+ko,MODEL_CUMLIFT_VLABEL,1.0,\ub204\uc801 \ub9ac\ud504\ud2b8
+ko,MODEL_CUMNOBS_VLABEL,1.0,\ub204\uc801 \uad00\uce21\uac12 \uc218
+ko,MODEL_CUMNONEVENTCOUNT_VLABEL,1.0,\ub204\uc801 \ube44\uc774\ubca4\ud2b8 \uc218
+ko,MODEL_CUMPCTEVENT_VLABEL,1.0,\ub204\uc801 \uc774\ubca4\ud2b8 \ubc31\ubd84\uc728
+ko,MODEL_CUMPCTNONEVENT_VLABEL,1.0,\ub204\uc801 \ube44\uc774\ubca4\ud2b8 \ubc31\ubd84\uc728
+ko,MODEL_CUMPREDCOUNT_VLABEL,1.0,\ub204\uc801 \uc608\uce21 \uc218
+ko,MODEL_CVP_VLABEL,1.0,\uc608\uce21\uc758 \ubcc0\ub3d9\uacc4\uc218
+ko,MODEL_C_EVENT_PCT_VLABEL,1.0,\ub204\uc801 \uc774\ubca4\ud2b8 \ubc31\ubd84\uc728
+ko,MODEL_C_GAIN_VLABEL,1.0,\ub204\uc801 \uc774\ub4dd
+ko,MODEL_C_LIFT_VLABEL,1.0,\ub204\uc801 \ub9ac\ud504\ud2b8
+ko,MODEL_DATAROLE_VLABEL,1.0,\ub370\uc774\ud130 \uc5ed\ud560
+ko,MODEL_DEPENDENCYDATAERROR_ERROR,1.0,\uc885\uc18d \uad00\uacc4 \ub370\uc774\ud130\ub97c \uc5f4 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_DEPTH_C_EVENT_PCT_VLABEL,1.0,\ub204\uc801 \uc774\ubca4\ud2b8 \ubc31\ubd84\uc728(%s)
+ko,MODEL_DEPTH_C_GAIN_VLABEL,1.0,\ub204\uc801 \uc774\ub4dd(%s)
+ko,MODEL_DEPTH_C_LIFT_VLABEL,1.0,\ub204\uc801 \ub9ac\ud504\ud2b8(%s)
+ko,MODEL_DEPTH_GAIN_VLABEL,1.0,\uc774\ub4dd(%s)
+ko,MODEL_DEPTH_LIFT_VLABEL,1.0,\ub9ac\ud504\ud2b8(%s)
+ko,MODEL_DEPTH_TCEVENTPCT_VLABEL,1.0,\ud559\uc2b5: \ub204\uc801 \uc774\ubca4\ud2b8 \ubc31\ubd84\uc728(%s)
+ko,MODEL_DEPTH_TCGAIN_VLABEL,1.0,\ud559\uc2b5: \ub204\uc801 \uc774\ub4dd(%s)
+ko,MODEL_DEPTH_TCLIFT_VLABEL,1.0,\ud559\uc2b5: \ub204\uc801 \ub9ac\ud504\ud2b8(%s)
+ko,MODEL_DEPTH_TGAIN_VLABEL,1.0,\ud559\uc2b5: \uc774\ub4dd(%s)
+ko,MODEL_DEPTH_TLIFT_VLABEL,1.0,\ud559\uc2b5: \ub9ac\ud504\ud2b8(%s)
+ko,MODEL_DEPTH_VCEVENTPCT_VLABEL,1.0,\uac80\uc99d: \ub204\uc801 \uc774\ubca4\ud2b8 \ubc31\ubd84\uc728(%s)
+ko,MODEL_DEPTH_VCGAIN_VLABEL,1.0,\uac80\uc99d: \ub204\uc801 \uc774\ub4dd(%s)
+ko,MODEL_DEPTH_VCLIFT_VLABEL,1.0,\uac80\uc99d: \ub204\uc801 \ub9ac\ud504\ud2b8(%s)
+ko,MODEL_DEPTH_VGAIN_VLABEL,1.0,\uac80\uc99d: \uc774\ub4dd(%s)
+ko,MODEL_DEPTH_VLABEL,1.0,\uc2ec\ub3c4
+ko,MODEL_DEPTH_VLIFT_VLABEL,1.0,\uac80\uc99d: \ub9ac\ud504\ud2b8(%s)
+ko,MODEL_DIV_VLABEL,1.0,ASE\uc758 \ubd84\ubaa8
+ko,MODEL_ERRORRATE_VLABEL,1.0,\uc624\ub958\uc728
+ko,MODEL_EVENTCOUNT_VLABEL,1.0,\uc774\ubca4\ud2b8 \uc218
+ko,MODEL_EVENTMISS_VLABEL,1.0,\uc608\uce21 \uacb0\uce21 \uac12\uc774 \uc788\ub294 \uc774\ubca4\ud2b8
+ko,MODEL_EVENTRATE_VLABEL,1.0,\uc774\ubca4\ud2b8 \uc815\ubc00\ub3c4 \ube44\uc728
+ko,MODEL_EVENTTOCOUNT_NOTE,1.0,%s \uc774\ubca4\ud2b8 \uc218\ub97c \uc149\ub2c8\ub2e4.
+ko,MODEL_FREQVARNOTFOUND_ERROR,1.0,\ub370\uc774\ud130\uc5d0\uc11c \ube48\ub3c4 \ubcc0\uc218 %s\uc744(\ub97c) \ucc3e\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_GAIN_VLABEL,1.0,\uc774\ub4dd
+ko,MODEL_INCONSISTENTITEMSTORE_ERROR,1.0,Itemstore\uac00 \uc77c\uce58\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \uc77c\ubd80 \ud074\ub798\uc2a4 \ubcc0\uc218\ub97c VariableInfo \ud14c\uc774\ube14\uc5d0\uc11c \ucc3e\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_INPUTVARIABLEXML_ERROR,1.0,\uc785\ub825 \ubcc0\uc218 xml \uc791\uc131\uc5d0 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4.
+ko,MODEL_INVALIDNUMBINS_ERROR,1.0,Bin \uac1c\uc218\uac00 \uc62c\ubc14\ub974\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \uc22b\uc790\uac00 2\ubcf4\ub2e4 \ud06c\uac70\ub098 \uac19\uc544\uc57c \ud569\ub2c8\ub2e4.
+ko,MODEL_ITEMSTOREINFONOTFOUND_ERROR,1.0,Itemstore \uc815\ubcf4\uac00 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_ITEMSTORENOPROGRAM_WARNING,1.0,Itemstore\uc5d0 \ud559\uc2b5 \ud504\ub85c\uadf8\ub7a8\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.
+ko,MODEL_ITEMSTORENOTFOUND_ERROR,1.0,%s Itemstore\uac00 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_KSCUT_VLABEL,1.0,KS \uc808\uc0ac\uac12
+ko,MODEL_KSDEPTH_VLABEL,1.0,KS \ud45c\ubcf8 \uc2ec\ub3c4
+ko,MODEL_KSREF_VLABEL,1.0,KS \ucc38\uc870\uc120
+ko,MODEL_KSR_VLABEL,1.0,\ucd5c\ub300 \ucc28\uc774
+ko,MODEL_KS_VLABEL,1.0,Kolmogorov-Smirnov(KS)
+ko,MODEL_LIFT_VLABEL,1.0,\ub9ac\ud504\ud2b8
+ko,MODEL_LOADINGEVAL_NOTE,1.0,aa_model_eval \ub9e4\ud06c\ub85c \ub85c\ub4dc \uc911
+ko,MODEL_LOADINGREGISTER_NOTE,1.0,aa_model_register \ub9e4\ud06c\ub85c \ub85c\ub4dc \uc911
+ko,MODEL_MCUT_VLABEL,1.0,\uc911\uc559 \uc774\ubca4\ud2b8 \ud0d0\uc9c0 \uc808\uc0ac\uac12
+ko,MODEL_MDEPTH_VLABEL,1.0,\uc911\uc559 \uc774\ubca4\ud2b8 \ud0d0\uc9c0 \uc2ec\ub3c4
+ko,MODEL_MEANP_VLABEL,1.0,\ud3c9\uade0\uc608\uce21
+ko,MODEL_MINEQUALMAX_WARNING,1.0,\ucd5c\uc19f\uac12\uc774 \ucd5c\ub313\uac12\uacfc \uac19\uc2b5\ub2c8\ub2e4. FUZZ \uc635\uc158\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. (%s)
+ko,MODEL_MISC_VLABEL,1.0,\uc624\ubd84\ub958 \ube44\uc728
+ko,MODEL_NOACTION_ERROR,1.0,SPK\uc5d0 \ub300\ud55c \uc694\uccad\uacfc \ub4f1\ub85d\uc744 \ubaa8\ub450 N\uc73c\ub85c \uc124\uc815\ud55c \uc774\ud6c4 \uc2e4\ud589\ud55c \uc791\uc5c5\uc774 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_NOBS_VLABEL,1.0,\uad00\uce21\uac12 \uc218
+ko,MODEL_NODATA_ERROR,1.0,%s \ub370\uc774\ud130\uc14b\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_NODEPENDECYVARIABLES_NOTE,1.0,\ucf54\ub4dc\uc5d0\uc11c \ubcc0\uc218 \uc885\uc18d \uad00\uacc4\ub97c \ucc3e\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_NOINPUTMETADATA_ERROR,1.0,\uc785\ub825 \ubcc0\uc218\uc758 \uba54\ud0c0\ub370\uc774\ud130\ub97c \uc0dd\uc131\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_NOMODELNAME_NOTE,1.0,\ubaa8\ub378 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4. \uae30\ubcf8 \uc774\ub984 %s\uc774(\uac00) \uc0ac\uc6a9\ub429\ub2c8\ub2e4.
+ko,MODEL_NONEVENTCOUNT_VLABEL,1.0,\ube44\uc774\ubca4\ud2b8 \uc218
+ko,MODEL_NONEVENTRATE_VLABEL,1.0,\ube44\uc774\ubca4\ud2b8 \uc815\ubc00\ub3c4 \ube44\uc728
+ko,MODEL_NOOUTPUTVAR_ERROR,1.0,\ucd9c\ub825 \ubcc0\uc218\ub97c \uc815\uc758\ud558\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,MODEL_NOSCORECODEFILE_ERROR,1.0,\uc2a4\ucf54\uc5b4 \ucf54\ub4dc \ud30c\uc77c\uc744 \uc9c0\uc815\ud558\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,MODEL_NOSPKFOLDERNAME_ERROR,1.0,SPK \ud3f4\ub354 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,MODEL_NOTARGETEVENT_ERROR,1.0,\ud0c0\uac9f \uc774\ubca4\ud2b8\ub97c \uc815\uc758\ud558\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,MODEL_NOTARGETLEVEL_ERROR,1.0,\ud0c0\uac9f \ubcc0\uc218\uc758 \uce21\ub3c4 \ub808\ubca8\uc744 \uc815\uc758\ud558\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,MODEL_NOTARGET_ERROR,1.0,\ud0c0\uac9f \ubcc0\uc218\ub97c \uc815\uc758\ud558\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,MODEL_NUMBINS_VLABEL,1.0,Bin \uac1c\uc218
+ko,MODEL_ONEMINUSSPECIFICITY_VLABEL,1.0,1 - \ud2b9\uc774\ub3c4
+ko,MODEL_OUTPUTVARIABLEXML_ERROR,1.0,\ucd9c\ub825 \ubcc0\uc218 xml \uc791\uc131\uc5d0 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4.
+ko,MODEL_OUTPUTVAR_VLABEL,1.0,\ucd9c\ub825 \ubcc0\uc218
+ko,MODEL_PCTEVENT_VLABEL,1.0,\uc774\ubca4\ud2b8 \ubc31\ubd84\uc728
+ko,MODEL_PCTNONEVENT_VLABEL,1.0,\ube44\uc774\ubca4\ud2b8 \ubc31\ubd84\uc728
+ko,MODEL_PMMLFILENOTFOUND_ERROR,1.0,\uc9c0\uc815\ud55c PMML \ud30c\uc77c %s\uc774(\uac00) \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_PREDCOUNT_VLABEL,1.0,\uc608\uce21 \uc218
+ko,MODEL_PREDICTCUT_VLABEL,1.0,%s \uc808\uc0ac\uac12\uc5d0\uc11c \uc608\uce21
+ko,MODEL_PREDICTEDBINMEAN_VLABEL,1.0,\uc608\uce21 Bin \ud3c9\uade0
+ko,MODEL_PREDICTEDMAX_VLABEL,1.0,\uc608\uce21 \ucd5c\ub313\uac12
+ko,MODEL_PREDICTEDMIN_VLABEL,1.0,\uc608\uce21 \ucd5c\uc19f\uac12
+ko,MODEL_PREDICTIONATCUTOFF_VLABEL,1.0,%s \uc808\uc0ac\uac12\uc5d0\uc11c \uc608\uce21
+ko,MODEL_PREDMISS_VLABEL,1.0,\uc608\uce21 \uacb0\uce21 \uac12
+ko,MODEL_RANKINGVARNOTFOUND_ERROR,1.0,\ub370\uc774\ud130\uc5d0\uc11c \uc21c\uc704\ud654 \ubcc0\uc218 %s\uc744(\ub97c) \ucc3e\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_RASE_VLABEL,1.0,\uc81c\uacf1\uadfc\ud3c9\uade0\uc81c\uacf1\uc624\ucc28
+ko,MODEL_REPOSITORYNOTFOUND_ERROR,1.0,%s \ub808\ud30c\uc9c0\ud1a0\ub9ac \ud3f4\ub354\uac00 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_RESIDUALBINMEAN_VLABEL,1.0,\uc794\ucc28 Bin \ud3c9\uade0
+ko,MODEL_RESIDUALMAX_VLABEL,1.0,\uc794\ucc28 \ucd5c\ub313\uac12
+ko,MODEL_RESIDUALMIN_VLABEL,1.0,\uc794\ucc28 \ucd5c\uc19f\uac12
+ko,MODEL_RESIDUALSQUAREDBINMEAN_VLABEL,1.0,\uc794\ucc28 \uc81c\uacf1 Bin \ud3c9\uade0
+ko,MODEL_SCORECODEFILENOTFOUND_ERROR,1.0,%s \uc2a4\ucf54\uc5b4 \ucf54\ub4dc \ud30c\uc77c\uc774 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_SEGMENTVARNOTFOUND_ERROR,1.0,\ub370\uc774\ud130\uc5d0\uc11c \uc138\uadf8\uba3c\ud2b8 \ubcc0\uc218 %s\uc744(\ub97c) \ucc3e\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_SENSITIVITY_VLABEL,1.0,\ubbfc\uac10\ub3c4
+ko,MODEL_SEPARATIONKS_VLABEL,1.0,\ucc28\uc774 - KS
+ko,MODEL_SPECIFICITY_VLABEL,1.0,\ud2b9\uc774\ub3c4
+ko,MODEL_SSE_VLABEL,1.0,\uc624\ucc28\uc81c\uacf1\ud569
+ko,MODEL_STDP_VLABEL,1.0,\uc608\uce21\ud45c\uc900\ud3b8\ucc28
+ko,MODEL_SUMMARIZEEVENT_NOTE,1.0,%#2s \ubcc0\uc218\uc5d0 \ub300\ud574 %#1s \uc774\ubca4\ud2b8\ub97c \uac10\uc9c0\ud569\ub2c8\ub2e4.
+ko,MODEL_SUMMARIZENOEVENT_NOTE,1.0,\uc774\ubca4\ud2b8\ub97c \uc9c0\uc815\ud558\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4.
+ko,MODEL_SUMMARIZE_NOTE,1.0,"\uad6c\uac04(%#2s, %#3s)\uc5d0 \ub300\ud574 %#1s \ubcc0\uc218\ub97c \uc694\uc57d\ud569\ub2c8\ub2e4."
+ko,MODEL_TARGETBINMEAN_VLABEL,1.0,\ud0c0\uac9f Bin \ud3c9\uade0
+ko,MODEL_TARGETCOUNT_VLABEL,1.0,\ud0c0\uac9f \uc218
+ko,MODEL_TARGETEVENT_VLABEL,1.0,\ud0c0\uac9f \uc774\ubca4\ud2b8
+ko,MODEL_TARGETLEVEL_VLABEL,1.0,\ud0c0\uac9f \ub808\ubca8
+ko,MODEL_TARGETMAX_VLABEL,1.0,\ud0c0\uac9f \ucd5c\ub313\uac12
+ko,MODEL_TARGETMIN_VLABEL,1.0,\ud0c0\uac9f \ucd5c\uc19f\uac12
+ko,MODEL_TARGETMISS_VLABEL,1.0,\ud0c0\uac9f \uacb0\uce21 \uac12
+ko,MODEL_TARGETVALUE_VLABEL,1.0,\ud0c0\uac9f \uac12
+ko,MODEL_TARGETVARNOTFOUND_ERROR,1.0,\ub370\uc774\ud130\uc5d0\uc11c \ud0c0\uac9f \ubcc0\uc218 %s\uc744(\ub97c) \ucc3e\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_TARGET_VLABEL,1.0,\ud0c0\uac9f \ubcc0\uc218
+ko,MODEL_TCCUT_VLABEL,1.0,\ud559\uc2b5: \ubd84\ub958 \uc808\uc0ac\uac12
+ko,MODEL_TCEVENTPCT_VLABEL,1.0,\ud559\uc2b5: \ub204\uc801 \uc774\ubca4\ud2b8 \ubc31\ubd84\uc728
+ko,MODEL_TCGAIN_VLABEL,1.0,\ud559\uc2b5: \ub204\uc801 \uc774\ub4dd
+ko,MODEL_TCLIFT_VLABEL,1.0,\ud559\uc2b5: \ub204\uc801 \ub9ac\ud504\ud2b8
+ko,MODEL_TCORRECTRATE_VLABEL,1.0,\ud559\uc2b5: \uc804\uccb4 \uc815\ubc00\ub3c4 \ube44\uc728
+ko,MODEL_TCRCUT_VLABEL,1.0,\ud559\uc2b5: CR \uc808\uc0ac\uac12
+ko,MODEL_TCRDEPTH_VLABEL,1.0,\ud559\uc2b5: CR \ud45c\ubcf8 \uc2ec\ub3c4
+ko,MODEL_TCR_VLABEL,1.0,\ud559\uc2b5: \ucd5c\ub300 \ubd84\ub958 \ube44\uc728(CR)
+ko,MODEL_TDEPTH_VLABEL,1.0,\ud559\uc2b5: \uc2ec\ub3c4
+ko,MODEL_TERRORRATE_VLABEL,1.0,\ud559\uc2b5: \uc624\ub958\uc728
+ko,MODEL_TEVENTCOUNT_VLABEL,1.0,\ud559\uc2b5: \uc774\ubca4\ud2b8 \uc218
+ko,MODEL_TEVENTMISSCOUNT_VLABEL,1.0,\ud559\uc2b5: \uc608\uce21 \uacb0\uce21 \uac12\uc774 \uc788\ub294 \uc774\ubca4\ud2b8
+ko,MODEL_TEVENTRATE_VLABEL,1.0,\ud559\uc2b5: \uc774\ubca4\ud2b8 \uc815\ubc00\ub3c4 \ube44\uc728
+ko,MODEL_TGAIN_VLABEL,1.0,\ud559\uc2b5: \uc774\ub4dd
+ko,MODEL_TKSCUT_VLABEL,1.0,\ud559\uc2b5: KS \uc808\uc0ac\uac12
+ko,MODEL_TKSDEPTH_VLABEL,1.0,\ud559\uc2b5: KS \ud45c\ubcf8 \uc2ec\ub3c4
+ko,MODEL_TKSREF_VLABEL,1.0,\ud559\uc2b5: KS \ucc38\uc870\uc120
+ko,MODEL_TKSR_VLABEL,1.0,\ud559\uc2b5: \ucd5c\ub300 \ucc28\uc774
+ko,MODEL_TKS_VLABEL,1.0,\ud559\uc2b5: Kolmogorov-Smirnov(KS)
+ko,MODEL_TLIFT_VLABEL,1.0,\ud559\uc2b5: \ub9ac\ud504\ud2b8
+ko,MODEL_TMCUT_VLABEL,1.0,\ud559\uc2b5: \uc911\uc559 \uc774\ubca4\ud2b8 \ud0d0\uc9c0 \uc808\uc0ac\uac12
+ko,MODEL_TMDEPTH_VLABEL,1.0,\ud559\uc2b5: \uc911\uc559 \uc774\ubca4\ud2b8 \ud0d0\uc9c0 \uc2ec\ub3c4
+ko,MODEL_TNOBS_VLABEL,1.0,\ud559\uc2b5: \uad00\uce21\uac12 \uc218
+ko,MODEL_TNONEVENTCOUNT_VLABEL,1.0,\ud559\uc2b5: \ube44\uc774\ubca4\ud2b8 \uc218
+ko,MODEL_TNONEVENTRATE_VLABEL,1.0,\ud559\uc2b5: \ube44\uc774\ubca4\ud2b8 \uc815\ubc00\ub3c4 \ube44\uc728
+ko,MODEL_TOTALCOUNT_VLABEL,1.0,\ucd1d \uac1c\uc218
+ko,MODEL_TPREDCOUNT_VLABEL,1.0,\ud559\uc2b5: \uc608\uce21 \uc218
+ko,MODEL_TPREDICTCUT_VLABEL,1.0,\ud559\uc2b5: \uc808\uc0ac\uac12 %s \uc5d0\uc11c \uc608\uce21
+ko,MODEL_TPREDMISS_VLABEL,1.0,\ud559\uc2b5: \uc608\uce21 \uacb0\uce21 \uac12
+ko,MODEL_TRAINASE_VLABEL,1.0,\ud559\uc2b5: \ud3c9\uade0\uc81c\uacf1\uc624\ucc28
+ko,MODEL_TRAINDIV_VLABEL,1.0,\ud559\uc2b5: ASE\uc758 \ubd84\ubaa8
+ko,MODEL_TRAININGFILENOTFOUND_ERROR,1.0,\uc9c0\uc815\ud55c \ud559\uc2b5 \ud30c\uc77c %s\uc774(\uac00) \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_TRAINMISC_VLABEL,1.0,\ud559\uc2b5: \uc624\ubd84\ub958 \ube44\uc728
+ko,MODEL_TRAINRASE_VLABEL,1.0,\ud559\uc2b5: \uc81c\uacf1\uadfc\ud3c9\uade0\uc81c\uacf1\uc624\ucc28
+ko,MODEL_TRAINSSE_VLABEL,1.0,\ud559\uc2b5: \uc624\ucc28\uc81c\uacf1\ud569
+ko,MODEL_TSEPARATIONKS_VLABEL,1.0,\ud559\uc2b5: \ucc28\uc774 - KS
+ko,MODEL_TTARGETCOUNT_VLABEL,1.0,\ud559\uc2b5: \ud0c0\uac9f \uc218
+ko,MODEL_TTARGETMISS_VLABEL,1.0,\ud559\uc2b5: \ud0c0\uac9f \uacb0\uce21 \uac12
+ko,MODEL_TTARGETVALUE_VLABEL,1.0,\ud559\uc2b5: \ud0c0\uac9f \uac12
+ko,MODEL_TTOTALCOUNT_VLABEL,1.0,\ud559\uc2b5: \ucd1d \uac1c\uc218
+ko,MODEL_VARSNOTFOUND_ERROR,1.0,%#1s \ubcc0\uc218\ub294 %#2s \ub370\uc774\ud130\uc14b\uc5d0 \uc5c6\uc2b5\ub2c8\ub2e4.
+ko,MODEL_VASE_VLABEL,1.0,\uac80\uc99d: \ud3c9\uade0\uc81c\uacf1\uc624\ucc28
+ko,MODEL_VCCUT_VLABEL,1.0,\uac80\uc99d: \ubd84\ub958 \uc808\uc0ac\uac12
+ko,MODEL_VCEVENTPCT_VLABEL,1.0,\uac80\uc99d: \ub204\uc801 \uc774\ubca4\ud2b8 \ubc31\ubd84\uc728
+ko,MODEL_VCGAIN_VLABEL,1.0,\uac80\uc99d: \ub204\uc801 \uc774\ub4dd
+ko,MODEL_VCLIFT_VLABEL,1.0,\uac80\uc99d: \ub204\uc801 \ub9ac\ud504\ud2b8
+ko,MODEL_VCORRECTRATE_VLABEL,1.0,\uac80\uc99d: \uc804\uccb4 \uc815\ubc00\ub3c4 \ube44\uc728
+ko,MODEL_VCRCUT_VLABEL,1.0,\uac80\uc99d: CR \uc808\uc0ac\uac12
+ko,MODEL_VCRDEPTH_VLABEL,1.0,\uac80\uc99d: CR \ud45c\ubcf8 \uc2ec\ub3c4
+ko,MODEL_VCR_VLABEL,1.0,\uac80\uc99d: \ucd5c\ub300 \ubd84\ub958 \ube44\uc728(CR)
+ko,MODEL_VCVP_VLABEL,1.0,\uac80\uc99d: \uc608\uce21\uc758 \ubcc0\ub3d9\uacc4\uc218
+ko,MODEL_VDEPTH_VLABEL,1.0,\uac80\uc99d: \uc2ec\ub3c4
+ko,MODEL_VDIV_VLABEL,1.0,\uac80\uc99d: ASE\uc758 \ubd84\ubaa8
+ko,MODEL_VERRORRATE_VLABEL,1.0,\uac80\uc99d: \uc624\ub958\uc728
+ko,MODEL_VEVENTCOUNT_VLABEL,1.0,\uac80\uc99d: \uc774\ubca4\ud2b8 \uc218
+ko,MODEL_VEVENTMISSCOUNT_VLABEL,1.0,\uac80\uc99d: \uc608\uce21 \uacb0\uce21\uac12\uc774 \uc788\ub294 \uc774\ubca4\ud2b8
+ko,MODEL_VEVENTRATE_VLABEL,1.0,\uac80\uc99d: \uc774\ubca4\ud2b8 \uc815\ubc00\ub3c4 \ube44\uc728
+ko,MODEL_VGAIN_VLABEL,1.0,\uac80\uc99d: \uc774\ub4dd
+ko,MODEL_VKSCUT_VLABEL,1.0,\uac80\uc99d: KS \uc808\uc0ac\uac12
+ko,MODEL_VKSDEPTH_VLABEL,1.0,\uac80\uc99d: KS \ud45c\ubcf8 \uc2ec\ub3c4
+ko,MODEL_VKSREF_VLABEL,1.0,\uac80\uc99d: KS \ucc38\uc870\uc120
+ko,MODEL_VKSR_VLABEL,1.0,\uac80\uc99d: \ucd5c\ub300 \ucc28\uc774
+ko,MODEL_VKS_VLABEL,1.0,\uac80\uc99d: Kolmogorov-Smirnov(KS)
+ko,MODEL_VLIFT_VLABEL,1.0,\uac80\uc99d: \ub9ac\ud504\ud2b8
+ko,MODEL_VMCUT_VLABEL,1.0,\uac80\uc99d: \uc911\uc559 \uc774\ubca4\ud2b8 \ud0d0\uc9c0 \uc808\uc0ac\uac12
+ko,MODEL_VMDEPTH_VLABEL,1.0,\uac80\uc99d: \uc911\uc559 \uc774\ubca4\ud2b8 \ud0d0\uc9c0 \uc2ec\ub3c4
+ko,MODEL_VMEANP_VLABEL,1.0,\uac80\uc99d: \ud3c9\uade0 \uc608\uce21
+ko,MODEL_VMISC_VLABEL,1.0,\uac80\uc99d: \uc624\ubd84\ub958 \ube44\uc728
+ko,MODEL_VNOBS_VLABEL,1.0,\uac80\uc99d: \uad00\uce21\uac12 \uc218
+ko,MODEL_VNONEVENTCOUNT_VLABEL,1.0,\uac80\uc99d: \ube44\uc774\ubca4\ud2b8 \uc218
+ko,MODEL_VNONEVENTRATE_VLABEL,1.0,\uac80\uc99d: \ube44\uc774\ubca4\ud2b8 \uc815\ubc00\ub3c4 \ube44\uc728
+ko,MODEL_VPREDCOUNT_VLABEL,1.0,\uac80\uc99d: \uc608\uce21 \uc218
+ko,MODEL_VPREDICTCUT_VLABEL,1.0,\uac80\uc99d: %s \uc808\uc0ac\uac12\uc5d0\uc11c \uc608\uce21
+ko,MODEL_VPREDMISS_VLABEL,1.0,\uac80\uc99d: \uc608\uce21 \uacb0\uce21 \uac12
+ko,MODEL_VRASE_VLABEL,1.0,\uac80\uc99d: \uc81c\uacf1\uadfc\ud3c9\uade0\uc81c\uacf1\uc624\ucc28
+ko,MODEL_VSEPARATIONKS_VLABEL,1.0,\uac80\uc99d: \ucc28\uc774 - KS
+ko,MODEL_VSSE_VLABEL,1.0,\uac80\uc99d: \uc624\ucc28\uc81c\uacf1\ud569
+ko,MODEL_VSTDP_VLABEL,1.0,\uac80\uc99d: \uc608\uce21\ud45c\uc900\ud3b8\ucc28
+ko,MODEL_VTARGETCOUNT_VLABEL,1.0,\uac80\uc99d: \ud0c0\uac9f \uc218
+ko,MODEL_VTARGETMISS_VLABEL,1.0,\uac80\uc99d: \ud0c0\uac9f \uacb0\uce21 \uac12
+ko,MODEL_VTARGETVALUE_VLABEL,1.0,\uac80\uc99d: \ud0c0\uac9f \uac12
+ko,MODEL_VTOTALCOUNT_VLABEL,1.0,\uac80\uc99d: \ucd1d \uac1c\uc218
+ko,MODEL_WRONGVARLEVEL_ERROR,1.0,%#2s \ubcc0\uc218\uc5d0 \ub300\ud574 %#1s\uc740(\ub294) \uc54c \uc218 \uc5c6\ub294 \ub808\ubca8 \uc720\ud615\uc785\ub2c8\ub2e4.
+pl,MODEL_ASE_VLABEL,1.0,\u015aredni b\u0142\u0105d kwadratowy
+pl,MODEL_CCUT_VLABEL,1.0,Obci\u0119cie klasyfikacji
+pl,MODEL_CODEDEPENDENCY_ERROR,1.0,Unable to determine the code variable dependencies.
+pl,MODEL_CORRECTRATE_VLABEL,1.0,Ca\u0142kowity stopie\u0144 dok\u0142adno\u015bci
+pl,MODEL_CRCUT_VLABEL,1.0,Obci\u0119cie wsp. kl.
+pl,MODEL_CRDEPTH_VLABEL,1.0,G\u0142\u0119boko\u015b\u0107 pr\u00f3by wsp. kl.
+pl,MODEL_CREATEINTERMEDIATEFILE_ERROR,1.0,Intermediate file creation failed.
+pl,MODEL_CR_VLABEL,1.0,Maks. wsp\u00f3\u0142czynnik klasyfikacji (wsp. kl.)
+pl,MODEL_CUMEVENTCOUNT_VLABEL,1.0,Skumulowana liczba wyst\u0105pie\u0144
+pl,MODEL_CUMLIFT_VLABEL,1.0,Skumulowany lift
+pl,MODEL_CUMNOBS_VLABEL,1.0,Skumulowana liczba obserwacji
+pl,MODEL_CUMNONEVENTCOUNT_VLABEL,1.0,Skumulowana liczba niewyst\u0105pie\u0144
+pl,MODEL_CUMPCTEVENT_VLABEL,1.0,Skumulowany procent wyst\u0105pie\u0144
+pl,MODEL_CUMPCTNONEVENT_VLABEL,1.0,Skumulowany procent niewyst\u0105pie\u0144
+pl,MODEL_CUMPREDCOUNT_VLABEL,1.0,Skumulowana przewidywana liczba wyst\u0105pie\u0144
+pl,MODEL_CVP_VLABEL,1.0,Wsp\u00f3\u0142czynnik zmienno\u015bci predykcji
+pl,MODEL_C_EVENT_PCT_VLABEL,1.0,Skumulowany procent wyst\u0105pie\u0144
+pl,MODEL_C_GAIN_VLABEL,1.0,Zysk skumulowany
+pl,MODEL_C_LIFT_VLABEL,1.0,Skumulowany lift
+pl,MODEL_DATAROLE_VLABEL,1.0,Rola danych
+pl,MODEL_DEPENDENCYDATAERROR_ERROR,1.0,Unable to open dependency data.
+pl,MODEL_DEPTH_C_EVENT_PCT_VLABEL,1.0,Skumulowany procent wyst\u0105pie\u0144 (%s)
+pl,MODEL_DEPTH_C_GAIN_VLABEL,1.0,Zysk skumulowany (%s)
+pl,MODEL_DEPTH_C_LIFT_VLABEL,1.0,Lift skumulowany (%s)
+pl,MODEL_DEPTH_GAIN_VLABEL,1.0,Zysk (%s)
+pl,MODEL_DEPTH_LIFT_VLABEL,1.0,Lift (%s)
+pl,MODEL_DEPTH_TCEVENTPCT_VLABEL,1.0,Uczenie: Skumulowany procent wyst\u0105pie\u0144 (%s)
+pl,MODEL_DEPTH_TCGAIN_VLABEL,1.0,Uczenie: Zysk skumulowany (%s)
+pl,MODEL_DEPTH_TCLIFT_VLABEL,1.0,Uczenie: Skumulowany lift (%s)
+pl,MODEL_DEPTH_TGAIN_VLABEL,1.0,Uczenie: Zysk (%s)
+pl,MODEL_DEPTH_TLIFT_VLABEL,1.0,Uczenie: Lift (%s)
+pl,MODEL_DEPTH_VCEVENTPCT_VLABEL,1.0,Walidacja: Skumulowany procent wyst\u0105pie\u0144 (%s)
+pl,MODEL_DEPTH_VCGAIN_VLABEL,1.0,Walidacja: Zysk skumulowany (%s)
+pl,MODEL_DEPTH_VCLIFT_VLABEL,1.0,Walidacja: Skumulowany lift (%s)
+pl,MODEL_DEPTH_VGAIN_VLABEL,1.0,Walidacja: Zysk (%s)
+pl,MODEL_DEPTH_VLABEL,1.0,G\u0142\u0119boko\u015b\u0107
+pl,MODEL_DEPTH_VLIFT_VLABEL,1.0,Walidacja: Lift (%s)
+pl,MODEL_DIV_VLABEL,1.0,Dzielnik ASE
+pl,MODEL_ERRORRATE_VLABEL,1.0,Odsetek b\u0142\u0119d\u00f3w
+pl,MODEL_EVENTCOUNT_VLABEL,1.0,Liczba wyst\u0105pie\u0144 zdarzenia
+pl,MODEL_EVENTMISS_VLABEL,1.0,Zdarzenie z przewidywanymi brakami
+pl,MODEL_EVENTRATE_VLABEL,1.0,Stopie\u0144 dok\u0142adno\u015bci wyst\u0119powania
+pl,MODEL_EVENTTOCOUNT_NOTE,1.0,Zdarzenie %s zostanie zliczone.
+pl,MODEL_FREQVARNOTFOUND_ERROR,1.0,W danych nie znaleziono zmiennej  cz\u0119sto\u015bci %s.
+pl,MODEL_GAIN_VLABEL,1.0,Zysk
+pl,MODEL_INCONSISTENTITEMSTORE_ERROR,1.0,Itemstore is not consistent. Some class variable (s) are not found in the VariableInfo table.
+pl,MODEL_INPUTVARIABLEXML_ERROR,1.0,Writing input variable xml failed.
+pl,MODEL_INVALIDNUMBINS_ERROR,1.0,Nieprawid\u0142owa liczba kube\u0142k\u00f3w; powinna by\u0107 wi\u0119ksza lub r\u00f3wna 2.
+pl,MODEL_ITEMSTOREINFONOTFOUND_ERROR,1.0,Itemstore information does not exist.
+pl,MODEL_ITEMSTORENOPROGRAM_WARNING,1.0,Itemstore does not contain the training program.
+pl,MODEL_ITEMSTORENOTFOUND_ERROR,1.0,"Itemstore, %s, does not exist."
+pl,MODEL_KSCUT_VLABEL,1.0,Obci\u0119cie KS
+pl,MODEL_KSDEPTH_VLABEL,1.0,G\u0142\u0119boko\u015b\u0107 pr\u00f3by KS
+pl,MODEL_KSREF_VLABEL,1.0,Linia odniesienia KS
+pl,MODEL_KSR_VLABEL,1.0,Maksymalne oddalenie
+pl,MODEL_KS_VLABEL,1.0,Ko\u0142mogorow-Smirnow (KS)
+pl,MODEL_LIFT_VLABEL,1.0,Lift
+pl,MODEL_LOADINGEVAL_NOTE,1.0,Loading the aa_model_eval macro
+pl,MODEL_LOADINGREGISTER_NOTE,1.0,\u0141adowanie makra aa_model_register
+pl,MODEL_MCUT_VLABEL,1.0,Mediana obci\u0119cia wykrywania zdarze\u0144
+pl,MODEL_MDEPTH_VLABEL,1.0,Mediana g\u0142\u0119boko\u015bci wykrywania zdarze\u0144
+pl,MODEL_MEANP_VLABEL,1.0,Predykcja \u015bredniej
+pl,MODEL_MINEQUALMAX_WARNING,1.0,Minimum jest r\u00f3wne maksimum. Zostanie w\u0142\u0105czona opcja FUZZ. (%s)
+pl,MODEL_MISC_VLABEL,1.0,Odsetek b\u0142\u0119dnych klasyfikacji
+pl,MODEL_NOACTION_ERROR,1.0,No action taken since request for spk and registration are both set to N.
+pl,MODEL_NOBS_VLABEL,1.0,Liczba obserwacji
+pl,MODEL_NODATA_ERROR,1.0,Zbi\u00f3r %s nie jest dost\u0119pny.
+pl,MODEL_NODEPENDECYVARIABLES_NOTE,1.0,No variable dependencies found in code.
+pl,MODEL_NOINPUTMETADATA_ERROR,1.0,Nie mo\u017cna wygenerowa\u0107 metadanych dla zmiennych wej\u015bciowych.
+pl,MODEL_NOMODELNAME_NOTE,1.0,Model name was not specified.  The default name %s will be used.
+pl,MODEL_NONEVENTCOUNT_VLABEL,1.0,Liczba niewyst\u0105pie\u0144
+pl,MODEL_NONEVENTRATE_VLABEL,1.0,Stopie\u0144 dok\u0142adno\u015bci niewyst\u0105pie\u0144
+pl,MODEL_NOOUTPUTVAR_ERROR,1.0,Nie zdefiniowano zmiennej wynikowej.
+pl,MODEL_NOSCORECODEFILE_ERROR,1.0,No score code file specified.
+pl,MODEL_NOSPKFOLDERNAME_ERROR,1.0,Nie podano nazwy folderu SPK.
+pl,MODEL_NOTARGETEVENT_ERROR,1.0,Nie zdefiniowano zdarzenia celu.
+pl,MODEL_NOTARGETLEVEL_ERROR,1.0,Nie zdefiniowano poziomu miary dla zmiennej celu.
+pl,MODEL_NOTARGET_ERROR,1.0,Nie zdefiniowano zmiennej celu.
+pl,MODEL_NUMBINS_VLABEL,1.0,Liczba klas
+pl,MODEL_ONEMINUSSPECIFICITY_VLABEL,1.0,1-swoisto\u015b\u0107
+pl,MODEL_OUTPUTVARIABLEXML_ERROR,1.0,Writing output variable xml failed.
+pl,MODEL_OUTPUTVAR_VLABEL,1.0,Zmienna wynikowa
+pl,MODEL_PCTEVENT_VLABEL,1.0,Procent wyst\u0105pie\u0144
+pl,MODEL_PCTNONEVENT_VLABEL,1.0,Procent niewyst\u0105pie\u0144
+pl,MODEL_PMMLFILENOTFOUND_ERROR,1.0,Podany plik pmml %s nie istnieje.
+pl,MODEL_PREDCOUNT_VLABEL,1.0,Przewidywana liczba wyst\u0105pie\u0144
+pl,MODEL_PREDICTCUT_VLABEL,1.0,Prognoza obci\u0119cia %s
+pl,MODEL_PREDICTEDBINMEAN_VLABEL,1.0,Przewidywana \u015brednia klasy
+pl,MODEL_PREDICTEDMAX_VLABEL,1.0,Przewidywane maksimum
+pl,MODEL_PREDICTEDMIN_VLABEL,1.0,Przewidywane minimum
+pl,MODEL_PREDICTIONATCUTOFF_VLABEL,1.0,Prognoza odci\u0119cia %s
+pl,MODEL_PREDMISS_VLABEL,1.0,Przewidywane braki
+pl,MODEL_RANKINGVARNOTFOUND_ERROR,1.0,W danych nie znaleziono zmiennej rankingu %s.
+pl,MODEL_RASE_VLABEL,1.0,Pierwiastek \u015bredniego b\u0142\u0119du kwadratowego
+pl,MODEL_REPOSITORYNOTFOUND_ERROR,1.0,Folder repozytorium %s nie istnieje.
+pl,MODEL_RESIDUALBINMEAN_VLABEL,1.0,\u015arednia reszt
+pl,MODEL_RESIDUALMAX_VLABEL,1.0,Maks. reszty
+pl,MODEL_RESIDUALMIN_VLABEL,1.0,Min. reszty
+pl,MODEL_RESIDUALSQUAREDBINMEAN_VLABEL,1.0,\u015arednia kwadratowa reszt
+pl,MODEL_SCORECODEFILENOTFOUND_ERROR,1.0,"Plik kodu uczenia ""%s"" nie istnieje."
+pl,MODEL_SEGMENTVARNOTFOUND_ERROR,1.0,Segment variable %s not found in the data.
+pl,MODEL_SENSITIVITY_VLABEL,1.0,Czu\u0142o\u015b\u0107
+pl,MODEL_SEPARATIONKS_VLABEL,1.0,Oddalenie - KS
+pl,MODEL_SPECIFICITY_VLABEL,1.0,Swoisto\u015b\u0107
+pl,MODEL_SSE_VLABEL,1.0,Suma b\u0142\u0119d\u00f3w kwadratowych
+pl,MODEL_STDP_VLABEL,1.0,Predykcja odchylenia standardowego
+pl,MODEL_SUMMARIZEEVENT_NOTE,1.0,Wykrycie zdarzenia %#1s dla zmiennej %#2s.
+pl,MODEL_SUMMARIZENOEVENT_NOTE,1.0,Nie podano zdarzenia.
+pl,MODEL_SUMMARIZE_NOTE,1.0,"Zmienna %#1s zostanie podsumowana w przedziale ( %#2s, %#3s)"
+pl,MODEL_TARGETBINMEAN_VLABEL,1.0,\u015arednia klasy celu
+pl,MODEL_TARGETCOUNT_VLABEL,1.0,Liczba zmiennych celu
+pl,MODEL_TARGETEVENT_VLABEL,1.0,Zdarzenie celu
+pl,MODEL_TARGETLEVEL_VLABEL,1.0,Poziom zmiennej celu
+pl,MODEL_TARGETMAX_VLABEL,1.0,Maks. zmienna celu
+pl,MODEL_TARGETMIN_VLABEL,1.0,Minimum zmiennej celu
+pl,MODEL_TARGETMISS_VLABEL,1.0,Brak celu
+pl,MODEL_TARGETVALUE_VLABEL,1.0,Warto\u015b\u0107 docelowa
+pl,MODEL_TARGETVARNOTFOUND_ERROR,1.0,W danych nie znaleziono zmiennej celu %s.
+pl,MODEL_TARGET_VLABEL,1.0,Zmienna celu
+pl,MODEL_TCCUT_VLABEL,1.0,Uczenie: Obci\u0119cie klasyfikacji
+pl,MODEL_TCEVENTPCT_VLABEL,1.0,Uczenie: Skumulowany procent wyst\u0105pie\u0144
+pl,MODEL_TCGAIN_VLABEL,1.0,Uczenie: Zysk skumulowany
+pl,MODEL_TCLIFT_VLABEL,1.0,Uczenie: Skumulowany lift
+pl,MODEL_TCORRECTRATE_VLABEL,1.0,Uczenie: Ca\u0142kowity stopie\u0144 dok\u0142adno\u015bci
+pl,MODEL_TCRCUT_VLABEL,1.0,Uczenie: Obci\u0119cie wsp. kl.
+pl,MODEL_TCRDEPTH_VLABEL,1.0,Uczenie: G\u0142\u0119boko\u015b\u0107 pr\u00f3by wsp. kl.
+pl,MODEL_TCR_VLABEL,1.0,Uczenie: Maks. wsp\u00f3\u0142czynnik klasyfikacji (wsp. kl.)
+pl,MODEL_TDEPTH_VLABEL,1.0,Uczenie: G\u0142\u0119boko\u015b\u0107
+pl,MODEL_TERRORRATE_VLABEL,1.0,Uczenie: Odsetek b\u0142\u0119d\u00f3w
+pl,MODEL_TEVENTCOUNT_VLABEL,1.0,Uczenie: Liczba wyst\u0105pie\u0144
+pl,MODEL_TEVENTMISSCOUNT_VLABEL,1.0,Uczenie: Zdarzenie z przewidywanymi brakami
+pl,MODEL_TEVENTRATE_VLABEL,1.0,Uczenie: Stopie\u0144 dok\u0142adno\u015bci wyst\u0119powania
+pl,MODEL_TGAIN_VLABEL,1.0,Uczenie: Zysk
+pl,MODEL_TKSCUT_VLABEL,1.0,Uczenie: Obci\u0119cie KS
+pl,MODEL_TKSDEPTH_VLABEL,1.0,Uczenie: G\u0142\u0119boko\u015b\u0107 pr\u00f3by KS
+pl,MODEL_TKSREF_VLABEL,1.0,Uczenie: Linia odniesienia KS
+pl,MODEL_TKSR_VLABEL,1.0,Uczenie: Maksymalne oddalenie
+pl,MODEL_TKS_VLABEL,1.0,Uczenie: Ko\u0142mogorow-Smirnow (KS)
+pl,MODEL_TLIFT_VLABEL,1.0,Uczenie: Lift
+pl,MODEL_TMCUT_VLABEL,1.0,Uczenie: Mediana obci\u0119cia wykrywania zdarze\u0144
+pl,MODEL_TMDEPTH_VLABEL,1.0,Uczenie: Mediana g\u0142\u0119boko\u015bci wykrywania zdarze\u0144
+pl,MODEL_TNOBS_VLABEL,1.0,Uczenie: Liczba obserwacji
+pl,MODEL_TNONEVENTCOUNT_VLABEL,1.0,Uczenie: Liczba niewyst\u0105pie\u0144
+pl,MODEL_TNONEVENTRATE_VLABEL,1.0,Uczenie: Stopie\u0144 dok\u0142adno\u015bci niewyst\u0105pie\u0144
+pl,MODEL_TOTALCOUNT_VLABEL,1.0,Ca\u0142kowita liczba
+pl,MODEL_TPREDCOUNT_VLABEL,1.0,Uczenie: Przewidywana liczba wyst\u0105pie\u0144
+pl,MODEL_TPREDICTCUT_VLABEL,1.0,Uczenie: Predykcja obci\u0119cia %s
+pl,MODEL_TPREDMISS_VLABEL,1.0,Uczenie: Przewidywane braki
+pl,MODEL_TRAINASE_VLABEL,1.0,Uczenie: \u015aredni b\u0142\u0105d kwadratowy
+pl,MODEL_TRAINDIV_VLABEL,1.0,Uczenie: Dzielnik ASE
+pl,MODEL_TRAININGFILENOTFOUND_ERROR,1.0,Podany plik ucz\u0105cy %s nie istnieje.
+pl,MODEL_TRAINMISC_VLABEL,1.0,Uczenie: Odsetek b\u0142\u0119dnych klasyfikacji
+pl,MODEL_TRAINRASE_VLABEL,1.0,Uczenie: Pierwiastek ze \u015bredniego b\u0142\u0119du kwadratowego
+pl,MODEL_TRAINSSE_VLABEL,1.0,Uczenie: Suma b\u0142\u0119d\u00f3w kwadratowych
+pl,MODEL_TSEPARATIONKS_VLABEL,1.0,Uczenie: Separation - KS
+pl,MODEL_TTARGETCOUNT_VLABEL,1.0,Uczenie: Liczba zmiennych celu
+pl,MODEL_TTARGETMISS_VLABEL,1.0,Uczenie: Brak zmiennej celu
+pl,MODEL_TTARGETVALUE_VLABEL,1.0,Uczenie: Warto\u015b\u0107 docelowa
+pl,MODEL_TTOTALCOUNT_VLABEL,1.0,Uczenie: Ca\u0142kowita liczba
+pl,MODEL_VARSNOTFOUND_ERROR,1.0,Zmienna (zmienne) %#1s nie znajduj\u0105 si\u0119 w zbiorze %#2s.
+pl,MODEL_VASE_VLABEL,1.0,Uczenie: \u015aredni b\u0142\u0105d kwadratowy
+pl,MODEL_VCCUT_VLABEL,1.0,Walidacja: Obci\u0119cie klasyfikacji
+pl,MODEL_VCEVENTPCT_VLABEL,1.0,Walidacja: Skumulowany procent wyst\u0105pie\u0144
+pl,MODEL_VCGAIN_VLABEL,1.0,Walidacja: Zysk skumulowany
+pl,MODEL_VCLIFT_VLABEL,1.0,Walidacja: Skumulowany lift
+pl,MODEL_VCORRECTRATE_VLABEL,1.0,Walidacja: Ca\u0142kowity stopie\u0144 dok\u0142adno\u015bci
+pl,MODEL_VCRCUT_VLABEL,1.0,Walidacja: Obci\u0119cie wsp. kl.
+pl,MODEL_VCRDEPTH_VLABEL,1.0,Walidacja: G\u0142\u0119boko\u015b\u0107 pr\u00f3by wsp. kl.
+pl,MODEL_VCR_VLABEL,1.0,Walidacja: Maks. wsp\u00f3\u0142czynnik klasyfikacji (wsp. kl.)
+pl,MODEL_VCVP_VLABEL,1.0,Walidacja: Wsp\u00f3\u0142czynnik zmienno\u015bci predykcji
+pl,MODEL_VDEPTH_VLABEL,1.0,Walidacja: G\u0142\u0119boko\u015b\u0107
+pl,MODEL_VDIV_VLABEL,1.0,Uczenie: Podzielnik ASE
+pl,MODEL_VERRORRATE_VLABEL,1.0,Walidacja: Odsetek b\u0142\u0119d\u00f3w
+pl,MODEL_VEVENTCOUNT_VLABEL,1.0,Walidacja: Liczba wyst\u0105pie\u0144 zdarzenia
+pl,MODEL_VEVENTMISSCOUNT_VLABEL,1.0,Walidacja: Zdarzenie z przewidywanymi brakami
+pl,MODEL_VEVENTRATE_VLABEL,1.0,Walidacja: Stopie\u0144 dok\u0142adno\u015bci wyst\u0119powania
+pl,MODEL_VGAIN_VLABEL,1.0,Walidacja: Zysk
+pl,MODEL_VKSCUT_VLABEL,1.0,Walidacja: Obci\u0119cie KS
+pl,MODEL_VKSDEPTH_VLABEL,1.0,Walidacja: G\u0142\u0119boko\u015b\u0107 pr\u00f3by KS
+pl,MODEL_VKSREF_VLABEL,1.0,Walidacja: Linia odniesienia KS
+pl,MODEL_VKSR_VLABEL,1.0,Walidacja: Maksymalne oddalenie
+pl,MODEL_VKS_VLABEL,1.0,Walidacja: Ko\u0142mogorow-Smirnow (KS)
+pl,MODEL_VLIFT_VLABEL,1.0,Walidacja: Lift
+pl,MODEL_VMCUT_VLABEL,1.0,Walidacja: Mediana obci\u0119cia wykrywania zdarze\u0144
+pl,MODEL_VMDEPTH_VLABEL,1.0,Walidacja: Mediana g\u0142\u0119boko\u015bci wykrywania zdarze\u0144
+pl,MODEL_VMEANP_VLABEL,1.0,Walidacja: Predykcja \u015bredniej
+pl,MODEL_VMISC_VLABEL,1.0,Uczenie: Odsetek b\u0142\u0119dnych klasyfikacji
+pl,MODEL_VNOBS_VLABEL,1.0,Walidacja: Liczba obserwacji
+pl,MODEL_VNONEVENTCOUNT_VLABEL,1.0,Walidacja: Liczba niewyst\u0105pie\u0144
+pl,MODEL_VNONEVENTRATE_VLABEL,1.0,Walidacja: Stopie\u0144 dok\u0142adno\u015bci niewyst\u0105pie\u0144
+pl,MODEL_VPREDCOUNT_VLABEL,1.0,Walidacja: Przewidywana liczba wyst\u0105pie\u0144
+pl,MODEL_VPREDICTCUT_VLABEL,1.0,Walidacja: Prognoza obci\u0119cia %s
+pl,MODEL_VPREDMISS_VLABEL,1.0,Walidacja: Przewidywane braki
+pl,MODEL_VRASE_VLABEL,1.0,Uczenie: Pierwiastek \u015bredniego b\u0142\u0119du kwadratowego
+pl,MODEL_VSEPARATIONKS_VLABEL,1.0,Walidacja: Oddalenie - KS
+pl,MODEL_VSSE_VLABEL,1.0,Uczenie: Suma b\u0142\u0119d\u00f3w kwadratowych
+pl,MODEL_VSTDP_VLABEL,1.0,Walidacja: Predykcja odchylenia standardowego
+pl,MODEL_VTARGETCOUNT_VLABEL,1.0,Walidacja: Liczba zmiennych celu
+pl,MODEL_VTARGETMISS_VLABEL,1.0,Walidacja: Brak celu
+pl,MODEL_VTARGETVALUE_VLABEL,1.0,Walidacja: Warto\u015b\u0107 docelowa
+pl,MODEL_VTOTALCOUNT_VLABEL,1.0,Walidacja: Ca\u0142kowita liczba
+pl,MODEL_WRONGVARLEVEL_ERROR,1.0,Unknown level type %#1s for variable %#2s.
+zh_CN,MODEL_ASE_VLABEL,1.0,\u5e73\u5747\u5e73\u65b9\u8bef\u5dee
+zh_CN,MODEL_CCUT_VLABEL,1.0,\u5206\u7c7b\u622a\u6b62\u503c
+zh_CN,MODEL_CODEDEPENDENCY_ERROR,1.0,\u65e0\u6cd5\u786e\u5b9a\u4ee3\u7801\u53d8\u91cf\u4f9d\u8d56\u5173\u7cfb\u3002
+zh_CN,MODEL_CORRECTRATE_VLABEL,1.0,\u603b\u4f53\u7cbe\u786e\u7387
+zh_CN,MODEL_CRCUT_VLABEL,1.0,CR \u622a\u6b62\u503c
+zh_CN,MODEL_CRDEPTH_VLABEL,1.0,CR \u6837\u672c\u6df1\u5ea6
+zh_CN,MODEL_CREATEINTERMEDIATEFILE_ERROR,1.0,\u4e2d\u95f4\u6587\u4ef6\u521b\u5efa\u5931\u8d25\u3002
+zh_CN,MODEL_CR_VLABEL,1.0,\u6700\u5927\u5206\u7c7b\u7387 (CR)
+zh_CN,MODEL_CUMEVENTCOUNT_VLABEL,1.0,\u7d2f\u79ef\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,MODEL_CUMLIFT_VLABEL,1.0,\u7d2f\u79ef\u63d0\u5347
+zh_CN,MODEL_CUMNOBS_VLABEL,1.0,\u7d2f\u79ef\u89c2\u6d4b\u6570
+zh_CN,MODEL_CUMNONEVENTCOUNT_VLABEL,1.0,\u7d2f\u79ef\u975e\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,MODEL_CUMPCTEVENT_VLABEL,1.0,\u7d2f\u79ef\u4e8b\u4ef6\u767e\u5206\u6bd4
+zh_CN,MODEL_CUMPCTNONEVENT_VLABEL,1.0,\u7d2f\u79ef\u975e\u4e8b\u4ef6\u767e\u5206\u6bd4
+zh_CN,MODEL_CUMPREDCOUNT_VLABEL,1.0,\u7d2f\u79ef\u9884\u6d4b\u503c\u8ba1\u6570
+zh_CN,MODEL_CVP_VLABEL,1.0,\u9884\u6d4b\u53d8\u5f02\u7cfb\u6570
+zh_CN,MODEL_C_EVENT_PCT_VLABEL,1.0,\u7d2f\u79ef\u4e8b\u4ef6\u767e\u5206\u6bd4
+zh_CN,MODEL_C_GAIN_VLABEL,1.0,\u7d2f\u79ef\u589e\u76ca
+zh_CN,MODEL_C_LIFT_VLABEL,1.0,\u7d2f\u79ef\u63d0\u5347\u5ea6
+zh_CN,MODEL_DATAROLE_VLABEL,1.0,\u6570\u636e\u89d2\u8272
+zh_CN,MODEL_DEPENDENCYDATAERROR_ERROR,1.0,\u65e0\u6cd5\u6253\u5f00\u4f9d\u8d56\u5173\u7cfb\u6570\u636e\u3002
+zh_CN,MODEL_DEPTH_C_EVENT_PCT_VLABEL,1.0,\u7d2f\u79ef\u4e8b\u4ef6\u767e\u5206\u6bd4 (%s)
+zh_CN,MODEL_DEPTH_C_GAIN_VLABEL,1.0,\u7d2f\u79ef\u589e\u76ca (%s)
+zh_CN,MODEL_DEPTH_C_LIFT_VLABEL,1.0,\u7d2f\u79ef\u63d0\u5347 (%s)
+zh_CN,MODEL_DEPTH_GAIN_VLABEL,1.0,\u589e\u76ca (%s)
+zh_CN,MODEL_DEPTH_LIFT_VLABEL,1.0,\u63d0\u5347 (%s)
+zh_CN,MODEL_DEPTH_TCEVENTPCT_VLABEL,1.0,\u8bad\u7ec3: \u7d2f\u79ef\u4e8b\u4ef6\u767e\u5206\u6bd4 (%s)
+zh_CN,MODEL_DEPTH_TCGAIN_VLABEL,1.0,\u8bad\u7ec3: \u7d2f\u79ef\u589e\u76ca (%s)
+zh_CN,MODEL_DEPTH_TCLIFT_VLABEL,1.0,\u8bad\u7ec3: \u7d2f\u79ef\u63d0\u5347 (%s)
+zh_CN,MODEL_DEPTH_TGAIN_VLABEL,1.0,\u8bad\u7ec3: \u589e\u76ca (%s)
+zh_CN,MODEL_DEPTH_TLIFT_VLABEL,1.0,\u8bad\u7ec3: \u63d0\u5347 (%s)
+zh_CN,MODEL_DEPTH_VCEVENTPCT_VLABEL,1.0,\u9a8c\u8bc1: \u7d2f\u79ef\u4e8b\u4ef6\u767e\u5206\u6bd4 (%s)
+zh_CN,MODEL_DEPTH_VCGAIN_VLABEL,1.0,\u9a8c\u8bc1: \u7d2f\u79ef\u589e\u76ca (%s)
+zh_CN,MODEL_DEPTH_VCLIFT_VLABEL,1.0,\u9a8c\u8bc1: \u7d2f\u79ef\u63d0\u5347 (%s)
+zh_CN,MODEL_DEPTH_VGAIN_VLABEL,1.0,\u9a8c\u8bc1: \u589e\u76ca (%s)
+zh_CN,MODEL_DEPTH_VLABEL,1.0,\u6df1\u5ea6
+zh_CN,MODEL_DEPTH_VLIFT_VLABEL,1.0,\u9a8c\u8bc1: \u63d0\u5347 (%s)
+zh_CN,MODEL_DIV_VLABEL,1.0,ASE \u56e0\u5b50
+zh_CN,MODEL_ERRORRATE_VLABEL,1.0,\u9519\u8bef\u7387
+zh_CN,MODEL_EVENTCOUNT_VLABEL,1.0,\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,MODEL_EVENTMISS_VLABEL,1.0,\u5e26\u7f3a\u5931\u9884\u6d4b\u503c\u7684\u4e8b\u4ef6
+zh_CN,MODEL_EVENTRATE_VLABEL,1.0,\u4e8b\u4ef6\u7cbe\u786e\u7387
+zh_CN,MODEL_EVENTTOCOUNT_NOTE,1.0,\u5c06\u5bf9\u4e8b\u4ef6\u201c%s\u201d\u8fdb\u884c\u8ba1\u6570\u3002
+zh_CN,MODEL_FREQVARNOTFOUND_ERROR,1.0,\u6570\u636e\u4e2d\u6ca1\u6709\u627e\u5230\u9891\u6570\u53d8\u91cf %s\u3002
+zh_CN,MODEL_GAIN_VLABEL,1.0,\u589e\u76ca
+zh_CN,MODEL_INCONSISTENTITEMSTORE_ERROR,1.0,\u9879\u5b58\u50a8\u4e0d\u4e00\u81f4\u3002\u5728 VariableInfo \u8868\u4e2d\u6ca1\u6709\u627e\u5230\u90e8\u5206\u5206\u7c7b\u53d8\u91cf\u3002
+zh_CN,MODEL_INPUTVARIABLEXML_ERROR,1.0,\u5199\u8f93\u5165\u53d8\u91cf xml \u5931\u8d25\u3002
+zh_CN,MODEL_INVALIDNUMBINS_ERROR,1.0,\u7bb1\u6570\u65e0\u6548\uff0c\u5fc5\u987b\u4e3a\u5927\u4e8e\u7b49\u4e8e 2 \u7684\u6570\u503c\u3002
+zh_CN,MODEL_ITEMSTOREINFONOTFOUND_ERROR,1.0,\u9879\u5b58\u50a8\u4fe1\u606f\u4e0d\u5b58\u5728\u3002
+zh_CN,MODEL_ITEMSTORENOPROGRAM_WARNING,1.0,\u9879\u5b58\u50a8\u4e0d\u5305\u542b\u8bad\u7ec3\u7a0b\u5e8f\u3002
+zh_CN,MODEL_ITEMSTORENOTFOUND_ERROR,1.0,\u9879\u5b58\u50a8\u201c%s\u201d\u4e0d\u5b58\u5728\u3002
+zh_CN,MODEL_KSCUT_VLABEL,1.0,KS \u622a\u6b62\u503c
+zh_CN,MODEL_KSDEPTH_VLABEL,1.0,KS \u6837\u672c\u6df1\u5ea6
+zh_CN,MODEL_KSREF_VLABEL,1.0,KS \u53c2\u8003\u7ebf
+zh_CN,MODEL_KSR_VLABEL,1.0,\u6700\u5927\u5206\u9694
+zh_CN,MODEL_KS_VLABEL,1.0,Kolmogorov-Smirnov (KS)
+zh_CN,MODEL_LIFT_VLABEL,1.0,\u63d0\u5347
+zh_CN,MODEL_LOADINGEVAL_NOTE,1.0,\u6b63\u5728\u52a0\u8f7d aa_model_eval \u5b8f
+zh_CN,MODEL_LOADINGREGISTER_NOTE,1.0,\u6b63\u5728\u52a0\u8f7d aa_model_register \u5b8f
+zh_CN,MODEL_MCUT_VLABEL,1.0,\u4e8b\u4ef6\u63a2\u6d4b\u622a\u6b62\u503c\u4e2d\u4f4d\u6570
+zh_CN,MODEL_MDEPTH_VLABEL,1.0,\u4e8b\u4ef6\u63a2\u6d4b\u6df1\u5ea6\u4e2d\u4f4d\u6570
+zh_CN,MODEL_MEANP_VLABEL,1.0,\u9884\u6d4b\u5747\u503c
+zh_CN,MODEL_MINEQUALMAX_WARNING,1.0,\u6700\u5c0f\u503c\u7b49\u4e8e\u6700\u5927\u503c\u3002\u5c06\u542f\u7528 FUZZ \u9009\u9879\u3002(%s)
+zh_CN,MODEL_MISC_VLABEL,1.0,\u8bef\u5206\u7c7b\u7387
+zh_CN,MODEL_NOACTION_ERROR,1.0,\u7531\u4e8e spk \u548c\u6ce8\u518c\u7684\u8bf7\u6c42\u8bbe\u7f6e\u4e3a N\uff0c\u6ca1\u6709\u6267\u884c\u4efb\u4f55\u64cd\u4f5c\u3002
+zh_CN,MODEL_NOBS_VLABEL,1.0,\u89c2\u6d4b\u6570
+zh_CN,MODEL_NODATA_ERROR,1.0,\u6570\u636e\u96c6\u201c%s\u201d\u4e0d\u53ef\u7528\u3002
+zh_CN,MODEL_NODEPENDECYVARIABLES_NOTE,1.0,\u4ee3\u7801\u4e2d\u6ca1\u6709\u627e\u5230\u53d8\u91cf\u4f9d\u8d56\u5173\u7cfb\u3002
+zh_CN,MODEL_NOINPUTMETADATA_ERROR,1.0,\u65e0\u6cd5\u4e3a\u8f93\u5165\u53d8\u91cf\u751f\u6210\u5143\u6570\u636e\u3002
+zh_CN,MODEL_NOMODELNAME_NOTE,1.0,\u6ca1\u6709\u6307\u5b9a\u6a21\u578b\u540d\u79f0\u3002\u5c06\u4f7f\u7528\u9ed8\u8ba4\u540d\u79f0\u201c%s\u201d\u3002
+zh_CN,MODEL_NONEVENTCOUNT_VLABEL,1.0,\u975e\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,MODEL_NONEVENTRATE_VLABEL,1.0,\u975e\u4e8b\u4ef6\u7cbe\u786e\u7387
+zh_CN,MODEL_NOOUTPUTVAR_ERROR,1.0,\u6ca1\u6709\u5b9a\u4e49\u8f93\u51fa\u53d8\u91cf\u3002
+zh_CN,MODEL_NOSCORECODEFILE_ERROR,1.0,\u6ca1\u6709\u6307\u5b9a\u8bc4\u5206\u4ee3\u7801\u6587\u4ef6\u3002
+zh_CN,MODEL_NOSPKFOLDERNAME_ERROR,1.0,\u6ca1\u6709\u6307\u5b9a SPK \u6587\u4ef6\u5939\u540d\u79f0\u3002
+zh_CN,MODEL_NOTARGETEVENT_ERROR,1.0,\u6ca1\u6709\u5b9a\u4e49\u76ee\u6807\u4e8b\u4ef6\u3002
+zh_CN,MODEL_NOTARGETLEVEL_ERROR,1.0,\u6ca1\u6709\u5b9a\u4e49\u76ee\u6807\u53d8\u91cf\u7684\u6d4b\u5ea6\u6c34\u5e73\u3002
+zh_CN,MODEL_NOTARGET_ERROR,1.0,\u6ca1\u6709\u5b9a\u4e49\u76ee\u6807\u53d8\u91cf\u3002
+zh_CN,MODEL_NUMBINS_VLABEL,1.0,\u7bb1\u6570
+zh_CN,MODEL_ONEMINUSSPECIFICITY_VLABEL,1.0,1 - \u7279\u5f02\u5ea6
+zh_CN,MODEL_OUTPUTVARIABLEXML_ERROR,1.0,\u5199\u8f93\u51fa\u53d8\u91cf xml \u5931\u8d25\u3002
+zh_CN,MODEL_OUTPUTVAR_VLABEL,1.0,\u8f93\u51fa\u53d8\u91cf
+zh_CN,MODEL_PCTEVENT_VLABEL,1.0,\u4e8b\u4ef6\u767e\u5206\u6bd4
+zh_CN,MODEL_PCTNONEVENT_VLABEL,1.0,\u975e\u4e8b\u4ef6\u767e\u5206\u6bd4
+zh_CN,MODEL_PMMLFILENOTFOUND_ERROR,1.0,\u6307\u5b9a\u7684 pmml \u6587\u4ef6 %s \u4e0d\u5b58\u5728\u3002
+zh_CN,MODEL_PREDCOUNT_VLABEL,1.0,\u9884\u6d4b\u503c\u8ba1\u6570
+zh_CN,MODEL_PREDICTCUT_VLABEL,1.0,\u622a\u6b62\u503c %s \u5904\u7684\u9884\u6d4b
+zh_CN,MODEL_PREDICTEDBINMEAN_VLABEL,1.0,\u9884\u6d4b\u7bb1\u5747\u503c
+zh_CN,MODEL_PREDICTEDMAX_VLABEL,1.0,\u6700\u5927\u9884\u6d4b\u503c
+zh_CN,MODEL_PREDICTEDMIN_VLABEL,1.0,\u6700\u5c0f\u9884\u6d4b\u503c
+zh_CN,MODEL_PREDICTIONATCUTOFF_VLABEL,1.0,\u622a\u6b62\u503c %s \u5904\u7684\u9884\u6d4b
+zh_CN,MODEL_PREDMISS_VLABEL,1.0,\u7f3a\u5931\u9884\u6d4b\u503c
+zh_CN,MODEL_RANKINGVARNOTFOUND_ERROR,1.0,\u6570\u636e\u4e2d\u6ca1\u6709\u627e\u5230\u8bc4\u7ea7\u53d8\u91cf %s\u3002
+zh_CN,MODEL_RASE_VLABEL,1.0,\u5e73\u5747\u5e73\u65b9\u6839\u8bef\u5dee
+zh_CN,MODEL_REPOSITORYNOTFOUND_ERROR,1.0,\u50a8\u5b58\u5e93\u6587\u4ef6\u5939\u201c%s\u201d\u4e0d\u5b58\u5728\u3002
+zh_CN,MODEL_RESIDUALBINMEAN_VLABEL,1.0,\u6b8b\u5dee\u7bb1\u5747\u503c
+zh_CN,MODEL_RESIDUALMAX_VLABEL,1.0,\u6700\u5927\u6b8b\u5dee\u503c
+zh_CN,MODEL_RESIDUALMIN_VLABEL,1.0,\u6700\u5c0f\u6b8b\u5dee\u503c
+zh_CN,MODEL_RESIDUALSQUAREDBINMEAN_VLABEL,1.0,\u6b8b\u5dee\u5e73\u65b9\u7bb1\u5747\u503c
+zh_CN,MODEL_SCORECODEFILENOTFOUND_ERROR,1.0,\u8bc4\u5206\u4ee3\u7801\u6587\u4ef6\u201c%s\u201d\u4e0d\u5b58\u5728\u3002
+zh_CN,MODEL_SEGMENTVARNOTFOUND_ERROR,1.0,\u6570\u636e\u4e2d\u6ca1\u6709\u627e\u5230\u5206\u6bb5\u53d8\u91cf %s\u3002
+zh_CN,MODEL_SENSITIVITY_VLABEL,1.0,\u7075\u654f\u5ea6
+zh_CN,MODEL_SEPARATIONKS_VLABEL,1.0,\u5206\u9694 - KS
+zh_CN,MODEL_SPECIFICITY_VLABEL,1.0,\u7279\u5f02\u5ea6
+zh_CN,MODEL_SSE_VLABEL,1.0,\u8bef\u5dee\u5e73\u65b9\u548c
+zh_CN,MODEL_STDP_VLABEL,1.0,\u9884\u6d4b\u6807\u51c6\u5dee
+zh_CN,MODEL_SUMMARIZEEVENT_NOTE,1.0,\u68c0\u6d4b\u5230\u53d8\u91cf\u201c%#2s\u201d\u7684\u4e8b\u4ef6\u201c%#1s\u201d\u3002
+zh_CN,MODEL_SUMMARIZENOEVENT_NOTE,1.0,\u6ca1\u6709\u63d0\u4f9b\u4e8b\u4ef6\u3002
+zh_CN,MODEL_SUMMARIZE_NOTE,1.0,"\u5c06\u6309\u533a\u95f4 ( %#2s, %#3s) \u5bf9\u53d8\u91cf %#1s \u8fdb\u884c\u6c47\u603b"
+zh_CN,MODEL_TARGETBINMEAN_VLABEL,1.0,\u76ee\u6807\u7bb1\u5747\u503c
+zh_CN,MODEL_TARGETCOUNT_VLABEL,1.0,\u76ee\u6807\u503c\u8ba1\u6570
+zh_CN,MODEL_TARGETEVENT_VLABEL,1.0,\u76ee\u6807\u4e8b\u4ef6
+zh_CN,MODEL_TARGETLEVEL_VLABEL,1.0,\u76ee\u6807\u7ea7\u522b
+zh_CN,MODEL_TARGETMAX_VLABEL,1.0,\u6700\u5927\u76ee\u6807\u503c
+zh_CN,MODEL_TARGETMIN_VLABEL,1.0,\u6700\u5c0f\u76ee\u6807\u503c
+zh_CN,MODEL_TARGETMISS_VLABEL,1.0,\u7f3a\u5931\u76ee\u6807\u503c
+zh_CN,MODEL_TARGETVALUE_VLABEL,1.0,\u76ee\u6807\u503c
+zh_CN,MODEL_TARGETVARNOTFOUND_ERROR,1.0,\u6570\u636e\u4e2d\u6ca1\u6709\u627e\u5230\u76ee\u6807\u53d8\u91cf %s\u3002
+zh_CN,MODEL_TARGET_VLABEL,1.0,\u76ee\u6807\u53d8\u91cf
+zh_CN,MODEL_TCCUT_VLABEL,1.0,\u8bad\u7ec3: \u5206\u7c7b\u622a\u6b62\u503c
+zh_CN,MODEL_TCEVENTPCT_VLABEL,1.0,\u8bad\u7ec3: \u7d2f\u79ef\u4e8b\u4ef6\u767e\u5206\u6bd4
+zh_CN,MODEL_TCGAIN_VLABEL,1.0,\u8bad\u7ec3: \u7d2f\u79ef\u589e\u76ca
+zh_CN,MODEL_TCLIFT_VLABEL,1.0,\u8bad\u7ec3: \u7d2f\u79ef\u63d0\u5347
+zh_CN,MODEL_TCORRECTRATE_VLABEL,1.0,\u8bad\u7ec3: \u603b\u4f53\u7cbe\u786e\u7387
+zh_CN,MODEL_TCRCUT_VLABEL,1.0,\u8bad\u7ec3: CR \u622a\u6b62\u503c
+zh_CN,MODEL_TCRDEPTH_VLABEL,1.0,\u8bad\u7ec3: CR \u6837\u672c\u6df1\u5ea6
+zh_CN,MODEL_TCR_VLABEL,1.0,\u8bad\u7ec3: \u6700\u5927\u5206\u7c7b\u7387 (CR)
+zh_CN,MODEL_TDEPTH_VLABEL,1.0,\u8bad\u7ec3: \u6df1\u5ea6
+zh_CN,MODEL_TERRORRATE_VLABEL,1.0,\u8bad\u7ec3: \u9519\u8bef\u7387
+zh_CN,MODEL_TEVENTCOUNT_VLABEL,1.0,\u8bad\u7ec3: \u4e8b\u4ef6\u8ba1\u6570
+zh_CN,MODEL_TEVENTMISSCOUNT_VLABEL,1.0,\u8bad\u7ec3: \u5e26\u7f3a\u5931\u9884\u6d4b\u503c\u7684\u4e8b\u4ef6
+zh_CN,MODEL_TEVENTRATE_VLABEL,1.0,\u8bad\u7ec3: \u4e8b\u4ef6\u7cbe\u786e\u7387
+zh_CN,MODEL_TGAIN_VLABEL,1.0,\u8bad\u7ec3: \u589e\u76ca
+zh_CN,MODEL_TKSCUT_VLABEL,1.0,\u8bad\u7ec3: KS \u622a\u6b62\u503c
+zh_CN,MODEL_TKSDEPTH_VLABEL,1.0,\u8bad\u7ec3: KS \u6837\u672c\u6df1\u5ea6
+zh_CN,MODEL_TKSREF_VLABEL,1.0,\u8bad\u7ec3: KS \u53c2\u8003\u7ebf
+zh_CN,MODEL_TKSR_VLABEL,1.0,\u8bad\u7ec3: \u6700\u5927\u5206\u9694
+zh_CN,MODEL_TKS_VLABEL,1.0,\u8bad\u7ec3: Kolmogorov-Smirnov (KS)
+zh_CN,MODEL_TLIFT_VLABEL,1.0,\u8bad\u7ec3: \u63d0\u5347
+zh_CN,MODEL_TMCUT_VLABEL,1.0,\u8bad\u7ec3: \u4e8b\u4ef6\u63a2\u6d4b\u622a\u6b62\u503c\u4e2d\u4f4d\u6570
+zh_CN,MODEL_TMDEPTH_VLABEL,1.0,\u8bad\u7ec3: \u4e8b\u4ef6\u63a2\u6d4b\u6df1\u5ea6\u4e2d\u4f4d\u6570
+zh_CN,MODEL_TNOBS_VLABEL,1.0,\u8bad\u7ec3: \u89c2\u6d4b\u6570
+zh_CN,MODEL_TNONEVENTCOUNT_VLABEL,1.0,\u8bad\u7ec3: \u975e\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,MODEL_TNONEVENTRATE_VLABEL,1.0,\u8bad\u7ec3: \u975e\u4e8b\u4ef6\u7cbe\u786e\u7387
+zh_CN,MODEL_TOTALCOUNT_VLABEL,1.0,\u603b\u8ba1
+zh_CN,MODEL_TPREDCOUNT_VLABEL,1.0,\u8bad\u7ec3: \u9884\u6d4b\u503c\u8ba1\u6570
+zh_CN,MODEL_TPREDICTCUT_VLABEL,1.0,\u8bad\u7ec3: \u622a\u6b62\u503c %s \u5904\u7684\u9884\u6d4b
+zh_CN,MODEL_TPREDMISS_VLABEL,1.0,\u8bad\u7ec3: \u7f3a\u5931\u9884\u6d4b\u503c
+zh_CN,MODEL_TRAINASE_VLABEL,1.0,\u8bad\u7ec3: \u5e73\u5747\u5e73\u65b9\u8bef\u5dee
+zh_CN,MODEL_TRAINDIV_VLABEL,1.0,\u8bad\u7ec3: ASE \u56e0\u5b50
+zh_CN,MODEL_TRAININGFILENOTFOUND_ERROR,1.0,\u6307\u5b9a\u7684\u8bad\u7ec3\u6587\u4ef6 %s \u4e0d\u5b58\u5728\u3002
+zh_CN,MODEL_TRAINMISC_VLABEL,1.0,\u8bad\u7ec3: \u8bef\u5206\u7c7b\u7387
+zh_CN,MODEL_TRAINRASE_VLABEL,1.0,\u8bad\u7ec3: \u5e73\u5747\u5e73\u65b9\u6839\u8bef\u5dee
+zh_CN,MODEL_TRAINSSE_VLABEL,1.0,\u8bad\u7ec3: \u8bef\u5dee\u5e73\u65b9\u548c
+zh_CN,MODEL_TSEPARATIONKS_VLABEL,1.0,\u8bad\u7ec3: \u5206\u9694 - KS
+zh_CN,MODEL_TTARGETCOUNT_VLABEL,1.0,\u8bad\u7ec3: \u76ee\u6807\u503c\u8ba1\u6570
+zh_CN,MODEL_TTARGETMISS_VLABEL,1.0,\u8bad\u7ec3: \u7f3a\u5931\u76ee\u6807\u503c
+zh_CN,MODEL_TTARGETVALUE_VLABEL,1.0,\u8bad\u7ec3: \u76ee\u6807\u503c
+zh_CN,MODEL_TTOTALCOUNT_VLABEL,1.0,\u8bad\u7ec3: \u603b\u8ba1
+zh_CN,MODEL_VARSNOTFOUND_ERROR,1.0,\u53d8\u91cf %#1s \u4e0d\u5728\u6570\u636e\u96c6\u201c%#2s\u201d\u4e2d\u3002
+zh_CN,MODEL_VASE_VLABEL,1.0,\u9a8c\u8bc1: \u5e73\u5747\u5e73\u65b9\u65b9\u8bef\u5dee
+zh_CN,MODEL_VCCUT_VLABEL,1.0,\u9a8c\u8bc1: \u5206\u7c7b\u622a\u6b62\u503c
+zh_CN,MODEL_VCEVENTPCT_VLABEL,1.0,\u9a8c\u8bc1: \u7d2f\u79ef\u4e8b\u4ef6\u767e\u5206\u6bd4
+zh_CN,MODEL_VCGAIN_VLABEL,1.0,\u9a8c\u8bc1: \u7d2f\u79ef\u589e\u76ca
+zh_CN,MODEL_VCLIFT_VLABEL,1.0,\u9a8c\u8bc1: \u7d2f\u79ef\u63d0\u5347
+zh_CN,MODEL_VCORRECTRATE_VLABEL,1.0,\u9a8c\u8bc1: \u603b\u4f53\u7cbe\u786e\u7387
+zh_CN,MODEL_VCRCUT_VLABEL,1.0,\u9a8c\u8bc1: CR \u622a\u6b62\u503c
+zh_CN,MODEL_VCRDEPTH_VLABEL,1.0,\u9a8c\u8bc1: CR \u6837\u672c\u6df1\u5ea6
+zh_CN,MODEL_VCR_VLABEL,1.0,\u9a8c\u8bc1: \u6700\u5927\u5206\u7c7b\u7387 (CR)
+zh_CN,MODEL_VCVP_VLABEL,1.0,\u9a8c\u8bc1: \u9884\u6d4b\u53d8\u5f02\u7cfb\u6570
+zh_CN,MODEL_VDEPTH_VLABEL,1.0,\u9a8c\u8bc1: \u6df1\u5ea6
+zh_CN,MODEL_VDIV_VLABEL,1.0,\u9a8c\u8bc1: ASE \u56e0\u5b50
+zh_CN,MODEL_VERRORRATE_VLABEL,1.0,\u9a8c\u8bc1: \u9519\u8bef\u7387
+zh_CN,MODEL_VEVENTCOUNT_VLABEL,1.0,\u9a8c\u8bc1: \u4e8b\u4ef6\u8ba1\u6570
+zh_CN,MODEL_VEVENTMISSCOUNT_VLABEL,1.0,\u9a8c\u8bc1: \u5e26\u7f3a\u5931\u9884\u6d4b\u503c\u7684\u4e8b\u4ef6
+zh_CN,MODEL_VEVENTRATE_VLABEL,1.0,\u9a8c\u8bc1: \u4e8b\u4ef6\u7cbe\u786e\u7387
+zh_CN,MODEL_VGAIN_VLABEL,1.0,\u9a8c\u8bc1: \u589e\u76ca
+zh_CN,MODEL_VKSCUT_VLABEL,1.0,\u9a8c\u8bc1: KS \u622a\u6b62\u503c
+zh_CN,MODEL_VKSDEPTH_VLABEL,1.0,\u9a8c\u8bc1: KS \u6837\u672c\u6df1\u5ea6
+zh_CN,MODEL_VKSREF_VLABEL,1.0,\u9a8c\u8bc1: KS \u53c2\u8003\u7ebf
+zh_CN,MODEL_VKSR_VLABEL,1.0,\u9a8c\u8bc1: \u6700\u5927\u5206\u9694
+zh_CN,MODEL_VKS_VLABEL,1.0,\u9a8c\u8bc1: Kolmogorov-Smirnov (KS)
+zh_CN,MODEL_VLIFT_VLABEL,1.0,\u9a8c\u8bc1: \u63d0\u5347
+zh_CN,MODEL_VMCUT_VLABEL,1.0,\u9a8c\u8bc1: \u4e8b\u4ef6\u68c0\u6d4b\u622a\u6b62\u503c\u4e2d\u4f4d\u6570
+zh_CN,MODEL_VMDEPTH_VLABEL,1.0,\u9a8c\u8bc1: \u4e8b\u4ef6\u68c0\u6d4b\u6df1\u5ea6\u4e2d\u4f4d\u6570
+zh_CN,MODEL_VMEANP_VLABEL,1.0,\u9a8c\u8bc1: \u9884\u6d4b\u5747\u503c
+zh_CN,MODEL_VMISC_VLABEL,1.0,\u9a8c\u8bc1: \u8bef\u5206\u7c7b\u7387
+zh_CN,MODEL_VNOBS_VLABEL,1.0,\u9a8c\u8bc1: \u89c2\u6d4b\u6570
+zh_CN,MODEL_VNONEVENTCOUNT_VLABEL,1.0,\u9a8c\u8bc1: \u975e\u4e8b\u4ef6\u8ba1\u6570
+zh_CN,MODEL_VNONEVENTRATE_VLABEL,1.0,\u9a8c\u8bc1: \u975e\u4e8b\u4ef6\u7cbe\u786e\u7387
+zh_CN,MODEL_VPREDCOUNT_VLABEL,1.0,\u9a8c\u8bc1: \u9884\u6d4b\u503c\u8ba1\u6570
+zh_CN,MODEL_VPREDICTCUT_VLABEL,1.0,\u9a8c\u8bc1: \u622a\u6b62\u503c %s \u5904\u7684\u9884\u6d4b
+zh_CN,MODEL_VPREDMISS_VLABEL,1.0,\u9a8c\u8bc1: \u7f3a\u5931\u9884\u6d4b\u503c
+zh_CN,MODEL_VRASE_VLABEL,1.0,\u9a8c\u8bc1: \u5e73\u5747\u5e73\u65b9\u6839\u8bef\u5dee
+zh_CN,MODEL_VSEPARATIONKS_VLABEL,1.0,\u9a8c\u8bc1: \u5206\u9694 - KS
+zh_CN,MODEL_VSSE_VLABEL,1.0,\u9a8c\u8bc1: \u8bef\u5dee\u5e73\u65b9\u548c
+zh_CN,MODEL_VSTDP_VLABEL,1.0,\u9a8c\u8bc1: \u9884\u6d4b\u6807\u51c6\u5dee
+zh_CN,MODEL_VTARGETCOUNT_VLABEL,1.0,\u9a8c\u8bc1: \u76ee\u6807\u503c\u8ba1\u6570
+zh_CN,MODEL_VTARGETMISS_VLABEL,1.0,\u9a8c\u8bc1: \u7f3a\u5931\u76ee\u6807\u503c
+zh_CN,MODEL_VTARGETVALUE_VLABEL,1.0,\u9a8c\u8bc1: \u76ee\u6807\u503c
+zh_CN,MODEL_VTOTALCOUNT_VLABEL,1.0,\u9a8c\u8bc1: \u603b\u8ba1
+zh_CN,MODEL_WRONGVARLEVEL_ERROR,1.0,\u53d8\u91cf\u201c%#2s\u201d\u7684\u7ea7\u522b\u7c7b\u578b\u201c%#1s\u201d\u672a\u77e5\u3002
+zh_HK,MODEL_ASE_VLABEL,1.0,\u5e73\u5747\u5e73\u65b9\u8aa4\u5dee
+zh_HK,MODEL_CCUT_VLABEL,1.0,\u5206\u985e\u622a\u6b62
+zh_HK,MODEL_CODEDEPENDENCY_ERROR,1.0,\u7121\u6cd5\u5224\u65b7\u7a0b\u5f0f\u78bc\u8b8a\u6578\u76f8\u4f9d\u6027\u3002
+zh_HK,MODEL_CORRECTRATE_VLABEL,1.0,\u6574\u9ad4\u7cbe\u78ba\u7387
+zh_HK,MODEL_CRCUT_VLABEL,1.0,CR \u622a\u6b62
+zh_HK,MODEL_CRDEPTH_VLABEL,1.0,CR \u6a23\u672c\u6df1\u5ea6
+zh_HK,MODEL_CREATEINTERMEDIATEFILE_ERROR,1.0,\u4e2d\u7e7c\u6a94\u6848\u5efa\u7acb\u5931\u6557\u3002
+zh_HK,MODEL_CR_VLABEL,1.0,\u6700\u5927\u5206\u985e\u7387 (CR)
+zh_HK,MODEL_CUMEVENTCOUNT_VLABEL,1.0,\u7d2f\u8a08\u4e8b\u4ef6\u8a08\u6578
+zh_HK,MODEL_CUMLIFT_VLABEL,1.0,\u7d2f\u8a08\u63d0\u5347
+zh_HK,MODEL_CUMNOBS_VLABEL,1.0,\u7d2f\u8a08\u89c0\u6e2c\u6578
+zh_HK,MODEL_CUMNONEVENTCOUNT_VLABEL,1.0,\u7d2f\u8a08\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_HK,MODEL_CUMPCTEVENT_VLABEL,1.0,\u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4
+zh_HK,MODEL_CUMPCTNONEVENT_VLABEL,1.0,\u975e\u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4
+zh_HK,MODEL_CUMPREDCOUNT_VLABEL,1.0,\u7d2f\u8a08\u9810\u6e2c\u8a08\u6578
+zh_HK,MODEL_CVP_VLABEL,1.0,\u9810\u6e2c\u7684\u4fc2\u6578\u8b8a\u7570
+zh_HK,MODEL_C_EVENT_PCT_VLABEL,1.0,\u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4
+zh_HK,MODEL_C_GAIN_VLABEL,1.0,\u7d2f\u8a08\u589e\u76ca
+zh_HK,MODEL_C_LIFT_VLABEL,1.0,\u7d2f\u8a08\u63d0\u5347
+zh_HK,MODEL_DATAROLE_VLABEL,1.0,\u8cc7\u6599\u89d2\u8272
+zh_HK,MODEL_DEPENDENCYDATAERROR_ERROR,1.0,\u7121\u6cd5\u958b\u555f\u76f8\u4f9d\u6027\u8cc7\u6599\u3002
+zh_HK,MODEL_DEPTH_C_EVENT_PCT_VLABEL,1.0,\u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4 (%s)
+zh_HK,MODEL_DEPTH_C_GAIN_VLABEL,1.0,\u7d2f\u8a08\u589e\u76ca (%s)
+zh_HK,MODEL_DEPTH_C_LIFT_VLABEL,1.0,\u7d2f\u8a08\u63d0\u5347 (%s)
+zh_HK,MODEL_DEPTH_GAIN_VLABEL,1.0,\u589e\u76ca (%s)
+zh_HK,MODEL_DEPTH_LIFT_VLABEL,1.0,\u63d0\u5347 (%s)
+zh_HK,MODEL_DEPTH_TCEVENTPCT_VLABEL,1.0,\u8a13\u7df4: \u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4 (%s)
+zh_HK,MODEL_DEPTH_TCGAIN_VLABEL,1.0,\u8a13\u7df4: \u7d2f\u8a08\u589e\u76ca (%s)
+zh_HK,MODEL_DEPTH_TCLIFT_VLABEL,1.0,\u8a13\u7df4: \u7d2f\u8a08\u63d0\u5347 (%s)
+zh_HK,MODEL_DEPTH_TGAIN_VLABEL,1.0,\u8a13\u7df4: \u589e\u76ca (%s)
+zh_HK,MODEL_DEPTH_TLIFT_VLABEL,1.0,\u8a13\u7df4: \u63d0\u5347 (%s)
+zh_HK,MODEL_DEPTH_VCEVENTPCT_VLABEL,1.0,\u9a57\u8b49: \u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4 (%s)
+zh_HK,MODEL_DEPTH_VCGAIN_VLABEL,1.0,\u9a57\u8b49: \u7d2f\u8a08\u589e\u76ca (%s)
+zh_HK,MODEL_DEPTH_VCLIFT_VLABEL,1.0,\u9a57\u8b49: \u7d2f\u8a08\u63d0\u5347 (%s)
+zh_HK,MODEL_DEPTH_VGAIN_VLABEL,1.0,\u9a57\u8b49: \u589e\u76ca (%s)
+zh_HK,MODEL_DEPTH_VLABEL,1.0,\u6df1\u5ea6
+zh_HK,MODEL_DEPTH_VLIFT_VLABEL,1.0,\u9a57\u8b49: \u63d0\u5347 (%s)
+zh_HK,MODEL_DIV_VLABEL,1.0,ASE \u7684\u9664\u6578
+zh_HK,MODEL_ERRORRATE_VLABEL,1.0,\u8aa4\u5dee\u7387
+zh_HK,MODEL_EVENTCOUNT_VLABEL,1.0,\u4e8b\u4ef6\u8a08\u6578
+zh_HK,MODEL_EVENTMISS_VLABEL,1.0,\u5177\u6709\u9810\u6e2c\u907a\u6f0f\u7684\u4e8b\u4ef6
+zh_HK,MODEL_EVENTRATE_VLABEL,1.0,\u4e8b\u4ef6\u7cbe\u78ba\u7387
+zh_HK,MODEL_EVENTTOCOUNT_NOTE,1.0,\u5c07\u6703\u8a08\u7b97\u4e8b\u4ef6 %s\u3002
+zh_HK,MODEL_FREQVARNOTFOUND_ERROR,1.0,\u5728\u8cc7\u6599\u4e2d\u627e\u4e0d\u5230\u983b\u7387\u8b8a\u6578 %s\u3002
+zh_HK,MODEL_GAIN_VLABEL,1.0,\u589e\u76ca
+zh_HK,MODEL_INCONSISTENTITEMSTORE_ERROR,1.0,Itemstore \u4e0d\u4e00\u81f4\u3002\u5728 VariableInfo \u8868\u683c\u4e2d\u627e\u4e0d\u5230\u90e8\u5206\u985e\u5225\u8b8a\u6578\u3002
+zh_HK,MODEL_INPUTVARIABLEXML_ERROR,1.0,\u5beb\u5165\u8f38\u5165\u8b8a\u6578 xml \u5931\u6557\u3002
+zh_HK,MODEL_INVALIDNUMBINS_ERROR,1.0,\u7b49\u8ddd\u7bb1\u6578\u7121\u6548\uff0c\u6578\u5b57\u5fc5\u9808\u5927\u65bc\u6216\u7b49\u65bc 2\u3002
+zh_HK,MODEL_ITEMSTOREINFONOTFOUND_ERROR,1.0,Itemstore \u8cc7\u8a0a\u4e0d\u5b58\u5728\u3002
+zh_HK,MODEL_ITEMSTORENOPROGRAM_WARNING,1.0,Itemstore \u672a\u5305\u542b\u8a13\u7df4\u8a08\u756b\u3002
+zh_HK,MODEL_ITEMSTORENOTFOUND_ERROR,1.0,Itemstore %s \u4e0d\u5b58\u5728\u3002
+zh_HK,MODEL_KSCUT_VLABEL,1.0,KS \u622a\u6b62
+zh_HK,MODEL_KSDEPTH_VLABEL,1.0,KS \u6a23\u672c\u6df1\u5ea6
+zh_HK,MODEL_KSREF_VLABEL,1.0,KS \u53c3\u8003\u884c
+zh_HK,MODEL_KSR_VLABEL,1.0,\u6700\u5927\u5340\u9694
+zh_HK,MODEL_KS_VLABEL,1.0,Kolmogorov-Smirnov (KS)
+zh_HK,MODEL_LIFT_VLABEL,1.0,\u63d0\u5347
+zh_HK,MODEL_LOADINGEVAL_NOTE,1.0,\u6b63\u5728\u8f09\u5165 aa_model_eval \u5de8\u96c6
+zh_HK,MODEL_LOADINGREGISTER_NOTE,1.0,\u6b63\u5728\u8f09\u5165 aa_model_register \u5de8\u96c6
+zh_HK,MODEL_MCUT_VLABEL,1.0,\u4e2d\u4f4d\u6578\u4e8b\u4ef6\u5075\u6e2c\u622a\u6b62
+zh_HK,MODEL_MDEPTH_VLABEL,1.0,\u4e2d\u4f4d\u6578\u4e8b\u4ef6\u5075\u6e2c\u6df1\u5ea6
+zh_HK,MODEL_MEANP_VLABEL,1.0,\u5e73\u5747\u9810\u6e2c
+zh_HK,MODEL_MINEQUALMAX_WARNING,1.0,\u6700\u5c0f\u503c\u7b49\u65bc\u6700\u5927\u503c\u3002\u5c07\u6703\u555f\u7528 FUZZ \u9078\u9805\u3002(%s)
+zh_HK,MODEL_MISC_VLABEL,1.0,\u8aa4\u5206\u985e\u7387
+zh_HK,MODEL_NOACTION_ERROR,1.0,\u56e0\u70ba spk \u548c\u8a3b\u518a\u7684\u8981\u6c42\u90fd\u662f\u8a2d\u70ba N\uff0c\u6240\u4ee5\u672a\u63a1\u53d6\u4efb\u4f55\u52d5\u4f5c\u3002
+zh_HK,MODEL_NOBS_VLABEL,1.0,\u89c0\u6e2c\u6578\u76ee
+zh_HK,MODEL_NODATA_ERROR,1.0,\u8cc7\u6599\u96c6 %s \u7121\u6cd5\u4f7f\u7528\u3002
+zh_HK,MODEL_NODEPENDECYVARIABLES_NOTE,1.0,\u5728\u7a0b\u5f0f\u78bc\u4e2d\u627e\u4e0d\u5230\u8b8a\u6578\u76f8\u4f9d\u6027\u3002
+zh_HK,MODEL_NOINPUTMETADATA_ERROR,1.0,\u7121\u6cd5\u7522\u751f\u8f38\u5165\u8b8a\u6578\u7684\u4e2d\u7e7c\u8cc7\u6599\u3002
+zh_HK,MODEL_NOMODELNAME_NOTE,1.0,\u672a\u6307\u5b9a\u6a21\u578b\u540d\u7a31\u3002\u5c07\u6703\u4f7f\u7528\u9810\u8a2d\u540d\u7a31 %s\u3002
+zh_HK,MODEL_NONEVENTCOUNT_VLABEL,1.0,\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_HK,MODEL_NONEVENTRATE_VLABEL,1.0,\u975e\u4e8b\u4ef6\u7cbe\u78ba\u7387
+zh_HK,MODEL_NOOUTPUTVAR_ERROR,1.0,\u672a\u5b9a\u7fa9\u8f38\u51fa\u8b8a\u6578\u3002
+zh_HK,MODEL_NOSCORECODEFILE_ERROR,1.0,\u672a\u6307\u5b9a\u8a55\u5206\u7a0b\u5f0f\u78bc\u6a94\u6848\u3002
+zh_HK,MODEL_NOSPKFOLDERNAME_ERROR,1.0,\u672a\u6307\u5b9a SPK \u8cc7\u6599\u593e\u540d\u7a31\u3002
+zh_HK,MODEL_NOTARGETEVENT_ERROR,1.0,\u672a\u5b9a\u7fa9\u76ee\u6a19\u4e8b\u4ef6\u3002
+zh_HK,MODEL_NOTARGETLEVEL_ERROR,1.0,\u672a\u5b9a\u7fa9\u76ee\u6a19\u8b8a\u6578\u7684\u91cf\u503c\u5c64\u7d1a\u3002
+zh_HK,MODEL_NOTARGET_ERROR,1.0,\u672a\u5b9a\u7fa9\u76ee\u6a19\u8b8a\u6578\u3002
+zh_HK,MODEL_NUMBINS_VLABEL,1.0,\u7b49\u8ddd\u7bb1\u6578
+zh_HK,MODEL_ONEMINUSSPECIFICITY_VLABEL,1.0,1 - \u7279\u7570\u5ea6
+zh_HK,MODEL_OUTPUTVARIABLEXML_ERROR,1.0,\u5beb\u5165\u8f38\u51fa\u8b8a\u6578 xml \u5931\u6557\u3002
+zh_HK,MODEL_OUTPUTVAR_VLABEL,1.0,\u8f38\u51fa\u8b8a\u6578
+zh_HK,MODEL_PCTEVENT_VLABEL,1.0,\u4e8b\u4ef6\u767e\u5206\u6bd4
+zh_HK,MODEL_PCTNONEVENT_VLABEL,1.0,\u975e\u4e8b\u4ef6\u767e\u5206\u6bd4
+zh_HK,MODEL_PMMLFILENOTFOUND_ERROR,1.0,\u6307\u5b9a\u7684 PMML \u6a94\u6848 %s \u4e0d\u5b58\u5728\u3002
+zh_HK,MODEL_PREDCOUNT_VLABEL,1.0,\u9810\u6e2c\u8a08\u6578
+zh_HK,MODEL_PREDICTCUT_VLABEL,1.0,\u622a\u6b62 %s \u7684\u9810\u6e2c
+zh_HK,MODEL_PREDICTEDBINMEAN_VLABEL,1.0,\u9810\u6e2c\u7b49\u8ddd\u7bb1\u6578\u5e73\u5747
+zh_HK,MODEL_PREDICTEDMAX_VLABEL,1.0,\u6700\u5927\u9810\u6e2c
+zh_HK,MODEL_PREDICTEDMIN_VLABEL,1.0,\u6700\u5c0f\u9810\u6e2c
+zh_HK,MODEL_PREDICTIONATCUTOFF_VLABEL,1.0,\u622a\u6b62 %s \u7684\u9810\u6e2c
+zh_HK,MODEL_PREDMISS_VLABEL,1.0,\u9810\u6e2c\u907a\u6f0f
+zh_HK,MODEL_RANKINGVARNOTFOUND_ERROR,1.0,\u5728\u8cc7\u6599\u4e2d\u627e\u4e0d\u5230\u6392\u540d\u8b8a\u6578 %s\u3002
+zh_HK,MODEL_RASE_VLABEL,1.0,\u6839\u5e73\u5747\u5e73\u65b9\u8aa4\u5dee
+zh_HK,MODEL_REPOSITORYNOTFOUND_ERROR,1.0,Repository \u8cc7\u6599\u593e %s \u4e0d\u5b58\u5728\u3002
+zh_HK,MODEL_RESIDUALBINMEAN_VLABEL,1.0,\u6b98\u5dee\u7b49\u8ddd\u7bb1\u6578\u5e73\u5747
+zh_HK,MODEL_RESIDUALMAX_VLABEL,1.0,\u6700\u5927\u6b98\u5dee
+zh_HK,MODEL_RESIDUALMIN_VLABEL,1.0,\u6700\u5c0f\u6b98\u5dee
+zh_HK,MODEL_RESIDUALSQUAREDBINMEAN_VLABEL,1.0,\u6b98\u5dee\u5e73\u65b9\u7b49\u8ddd\u7bb1\u6578\u5e73\u5747
+zh_HK,MODEL_SCORECODEFILENOTFOUND_ERROR,1.0,\u8a55\u5206\u7a0b\u5f0f\u78bc\u6a94\u6848 %s \u4e0d\u5b58\u5728\u3002
+zh_HK,MODEL_SEGMENTVARNOTFOUND_ERROR,1.0,\u5728\u8cc7\u6599\u4e2d\u627e\u4e0d\u5230\u5340\u6bb5\u8b8a\u6578 %s\u3002
+zh_HK,MODEL_SENSITIVITY_VLABEL,1.0,\u654f\u611f\u5ea6
+zh_HK,MODEL_SEPARATIONKS_VLABEL,1.0,\u5340\u9694 - KS
+zh_HK,MODEL_SPECIFICITY_VLABEL,1.0,\u7279\u7570\u5ea6
+zh_HK,MODEL_SSE_VLABEL,1.0,\u8aa4\u5dee\u5e73\u65b9\u548c
+zh_HK,MODEL_STDP_VLABEL,1.0,\u9810\u6e2c\u6a19\u6e96\u5dee
+zh_HK,MODEL_SUMMARIZEEVENT_NOTE,1.0,\u5075\u6e2c\u8b8a\u6578 %#2s \u7684\u4e8b\u4ef6 %#1s\u3002
+zh_HK,MODEL_SUMMARIZENOEVENT_NOTE,1.0,\u672a\u63d0\u4f9b\u4e8b\u4ef6\u3002
+zh_HK,MODEL_SUMMARIZE_NOTE,1.0,\u5c07\u6703\u5f59\u7e3d\u8a72\u9593\u9694 (%#2s\u3001%#3s) \u7684\u8b8a\u6578 %#1s
+zh_HK,MODEL_TARGETBINMEAN_VLABEL,1.0,\u76ee\u6a19\u7b49\u8ddd\u7bb1\u6578\u5e73\u5747
+zh_HK,MODEL_TARGETCOUNT_VLABEL,1.0,\u76ee\u6a19\u8a08\u6578
+zh_HK,MODEL_TARGETEVENT_VLABEL,1.0,\u76ee\u6a19\u4e8b\u4ef6
+zh_HK,MODEL_TARGETLEVEL_VLABEL,1.0,\u76ee\u6a19\u5c64\u7d1a
+zh_HK,MODEL_TARGETMAX_VLABEL,1.0,\u6700\u5927\u76ee\u6a19
+zh_HK,MODEL_TARGETMIN_VLABEL,1.0,\u6700\u5c0f\u76ee\u6a19
+zh_HK,MODEL_TARGETMISS_VLABEL,1.0,\u76ee\u6a19\u907a\u6f0f
+zh_HK,MODEL_TARGETVALUE_VLABEL,1.0,\u76ee\u6a19\u503c
+zh_HK,MODEL_TARGETVARNOTFOUND_ERROR,1.0,\u5728\u8cc7\u6599\u4e2d\u627e\u4e0d\u5230\u76ee\u6a19\u8b8a\u6578 %s\u3002
+zh_HK,MODEL_TARGET_VLABEL,1.0,\u76ee\u6a19\u8b8a\u6578
+zh_HK,MODEL_TCCUT_VLABEL,1.0,\u8a13\u7df4: \u5206\u985e\u622a\u6b62
+zh_HK,MODEL_TCEVENTPCT_VLABEL,1.0,\u8a13\u7df4: \u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4
+zh_HK,MODEL_TCGAIN_VLABEL,1.0,\u8a13\u7df4: \u7d2f\u8a08\u589e\u76ca
+zh_HK,MODEL_TCLIFT_VLABEL,1.0,\u8a13\u7df4: \u7d2f\u8a08\u63d0\u5347
+zh_HK,MODEL_TCORRECTRATE_VLABEL,1.0,\u8a13\u7df4: \u6574\u9ad4\u7cbe\u78ba\u7387
+zh_HK,MODEL_TCRCUT_VLABEL,1.0,\u8a13\u7df4: CR \u622a\u6b62
+zh_HK,MODEL_TCRDEPTH_VLABEL,1.0,\u8a13\u7df4: CR \u6a23\u672c\u6df1\u5ea6
+zh_HK,MODEL_TCR_VLABEL,1.0,\u8a13\u7df4: \u6700\u5927\u5206\u985e\u7387 (CR)
+zh_HK,MODEL_TDEPTH_VLABEL,1.0,\u8a13\u7df4: \u6df1\u5ea6
+zh_HK,MODEL_TERRORRATE_VLABEL,1.0,\u8a13\u7df4: \u8aa4\u5dee\u7387
+zh_HK,MODEL_TEVENTCOUNT_VLABEL,1.0,\u8a13\u7df4: \u4e8b\u4ef6\u8a08\u6578
+zh_HK,MODEL_TEVENTMISSCOUNT_VLABEL,1.0,\u8a13\u7df4: \u5177\u6709\u9810\u6e2c\u907a\u6f0f\u7684\u4e8b\u4ef6
+zh_HK,MODEL_TEVENTRATE_VLABEL,1.0,\u8a13\u7df4: \u4e8b\u4ef6\u7cbe\u78ba\u7387
+zh_HK,MODEL_TGAIN_VLABEL,1.0,\u8a13\u7df4: \u589e\u76ca
+zh_HK,MODEL_TKSCUT_VLABEL,1.0,\u8a13\u7df4: KS \u622a\u6b62
+zh_HK,MODEL_TKSDEPTH_VLABEL,1.0,\u8a13\u7df4: KS \u6a23\u672c\u6df1\u5ea6
+zh_HK,MODEL_TKSREF_VLABEL,1.0,\u8a13\u7df4: KS \u53c3\u8003\u884c
+zh_HK,MODEL_TKSR_VLABEL,1.0,\u8a13\u7df4: \u6700\u5927\u5340\u9694
+zh_HK,MODEL_TKS_VLABEL,1.0,\u8a13\u7df4: Kolmogorov-Smirnov (KS)
+zh_HK,MODEL_TLIFT_VLABEL,1.0,\u8a13\u7df4: \u63d0\u5347
+zh_HK,MODEL_TMCUT_VLABEL,1.0,\u8a13\u7df4: \u4e2d\u4f4d\u6578\u4e8b\u4ef6\u5075\u6e2c\u622a\u6b62
+zh_HK,MODEL_TMDEPTH_VLABEL,1.0,\u8a13\u7df4: \u4e2d\u4f4d\u6578\u4e8b\u4ef6\u5075\u6e2c\u6df1\u5ea6
+zh_HK,MODEL_TNOBS_VLABEL,1.0,\u8a13\u7df4: \u89c0\u6e2c\u6578\u76ee
+zh_HK,MODEL_TNONEVENTCOUNT_VLABEL,1.0,\u8a13\u7df4: \u975e\u4e8b\u4ef6\u8a08\u6578
+zh_HK,MODEL_TNONEVENTRATE_VLABEL,1.0,\u8a13\u7df4: \u975e\u4e8b\u4ef6\u7cbe\u78ba\u7387
+zh_HK,MODEL_TOTALCOUNT_VLABEL,1.0,\u7e3d\u8a08\u6578
+zh_HK,MODEL_TPREDCOUNT_VLABEL,1.0,\u8a13\u7df4: \u9810\u6e2c\u8a08\u6578
+zh_HK,MODEL_TPREDICTCUT_VLABEL,1.0,\u8a13\u7df4: \u622a\u6b62 %s \u7684\u9810\u6e2c
+zh_HK,MODEL_TPREDMISS_VLABEL,1.0,\u8a13\u7df4: \u9810\u6e2c\u907a\u6f0f
+zh_HK,MODEL_TRAINASE_VLABEL,1.0,\u8a13\u7df4: \u5e73\u5747\u5e73\u65b9\u8aa4\u5dee
+zh_HK,MODEL_TRAINDIV_VLABEL,1.0,\u8a13\u7df4: ASE \u7684\u9664\u6578
+zh_HK,MODEL_TRAININGFILENOTFOUND_ERROR,1.0,\u6307\u5b9a\u7684\u8a13\u7df4\u6a94\u6848 %s \u4e0d\u5b58\u5728\u3002
+zh_HK,MODEL_TRAINMISC_VLABEL,1.0,\u8a13\u7df4: \u8aa4\u5206\u985e\u7387
+zh_HK,MODEL_TRAINRASE_VLABEL,1.0,\u8a13\u7df4: \u6839\u5e73\u5747\u5e73\u65b9\u8aa4\u5dee
+zh_HK,MODEL_TRAINSSE_VLABEL,1.0,\u8a13\u7df4: \u8aa4\u5dee\u5e73\u65b9\u548c
+zh_HK,MODEL_TSEPARATIONKS_VLABEL,1.0,\u8a13\u7df4: \u5340\u9694 - KS
+zh_HK,MODEL_TTARGETCOUNT_VLABEL,1.0,\u8a13\u7df4: \u76ee\u6a19\u8a08\u6578
+zh_HK,MODEL_TTARGETMISS_VLABEL,1.0,\u8a13\u7df4: \u76ee\u6a19\u907a\u6f0f
+zh_HK,MODEL_TTARGETVALUE_VLABEL,1.0,\u8a13\u7df4: \u76ee\u6a19\u503c
+zh_HK,MODEL_TTOTALCOUNT_VLABEL,1.0,\u8a13\u7df4: \u7e3d\u8a08\u6578
+zh_HK,MODEL_VARSNOTFOUND_ERROR,1.0,\u8b8a\u6578 %#1s \u4e0d\u5728\u8cc7\u6599\u96c6 %#2s \u4e2d\u3002
+zh_HK,MODEL_VASE_VLABEL,1.0,\u9a57\u8b49: \u5e73\u5747\u5e73\u65b9\u8aa4\u5dee
+zh_HK,MODEL_VCCUT_VLABEL,1.0,\u9a57\u8b49: \u5206\u985e\u622a\u6b62
+zh_HK,MODEL_VCEVENTPCT_VLABEL,1.0,\u9a57\u8b49: \u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4
+zh_HK,MODEL_VCGAIN_VLABEL,1.0,\u9a57\u8b49: \u7d2f\u8a08\u589e\u76ca
+zh_HK,MODEL_VCLIFT_VLABEL,1.0,\u9a57\u8b49: \u7d2f\u8a08\u63d0\u5347
+zh_HK,MODEL_VCORRECTRATE_VLABEL,1.0,\u9a57\u8b49: \u6574\u9ad4\u7cbe\u78ba\u7387
+zh_HK,MODEL_VCRCUT_VLABEL,1.0,\u9a57\u8b49: CR \u622a\u6b62
+zh_HK,MODEL_VCRDEPTH_VLABEL,1.0,\u9a57\u8b49: CR \u6a23\u672c\u6df1\u5ea6
+zh_HK,MODEL_VCR_VLABEL,1.0,\u9a57\u8b49: \u6700\u5927\u5206\u985e\u7387 (CR)
+zh_HK,MODEL_VCVP_VLABEL,1.0,\u9a57\u8b49: \u9810\u6e2c\u7684\u4fc2\u6578\u8b8a\u7570
+zh_HK,MODEL_VDEPTH_VLABEL,1.0,\u9a57\u8b49: \u6df1\u5ea6
+zh_HK,MODEL_VDIV_VLABEL,1.0,\u9a57\u8b49: ASE \u7684\u9664\u6578
+zh_HK,MODEL_VERRORRATE_VLABEL,1.0,\u9a57\u8b49: \u8aa4\u5dee\u7387
+zh_HK,MODEL_VEVENTCOUNT_VLABEL,1.0,\u9a57\u8b49: \u4e8b\u4ef6\u8a08\u6578
+zh_HK,MODEL_VEVENTMISSCOUNT_VLABEL,1.0,\u9a57\u8b49: \u5177\u6709\u9810\u6e2c\u907a\u6f0f\u7684\u4e8b\u4ef6
+zh_HK,MODEL_VEVENTRATE_VLABEL,1.0,\u9a57\u8b49: \u4e8b\u4ef6\u7cbe\u78ba\u7387
+zh_HK,MODEL_VGAIN_VLABEL,1.0,\u9a57\u8b49: \u589e\u76ca
+zh_HK,MODEL_VKSCUT_VLABEL,1.0,\u9a57\u8b49: KS \u622a\u6b62
+zh_HK,MODEL_VKSDEPTH_VLABEL,1.0,\u9a57\u8b49: KS \u6a23\u672c\u6df1\u5ea6
+zh_HK,MODEL_VKSREF_VLABEL,1.0,\u9a57\u8b49: KS \u53c3\u8003\u884c
+zh_HK,MODEL_VKSR_VLABEL,1.0,\u9a57\u8b49: \u6700\u5927\u5340\u9694
+zh_HK,MODEL_VKS_VLABEL,1.0,\u9a57\u8b49: Kolmogorov-Smirnov (KS)
+zh_HK,MODEL_VLIFT_VLABEL,1.0,\u9a57\u8b49: \u63d0\u5347
+zh_HK,MODEL_VMCUT_VLABEL,1.0,\u9a57\u8b49: \u4e2d\u4f4d\u6578\u4e8b\u4ef6\u5075\u6e2c\u622a\u6b62
+zh_HK,MODEL_VMDEPTH_VLABEL,1.0,\u9a57\u8b49: \u4e2d\u4f4d\u6578\u4e8b\u4ef6\u5075\u6e2c\u6df1\u5ea6
+zh_HK,MODEL_VMEANP_VLABEL,1.0,\u9a57\u8b49: \u5e73\u5747\u9810\u6e2c
+zh_HK,MODEL_VMISC_VLABEL,1.0,\u9a57\u8b49: \u8aa4\u5206\u985e\u7387
+zh_HK,MODEL_VNOBS_VLABEL,1.0,\u9a57\u8b49: \u89c0\u6e2c\u6578\u76ee
+zh_HK,MODEL_VNONEVENTCOUNT_VLABEL,1.0,\u9a57\u8b49: \u975e\u4e8b\u4ef6\u8a08\u6578
+zh_HK,MODEL_VNONEVENTRATE_VLABEL,1.0,\u9a57\u8b49: \u975e\u4e8b\u4ef6\u7cbe\u78ba\u7387
+zh_HK,MODEL_VPREDCOUNT_VLABEL,1.0,\u9a57\u8b49: \u9810\u6e2c\u8a08\u6578
+zh_HK,MODEL_VPREDICTCUT_VLABEL,1.0,\u9a57\u8b49: \u622a\u6b62 %s \u7684\u9810\u6e2c
+zh_HK,MODEL_VPREDMISS_VLABEL,1.0,\u9a57\u8b49: \u9810\u6e2c\u907a\u6f0f
+zh_HK,MODEL_VRASE_VLABEL,1.0,\u9a57\u8b49: \u6839\u5e73\u5747\u5e73\u65b9\u8aa4\u5dee
+zh_HK,MODEL_VSEPARATIONKS_VLABEL,1.0,\u9a57\u8b49: \u5340\u9694 - KS
+zh_HK,MODEL_VSSE_VLABEL,1.0,\u9a57\u8b49: \u8aa4\u5dee\u5e73\u65b9\u548c
+zh_HK,MODEL_VSTDP_VLABEL,1.0,\u9a57\u8b49: \u9810\u6e2c\u6a19\u6e96\u5dee
+zh_HK,MODEL_VTARGETCOUNT_VLABEL,1.0,\u9a57\u8b49: \u76ee\u6a19\u8a08\u6578
+zh_HK,MODEL_VTARGETMISS_VLABEL,1.0,\u9a57\u8b49: \u76ee\u6a19\u907a\u6f0f
+zh_HK,MODEL_VTARGETVALUE_VLABEL,1.0,\u9a57\u8b49: \u76ee\u6a19\u503c
+zh_HK,MODEL_VTOTALCOUNT_VLABEL,1.0,\u9a57\u8b49: \u7e3d\u8a08\u6578
+zh_HK,MODEL_WRONGVARLEVEL_ERROR,1.0,\u8b8a\u6578 %#2s \u7684\u5c64\u7d1a\u985e\u578b %#1s \u4e0d\u660e\u3002
+zh_TW,MODEL_ASE_VLABEL,1.0,\u5e73\u5747\u5e73\u65b9\u8aa4\u5dee
+zh_TW,MODEL_CCUT_VLABEL,1.0,\u5206\u985e\u622a\u6b62
+zh_TW,MODEL_CODEDEPENDENCY_ERROR,1.0,\u7121\u6cd5\u5224\u65b7\u7a0b\u5f0f\u78bc\u8b8a\u6578\u76f8\u4f9d\u6027\u3002
+zh_TW,MODEL_CORRECTRATE_VLABEL,1.0,\u6574\u9ad4\u7cbe\u78ba\u7387
+zh_TW,MODEL_CRCUT_VLABEL,1.0,CR \u622a\u6b62
+zh_TW,MODEL_CRDEPTH_VLABEL,1.0,CR \u6a23\u672c\u6df1\u5ea6
+zh_TW,MODEL_CREATEINTERMEDIATEFILE_ERROR,1.0,\u4e2d\u7e7c\u6a94\u6848\u5efa\u7acb\u5931\u6557\u3002
+zh_TW,MODEL_CR_VLABEL,1.0,\u6700\u5927\u5206\u985e\u7387 (CR)
+zh_TW,MODEL_CUMEVENTCOUNT_VLABEL,1.0,\u7d2f\u8a08\u4e8b\u4ef6\u8a08\u6578
+zh_TW,MODEL_CUMLIFT_VLABEL,1.0,\u7d2f\u8a08\u63d0\u5347
+zh_TW,MODEL_CUMNOBS_VLABEL,1.0,\u7d2f\u8a08\u89c0\u6e2c\u6578
+zh_TW,MODEL_CUMNONEVENTCOUNT_VLABEL,1.0,\u7d2f\u8a08\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_TW,MODEL_CUMPCTEVENT_VLABEL,1.0,\u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4
+zh_TW,MODEL_CUMPCTNONEVENT_VLABEL,1.0,\u975e\u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4
+zh_TW,MODEL_CUMPREDCOUNT_VLABEL,1.0,\u7d2f\u8a08\u9810\u6e2c\u8a08\u6578
+zh_TW,MODEL_CVP_VLABEL,1.0,\u9810\u6e2c\u7684\u4fc2\u6578\u8b8a\u7570
+zh_TW,MODEL_C_EVENT_PCT_VLABEL,1.0,\u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4
+zh_TW,MODEL_C_GAIN_VLABEL,1.0,\u7d2f\u8a08\u589e\u76ca
+zh_TW,MODEL_C_LIFT_VLABEL,1.0,\u7d2f\u8a08\u63d0\u5347
+zh_TW,MODEL_DATAROLE_VLABEL,1.0,\u8cc7\u6599\u89d2\u8272
+zh_TW,MODEL_DEPENDENCYDATAERROR_ERROR,1.0,\u7121\u6cd5\u958b\u555f\u76f8\u4f9d\u6027\u8cc7\u6599\u3002
+zh_TW,MODEL_DEPTH_C_EVENT_PCT_VLABEL,1.0,\u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4 (%s)
+zh_TW,MODEL_DEPTH_C_GAIN_VLABEL,1.0,\u7d2f\u8a08\u589e\u76ca (%s)
+zh_TW,MODEL_DEPTH_C_LIFT_VLABEL,1.0,\u7d2f\u8a08\u63d0\u5347 (%s)
+zh_TW,MODEL_DEPTH_GAIN_VLABEL,1.0,\u589e\u76ca (%s)
+zh_TW,MODEL_DEPTH_LIFT_VLABEL,1.0,\u63d0\u5347 (%s)
+zh_TW,MODEL_DEPTH_TCEVENTPCT_VLABEL,1.0,\u8a13\u7df4: \u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4 (%s)
+zh_TW,MODEL_DEPTH_TCGAIN_VLABEL,1.0,\u8a13\u7df4: \u7d2f\u8a08\u589e\u76ca (%s)
+zh_TW,MODEL_DEPTH_TCLIFT_VLABEL,1.0,\u8a13\u7df4: \u7d2f\u8a08\u63d0\u5347 (%s)
+zh_TW,MODEL_DEPTH_TGAIN_VLABEL,1.0,\u8a13\u7df4: \u589e\u76ca (%s)
+zh_TW,MODEL_DEPTH_TLIFT_VLABEL,1.0,\u8a13\u7df4: \u63d0\u5347 (%s)
+zh_TW,MODEL_DEPTH_VCEVENTPCT_VLABEL,1.0,\u9a57\u8b49: \u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4 (%s)
+zh_TW,MODEL_DEPTH_VCGAIN_VLABEL,1.0,\u9a57\u8b49: \u7d2f\u8a08\u589e\u76ca (%s)
+zh_TW,MODEL_DEPTH_VCLIFT_VLABEL,1.0,\u9a57\u8b49: \u7d2f\u8a08\u63d0\u5347 (%s)
+zh_TW,MODEL_DEPTH_VGAIN_VLABEL,1.0,\u9a57\u8b49: \u589e\u76ca (%s)
+zh_TW,MODEL_DEPTH_VLABEL,1.0,\u6df1\u5ea6
+zh_TW,MODEL_DEPTH_VLIFT_VLABEL,1.0,\u9a57\u8b49: \u63d0\u5347 (%s)
+zh_TW,MODEL_DIV_VLABEL,1.0,ASE \u7684\u9664\u6578
+zh_TW,MODEL_ERRORRATE_VLABEL,1.0,\u8aa4\u5dee\u7387
+zh_TW,MODEL_EVENTCOUNT_VLABEL,1.0,\u4e8b\u4ef6\u8a08\u6578
+zh_TW,MODEL_EVENTMISS_VLABEL,1.0,\u5177\u6709\u9810\u6e2c\u907a\u6f0f\u7684\u4e8b\u4ef6
+zh_TW,MODEL_EVENTRATE_VLABEL,1.0,\u4e8b\u4ef6\u7cbe\u78ba\u7387
+zh_TW,MODEL_EVENTTOCOUNT_NOTE,1.0,\u5c07\u6703\u8a08\u7b97\u4e8b\u4ef6 %s\u3002
+zh_TW,MODEL_FREQVARNOTFOUND_ERROR,1.0,\u5728\u8cc7\u6599\u4e2d\u627e\u4e0d\u5230\u983b\u7387\u8b8a\u6578 %s\u3002
+zh_TW,MODEL_GAIN_VLABEL,1.0,\u589e\u76ca
+zh_TW,MODEL_INCONSISTENTITEMSTORE_ERROR,1.0,Itemstore \u4e0d\u4e00\u81f4\u3002\u5728 VariableInfo \u8868\u683c\u4e2d\u627e\u4e0d\u5230\u90e8\u5206\u985e\u5225\u8b8a\u6578\u3002
+zh_TW,MODEL_INPUTVARIABLEXML_ERROR,1.0,\u5beb\u5165\u8f38\u5165\u8b8a\u6578 xml \u5931\u6557\u3002
+zh_TW,MODEL_INVALIDNUMBINS_ERROR,1.0,\u7b49\u8ddd\u7bb1\u6578\u7121\u6548\uff0c\u6578\u5b57\u5fc5\u9808\u5927\u65bc\u6216\u7b49\u65bc 2\u3002
+zh_TW,MODEL_ITEMSTOREINFONOTFOUND_ERROR,1.0,Itemstore \u8cc7\u8a0a\u4e0d\u5b58\u5728\u3002
+zh_TW,MODEL_ITEMSTORENOPROGRAM_WARNING,1.0,Itemstore \u672a\u5305\u542b\u8a13\u7df4\u8a08\u756b\u3002
+zh_TW,MODEL_ITEMSTORENOTFOUND_ERROR,1.0,Itemstore %s \u4e0d\u5b58\u5728\u3002
+zh_TW,MODEL_KSCUT_VLABEL,1.0,KS \u622a\u6b62
+zh_TW,MODEL_KSDEPTH_VLABEL,1.0,KS \u6a23\u672c\u6df1\u5ea6
+zh_TW,MODEL_KSREF_VLABEL,1.0,KS \u53c3\u8003\u884c
+zh_TW,MODEL_KSR_VLABEL,1.0,\u6700\u5927\u5340\u9694
+zh_TW,MODEL_KS_VLABEL,1.0,Kolmogorov-Smirnov (KS)
+zh_TW,MODEL_LIFT_VLABEL,1.0,\u63d0\u5347
+zh_TW,MODEL_LOADINGEVAL_NOTE,1.0,\u6b63\u5728\u8f09\u5165 aa_model_eval \u5de8\u96c6
+zh_TW,MODEL_LOADINGREGISTER_NOTE,1.0,\u6b63\u5728\u8f09\u5165 aa_model_register \u5de8\u96c6
+zh_TW,MODEL_MCUT_VLABEL,1.0,\u4e2d\u4f4d\u6578\u4e8b\u4ef6\u5075\u6e2c\u622a\u6b62
+zh_TW,MODEL_MDEPTH_VLABEL,1.0,\u4e2d\u4f4d\u6578\u4e8b\u4ef6\u5075\u6e2c\u6df1\u5ea6
+zh_TW,MODEL_MEANP_VLABEL,1.0,\u5e73\u5747\u9810\u6e2c
+zh_TW,MODEL_MINEQUALMAX_WARNING,1.0,\u6700\u5c0f\u503c\u7b49\u65bc\u6700\u5927\u503c\u3002\u5c07\u6703\u555f\u7528 FUZZ \u9078\u9805\u3002(%s)
+zh_TW,MODEL_MISC_VLABEL,1.0,\u8aa4\u5206\u985e\u7387
+zh_TW,MODEL_NOACTION_ERROR,1.0,\u56e0\u70ba spk \u548c\u8a3b\u518a\u7684\u8981\u6c42\u90fd\u662f\u8a2d\u70ba N\uff0c\u6240\u4ee5\u672a\u63a1\u53d6\u4efb\u4f55\u52d5\u4f5c\u3002
+zh_TW,MODEL_NOBS_VLABEL,1.0,\u89c0\u6e2c\u6578\u76ee
+zh_TW,MODEL_NODATA_ERROR,1.0,\u8cc7\u6599\u96c6 %s \u7121\u6cd5\u4f7f\u7528\u3002
+zh_TW,MODEL_NODEPENDECYVARIABLES_NOTE,1.0,\u5728\u7a0b\u5f0f\u78bc\u4e2d\u627e\u4e0d\u5230\u8b8a\u6578\u76f8\u4f9d\u6027\u3002
+zh_TW,MODEL_NOINPUTMETADATA_ERROR,1.0,\u7121\u6cd5\u7522\u751f\u8f38\u5165\u8b8a\u6578\u7684\u4e2d\u7e7c\u8cc7\u6599\u3002
+zh_TW,MODEL_NOMODELNAME_NOTE,1.0,\u672a\u6307\u5b9a\u6a21\u578b\u540d\u7a31\u3002\u5c07\u6703\u4f7f\u7528\u9810\u8a2d\u540d\u7a31 %s\u3002
+zh_TW,MODEL_NONEVENTCOUNT_VLABEL,1.0,\u975e\u4e8b\u4ef6\u8a08\u6578
+zh_TW,MODEL_NONEVENTRATE_VLABEL,1.0,\u975e\u4e8b\u4ef6\u7cbe\u78ba\u7387
+zh_TW,MODEL_NOOUTPUTVAR_ERROR,1.0,\u672a\u5b9a\u7fa9\u8f38\u51fa\u8b8a\u6578\u3002
+zh_TW,MODEL_NOSCORECODEFILE_ERROR,1.0,\u672a\u6307\u5b9a\u8a55\u5206\u7a0b\u5f0f\u78bc\u6a94\u6848\u3002
+zh_TW,MODEL_NOSPKFOLDERNAME_ERROR,1.0,\u672a\u6307\u5b9a SPK \u8cc7\u6599\u593e\u540d\u7a31\u3002
+zh_TW,MODEL_NOTARGETEVENT_ERROR,1.0,\u672a\u5b9a\u7fa9\u76ee\u6a19\u4e8b\u4ef6\u3002
+zh_TW,MODEL_NOTARGETLEVEL_ERROR,1.0,\u672a\u5b9a\u7fa9\u76ee\u6a19\u8b8a\u6578\u7684\u91cf\u503c\u5c64\u7d1a\u3002
+zh_TW,MODEL_NOTARGET_ERROR,1.0,\u672a\u5b9a\u7fa9\u76ee\u6a19\u8b8a\u6578\u3002
+zh_TW,MODEL_NUMBINS_VLABEL,1.0,\u7b49\u8ddd\u7bb1\u6578
+zh_TW,MODEL_ONEMINUSSPECIFICITY_VLABEL,1.0,1 - \u7279\u7570\u5ea6
+zh_TW,MODEL_OUTPUTVARIABLEXML_ERROR,1.0,\u5beb\u5165\u8f38\u51fa\u8b8a\u6578 xml \u5931\u6557\u3002
+zh_TW,MODEL_OUTPUTVAR_VLABEL,1.0,\u8f38\u51fa\u8b8a\u6578
+zh_TW,MODEL_PCTEVENT_VLABEL,1.0,\u4e8b\u4ef6\u767e\u5206\u6bd4
+zh_TW,MODEL_PCTNONEVENT_VLABEL,1.0,\u975e\u4e8b\u4ef6\u767e\u5206\u6bd4
+zh_TW,MODEL_PMMLFILENOTFOUND_ERROR,1.0,\u6307\u5b9a\u7684 PMML \u6a94\u6848 %s \u4e0d\u5b58\u5728\u3002
+zh_TW,MODEL_PREDCOUNT_VLABEL,1.0,\u9810\u6e2c\u8a08\u6578
+zh_TW,MODEL_PREDICTCUT_VLABEL,1.0,\u622a\u6b62 %s \u7684\u9810\u6e2c
+zh_TW,MODEL_PREDICTEDBINMEAN_VLABEL,1.0,\u9810\u6e2c\u7b49\u8ddd\u7bb1\u6578\u5e73\u5747
+zh_TW,MODEL_PREDICTEDMAX_VLABEL,1.0,\u6700\u5927\u9810\u6e2c
+zh_TW,MODEL_PREDICTEDMIN_VLABEL,1.0,\u6700\u5c0f\u9810\u6e2c
+zh_TW,MODEL_PREDICTIONATCUTOFF_VLABEL,1.0,\u622a\u6b62 %s \u7684\u9810\u6e2c
+zh_TW,MODEL_PREDMISS_VLABEL,1.0,\u9810\u6e2c\u907a\u6f0f
+zh_TW,MODEL_RANKINGVARNOTFOUND_ERROR,1.0,\u5728\u8cc7\u6599\u4e2d\u627e\u4e0d\u5230\u6392\u540d\u8b8a\u6578 %s\u3002
+zh_TW,MODEL_RASE_VLABEL,1.0,\u6839\u5e73\u5747\u5e73\u65b9\u8aa4\u5dee
+zh_TW,MODEL_REPOSITORYNOTFOUND_ERROR,1.0,Repository \u8cc7\u6599\u593e %s \u4e0d\u5b58\u5728\u3002
+zh_TW,MODEL_RESIDUALBINMEAN_VLABEL,1.0,\u6b98\u5dee\u7b49\u8ddd\u7bb1\u6578\u5e73\u5747
+zh_TW,MODEL_RESIDUALMAX_VLABEL,1.0,\u6700\u5927\u6b98\u5dee
+zh_TW,MODEL_RESIDUALMIN_VLABEL,1.0,\u6700\u5c0f\u6b98\u5dee
+zh_TW,MODEL_RESIDUALSQUAREDBINMEAN_VLABEL,1.0,\u6b98\u5dee\u5e73\u65b9\u7b49\u8ddd\u7bb1\u6578\u5e73\u5747
+zh_TW,MODEL_SCORECODEFILENOTFOUND_ERROR,1.0,\u8a55\u5206\u7a0b\u5f0f\u78bc\u6a94\u6848 %s \u4e0d\u5b58\u5728\u3002
+zh_TW,MODEL_SEGMENTVARNOTFOUND_ERROR,1.0,\u5728\u8cc7\u6599\u4e2d\u627e\u4e0d\u5230\u5340\u6bb5\u8b8a\u6578 %s\u3002
+zh_TW,MODEL_SENSITIVITY_VLABEL,1.0,\u654f\u611f\u5ea6
+zh_TW,MODEL_SEPARATIONKS_VLABEL,1.0,\u5340\u9694 - KS
+zh_TW,MODEL_SPECIFICITY_VLABEL,1.0,\u7279\u7570\u5ea6
+zh_TW,MODEL_SSE_VLABEL,1.0,\u8aa4\u5dee\u5e73\u65b9\u548c
+zh_TW,MODEL_STDP_VLABEL,1.0,\u9810\u6e2c\u6a19\u6e96\u5dee
+zh_TW,MODEL_SUMMARIZEEVENT_NOTE,1.0,\u5075\u6e2c\u8b8a\u6578 %#2s \u7684\u4e8b\u4ef6 %#1s\u3002
+zh_TW,MODEL_SUMMARIZENOEVENT_NOTE,1.0,\u672a\u63d0\u4f9b\u4e8b\u4ef6\u3002
+zh_TW,MODEL_SUMMARIZE_NOTE,1.0,\u5c07\u6703\u5f59\u7e3d\u8a72\u9593\u9694 (%#2s\u3001%#3s) \u7684\u8b8a\u6578 %#1s
+zh_TW,MODEL_TARGETBINMEAN_VLABEL,1.0,\u76ee\u6a19\u7b49\u8ddd\u7bb1\u6578\u5e73\u5747
+zh_TW,MODEL_TARGETCOUNT_VLABEL,1.0,\u76ee\u6a19\u8a08\u6578
+zh_TW,MODEL_TARGETEVENT_VLABEL,1.0,\u76ee\u6a19\u4e8b\u4ef6
+zh_TW,MODEL_TARGETLEVEL_VLABEL,1.0,\u76ee\u6a19\u5c64\u7d1a
+zh_TW,MODEL_TARGETMAX_VLABEL,1.0,\u6700\u5927\u76ee\u6a19
+zh_TW,MODEL_TARGETMIN_VLABEL,1.0,\u6700\u5c0f\u76ee\u6a19
+zh_TW,MODEL_TARGETMISS_VLABEL,1.0,\u76ee\u6a19\u907a\u6f0f
+zh_TW,MODEL_TARGETVALUE_VLABEL,1.0,\u76ee\u6a19\u503c
+zh_TW,MODEL_TARGETVARNOTFOUND_ERROR,1.0,\u5728\u8cc7\u6599\u4e2d\u627e\u4e0d\u5230\u76ee\u6a19\u8b8a\u6578 %s\u3002
+zh_TW,MODEL_TARGET_VLABEL,1.0,\u76ee\u6a19\u8b8a\u6578
+zh_TW,MODEL_TCCUT_VLABEL,1.0,\u8a13\u7df4: \u5206\u985e\u622a\u6b62
+zh_TW,MODEL_TCEVENTPCT_VLABEL,1.0,\u8a13\u7df4: \u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4
+zh_TW,MODEL_TCGAIN_VLABEL,1.0,\u8a13\u7df4: \u7d2f\u8a08\u589e\u76ca
+zh_TW,MODEL_TCLIFT_VLABEL,1.0,\u8a13\u7df4: \u7d2f\u8a08\u63d0\u5347
+zh_TW,MODEL_TCORRECTRATE_VLABEL,1.0,\u8a13\u7df4: \u6574\u9ad4\u7cbe\u78ba\u7387
+zh_TW,MODEL_TCRCUT_VLABEL,1.0,\u8a13\u7df4: CR \u622a\u6b62
+zh_TW,MODEL_TCRDEPTH_VLABEL,1.0,\u8a13\u7df4: CR \u6a23\u672c\u6df1\u5ea6
+zh_TW,MODEL_TCR_VLABEL,1.0,\u8a13\u7df4: \u6700\u5927\u5206\u985e\u7387 (CR)
+zh_TW,MODEL_TDEPTH_VLABEL,1.0,\u8a13\u7df4: \u6df1\u5ea6
+zh_TW,MODEL_TERRORRATE_VLABEL,1.0,\u8a13\u7df4: \u8aa4\u5dee\u7387
+zh_TW,MODEL_TEVENTCOUNT_VLABEL,1.0,\u8a13\u7df4: \u4e8b\u4ef6\u8a08\u6578
+zh_TW,MODEL_TEVENTMISSCOUNT_VLABEL,1.0,\u8a13\u7df4: \u5177\u6709\u9810\u6e2c\u907a\u6f0f\u7684\u4e8b\u4ef6
+zh_TW,MODEL_TEVENTRATE_VLABEL,1.0,\u8a13\u7df4: \u4e8b\u4ef6\u7cbe\u78ba\u7387
+zh_TW,MODEL_TGAIN_VLABEL,1.0,\u8a13\u7df4: \u589e\u76ca
+zh_TW,MODEL_TKSCUT_VLABEL,1.0,\u8a13\u7df4: KS \u622a\u6b62
+zh_TW,MODEL_TKSDEPTH_VLABEL,1.0,\u8a13\u7df4: KS \u6a23\u672c\u6df1\u5ea6
+zh_TW,MODEL_TKSREF_VLABEL,1.0,\u8a13\u7df4: KS \u53c3\u8003\u884c
+zh_TW,MODEL_TKSR_VLABEL,1.0,\u8a13\u7df4: \u6700\u5927\u5340\u9694
+zh_TW,MODEL_TKS_VLABEL,1.0,\u8a13\u7df4: Kolmogorov-Smirnov (KS)
+zh_TW,MODEL_TLIFT_VLABEL,1.0,\u8a13\u7df4: \u63d0\u5347
+zh_TW,MODEL_TMCUT_VLABEL,1.0,\u8a13\u7df4: \u4e2d\u4f4d\u6578\u4e8b\u4ef6\u5075\u6e2c\u622a\u6b62
+zh_TW,MODEL_TMDEPTH_VLABEL,1.0,\u8a13\u7df4: \u4e2d\u4f4d\u6578\u4e8b\u4ef6\u5075\u6e2c\u6df1\u5ea6
+zh_TW,MODEL_TNOBS_VLABEL,1.0,\u8a13\u7df4: \u89c0\u6e2c\u6578\u76ee
+zh_TW,MODEL_TNONEVENTCOUNT_VLABEL,1.0,\u8a13\u7df4: \u975e\u4e8b\u4ef6\u8a08\u6578
+zh_TW,MODEL_TNONEVENTRATE_VLABEL,1.0,\u8a13\u7df4: \u975e\u4e8b\u4ef6\u7cbe\u78ba\u7387
+zh_TW,MODEL_TOTALCOUNT_VLABEL,1.0,\u7e3d\u8a08\u6578
+zh_TW,MODEL_TPREDCOUNT_VLABEL,1.0,\u8a13\u7df4: \u9810\u6e2c\u8a08\u6578
+zh_TW,MODEL_TPREDICTCUT_VLABEL,1.0,\u8a13\u7df4: \u622a\u6b62 %s \u7684\u9810\u6e2c
+zh_TW,MODEL_TPREDMISS_VLABEL,1.0,\u8a13\u7df4: \u9810\u6e2c\u907a\u6f0f
+zh_TW,MODEL_TRAINASE_VLABEL,1.0,\u8a13\u7df4: \u5e73\u5747\u5e73\u65b9\u8aa4\u5dee
+zh_TW,MODEL_TRAINDIV_VLABEL,1.0,\u8a13\u7df4: ASE \u7684\u9664\u6578
+zh_TW,MODEL_TRAININGFILENOTFOUND_ERROR,1.0,\u6307\u5b9a\u7684\u8a13\u7df4\u6a94\u6848 %s \u4e0d\u5b58\u5728\u3002
+zh_TW,MODEL_TRAINMISC_VLABEL,1.0,\u8a13\u7df4: \u8aa4\u5206\u985e\u7387
+zh_TW,MODEL_TRAINRASE_VLABEL,1.0,\u8a13\u7df4: \u6839\u5e73\u5747\u5e73\u65b9\u8aa4\u5dee
+zh_TW,MODEL_TRAINSSE_VLABEL,1.0,\u8a13\u7df4: \u8aa4\u5dee\u5e73\u65b9\u548c
+zh_TW,MODEL_TSEPARATIONKS_VLABEL,1.0,\u8a13\u7df4: \u5340\u9694 - KS
+zh_TW,MODEL_TTARGETCOUNT_VLABEL,1.0,\u8a13\u7df4: \u76ee\u6a19\u8a08\u6578
+zh_TW,MODEL_TTARGETMISS_VLABEL,1.0,\u8a13\u7df4: \u76ee\u6a19\u907a\u6f0f
+zh_TW,MODEL_TTARGETVALUE_VLABEL,1.0,\u8a13\u7df4: \u76ee\u6a19\u503c
+zh_TW,MODEL_TTOTALCOUNT_VLABEL,1.0,\u8a13\u7df4: \u7e3d\u8a08\u6578
+zh_TW,MODEL_VARSNOTFOUND_ERROR,1.0,\u8b8a\u6578 %#1s \u4e0d\u5728\u8cc7\u6599\u96c6 %#2s \u4e2d\u3002
+zh_TW,MODEL_VASE_VLABEL,1.0,\u9a57\u8b49: \u5e73\u5747\u5e73\u65b9\u8aa4\u5dee
+zh_TW,MODEL_VCCUT_VLABEL,1.0,\u9a57\u8b49: \u5206\u985e\u622a\u6b62
+zh_TW,MODEL_VCEVENTPCT_VLABEL,1.0,\u9a57\u8b49: \u4e8b\u4ef6\u7684\u7d2f\u8a08\u767e\u5206\u6bd4
+zh_TW,MODEL_VCGAIN_VLABEL,1.0,\u9a57\u8b49: \u7d2f\u8a08\u589e\u76ca
+zh_TW,MODEL_VCLIFT_VLABEL,1.0,\u9a57\u8b49: \u7d2f\u8a08\u63d0\u5347
+zh_TW,MODEL_VCORRECTRATE_VLABEL,1.0,\u9a57\u8b49: \u6574\u9ad4\u7cbe\u78ba\u7387
+zh_TW,MODEL_VCRCUT_VLABEL,1.0,\u9a57\u8b49: CR \u622a\u6b62
+zh_TW,MODEL_VCRDEPTH_VLABEL,1.0,\u9a57\u8b49: CR \u6a23\u672c\u6df1\u5ea6
+zh_TW,MODEL_VCR_VLABEL,1.0,\u9a57\u8b49: \u6700\u5927\u5206\u985e\u7387 (CR)
+zh_TW,MODEL_VCVP_VLABEL,1.0,\u9a57\u8b49: \u9810\u6e2c\u7684\u4fc2\u6578\u8b8a\u7570
+zh_TW,MODEL_VDEPTH_VLABEL,1.0,\u9a57\u8b49: \u6df1\u5ea6
+zh_TW,MODEL_VDIV_VLABEL,1.0,\u9a57\u8b49: ASE \u7684\u9664\u6578
+zh_TW,MODEL_VERRORRATE_VLABEL,1.0,\u9a57\u8b49: \u8aa4\u5dee\u7387
+zh_TW,MODEL_VEVENTCOUNT_VLABEL,1.0,\u9a57\u8b49: \u4e8b\u4ef6\u8a08\u6578
+zh_TW,MODEL_VEVENTMISSCOUNT_VLABEL,1.0,\u9a57\u8b49: \u5177\u6709\u9810\u6e2c\u907a\u6f0f\u7684\u4e8b\u4ef6
+zh_TW,MODEL_VEVENTRATE_VLABEL,1.0,\u9a57\u8b49: \u4e8b\u4ef6\u7cbe\u78ba\u7387
+zh_TW,MODEL_VGAIN_VLABEL,1.0,\u9a57\u8b49: \u589e\u76ca
+zh_TW,MODEL_VKSCUT_VLABEL,1.0,\u9a57\u8b49: KS \u622a\u6b62
+zh_TW,MODEL_VKSDEPTH_VLABEL,1.0,\u9a57\u8b49: KS \u6a23\u672c\u6df1\u5ea6
+zh_TW,MODEL_VKSREF_VLABEL,1.0,\u9a57\u8b49: KS \u53c3\u8003\u884c
+zh_TW,MODEL_VKSR_VLABEL,1.0,\u9a57\u8b49: \u6700\u5927\u5340\u9694
+zh_TW,MODEL_VKS_VLABEL,1.0,\u9a57\u8b49: Kolmogorov-Smirnov (KS)
+zh_TW,MODEL_VLIFT_VLABEL,1.0,\u9a57\u8b49: \u63d0\u5347
+zh_TW,MODEL_VMCUT_VLABEL,1.0,\u9a57\u8b49: \u4e2d\u4f4d\u6578\u4e8b\u4ef6\u5075\u6e2c\u622a\u6b62
+zh_TW,MODEL_VMDEPTH_VLABEL,1.0,\u9a57\u8b49: \u4e2d\u4f4d\u6578\u4e8b\u4ef6\u5075\u6e2c\u6df1\u5ea6
+zh_TW,MODEL_VMEANP_VLABEL,1.0,\u9a57\u8b49: \u5e73\u5747\u9810\u6e2c
+zh_TW,MODEL_VMISC_VLABEL,1.0,\u9a57\u8b49: \u8aa4\u5206\u985e\u7387
+zh_TW,MODEL_VNOBS_VLABEL,1.0,\u9a57\u8b49: \u89c0\u6e2c\u6578\u76ee
+zh_TW,MODEL_VNONEVENTCOUNT_VLABEL,1.0,\u9a57\u8b49: \u975e\u4e8b\u4ef6\u8a08\u6578
+zh_TW,MODEL_VNONEVENTRATE_VLABEL,1.0,\u9a57\u8b49: \u975e\u4e8b\u4ef6\u7cbe\u78ba\u7387
+zh_TW,MODEL_VPREDCOUNT_VLABEL,1.0,\u9a57\u8b49: \u9810\u6e2c\u8a08\u6578
+zh_TW,MODEL_VPREDICTCUT_VLABEL,1.0,\u9a57\u8b49: \u622a\u6b62 %s \u7684\u9810\u6e2c
+zh_TW,MODEL_VPREDMISS_VLABEL,1.0,\u9a57\u8b49: \u9810\u6e2c\u907a\u6f0f
+zh_TW,MODEL_VRASE_VLABEL,1.0,\u9a57\u8b49: \u6839\u5e73\u5747\u5e73\u65b9\u8aa4\u5dee
+zh_TW,MODEL_VSEPARATIONKS_VLABEL,1.0,\u9a57\u8b49: \u5340\u9694 - KS
+zh_TW,MODEL_VSSE_VLABEL,1.0,\u9a57\u8b49: \u8aa4\u5dee\u5e73\u65b9\u548c
+zh_TW,MODEL_VSTDP_VLABEL,1.0,\u9a57\u8b49: \u9810\u6e2c\u6a19\u6e96\u5dee
+zh_TW,MODEL_VTARGETCOUNT_VLABEL,1.0,\u9a57\u8b49: \u76ee\u6a19\u8a08\u6578
+zh_TW,MODEL_VTARGETMISS_VLABEL,1.0,\u9a57\u8b49: \u76ee\u6a19\u907a\u6f0f
+zh_TW,MODEL_VTARGETVALUE_VLABEL,1.0,\u9a57\u8b49: \u76ee\u6a19\u503c
+zh_TW,MODEL_VTOTALCOUNT_VLABEL,1.0,\u9a57\u8b49: \u7e3d\u8a08\u6578
+zh_TW,MODEL_WRONGVARLEVEL_ERROR,1.0,\u8b8a\u6578 %#2s \u7684\u5c64\u7d1a\u985e\u578b %#1s \u4e0d\u660e\u3002

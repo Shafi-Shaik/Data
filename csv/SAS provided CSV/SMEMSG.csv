@@ -1,0 +1,35 @@
+MSGID,MNEMONIC,LINENO,LEVEL,TEXT,PBUTTONS
+1.0,IO_CAN_NOT_OPEN,1.0,E,%lData set: %1$ could not be opened.,SASHELP.FSP.OC.SLIST
+2.0,DI_DUP_MNEMONIC,1.0,E,"%lDuplicate mnemonic entered, Please reenter.",SASHELP.FSP.OC.SLIST
+3.0,DI_LEVEL_CODE,1.0,E,%lYou must enter a value for level code.,SASHELP.FSP.OC.SLIST
+4.0,DI_SELECT_PRODUCT,1.0,E,%lYou must select at least one product to add a message.,SASHELP.FSP.OC.SLIST
+5.0,DI_DESCRIPTION,1.0,E,%lYou must enter a description before adding a SCLmessage.,SASHELP.FSP.OC.SLIST
+6.0,IO_NO_APPEND,1.0,E,%lCould not append a record to data set: %1$,SASHELP.FSP.OC.SLIST
+7.0,IO_NO_UPDATE,1.0,E,%lCould not update data set: %1$,SASHELP.FSP.OC.SLIST
+8.0,DI_EXISTING_MESSAGE,1.0,W,%lThis message already exists for product: %1$,SASHELP.FSP.OC.SLIST
+9.0,IN_DUPLICATE,1.0,W,%lThe SCL message which you have entered is a duplicate. Information which you have entered will be overwritten. %nDo you want to continue?,SASHELP.FSP.YN.SLIST
+10.0,IN_EXIT,1.0,W,%lThe current message has NOT been added to the data set.%n %nEXIT without adding?,SASHELP.FSP.YN.SLIST
+11.0,IN_CHANGE_MSG,1.0,N,%lYou must change your message text.,SASHELP.FSP.OK.SLIST
+12.0,DI_INVALID_LEVEL_CODE,1.0,E,%lInvalid level code. Please reenter.,SASHELP.FSP.OK.SLIST
+13.0,DI_INVALID_MNEMONIC_PREFIX,1.0,E,%lInvalid prefix for mnemonic. Please reenter.,SASHELP.FSP.OK.SLIST
+18.0,IN_NOT_REGISTERED_IN_SME,1.0,N,%lThe data set for the %1$ product is not registered for the maintenance push.  Contact Eric Bragg (sasesb@unx) X-6576.,SASHELP.FSP.OK.SLIST
+19.0,IO_DS_NOT_EXIST,1.0,E,%lData set %1$ does not exist,SASHELP.FSP.OK.SLIST
+20.0,IN_ENTER_RELEASE,1.0,N,%lYou must enter a value for release first.,SASHELP.FSP.OK.SLIST
+21.0,DI_ALL_REQUIRED,1.0,E,%lAll fields are required. Please enter information into each field.,SASHELP.FSP.OK.SLIST
+22.0,IN_PREVIOUS_REGISTERED,1.0,N,%lThe %1$ product has already been registered for the %2$ release.,SASHELP.FSP.OK.SLIST
+23.0,DI_MESSAGE_REQUIRED,1.0,E,%lYou must enter a message before running a test.,SASHELP.FSP.OK.SLIST
+27.0,IN_PMNEMONIC,1.0,E,%lThe Mnemonic prefix is required. Please enter a value for this field before adding a message.,SASHELP.FSP.OK.SLIST
+28.0,IN_SMNEMONIC,1.0,E,%lThe Mnemonic suffix is required. Please enter a value for this field before adding a message.,SASHELP.FSP.OK.SLIST
+29.0,IN_FETCH_MESSAGE_FAILED,1.0,E,%LAttempt to fetch message: %$ failed.,SASHELP.FSP.OK.SLIST
+33.0,DI_SCL_MESSAGE_REQUIRED,1.0,E,%lYou must enter a SCL message first.,SASHELP.FSP.OK.SLIST
+46.0,DI_SELECT_BUTTON,1.0,E,%lYou must select one set of push buttons before adding a message.,SASHELP.FSP.OK.SLIST
+47.0,IN_SIMILAR_NOT_FOUND,1.0,N,%lThe keyword search found no similar messages using the current parameters. You may want to adjust your parameter settings. The current settings are: Search type = %1$ Percentage = %2#,SASHELP.FSP.OK.SLIST
+72.0,IN_ENTER_MNEMONIC_PREFIX,1.0,W,%lYou must select a value for the mnemonic prefix first.,SASHELP.FSP.OK.SLIST
+73.0,IN_ENTER_MNEMONIC_SUFFIX,1.0,W,%lThe mnemonic suffix field is required. Please enter a value.,SASHELP.FSP.OK.SLIST
+176.0,DI_MNEMONIC_NOT_FOUND,1.0,W,%lMnemonic: %1$ does not exist on the data set. Please enter a new value for the mnemonic field.,SASHELP.FSP.OK.SLIST
+177.0,DI_MSGID_NOT_FOUND,1.0,W,%lMessage id: %1# does not exist on the data set. Please enter a new value for the mesage id.,SASHELP.FSP.OK.SLIST
+190.0,IO_KEY_FILE_LOCKED,1.0,N,%lCould not add message. The key file is locked. Please try adding the message again. RC=%1#,SASHELP.FSP.OK.SLIST
+191.0,IO_OPEN_KEY_FAILED_FOR_SEARCH,1.0,N,%lCannot open key file for search. Key file is in use. Please try again. RC=%1#,SASHELP.FSP.OK.SLIST
+198.0,IN_DUPLICATE_MSG_FOUND,1.0,W,%lA message already exists on the data set with the exact same key words that you have entered.  The SCL message which you have typed in may be a DUPLICATE. Select Ok to view the existing message or,SASHELP.FSP.OC.SLIST
+198.0,IN_DUPLICATE_MSG_FOUND,2.0,W,Cancel to write your message.,SASHELP.FSP.OC.SLIST
+199.0,IN_MODIFY_SINGLE_OBS,1.0,N,%lYou may modify only one message at a time.  You must unlock the current message before selecting another message to modify.  Either Add or Clear the current message.,SASHELP.FSP.OK.SLIST

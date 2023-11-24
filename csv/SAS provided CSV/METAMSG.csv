@@ -1,0 +1,38 @@
+locale,key,lineno,text
+en,RPT_SECMIGRATION_ADDED_VLABEL,1.0,Added
+en,RPT_SECMIGRATION_ADMINISTER_VLABEL,1.0,Administer
+en,RPT_SECMIGRATION_ALTERTABLE_VLABEL,1.0,Alter Table
+en,RPT_SECMIGRATION_CHANGED_VLABEL,1.0,Changed
+en,RPT_SECMIGRATION_CHANGEINDICATOR_VLABEL,1.0,Change Indicator
+en,RPT_SECMIGRATION_CHANGETYPE_VLABEL,1.0,Change Type
+en,RPT_SECMIGRATION_CHECKINMETADATA_VLABEL,1.0,CheckInMetadata
+en,RPT_SECMIGRATION_CREATETABLE_VLABEL,1.0,Create Table
+en,RPT_SECMIGRATION_CREATE_VLABEL,1.0,Create
+en,RPT_SECMIGRATION_CUBE_TITLE,1.0,Cubes With Security Differences After 9.2 Migration
+en,RPT_SECMIGRATION_DEFAULTRPTEXPLANATION_NOTE,1.0,"<p>This report includes only those %s objects for which access in the migrated environment differs from access in the original environment. For further information about the scope of this report, reasons why access might differ, and guidance for addressing differences, see the topic ""Reviewing Access Differences Reports"" in the <i>SAS Intelligence Platform: 9.1.3 to 9.2 Migration Guide</i> at <a href=""http://support.sas.com/92administration"" target=""_blank"">http://support.sas.com/92administration</a>. </p>"
+en,RPT_SECMIGRATION_DELETE_VLABEL,1.0,Delete
+en,RPT_SECMIGRATION_DROPTABLE_VLABEL,1.0,Drop Table
+en,RPT_SECMIGRATION_EXECUTE_VLABEL,1.0,Execute
+en,RPT_SECMIGRATION_FOLDER_TITLE,1.0,Folders with Security Differences After 9.2 Migration
+en,RPT_SECMIGRATION_IDENTITY_VLABEL,1.0,Identity
+en,RPT_SECMIGRATION_INSERT_VLABEL,1.0,Insert
+en,RPT_SECMIGRATION_LIBRARY_TITLE,1.0,Libraries with Security Differences After 9.2 Migration
+en,RPT_SECMIGRATION_LOCATION_VLABEL,1.0,Location
+en,RPT_SECMIGRATION_METADATAURI_VLABEL,1.0,Metadata URI
+en,RPT_SECMIGRATION_NODIFFPAGE_NOTE,1.0,<p>No security changes were found.</p>
+en,RPT_SECMIGRATION_NOFILTEREDDIFFSPAGE_NOTE,1.0,<p>No security differences were found which meet the filter criteria. </p>
+en,RPT_SECMIGRATION_OBJNAME_VLABEL,1.0,%s Name
+en,RPT_SECMIGRATION_OLAPSCHEMA_TITLE,1.0,OLAP Schemas with Security Differences After 9.2 Migration
+en,RPT_SECMIGRATION_ORIGINAL_VLABEL,1.0,Original
+en,RPT_SECMIGRATION_PERMISSIONCHGTITLE_TITLE,1.0,"Permission Changes for %s: ""%s"""
+en,RPT_SECMIGRATION_PERMTABLABEL_VLABEL,1.0,Permissions On
+en,RPT_SECMIGRATION_READMETADATA_VLABEL,1.0,ReadMetadata
+en,RPT_SECMIGRATION_READ_VLABEL,1.0,Read
+en,RPT_SECMIGRATION_REFERENCES_VLABEL,1.0,References
+en,RPT_SECMIGRATION_REMOVED_VLABEL,1.0,Removed
+en,RPT_SECMIGRATION_SELECT_VLABEL,1.0,Select
+en,RPT_SECMIGRATION_TABLE_TITLE,1.0,Tables with Security Differences After 9.2 Migration
+en,RPT_SECMIGRATION_UPDATE_VLABEL,1.0,Update
+en,RPT_SECMIGRATION_WRITEMEMBERMETADATA_VLABEL,1.0,WriteMemberMetadata
+en,RPT_SECMIGRATION_WRITEMETADATA_VLABEL,1.0,WriteMetadata
+en,RPT_SECMIGRATION_WRITE_VLABEL,1.0,Write

@@ -1,0 +1,1091 @@
+MSGID,MNEMONIC,LINENO,LEVEL,TEXT,PBUTTONS
+1.0,IO_CAN_NOT_OPEN,1.0,E,%lData set: %1$ could not be opened.,SASHELP.FSP.OC.SLIST
+17.0,IN_VERIFY_DELETE,1.0,Q,Are you sure you want to delete %$?,SASHELP.FSP.YN.SLIST
+19.0,IO_DS_NOT_EXIST,1.0,E,%lData set %1$ does not exist,SASHELP.FSP.OK.SLIST
+21.0,DI_ALL_REQUIRED,1.0,E,%lAll fields are required. Please enter information into each field.,SASHELP.FSP.OK.SLIST
+98.0,DI_ENTRY_EXISTS,1.0,E,%lEntry %1$ already exists.,SASHELP.FSP.OK.SLIST
+100.0,IO_CANNOT_READ_ENTRY,1.0,E,%lEntry %1$ does not exist or could not be read.,SASHELP.FSP.OK.SLIST
+114.0,IO_INVALID_FORMAT,1.0,E,%lInvalid format specified.,SASHELP.FSP.OK.SLIST
+118.0,IO_DELETE_OK,1.0,N,%lDelete completed successfully.,SASHELP.FSP.OK.SLIST
+167.0,IN_THING_DOES_NOT_EXIST,1.0,E,%1$ does not exist.,SASHELP.FSP.OK.SLIST
+202.0,IN_CONFIRM_DELETE,1.0,Q,Are you sure you wish to delete:%n%1$?,SASHELP.FSP.OC.SLIST
+202.0,IN_CONFIRM_DELETE,2.0,Q,%n%n,SASHELP.FSP.OC.SLIST
+202.0,IN_CONFIRM_DELETE,3.0,Q,"Use OK to delete, Cancel to quit.",SASHELP.FSP.OC.SLIST
+241.0,IO_SCLMSG_LOADCLASS_FAILED,1.0,E,%lCould not perform loadclass function on SASHELP.FSP.DSMSG.CLASS,SASHELP.FSP.OK.SLIST
+242.0,IO_SCLMSG_NEW_FAILED,1.0,E,%lCould not generate new instance of SCLMSG.,SASHELP.FSP.OK.SLIST
+243.0,IO_SCLMSG_DOES_NOT_EXIST,1.0,E,%lSCL message object SCLMSG does not exist.,SASHELP.FSP.OK.SLIST
+244.0,IO_SCLMSG_FORMAT_MSG_FAILED,1.0,E,%l_FORMAT_MSG_ failed on data set SASHELP.AFMSG.  Parameters passed were:,SASHELP.FSP.OK.SLIST
+246.0,IN_INVALID_SAS_NAME,1.0,E,%lInvalid SAS name.,SASHELP.FSP.OK.SLIST
+250.0,IN_NAME_REQUIRED,1.0,E,%LA value for Name is required.,SASHELP.FSP.OK.SLIST
+253.0,IN_GLABEL_NONE_ALL,1.0,N,Initial Value is NONE justified with unlimited rows.,SASHELP.FSP.OK.SLIST
+254.0,IN_GLABEL_CENTER_ALL,1.0,N,Initial Value is center justified with unlimited rows.,SASHELP.FSP.OK.SLIST
+255.0,IN_GLABEL_LEFT_ALL,1.0,N,Initial Value is left justified with unlimited rows.,SASHELP.FSP.OK.SLIST
+256.0,IN_GLABEL_RIGHT_ALL,1.0,N,Initial Value is right justified with unlimited rows.,SASHELP.FSP.OK.SLIST
+257.0,IN_GLABEL_NONE_SOME,1.0,N,Initial Value is none justified and limited to %1# rows.,SASHELP.FSP.OK.SLIST
+258.0,IN_GLABEL_CENTER_SOME,1.0,N,Initial Value is center justified and limited to %1# rows.,SASHELP.FSP.OK.SLIST
+259.0,IN_GLABEL_LEFT_SOME,1.0,N,Initial value is left justified and limited to %1# rows.,SASHELP.FSP.OK.SLIST
+260.0,IN_GLABEL_RIGHT_SOME,1.0,N,Initial Value is right justified and limited to %1# rows.,SASHELP.FSP.OK.SLIST
+289.0,IO_DATASET_EXISTS,1.0,Q,Data set %1$ already exists.,SASHELP.FSP.OC.SLIST
+289.0,IO_DATASET_EXISTS,2.0,Q,.,SASHELP.FSP.OC.SLIST
+295.0,IN_EQUATION_COMPLETE,1.0,N,Equation is complete. Press Define.,SASHELP.FSP.OK.SLIST
+296.0,IN_NEEDS_MORE_DATA,1.0,E,Calculation requires more data. Please choose a column.,SASHELP.FSP.OK.SLIST
+298.0,IN_DESC_MUST_BE_UNIQUE,1.0,E,Description must be unique.,SASHELP.FSP.OK.SLIST
+326.0,IO_INVALID_PATH,1.0,E,%LPath is invalid.,SASHELP.FSP.OK.SLIST
+359.0,IO_DESC_REQUIRED,1.0,E,%LA description is required. Specify one or Cancel to quit.,SASHELP.FSP.OK.SLIST
+396.0,IO_FILE_DOES_NOT_EXIST,1.0,E,%lThe file %1$ does not exist.,SASHELP.FSP.OK.SLIST
+409.0,CL_CALCULATIONS_LIST,1.0,L,"Difference of two values, Sum of two or more values, Ratio of two values, Percent, Mean of two or more values, Minimum of two or more values, Maximum of two or more values, Concatenation, Upcase,",
+409.0,CL_CALCULATIONS_LIST,2.0,L,"Reverse, Trim",
+456.0,IO_INVALID_DATASET_NAME,1.0,E,%lInvalid dataset name ' %1$ '.   Please use a valid SAS name.,SASHELP.FSP.OK.SLIST
+458.0,DI_ENTRY_NOTEXIST_WARN,1.0,W,"%lThe entry, %1$, does not exist.",SASHELP.FSP.OK.SLIST
+489.0,IO_NAMEXISTS,1.0,E,%LColumn name already exists,SASHELP.FSP.OK.SLIST
+490.0,DI_INVALID_FONT,1.0,E,%lInvalid font.  Please reenter.,SASHELP.FSP.OK.SLIST
+492.0,IO_INVALID_ENTRY_TYPE,1.0,E,%lInvalid catalog entry type.  Please reenter.,SASHELP.FSP.OK.SLIST
+493.0,DI_INCMPLETE_ENTRY_NAME,1.0,E,%lIncomplete catalog entry name.,SASHELP.FSP.OK.SLIST
+494.0,IN_DATAFORM_ENTRY_MISSING,1.0,Q,Data Form Entry is missing.,SASHELP.FSP.OC.SLIST
+494.0,IN_DATAFORM_ENTRY_MISSING,2.0,Q,Customizations will not be saved.,SASHELP.FSP.OC.SLIST
+494.0,IN_DATAFORM_ENTRY_MISSING,3.0,Q,Push OK to continue or CANCEL to return to,SASHELP.FSP.OC.SLIST
+494.0,IN_DATAFORM_ENTRY_MISSING,4.0,Q,the attribute screen.,SASHELP.FSP.OC.SLIST
+495.0,IO_INVALID_CATALOG_ENTRY,1.0,E,%lInvalid catalog entry name.  Please use only valid SAS names.,SASHELP.FSP.OK.SLIST
+496.0,IO_INVALID_INFORMAT,1.0,E,%lInvalid informat specified.,SASHELP.FSP.OK.SLIST
+497.0,DI_INVALID_COLOR,1.0,E,%lInvalid color specified.,SASHELP.FSP.OK.SLIST
+498.0,IO_NO_FILES_IN_DIRECTORY,1.0,E,%lNo files were found in the directory.,SASHELP.FSP.OK.SLIST
+499.0,IO_NO_FILEREFS,1.0,E,%lNo filerefs assigned.,SASHELP.FSP.OK.SLIST
+500.0,DI_ENTRY_TYPE_NOT_ALLOWED,1.0,E,%lThe entry type specified is not allowed.,SASHELP.FSP.OK.SLIST
+501.0,DI_INVALID_FILEREF_NAME,1.0,E,%lInvalid fileref name %1$.  Please use a valid SAS name.,SASHELP.FSP.OK.SLIST
+502.0,IO_FILEREF_NOT_ASSIGNED,1.0,E,%lThe fileref %1$ is not assigned.,SASHELP.FSP.OK.SLIST
+503.0,DI_INCOMPLETE_ENTRY_NAME,1.0,E,%lIncomplete catalog entry name.,SASHELP.FSP.OK.SLIST
+504.0,IO_INVALID_FORMAT_INFORMAT,1.0,E,%lInvalid format and informat specified,SASHELP.FSP.OK.SLIST
+505.0,IN_INVALID_DATAFORM_ENTRY,1.0,E,%lInvalid Dataform Entry,SASHELP.FSP.OK.SLIST
+506.0,IN_INVALID_AUTOSAVE_VALUE,1.0,E,%lInvalid Autosave Value. Value must be greater,SASHELP.FSP.OK.SLIST
+506.0,IN_INVALID_AUTOSAVE_VALUE,2.0,E,than zero.,SASHELP.FSP.OK.SLIST
+507.0,IN_NO_USER_ATTRIBUTE_ENTRY,1.0,E,%lNo user attribute entry specified.,SASHELP.FSP.OK.SLIST
+508.0,IN_UATTR_NOT_EXIST,1.0,E,%lUser attribute program %1$ does not exist.,SASHELP.FSP.OK.SLIST
+512.0,IO_INVALID_LENGTH,1.0,E,%lInvalid column length specified,SASHELP.FSP.OK.SLIST
+513.0,IO_READ_ONLY_SITUATION,1.0,W,%lThis will produce a READ-ONLY situation.,SASHELP.FSP.OK.SLIST
+514.0,IO_INVALID_VARIABLE,1.0,E,%lThe variable %1$ does not exist.,SASHELP.FSP.OK.SLIST
+531.0,IN_NONCOMPUTED_COLUMN,1.0,W,New non-computed column in dataform entry. These,SASHELP.FSP.OK.SLIST
+531.0,IN_NONCOMPUTED_COLUMN,2.0,W,columns will replace existing columns if OK is,SASHELP.FSP.OK.SLIST
+531.0,IN_NONCOMPUTED_COLUMN,3.0,W,used to exit attribute screen.,SASHELP.FSP.OK.SLIST
+536.0,IN_MIN_GREATER_THAN_MAX,1.0,E,Minimum value is greater than maximum value,SASHELP.FSP.OK.SLIST
+537.0,IN_MAXIMUM_LESS_THAN_MINIMUM,1.0,E,Maximum value is less than minimum value,SASHELP.FSP.OK.SLIST
+538.0,IN_INITIAL_OUT_OF_RANGE,1.0,E,Initial value not between maximum and minimum,SASHELP.FSP.OK.SLIST
+541.0,DI_MASTER_DELETE_FAILED,1.0,E,The master record for '%1$' could not be deleted,SASHELP.FSP.OK.SLIST
+541.0,DI_MASTER_DELETE_FAILED,2.0,E,because one or more associated detials could not,SASHELP.FSP.OK.SLIST
+541.0,DI_MASTER_DELETE_FAILED,3.0,E,be deleted.,SASHELP.FSP.OK.SLIST
+554.0,DI_INVALID_CATALOG,1.0,E,%lCatalog %1$ does not exist.  Please specify a valid SAS catalog for the %2$.,SASHELP.FSP.OK.SLIST
+555.0,DI_INVALID_CLASS,1.0,E,%lInvalid configuration management class entered for the %1$.  Please specify a valid class or select the control object for a list of valid classes.,SASHELP.FSP.OK.SLIST
+557.0,DI_SUBORDINATE_REQUIRED,1.0,E,"%lIn order to add an observation, values are required for both the subordinate level and subordinate class fields.  Please enter values or select cancel to exit.",SASHELP.FSP.OK.SLIST
+559.0,CL_CUT,1.0,L,Cut,
+560.0,CL_COPY,1.0,L,Copy,
+561.0,CL_PASTE,1.0,L,Paste,
+562.0,CL_CLEAR,1.0,L,Clear,
+568.0,IO_ANGLE_INVALID,1.0,E,The specified angle is incorrect.,SASHELP.FSP.OK.SLIST
+568.0,IO_ANGLE_INVALID,2.0,E,The angle must be between 0 and 360 degrees.,SASHELP.FSP.OK.SLIST
+578.0,IN_COLUMN_TYPE_DIFFER,1.0,W,Dataform entry column's type and dataset column's,SASHELP.FSP.OK.SLIST
+578.0,IN_COLUMN_TYPE_DIFFER,2.0,W,type are different.,SASHELP.FSP.OK.SLIST
+579.0,IN_COLUMN_AND_COLUMN_TYPE_DIFFER,1.0,W,Non-computed column found in dataform entry,SASHELP.FSP.OK.SLIST
+579.0,IN_COLUMN_AND_COLUMN_TYPE_DIFFER,2.0,W,that is not in the dataset and the dataform,SASHELP.FSP.OK.SLIST
+579.0,IN_COLUMN_AND_COLUMN_TYPE_DIFFER,3.0,W,entry's column type differ from that of,SASHELP.FSP.OK.SLIST
+579.0,IN_COLUMN_AND_COLUMN_TYPE_DIFFER,4.0,W,the dataset.,SASHELP.FSP.OK.SLIST
+601.0,IO_FILEREF_TO_NONEXISTANT_FILE,1.0,E,"%lThe fileref specified, %1$, has been assigned but the file it points to does not exist or cannot be read.",SASHELP.FSP.OK.SLIST
+602.0,IO_DIRECTORY_NOT_FILE,1.0,E,"%l %1$ is the name of a directory, not the name of a file.",SASHELP.FSP.OK.SLIST
+605.0,IO_SYSMSG,1.0,E,%1$,SASHELP.FSP.OK.SLIST
+607.0,IO_SAVE_CHANGES,1.0,Q,%lDo you want to save changes made to new table?,SASHELP.FSP.YN.SLIST
+611.0,IO_LIBREF_NOT_ASSIGNED,1.0,W,%lThe libref %1$ is not assigned.,SASHELP.FSP.OK.SLIST
+612.0,IO_FOUR-LEVEL_NAME_REQUIRED,1.0,E,%lA four-level name is required.,SASHELP.FSP.OK.SLIST
+613.0,IO_DSNAME_EXISTS,1.0,E,%lDataset %1$ already exists.,SASHELP.FSP.OK.SLIST
+627.0,DI_ARCHIVE_NOT_REGISTERED,1.0,W,%lThe specified archive location is not a registered level.  You need to register %1$ as a valid level or specify a new archive location.,SASHELP.FSP.OK.SLIST
+628.0,DI_INVALID_TYPE,1.0,E,%lThe type of actual location you specified is invalid.  Enter a new value for the type of actual location or select one from the control object.,SASHELP.FSP.OK.SLIST
+629.0,DI_LEVEL_NOT_UNIQUE,1.0,E,%lThe specified level already exists for the logical location you have entered.  The level must be unique.  Enter a new level.,SASHELP.FSP.OK.SLIST
+630.0,DI_INVALID_CLASS_TYPE,1.0,E,%lThe specified class to model is not supported.  Enter a new class or select one from the control object.,SASHELP.FSP.OK.SLIST
+631.0,DI_INVALID_FROM_LEVEL,1.0,W,%lThe specified Copy from Level is not a registered level.  You need to register %1$ as a valid level.,SASHELP.FSP.OK.SLIST
+632.0,DI_INVALID_VALUE_FOR_PUSHABLE,1.0,E,%lYou have entered an invalid value for the Pushable Location field.  Enter a 'Y' to represent this level of the logical location as a pushable level or 'N' to signify that the logical location is not,SASHELP.FSP.OK.SLIST
+632.0,DI_INVALID_VALUE_FOR_PUSHABLE,2.0,E,pushable.,SASHELP.FSP.OK.SLIST
+644.0,IN_ENTER_USERID_PASSWORD,1.0,E,Enter a User ID and Password.,SASHELP.FSP.OK.SLIST
+645.0,IN_INVALID_PASSWORD,1.0,E,Invalid Password.,SASHELP.FSP.OK.SLIST
+646.0,IN_USERID_PASSWORD_REQUIRED,1.0,E,The User ID and Password are required.,SASHELP.FSP.OK.SLIST
+647.0,IN_USERID_NOT_FOUND,1.0,E,User ID not found.  Contact your administrator.,SASHELP.FSP.OK.SLIST
+648.0,IN_ENTER_NEW_PASSWORD,1.0,N,Enter new password.,SASHELP.FSP.OK.SLIST
+649.0,IN_ENTER_OLD_PASSWORD,1.0,N,%lYou must enter your old password first.,SASHELP.FSP.OK.SLIST
+650.0,IN_CONFIRM_NEW_PASSWORD,1.0,N,Enter new password again to confirm.,SASHELP.FSP.OK.SLIST
+651.0,IN_CONFIRM_FAILED,1.0,E,Confirmation failed. Reenter new password.,SASHELP.FSP.OK.SLIST
+652.0,IN_CHANGE_PASSWORD_STEPS,1.0,N,You must %n%n  1. Enter Old Password %n  2. Enter New Password %n  3. Confirm New Password %n%nor select Cancel to end without changing your password.,SASHELP.FSP.OK.SLIST
+661.0,IO_OVERWRITE,1.0,Q,Overwrite existing entry %1$?,SASHELP.FSP.YN.SLIST
+662.0,IO_BAD_DIALOG,1.0,W,%l%1$: Not a dialog.,SASHELP.FSP.OK.SLIST
+669.0,DI_DUPLICATE_NAME,1.0,E,%l%1$ already exists; name must be unique.,SASHELP.FSP.OK.SLIST
+683.0,DI_BAD_SASNAME,1.0,E,%l%1$ is not a valid SAS name.,SASHELP.FSP.OK.SLIST
+687.0,DI_PROC_ERROR,1.0,E,Error in PROC step.%nSee LOG for messages.,SASHELP.FSP.OK.SLIST
+691.0,IN_DELETE_CLASS,1.0,Q,Entry %1$ has been selected for deletion.  Subclasses have been detected.  ALL subclasses will be deleted.%n%nDo you wish to continue with the deletion?,SASHELP.FSP.DD.SLIST
+698.0,IO_EACCES,1.0,E,%lCan't write to %1$: permission denied.,SASHELP.FSP.OK.SLIST
+721.0,DI_NO_PATH,1.0,E,%lNo pathname specified.,SASHELP.FSP.OK.SLIST
+722.0,DI_NO_CATALOG,1.0,E,%lNo catalog specified.,SASHELP.FSP.OK.SLIST
+723.0,DI_NO_ENTRY,1.0,E,%lNo entry name specified.,SASHELP.FSP.OK.SLIST
+725.0,IN_BOTH_FIELDS_REQUIRED_TO_COPY,1.0,N,%lBoth the Copy to and Description fields are required to copy a class.%n%nEnter all information or select Cancel.,SASHELP.FSP.OK.SLIST
+726.0,IO_BAD_MENU,1.0,E,%l%1$:%nNot a menu.,SASHELP.FSP.OK.SLIST
+727.0,DI_BAD_ID_VALUE,1.0,E,%lID values below 2000 are reserved for internal use.,SASHELP.FSP.OK.SLIST
+728.0,IO_CLASS_COPY_FAILED,1.0,E,%lThe copy was unsuccessful.%n%nRC=%1#%nReason: %2$,SASHELP.FSP.OK.SLIST
+729.0,IO_CLASS_RENAME_FAILED,1.0,E,%lThe entery description could not be set.  The description from the parent class will be used instead.,SASHELP.FSP.OK.SLIST
+730.0,DI_CLASS_ENTRY_ALREADY_EXISTS,1.0,E,%lClass %1$ already exists.  Specify a new name or select cancel to quit.,SASHELP.FSP.OK.SLIST
+733.0,DI_LIBRARY_DOES_NOT_EXIST,1.0,E,%lLibrary %1$ does not exist. Please enter a valid SAS library.,SASHELP.FSP.OK.SLIST
+734.0,DI_CATALOG_DOES_NOT_EXIST,1.0,E,%lCatalog %1$ does not exist.  Please enter a valid SAS catalog name.,SASHELP.FSP.OK.SLIST
+735.0,DI_RESOURCE_DOES_NOT_EXIST,1.0,E,%lResource %1$ does not exist.  Please enter another resource.,SASHELP.FSP.OK.SLIST
+736.0,DI_FRAME_DOES_NOT_EXIST,1.0,E,%lFrame %1$ does not exist. Please enter another frame name.,SASHELP.FSP.OK.SLIST
+768.0,IN_DELETE_ONE_CLASS,1.0,Q,Entry %1$ has been selected for deletion.%n%nDo you wish to continue with the deletion?,SASHELP.FSP.DD.SLIST
+769.0,IN_SELECT_A_NODE,1.0,E,%lYou must first select a node.,SASHELP.FSP.OK.SLIST
+800.0,IN_INFO_NOT_AVAILABLE,1.0,N,Additional information for method %1$ is not accessible.,SASHELP.FSP.OK.SLIST
+801.0,DI_CLASS_ENTRY_REQUIRED,1.0,E,A class entry is required.  Enter a valid four level name for the class entry or select cancel to quit.,SASHELP.FSP.OK.SLIST
+802.0,DI_COPY_TO_REQUIRED,1.0,E,A four level class name is required for the Copy To field.  Enter a four level name or select cancel to quit.,SASHELP.FSP.OK.SLIST
+804.0,IN_NO_RESIZE,1.0,W,%lResize failed for object %1$.,SASHELP.FSP.OK.SLIST
+806.0,DI_ENOBLANK,1.0,E,%lText cannot be blank.,SASHELP.FSP.OK.SLIST
+821.0,IO_ENOTABLE,1.0,E,%lTable %1$ does not exist.,SASHELP.FSP.OK.SLIST
+827.0,IN_NO_ATTRIBUTE_SCREEN_FOR_CLASS,1.0,W,%lNo attributes screen for specified class.,SASHELP.FSP.OK.SLIST
+856.0,DI_CANNOT_SUBCLASS_WIDGET_CLASS,1.0,E,%lYou may not subclass the Widget Class.  Select another class.,SASHELP.FSP.OK.SLIST
+857.0,IO_INVALID_TYPE,1.0,E,%lThe column type must be either 'N' or 'C'.,SASHELP.FSP.OK.SLIST
+858.0,IN_CATALOG_SELECTED_FOR_DELETE,1.0,Q,Catalog %1$ has been selected for deletion.%n%nDo you wish to continue with the deletion?,SASHELP.FSP.DD.SLIST
+859.0,IN_LIB_CAT_SELECTED_FOR_DELETE,1.0,Q,Library %1$ has been selected for deletion.  All displayed catalogs will be deleted from the selected library.%n%nDo you wish to continue with the deletion?,SASHELP.FSP.DD.SLIST
+956.0,DI_CATALOG_ENTRY_DOES_NOT_EXIST,1.0,E,"%lCatalog entry %1$ does not exist.%n%nSpecify another name, make a selection from the control object, or select Cancel to quit.",SASHELP.FSP.OC.SLIST
+965.0,IN_SAVED,1.0,N,%lEntry has been saved as %1$.,SASHELP.FSP.OK.SLIST
+1031.0,IN_NOLICENSE_BROWSE,1.0,N,%lOnly browse mode is allowed since the %$ product not licensed.,SASHELP.FSP.OK.SLIST
+1054.0,IN_NOLICENSE_DATAM,1.0,E,"Without the FSP product licensed, the Data Set Data Model(DATA_M) cannot be used with the Form Editor in build mode.",SASHELP.FSP.OK.SLIST
+1301.0,IN_PROMPT_TO_SAVE,1.0,Q,Do you want to save changes to %1$?,SASHELP.FSP.YN.SLIST
+1320.0,DI_UNLINKED_OBJECTS,1.0,E,%lUnlinked objects in dialog.,SASHELP.FSP.OK.SLIST
+1399.0,IO_CAT_NO_EXIST,1.0,E,The catalog %1$ does not exist or the libref is not assigned.,SASHELP.FSP.OK.SLIST
+1400.0,IO_ENTRY_NO_EXIST,1.0,E,The catalog entry %1$ does not exist.,SASHELP.FSP.OK.SLIST
+1406.0,DI_CLASS_DOES_NOT_EXIST,1.0,E,%lClass %1$ does not exist. Please enter another class.,SASHELP.FSP.OK.SLIST
+1473.0,IO_DELETE_YES_NO,1.0,Q,Are you sure you want to delete %$?,SASHELP.FSP.YN.SLIST
+1682.0,IO_SAVE,1.0,Q,%lDo you want to save changes to %1$?,SASHELP.FSP.YN.SLIST
+1734.0,DI_DATASET_DOES_NOT_EXIST,1.0,E,%lData set %1$ does not exist. Please enter another data set.,SASHELP.FSP.OK.SLIST
+1735.0,IN_DELETE_FROM_DATASET,1.0,E,The class browser does not allow changes to the data set. No classes may be deleted.,SASHELP.FSP.OK.SLIST
+1737.0,IN_NO_WRITE_ACCESS,1.0,E,%l%1$ may not be deleted because you do not have write access to it.,SASHELP.FSP.OK.SLIST
+1738.0,IN_ONLINE_HELP_NOT_AVAILABLE,1.0,E,On-line help for %$ is not available.,SASHELP.FSP.OK.SLIST
+1739.0,IN_NO_SAVE,1.0,E,No class hierarchy has been generated.,SASHELP.FSP.OK.SLIST
+1740.0,DI_NOT_CB_DATASET,1.0,E,%l%$ is not a valid Class Browser data set.,SASHELP.FSP.OK.SLIST
+1763.0,DI_LIB_NOT_ASSIGNED,1.0,E,The library %1$ is not assigned.,SASHELP.FSP.OK.SLIST
+1782.0,DI_OVERWRITE_DATASET,1.0,W,%l%$ data set already exists. OK to overwrite data set.,SASHELP.FSP.OC.SLIST
+1783.0,IN_SELECT_DATASET_FIRST,1.0,W,You must first select a data set.,SASHELP.FSP.OK.SLIST
+1784.0,IN_C_CODE_LISTS,1.0,W,These lists were created in C source code which is not available to view. If you have any questions please contact your site's SAS representative.,SASHELP.FSP.OK.SLIST
+1785.0,IN_NO_SCL_SOURCE,1.0,N,%l%$ is not available to view.,SASHELP.FSP.OK.SLIST
+1786.0,IN_NO_DELB4CRE,1.0,N,%LNo warnings were generated for %$.,SASHELP.FSP.OK.SLIST
+1787.0,IN_NO_DATA_TO_SAVE,1.0,E,There is no data to save.,SASHELP.FSP.OK.SLIST
+1788.0,DI_NOT_SCLL_DATASET,1.0,E,%l%$ is not an SCL List Diagnostic Utility data set.,SASHELP.FSP.OK.SLIST
+1789.0,IO_DATASET_REQUIRED,1.0,E,Data set name is required.,SASHELP.FSP.OK.SLIST
+1790.0,IN_NO_SCL_FOR_COMPARE,1.0,N,SCL source code is not available for comparison data set.,SASHELP.FSP.OK.SLIST
+1793.0,IN_NO_LIST_CONTENTS,1.0,N,List contents are not available for saved data sets.,SASHELP.FSP.OK.SLIST
+1805.0,DI_FILEREF_NO_ASSIGN,1.0,E,The fileref %1$ is not assigned,SASHELP.FSP.OK.SLIST
+1806.0,DI_FILE_NO_EXIST,1.0,E,The file %1$ does not exist.,SASHELP.FSP.OK.SLIST
+1813.0,IO_ENOEXIST,1.0,E,%l%1$ does not exist.,SASHELP.FSP.OK.SLIST
+1846.0,IO_WNOEXIST,1.0,W,%l%1$ does not exist.,SASHELP.FSP.OK.SLIST
+1868.0,IO_INVALID_UNIT,1.0,E,%l %1$ is an invalid unit of measure.,SASHELP.FSP.OK.SLIST
+1921.0,IN_WTOOLONG,1.0,W,%lText is longer than field length.,SASHELP.FSP.OK.SLIST
+1923.0,DI_ENOLABEL,1.0,E,%lNo label specified.,SASHELP.FSP.OK.SLIST
+1924.0,DI_EBADFIELDS,1.0,E,%lOne or more fields in error; correct error to continue.,SASHELP.FSP.OK.SLIST
+1966.0,DI_EDUPID,1.0,E,%lDuplicate ID value specified.,SASHELP.FSP.OK.SLIST
+2007.0,DI_ID_NOEXIST,1.0,E,%lID %1# does not exist.,SASHELP.FSP.OK.SLIST
+2008.0,IO_NUM_CLIENTS_CHANGE,1.0,W,%n%l The following changes will cause loss of clients,SASHELP.FSP.OK.SLIST
+2008.0,IO_NUM_CLIENTS_CHANGE,2.0,W,upon OK from attributes:,SASHELP.FSP.OK.SLIST
+2008.0,IO_NUM_CLIENTS_CHANGE,3.0,W,%nOne per tab -> One per group or none.,SASHELP.FSP.OK.SLIST
+2008.0,IO_NUM_CLIENTS_CHANGE,4.0,W,%nOne per group -> none.,SASHELP.FSP.OK.SLIST
+2022.0,IO_NO_NEGATIVES,1.0,E,%lValue less than zero or missing.,SASHELP.FSP.OK.SLIST
+2081.0,IN_DELETE_CLIENTS,1.0,Q,Are you sure you want to delete the following,SASHELP.FSP.YN.SLIST
+2081.0,IN_DELETE_CLIENTS,2.0,Q,client areas:%n%1$?,SASHELP.FSP.YN.SLIST
+2127.0,DI_ENTRY_NO_EXIST,1.0,E,Catalog entry %1$ does not exist.,SASHELP.FSP.OK.SLIST
+2148.0,IO_OVERWRITE_TABLE,1.0,Q,Overwrite existing table %1$?,SASHELP.FSP.YN.SLIST
+2151.0,IO_ENOENT,1.0,E,%lCannot open %1$.,SASHELP.FSP.OK.SLIST
+2153.0,IO_LIBRARY_NOT_EXIST,1.0,E,%lThe library %1$ does not exist. Please use an existing library.,SASHELP.FSP.OK.SLIST
+2154.0,IO_NOT_VALID_DATASET,1.0,E,%l%1$ is not valid SAS data set name.,SASHELP.FSP.OK.SLIST
+2166.0,IO_WTABLEEXIST,1.0,W,Table %1$ already exists.%n,SASHELP.FSP.YN.SLIST
+2166.0,IO_WTABLEEXIST,2.0,W,Do you want to replace it?,SASHELP.FSP.YN.SLIST
+2167.0,IO_EBADPATH,1.0,E,%lDirectory %1$ cannot be accessed.%n,SASHELP.FSP.OK.SLIST
+2167.0,IO_EBADPATH,2.0,E,Select a different path to continue.,SASHELP.FSP.OK.SLIST
+2168.0,IN_EOPENTABLE,1.0,E,%lYou are currently viewing %1$.,SASHELP.FSP.OK.SLIST
+2168.0,IN_EOPENTABLE,2.0,E,Specify a different table name to continue.,SASHELP.FSP.OK.SLIST
+2169.0,DI_ENOVARS,1.0,E,%l%1$ contains no variables or cannot be opened.,SASHELP.FSP.OK.SLIST
+2169.0,DI_ENOVARS,2.0,E,Select another table to continue.,SASHELP.FSP.OK.SLIST
+2170.0,IO_SAME_TABLE,1.0,E,%lYou cannot include the same table that you are,SASHELP.FSP.OK.SLIST
+2170.0,IO_SAME_TABLE,2.0,E,currently creating. Select a different table to,SASHELP.FSP.OK.SLIST
+2170.0,IO_SAME_TABLE,3.0,E,continue.,SASHELP.FSP.OK.SLIST
+2174.0,IO_ENOOPEN,1.0,E,%l%1$ cannot be opened.,SASHELP.FSP.OK.SLIST
+2175.0,IO_ENOCOLUMNS,1.0,E,%l%1$ has no columns and cannot be displayed.,SASHELP.FSP.OK.SLIST
+2176.0,IN_NO_WHERE_SELECTION,1.0,N,You must select a table before specifying a where clause.,SASHELP.FSP.OK.SLIST
+2211.0,IO_NOT_VALID_ENTRY_TYPE,1.0,E,%l%$ is an invalid entry type for a class entry.,SASHELP.FSP.OK.SLIST
+2241.0,DI_BAD_EXECCMD_ENTRY,1.0,N,%l%1$ specified as EXECCMD= invocation argument does,SASHELP.FSP.OK.SLIST
+2241.0,DI_BAD_EXECCMD_ENTRY,2.0,N,not exist. Argument will be ignored.,SASHELP.FSP.OK.SLIST
+2243.0,IN_DUPLICATE_COMMAND,1.0,E,%lTwo or more commands start with '%1$'. Please reenter.,SASHELP.FSP.OK.SLIST
+2244.0,DI_BAD_TABLE_NAME,1.0,E,%l%1$ is an invalid SAS name. A temporary table,SASHELP.FSP.OK.SLIST
+2244.0,DI_BAD_TABLE_NAME,2.0,E,"will be created for you. To save it permanently,",SASHELP.FSP.OK.SLIST
+2244.0,DI_BAD_TABLE_NAME,3.0,E,"use ""Save"" or ""Save As"" and you will be prompted",SASHELP.FSP.OK.SLIST
+2244.0,DI_BAD_TABLE_NAME,4.0,E,for a new name.,SASHELP.FSP.OK.SLIST
+2245.0,IO_TABLE_EXISTS,1.0,N,%l%1$ already exists. It will be opened.,SASHELP.FSP.OK.SLIST
+2246.0,IN_BAD_COLUMNS,1.0,E,%lOne or more columns are in error. Correct to continue.,SASHELP.FSP.OK.SLIST
+2248.0,IN_NEW_TABLE,1.0,N,%lNo table has been specified. You will be placed,SASHELP.FSP.OK.SLIST
+2248.0,IN_NEW_TABLE,2.0,N,in new mode to begin creating a new one.,SASHELP.FSP.OK.SLIST
+2249.0,IN_MISSPELLED_BROWSE,1.0,N,%lAssuming BROWSE option was misspelled as %1$,SASHELP.FSP.OK.SLIST
+2250.0,IN_SELECT_NEW_TABLE,1.0,Q,The table %1$ either does not exist or cannot be,SASHELP.FSP.YNC.SLIST
+2250.0,IN_SELECT_NEW_TABLE,2.0,Q,displayed. Would you like to choose,SASHELP.FSP.YNC.SLIST
+2250.0,IN_SELECT_NEW_TABLE,3.0,Q,a different table to display?,SASHELP.FSP.YNC.SLIST
+2251.0,IN_SELECT_NEW_TABLE_2,1.0,Q,The table name %1$ is not a valid SAS name. Would you like to,SASHELP.FSP.YN.SLIST
+2251.0,IN_SELECT_NEW_TABLE_2,2.0,Q,choose a different table to display?,SASHELP.FSP.YN.SLIST
+2252.0,IN_START_NEW_MODE,1.0,N,%lYou will be put in NEW mode where you can begin,SASHELP.FSP.OK.SLIST
+2252.0,IN_START_NEW_MODE,2.0,N,editing a new table.,SASHELP.FSP.OK.SLIST
+2253.0,IO_NO_BROWSE,1.0,Q,%1$ cannot be opened for browsing. Do you want,SASHELP.FSP.YN.SLIST
+2253.0,IO_NO_BROWSE,2.0,Q,to select a different table to open?,SASHELP.FSP.YN.SLIST
+2254.0,IN_NO_VARIABLES,1.0,Q,%1$ contains no variables so it cannot be,SASHELP.FSP.YN.SLIST
+2254.0,IN_NO_VARIABLES,2.0,Q,displayed. Do you want to choose a different,SASHELP.FSP.YN.SLIST
+2254.0,IN_NO_VARIABLES,3.0,Q,table?,SASHELP.FSP.YN.SLIST
+2255.0,IN_CHANGE_DATAFORM,1.0,Q,You were using %1$ as the DATAFORM entry with,SASHELP.FSP.YN.SLIST
+2255.0,IN_CHANGE_DATAFORM,2.0,Q,the previous table. Do you want to continue,SASHELP.FSP.YN.SLIST
+2255.0,IN_CHANGE_DATAFORM,3.0,Q,using it with the new table?,SASHELP.FSP.YN.SLIST
+2256.0,IN_CHANGE_MODEL_SCL,1.0,Q,You were using %1$ as the model SCL with the,SASHELP.FSP.YN.SLIST
+2256.0,IN_CHANGE_MODEL_SCL,2.0,Q,previous table. Do you want to continue using it,SASHELP.FSP.YN.SLIST
+2256.0,IN_CHANGE_MODEL_SCL,3.0,Q,with the new table?,SASHELP.FSP.YN.SLIST
+2257.0,IN_NO_OPENMODE,1.0,N,"%lWhen creating a new table, the mode is",SASHELP.FSP.OK.SLIST
+2257.0,IN_NO_OPENMODE,2.0,N,automatically set to EDIT. The OPENMODE command,SASHELP.FSP.OK.SLIST
+2257.0,IN_NO_OPENMODE,3.0,N,has no effect.,SASHELP.FSP.OK.SLIST
+2259.0,IN_MISSPELLED_EDIT,1.0,N,%lAssuming EDIT option was misspelled as %1$,SASHELP.FSP.OK.SLIST
+2260.0,IN_INVALID_OPENMODE,1.0,W,%lInvalid OPENMODE option. BROWSE will be used.,SASHELP.FSP.OK.SLIST
+2261.0,IN_MISSPELLED_TABLEACCESS,1.0,N,%lAssuming TABLEACCESS option was misspelled as,SASHELP.FSP.OK.SLIST
+2261.0,IN_MISSPELLED_TABLEACCESS,2.0,N,%1$,SASHELP.FSP.OK.SLIST
+2262.0,IN_MISSPELLED_MEMBER,1.0,N,%lAssuming MEMBER option was misspelled as %1$,SASHELP.FSP.OK.SLIST
+2263.0,IN_MISSPELLED_ROWACCESS,1.0,N,%lAssuming ROWACCESS option was misspelled as,SASHELP.FSP.OK.SLIST
+2263.0,IN_MISSPELLED_ROWACCESS,2.0,N,%1$,SASHELP.FSP.OK.SLIST
+2264.0,IN_INVALID_ACCESSLEVEL,1.0,W,%lInvalid ACCESSLEVEL option. ROWACCESS will be,SASHELP.FSP.OK.SLIST
+2264.0,IN_INVALID_ACCESSLEVEL,2.0,W,used.,SASHELP.FSP.OK.SLIST
+2265.0,IN_NO_FSP_LICENSE,1.0,W,"%lCertain tasks, such as editing and sorting,",SASHELP.FSP.OK.SLIST
+2265.0,IN_NO_FSP_LICENSE,2.0,W,require SAS/FSP software to be licensed.  This,SASHELP.FSP.OK.SLIST
+2265.0,IN_NO_FSP_LICENSE,3.0,W,product is either not installed on your system or,SASHELP.FSP.OK.SLIST
+2265.0,IN_NO_FSP_LICENSE,4.0,W,the product license has expired.,SASHELP.FSP.OK.SLIST
+2266.0,IN_NO_TABLE_EDIT,1.0,W,%l%1$ could not be opened with TABLE level edit,SASHELP.FSP.OK.SLIST
+2266.0,IN_NO_TABLE_EDIT,2.0,W,access. ROW level edit access will be used instead.,SASHELP.FSP.OK.SLIST
+2267.0,IN_NO_ROW_EDIT,1.0,W,%1$ could not be opened in EDIT mode.,SASHELP.FSP.OK.SLIST
+2267.0,IN_NO_ROW_EDIT,2.0,W,BROWSE mode will be used instead.,SASHELP.FSP.OK.SLIST
+2268.0,IN_NO_OPEN,1.0,Q,%l%1$ could not be opened in either EDIT or,SASHELP.FSP.YN.SLIST
+2268.0,IN_NO_OPEN,2.0,Q,BROWSE mode. Do you want to select a different,SASHELP.FSP.YN.SLIST
+2268.0,IN_NO_OPEN,3.0,Q,table to display?,SASHELP.FSP.YN.SLIST
+2269.0,IN_OPENED_ROW_LEVEL,1.0,N,%lTable has been opened with ROW level edit,SASHELP.FSP.OK.SLIST
+2269.0,IN_OPENED_ROW_LEVEL,2.0,N,access.,SASHELP.FSP.OK.SLIST
+2270.0,IN_OPENED_TABLE_LEVEL,1.0,N,%lTable has been opened with TABLE level edit,SASHELP.FSP.OK.SLIST
+2270.0,IN_OPENED_TABLE_LEVEL,2.0,N,access.,SASHELP.FSP.OK.SLIST
+2271.0,IN_OPENED_BROWSE_MODE,1.0,N,%lTable has been opened in browse mode.,SASHELP.FSP.OK.SLIST
+2272.0,IN_NO_ACCESSLEVEL,1.0,N,"%lWhen creating a new table, the edit access",SASHELP.FSP.OK.SLIST
+2272.0,IN_NO_ACCESSLEVEL,2.0,N,level is automatically set to TABLE level.,SASHELP.FSP.OK.SLIST
+2272.0,IN_NO_ACCESSLEVEL,3.0,N,The ACCESSLEVEL command has no effect.,SASHELP.FSP.OK.SLIST
+2273.0,IN_NO_TABLE_ACCESS,1.0,W,%l%1$ can no longer be opened with TABLE level,SASHELP.FSP.OK.SLIST
+2273.0,IN_NO_TABLE_ACCESS,2.0,W,edit access. Table is now open in ROW level,SASHELP.FSP.OK.SLIST
+2273.0,IN_NO_TABLE_ACCESS,3.0,W,edit access.,SASHELP.FSP.OK.SLIST
+2274.0,IN_NO_TABLE_ACCESS_2,1.0,W,%lTABLE level edit access can no longer be,SASHELP.FSP.OK.SLIST
+2274.0,IN_NO_TABLE_ACCESS_2,2.0,W,obtained for %1$.  ROW level edit access will be,SASHELP.FSP.OK.SLIST
+2274.0,IN_NO_TABLE_ACCESS_2,3.0,W,attempted.,SASHELP.FSP.OK.SLIST
+2275.0,IN_NO_ROW_ACCESS,1.0,W,%lEDIT mode can no longer be obtained for %1$.,SASHELP.FSP.OK.SLIST
+2275.0,IN_NO_ROW_ACCESS,2.0,W,BROWSE mode will be attempted.,SASHELP.FSP.OK.SLIST
+2276.0,IN_MISSPELLED_FORMVIEW,1.0,N,%lAssuming the option FORM was misspelled as,SASHELP.FSP.OK.SLIST
+2276.0,IN_MISSPELLED_FORMVIEW,2.0,N,%1$.,SASHELP.FSP.OK.SLIST
+2277.0,IN_MISSPELLED_TABLEVIEW,1.0,N,%lAssuming TABLE option was misspelled as,SASHELP.FSP.OK.SLIST
+2277.0,IN_MISSPELLED_TABLEVIEW,2.0,N,%1$.,SASHELP.FSP.OK.SLIST
+2278.0,IN_NO_VIEW,1.0,N,"%lWhen creating a new table, the viewing mode is",SASHELP.FSP.OK.SLIST
+2278.0,IN_NO_VIEW,2.0,N,automatically set to TABLE view and cannot be,SASHELP.FSP.OK.SLIST
+2278.0,IN_NO_VIEW,3.0,N,changed.,SASHELP.FSP.OK.SLIST
+2279.0,IN_INVALID_VIEW,1.0,W,%lInvalid VIEW option. TABLEVIEW will be used.,SASHELP.FSP.OK.SLIST
+2280.0,IN_MISSPELLED_NAMES,1.0,N,%lAssuming the option NAMES was misspelled as,SASHELP.FSP.OK.SLIST
+2280.0,IN_MISSPELLED_NAMES,2.0,N,%1$,SASHELP.FSP.OK.SLIST
+2282.0,IN_NO_DRAG_DROP,1.0,W,%l%1$ created by drag site does not exist in drop,SASHELP.FSP.OK.SLIST
+2282.0,IN_NO_DRAG_DROP,2.0,W,site's WORK library.  Drag and drop cancelled.,SASHELP.FSP.OK.SLIST
+2283.0,IN_NO_ATTRIBUTES,1.0,N,%lAttributes cannot be displayed for the current,SASHELP.FSP.OK.SLIST
+2283.0,IN_NO_ATTRIBUTES,2.0,N,table.,SASHELP.FSP.OK.SLIST
+2284.0,IN_NO_HOLD_RELEASE,1.0,N,%lHOLD and RELEASE are options that are only,SASHELP.FSP.OK.SLIST
+2284.0,IN_NO_HOLD_RELEASE,2.0,N,valid when editing or browsing an existing,SASHELP.FSP.OK.SLIST
+2284.0,IN_NO_HOLD_RELEASE,3.0,N,table.,SASHELP.FSP.OK.SLIST
+2285.0,IN_COLUMN_NOT_DISPLAYED,1.0,N,%lColumn %1$ is not currently displayed.,SASHELP.FSP.OK.SLIST
+2286.0,IN_NO_TABLE_ACCESS_3,1.0,Q,%l%1$ can no longer be opened in either EDIT,SASHELP.FSP.YN.SLIST
+2286.0,IN_NO_TABLE_ACCESS_3,2.0,Q,or BROWSE mode. Do you want to select a,SASHELP.FSP.YN.SLIST
+2286.0,IN_NO_TABLE_ACCESS_3,3.0,Q,different table to display?,SASHELP.FSP.YN.SLIST
+2287.0,IN_MISSPELLED_LABELS,1.0,N,%lAssuming the option LABELS was misspelled as,SASHELP.FSP.OK.SLIST
+2287.0,IN_MISSPELLED_LABELS,2.0,N,%1$.,SASHELP.FSP.OK.SLIST
+2289.0,IN_DATAFORM_NOT_VALID,1.0,N,%lSpecifying a DATAFORM entry is only valid when,SASHELP.FSP.OK.SLIST
+2289.0,IN_DATAFORM_NOT_VALID,2.0,N,viewing an existing table. It has no effect when,SASHELP.FSP.OK.SLIST
+2289.0,IN_DATAFORM_NOT_VALID,3.0,N,creating a new one.,SASHELP.FSP.OK.SLIST
+2290.0,IN_INVALID_COLHEADING,1.0,W,%lInvalid COLHEADING option. LABELS will be used.,SASHELP.FSP.OK.SLIST
+2291.0,IO_INVALID_ENTRY_NAME,1.0,N,%l%1$ is an invalid entry name. The option was,SASHELP.FSP.OK.SLIST
+2291.0,IO_INVALID_ENTRY_NAME,2.0,N,ignored.,SASHELP.FSP.OK.SLIST
+2293.0,IN_NONEXISTENT_COLUMNS,1.0,N,%lThe DATAFORM entry contains one or more,SASHELP.FSP.OK.SLIST
+2293.0,IN_NONEXISTENT_COLUMNS,2.0,N,columns that do not currently exist in the,SASHELP.FSP.OK.SLIST
+2293.0,IN_NONEXISTENT_COLUMNS,3.0,N,"table. Therefore, these columns cannot be",SASHELP.FSP.OK.SLIST
+2293.0,IN_NONEXISTENT_COLUMNS,4.0,N,displayed.,SASHELP.FSP.OK.SLIST
+2295.0,IN_BAD_COLUMN_TYPES,1.0,N,%lThe DATAFORM entry contains one or more,SASHELP.FSP.OK.SLIST
+2295.0,IN_BAD_COLUMN_TYPES,2.0,N,columns by the same name that exist in the,SASHELP.FSP.OK.SLIST
+2295.0,IN_BAD_COLUMN_TYPES,3.0,N,"table, but their types do not match. The column",SASHELP.FSP.OK.SLIST
+2295.0,IN_BAD_COLUMN_TYPES,4.0,N,type specified by the table will supersede.,SASHELP.FSP.OK.SLIST
+2296.0,IO_ENOMEM,1.0,E,%lAn out of memory condition has occurred.,SASHELP.FSP.OK.SLIST
+2297.0,IN_MODEL_SCL_INVALID,1.0,N,%lSpecifying a MODEL SCL entry is only valid when,SASHELP.FSP.OK.SLIST
+2297.0,IN_MODEL_SCL_INVALID,2.0,N,viewing an existing table. It has no effect when,SASHELP.FSP.OK.SLIST
+2297.0,IN_MODEL_SCL_INVALID,3.0,N,creating a new one.,SASHELP.FSP.OK.SLIST
+2298.0,IN_USE_DATAFORM,1.0,Q,You also have a dataform entry currently,SASHELP.FSP.YN.SLIST
+2298.0,IN_USE_DATAFORM,2.0,Q,assigned. Continue using it?,SASHELP.FSP.YN.SLIST
+2299.0,IN_MODEL_SCL_INVALID_2,1.0,N,%lSetting the model SCL to what is stored with,SASHELP.FSP.OK.SLIST
+2299.0,IN_MODEL_SCL_INVALID_2,2.0,N,DATAFORM is only valid when a dataform has been,SASHELP.FSP.OK.SLIST
+2299.0,IN_MODEL_SCL_INVALID_2,3.0,N,assigned. No DATAFORM is currently being used so,SASHELP.FSP.OK.SLIST
+2299.0,IN_MODEL_SCL_INVALID_2,4.0,N,the option will be ignored.,SASHELP.FSP.OK.SLIST
+2300.0,IN_ENTRY_NOT_SCL,1.0,E,%l%1$ is invalid. Entry type must be SCL.,SASHELP.FSP.OK.SLIST
+2301.0,IN_NO_SORT,1.0,N,%lSorting is not supported when creating a new table.,SASHELP.FSP.OK.SLIST
+2302.0,IN_NO_COLUMN,1.0,N,%lColumn %1$ does not exist in table.,SASHELP.FSP.OK.SLIST
+2303.0,IO_NO_SORT_ACCESS,1.0,Q,%lYou do not have sufficient access authority to,SASHELP.FSP.YN.SLIST
+2303.0,IO_NO_SORT_ACCESS,2.0,Q,sort the table. Would you like to specify a,SASHELP.FSP.YN.SLIST
+2303.0,IO_NO_SORT_ACCESS,3.0,Q,different table name to store the sorted,SASHELP.FSP.YN.SLIST
+2303.0,IO_NO_SORT_ACCESS,4.0,Q,results to?,SASHELP.FSP.YN.SLIST
+2304.0,IN_NO_SORT_OUTPUT,1.0,N,%lNo output table name specified. %1$ was not,SASHELP.FSP.OK.SLIST
+2304.0,IN_NO_SORT_OUTPUT,2.0,N,sorted.,SASHELP.FSP.OK.SLIST
+2305.0,IN_YES_NO_ONLY,1.0,N,%lValid values for this option are YES and NO.,SASHELP.FSP.OK.SLIST
+2306.0,IN_NO_SORT_ACCESS,1.0,N,%lYou do not have sufficient access authority to,SASHELP.FSP.YN.SLIST
+2306.0,IN_NO_SORT_ACCESS,2.0,N,sort %1$.  Do you want to save the sorted results,SASHELP.FSP.YN.SLIST
+2306.0,IN_NO_SORT_ACCESS,3.0,N,out to a new table?,SASHELP.FSP.YN.SLIST
+2307.0,IN_NO_SORTING_COLUMNS,1.0,N,%lNo columns were chosen for sorting. %1$ was,SASHELP.FSP.OK.SLIST
+2307.0,IN_NO_SORTING_COLUMNS,2.0,N,not sorted.,SASHELP.FSP.OK.SLIST
+2308.0,IN_BAD_INCLUDE_TABLE,1.0,W,%l%1$ could not be opened and cannot be used,SASHELP.FSP.YN.SLIST
+2308.0,IN_BAD_INCLUDE_TABLE,2.0,W,as an INCLUDE= table. Do you want to select,SASHELP.FSP.YN.SLIST
+2308.0,IN_BAD_INCLUDE_TABLE,3.0,W,another table?,SASHELP.FSP.YN.SLIST
+2309.0,IN_BAD_LIKE_TABLE,1.0,W,%l%1$ could not be opened and cannot be used,SASHELP.FSP.YN.SLIST
+2309.0,IN_BAD_LIKE_TABLE,2.0,W,as a LIKE= table. Do you want to select another,SASHELP.FSP.YN.SLIST
+2309.0,IN_BAD_LIKE_TABLE,3.0,W,table?,SASHELP.FSP.YN.SLIST
+2310.0,IN_INVALID_EXISTING_OPTION,1.0,N,%lThis option is only valid when creating a new,SASHELP.FSP.OK.SLIST
+2310.0,IN_INVALID_EXISTING_OPTION,2.0,N,table.,SASHELP.FSP.OK.SLIST
+2311.0,IN_DUPLICATE_COLUMN_NAMES,1.0,N,%lDuplicate column names exist. A unique,SASHELP.FSP.OK.SLIST
+2311.0,IN_DUPLICATE_COLUMN_NAMES,2.0,N,column name for %1$ cannot be created.,SASHELP.FSP.OK.SLIST
+2311.0,IN_DUPLICATE_COLUMN_NAMES,3.0,N,Column %1$ will not be used.,SASHELP.FSP.OK.SLIST
+2312.0,IN_DUPLICATE_COLUMN_NAMES_2,1.0,N,%lA duplicate column name has been found.,SASHELP.FSP.OK.SLIST
+2312.0,IN_DUPLICATE_COLUMN_NAMES_2,2.0,N,Column %1$ will be renamed to %2$.,SASHELP.FSP.OK.SLIST
+2313.0,IN_INVALID_SAVE,1.0,N,%lYou are in BROWSE mode. SAVE command is invalid.,SASHELP.FSP.OK.SLIST
+2314.0,IN_NO_PRINT,1.0,N,%lThis viewing mode does not support printing.,SASHELP.FSP.OK.SLIST
+2315.0,IN_CANNOT_ADD,1.0,N,%lThe ADD command has no effect when creating a,SASHELP.FSP.OK.SLIST
+2315.0,IN_CANNOT_ADD,2.0,N,"new table. To add a new row, use the vertical",SASHELP.FSP.OK.SLIST
+2315.0,IN_CANNOT_ADD,3.0,N,"scrollbar until you see an empty row, and begin",SASHELP.FSP.OK.SLIST
+2315.0,IN_CANNOT_ADD,4.0,N,typing.,SASHELP.FSP.OK.SLIST
+2316.0,IN_NO_COLUMNS,1.0,N,%lNo columns exist for this table. There is,SASHELP.FSP.OK.SLIST
+2316.0,IN_NO_COLUMNS,2.0,N,nothing to save.,SASHELP.FSP.OK.SLIST
+2317.0,IN_CANNOT_COMMITROW,1.0,N,%lThe COMMITROW command has no effect when,SASHELP.FSP.OK.SLIST
+2317.0,IN_CANNOT_COMMITROW,2.0,N,creating a new table. To save your changes,SASHELP.FSP.OK.SLIST
+2317.0,IN_CANNOT_COMMITROW,3.0,N,"permanently, you can issue the SAVE command",SASHELP.FSP.OK.SLIST
+2317.0,IN_CANNOT_COMMITROW,4.0,N,at any time.,SASHELP.FSP.OK.SLIST
+2318.0,IN_CANNOT_CANCELROW,1.0,N,%lThe CANCELROW command has no effect when,SASHELP.FSP.OK.SLIST
+2318.0,IN_CANNOT_CANCELROW,2.0,N,creating a new table. To change any values you,SASHELP.FSP.OK.SLIST
+2318.0,IN_CANNOT_CANCELROW,3.0,N,"have added, simply type over them or blank them",SASHELP.FSP.OK.SLIST
+2318.0,IN_CANNOT_CANCELROW,4.0,N,out.,SASHELP.FSP.OK.SLIST
+2321.0,IN_CANNOT_COPY_ROW,1.0,N,%lThe COPY command is not supported when creating,SASHELP.FSP.OK.SLIST
+2321.0,IN_CANNOT_COPY_ROW,2.0,N,a new table.,SASHELP.FSP.OK.SLIST
+2322.0,IN_CANNOT_DELETE,1.0,N,%lThe DELETE command is not supported when,SASHELP.FSP.OK.SLIST
+2322.0,IN_CANNOT_DELETE,2.0,N,creating a new table. To change any values,SASHELP.FSP.OK.SLIST
+2322.0,IN_CANNOT_DELETE,3.0,N,"entered in the table, simply type over them",SASHELP.FSP.OK.SLIST
+2322.0,IN_CANNOT_DELETE,4.0,N,or blank them out.,SASHELP.FSP.OK.SLIST
+2323.0,IN_CANNOT_WHERE,1.0,N,%lThe WHERE command is not supported when,SASHELP.FSP.OK.SLIST
+2323.0,IN_CANNOT_WHERE,2.0,N,creating a new table.,SASHELP.FSP.OK.SLIST
+2324.0,IN_CANNOT_FIND,1.0,N,%lThe FIND command is not supported when,SASHELP.FSP.OK.SLIST
+2324.0,IN_CANNOT_FIND,2.0,N,creating a new table.,SASHELP.FSP.OK.SLIST
+2325.0,IN_CANNOT_FIND_2,1.0,N,%lThe table does not support searching using,SASHELP.FSP.OK.SLIST
+2325.0,IN_CANNOT_FIND_2,2.0,N,the FIND command,SASHELP.FSP.OK.SLIST
+2326.0,IN_CANNOT_RFIND,1.0,N,%lThe RFIND command is not supported when,SASHELP.FSP.OK.SLIST
+2326.0,IN_CANNOT_RFIND,2.0,N,creating a new table.,SASHELP.FSP.OK.SLIST
+2327.0,IN_CANNOT_RFIND_2,1.0,N,%lThe table does not support searching using,SASHELP.FSP.OK.SLIST
+2327.0,IN_CANNOT_RFIND_2,2.0,N,the FIND and RFIND commands,SASHELP.FSP.OK.SLIST
+2328.0,IN_CANNOT_SET_COLUMNS,1.0,N,"%lWhen creating a new table, you cannot alter",SASHELP.FSP.OK.SLIST
+2328.0,IN_CANNOT_SET_COLUMNS,2.0,N,"which columns are currently displayed. By default,",SASHELP.FSP.OK.SLIST
+2328.0,IN_CANNOT_SET_COLUMNS,3.0,N,all columns will be visible.,SASHELP.FSP.OK.SLIST
+2329.0,IN_NO_NAMED_COLUMN,1.0,N,%lColumn %1$ does not exist in %2$,SASHELP.FSP.OK.SLIST
+2330.0,IN_CANNOT_EARMARK,1.0,N,%lThis option is only useful if form contains,SASHELP.FSP.OK.SLIST
+2330.0,IN_CANNOT_EARMARK,2.0,N,multiple pages,SASHELP.FSP.OK.SLIST
+2331.0,IN_CANNOT_EARMARK_2,1.0,N,%lEARMARKS is only valid when viewing a table in,SASHELP.FSP.OK.SLIST
+2331.0,IN_CANNOT_EARMARK_2,2.0,N,FORM view when a table with multiple pages is,SASHELP.FSP.OK.SLIST
+2331.0,IN_CANNOT_EARMARK_2,3.0,N,displayed,SASHELP.FSP.OK.SLIST
+2332.0,IN_CANNOT_ROWNAVIGATOR,1.0,N,%lROWNAVIGATOR is only valid when in FORM view,SASHELP.FSP.OK.SLIST
+2333.0,IN_CANNOT_PAGENAVIGATOR,1.0,N,%lPAGENAVIGATOR is only useful when table,SASHELP.FSP.OK.SLIST
+2333.0,IN_CANNOT_PAGENAVIGATOR,2.0,N,displayed contains multiple pages,SASHELP.FSP.OK.SLIST
+2334.0,IN_CANNOT_GRID,1.0,N,%lThe GRID option is not supported by this,SASHELP.FSP.OK.SLIST
+2334.0,IN_CANNOT_GRID,2.0,N,viewing mode,SASHELP.FSP.OK.SLIST
+2335.0,IN_CANNOT_GRID_2,1.0,N,%lGRID is only useful when in TABLE view.,SASHELP.FSP.OK.SLIST
+2336.0,IN_CANNOT_ROWLABELS,1.0,N,%lThe ROWLABELS option is not supported by,SASHELP.FSP.OK.SLIST
+2336.0,IN_CANNOT_ROWLABELS,2.0,N,this viewing mode,SASHELP.FSP.OK.SLIST
+2337.0,DI_DISPLAYED_CLASS_DELETED,1.0,E,%lClass %1$ no longer exists. Please select another class.,SASHELP.FSP.OK.SLIST
+2340.0,IN_LENGTH_CHARACTER,1.0,E,%lCharacter columns must have a length between,SASHELP.FSP.OK.SLIST
+2340.0,IN_LENGTH_CHARACTER,2.0,E,1 and 32767.,SASHELP.FSP.OK.SLIST
+2341.0,IN_LENGTH_NUMERIC,1.0,E,%lNumeric columns must have a length between,SASHELP.FSP.OK.SLIST
+2341.0,IN_LENGTH_NUMERIC,2.0,E,3 and 8,SASHELP.FSP.OK.SLIST
+2343.0,IN_DEFAULT_FORMAT,1.0,N,%lA default format will be used if none is specified.,SASHELP.FSP.OK.SLIST
+2359.0,IN_DEFAULT_INFORMAT,1.0,N,%lA default informat will be used if none is,SASHELP.FSP.OK.SLIST
+2359.0,IN_DEFAULT_INFORMAT,2.0,N,specified,SASHELP.FSP.OK.SLIST
+2364.0,IN_BAD_LISTID,1.0,E,%lA character string was passed in as an,SASHELP.FSP.OK.SLIST
+2364.0,IN_BAD_LISTID,2.0,E,argument to SASHELP.FSP.VTMAIN.FRAME when a,SASHELP.FSP.OK.SLIST
+2364.0,IN_BAD_LISTID,3.0,E,valid SCL list id was expected. Argument will,SASHELP.FSP.OK.SLIST
+2364.0,IN_BAD_LISTID,4.0,E,be ignored.,SASHELP.FSP.OK.SLIST
+2370.0,IN_BAD_LISTID_2,1.0,E,%lAn invalid SCL list id was passed as an,SASHELP.FSP.OK.SLIST
+2370.0,IN_BAD_LISTID_2,2.0,E,argument to SASHELP.FSP.VTMAIN.FRAME. Argument,SASHELP.FSP.OK.SLIST
+2370.0,IN_BAD_LISTID_2,3.0,E,will be ignored.,SASHELP.FSP.OK.SLIST
+2371.0,IN_BAD_ARGUMENT,1.0,E,"%lUnrecognized command or argument ""%1$""",SASHELP.FSP.OK.SLIST
+2372.0,IN_ENTRY_NOT_PMENU,1.0,E,%lInvalid type given: must be PMENU,SASHELP.FSP.OK.SLIST
+2373.0,IN_MISSING_PMENU,1.0,E,%lSpecify the name of a PMENU entry along with,SASHELP.FSP.OK.SLIST
+2373.0,IN_MISSING_PMENU,2.0,E,the MENUBAR command.,SASHELP.FSP.OK.SLIST
+2374.0,IN_ENTRY_NOT_TOOLBOX,1.0,E,%lInvalid type given: must be TOOLBOX,SASHELP.FSP.OK.SLIST
+2375.0,IN_MISSING_TOOLBOX,1.0,E,%lSpecify the name of a TOOLBOX entry along with,SASHELP.FSP.OK.SLIST
+2375.0,IN_MISSING_TOOLBOX,2.0,E,the TOOLBOX command,SASHELP.FSP.OK.SLIST
+2405.0,IO_DATASET_NOT_SAVED,1.0,N,%l%$ has not been saved.,SASHELP.FSP.OK.SLIST
+2409.0,IO_SCLTRAC1_NOT_SAVED,1.0,N,%lThe data set you created has not been saved.,SASHELP.FSP.OK.SLIST
+2414.0,IO_TABLE_REQUIRED,1.0,E,%lTable name is required.  Enter a name or cancel to exit.,SASHELP.FSP.OK.SLIST
+2416.0,IO_DATAFORM_INERROR,1.0,E,%lDATAFORM entry specified is invalid or does not exist.  Use arrow to the right of the field for a list or select cancel to exit.,SASHELP.FSP.OK.SLIST
+2417.0,IO_MODELSCL_INERROR,1.0,E,%lSCL entry specified is invalid or does not exist.  Use arrow to the right of the field for a list or select cancel to exit.,SASHELP.FSP.OK.SLIST
+2418.0,IO_FIELD_INERROR,1.0,E,%lField is in error.  Please correct to continue or select cancel to exit.,SASHELP.FSP.OK.SLIST
+2423.0,IN_REFILL_DATAFORM,1.0,W,%lAny custom form design that may be stored in the DATAFORM,SASHELP.FSP.YN.SLIST
+2423.0,IN_REFILL_DATAFORM,2.0,W,entry that is currently being used is about to be removed.,SASHELP.FSP.YN.SLIST
+2423.0,IN_REFILL_DATAFORM,3.0,W,A default layout will be drawn instead.  Do you want to continue?,SASHELP.FSP.YN.SLIST
+2438.0,IN_WINDOW_SIZE,1.0,N,%lYou cannot shrink the window beyond this point.,SASHELP.FSP.OK.SLIST
+2439.0,DI_NOT_SCLP_DATASET,1.0,E,%l%$ is not an SCL Performance Analyzer data set.,SASHELP.FSP.OK.SLIST
+2441.0,IO_WITHOUT_DSOPTS,1.0,E,%1$ could not be opened possibly due to errors in,SASHELP.FSP.YN.SLIST
+2441.0,IO_WITHOUT_DSOPTS,2.0,E,the data set options specified.  Do you want to,SASHELP.FSP.YN.SLIST
+2441.0,IO_WITHOUT_DSOPTS,3.0,E,try opening without using data set options?,SASHELP.FSP.YN.SLIST
+2442.0,IO_MAXIMUM_NUM_OF_TABS,1.0,N,Maximum number of tabs reached.,SASHELP.FSP.OK.SLIST
+2457.0,IO_NEWROW,1.0,W,%lA new row is pending.  Either cancel row edits,SASHELP.FSP.OK.SLIST
+2457.0,IO_NEWROW,2.0,W,or commit new row to continue.,SASHELP.FSP.OK.SLIST
+2462.0,IO_COLUMN_REQUIRED,1.0,E,%lName is a required field.,SASHELP.FSP.OK.SLIST
+2468.0,IN_NO_LEAKS,1.0,N,All lists have been deleted.,SASHELP.FSP.OK.SLIST
+2483.0,IO_READ_ONLY,1.0,E,%l%1$ could not be created because you only have read access.,SASHELP.FSP.OK.SLIST
+2494.0,IN_DATAFORM_INUSE,1.0,E,"%lWhen using a DATAFORM entry, the columns displayed",SASHELP.FSP.OK.SLIST
+2494.0,IN_DATAFORM_INUSE,2.0,E,in the open table cannot be changed.  The columns,SASHELP.FSP.OK.SLIST
+2494.0,IN_DATAFORM_INUSE,3.0,E,currently displayed have been defined in,SASHELP.FSP.OK.SLIST
+2494.0,IN_DATAFORM_INUSE,4.0,E,%1$.,SASHELP.FSP.OK.SLIST
+2496.0,IN_NEW_VIEW,1.0,N,%lTABLE view is the default viewing mode when,SASHELP.FSP.OK.SLIST
+2496.0,IN_NEW_VIEW,2.0,N,creating a new table.,SASHELP.FSP.OK.SLIST
+2497.0,IO_MENUB_SAVE,1.0,Q,Save changes?,SASHELP.FSP.YN.SLIST
+2498.0,IO_MENUB_SAVE_CHANGES,1.0,Q,Save changes to %1$?,SASHELP.FSP.YN.SLIST
+2507.0,IO_DUPLICATE_COLNAME,1.0,E,%lA column named %$ already exists in the table.,SASHELP.FSP.OK.SLIST
+2508.0,IO_NOEXPORT,1.0,E,%lThe Export facility is not installed at your site.,SASHELP.FSP.OK.SLIST
+2509.0,IO_IMPORT,1.0,E,%lThe Import facility is not installed at your site.,SASHELP.FSP.OK.SLIST
+2510.0,IO_NOQUERY,1.0,E,%lThe SQL Query window is not installed at your site.,SASHELP.FSP.OK.SLIST
+2522.0,IN_NO_FSP_FORMVIEW,1.0,W,"%lTo view data in Form View, SAS/FSP software is",SASHELP.FSP.OK.SLIST
+2522.0,IN_NO_FSP_FORMVIEW,2.0,W,required.  This product is either not installed on,SASHELP.FSP.OK.SLIST
+2522.0,IN_NO_FSP_FORMVIEW,3.0,W,your system or the product license has expired.,SASHELP.FSP.OK.SLIST
+2522.0,IN_NO_FSP_FORMVIEW,4.0,W,Table View will be used by default.,SASHELP.FSP.OK.SLIST
+2523.0,IN_DATAFORM_ENTRY_NOTE,1.0,N,%lThe %1$ entry does not exist.,SASHELP.FSP.OK.SLIST
+2529.0,IN_NO_SELROW_DELETE,1.0,W,One or more rows must first be selected before,SASHELP.FSP.OK.SLIST
+2529.0,IN_NO_SELROW_DELETE,2.0,W,they can be deleted.,SASHELP.FSP.OK.SLIST
+2535.0,IN_DND_NEW_TABLE,1.0,N,%lThe data selected for drag and drop has been,SASHELP.FSP.OK.SLIST
+2535.0,IN_DND_NEW_TABLE,2.0,N,copied.  You will be placed in NEW mode where,SASHELP.FSP.OK.SLIST
+2535.0,IN_DND_NEW_TABLE,3.0,N,you can continue making changes and save the,SASHELP.FSP.OK.SLIST
+2535.0,IN_DND_NEW_TABLE,4.0,N,results permanently to a new table.,SASHELP.FSP.OK.SLIST
+2589.0,IN_NO_SORTCOLUMNS,1.0,N,"First, you must select the column(s) to sort.",SASHELP.FSP.OK.SLIST
+2634.0,IO_NOSAVE_COLUMN,1.0,E,One or more computed columns have been defined,SASHELP.FSP.OK.SLIST
+2634.0,IO_NOSAVE_COLUMN,2.0,E,in the DATAFORM entry you are using.  Computed columns,SASHELP.FSP.OK.SLIST
+2634.0,IO_NOSAVE_COLUMN,3.0,E,cannot be saved to %1$.  All other,SASHELP.FSP.OK.SLIST
+2634.0,IO_NOSAVE_COLUMN,4.0,E,displayed columns will be saved.,SASHELP.FSP.OK.SLIST
+2684.0,IO_CANNOT_WRITE_TO_FOLDER,1.0,N,Note: Changes made to this folder will not be saved.,SASHELP.FSP.OK.SLIST
+3134.0,IO_DSNOEXST,1.0,N,Data set does not exist.,SASHELP.FSP.OK.SLIST
+3400.0,IO_NO_EIS,1.0,E,"%lTo view MDDB data, either SAS/EIS or SAS/MDDB server software",SASHELP.FSP.YN.SLIST
+3400.0,IO_NO_EIS,2.0,E,is required. Neither of these products are installed on your,SASHELP.FSP.YN.SLIST
+3400.0,IO_NO_EIS,3.0,E,system or else the product license has expired.  Would you,SASHELP.FSP.YN.SLIST
+3400.0,IO_NO_EIS,4.0,E,like to choose a SAS data set to display?,SASHELP.FSP.YN.SLIST
+3502.0,IN_NO_STAT,1.0,E,%lYou must select at least one statistic to display.,SASHELP.FSP.OK.SLIST
+3503.0,IN_NO_CLASS,1.0,E,%lYou must select one class to display.  It can be,SASHELP.FSP.OK.SLIST
+3503.0,IN_NO_CLASS,2.0,E,displayed either as a down class or as an across,SASHELP.FSP.OK.SLIST
+3503.0,IN_NO_CLASS,3.0,E,class.,SASHELP.FSP.OK.SLIST
+3504.0,IN_NO_ANLSYS,1.0,E,%lYou must select one analysis variable to display.,SASHELP.FSP.OK.SLIST
+3505.0,IN_CLASS_VALUE,1.0,E,%lYou must select at least one class value to display.,SASHELP.FSP.OK.SLIST
+4077.0,IN_REGISTRY_GET_ERROR,1.0,W,Could not read items from Registry. See Log for,SASHELP.FSP.OK.SLIST
+4077.0,IN_REGISTRY_GET_ERROR,2.0,W,any messages.,SASHELP.FSP.OK.SLIST
+4078.0,IN_REGISTRY_SET_ERROR,1.0,W,Cannot set items into Registry. See Log for,SASHELP.FSP.OK.SLIST
+4078.0,IN_REGISTRY_SET_ERROR,2.0,W,any messages.,SASHELP.FSP.OK.SLIST
+4158.0,IO_NEAL_TEST,1.0,N,dsfdafjlkdafdfjgsfjgjsfgjg,SASHELP.FSP.OK.SLIST
+4196.0,IN_INVALID_COLOR,1.0,E,"The color name is invalid. ""Black"" will be put into the field.",SASHELP.FSP.OK.SLIST
+4219.0,IN_CE_ATTRIBUTES_CATEGORY_MISC,1.0,N,"Attribute must have a category.  It is currently set to ""Misc.""",SASHELP.FSP.OK.SLIST
+4220.0,IO_MIXED_SELECTIONS,1.0,Q,You have selected some attributes that cannot be deleted.  Only new attributes can be deleted.  Do you want to delete the new attributes you have selected?,SASHELP.FSP.YN.SLIST
+4221.0,IO_RETURN_INHERIT,1.0,Q,Do you want to return the selected item(s) to Inherited state?,SASHELP.FSP.YN.SLIST
+4222.0,IN_CE_ATTRIBUTES_CLASS_NOT_FOUND,1.0,E,Class does not exist.  Verify type specified for attribute.,SASHELP.FSP.OK.SLIST
+4223.0,IO_VERIFY_DELETE_AF,1.0,Q,Do you want to delete the %1$?,SASHELP.FSP.YN.SLIST
+4224.0,IO_CATALOG_TYPES,1.0,E,Source can only specify %1$ catalog entry types,SASHELP.FSP.OK.SLIST
+4225.0,IO_VERIFY_DELETE_IV,1.0,Q,The attribute is linked to the instance variable %1$.  Do you want to delete this IV?,SASHELP.FSP.YN.SLIST
+4226.0,IO_NO_MODEL,1.0,E,No datalist attached to the table.,SASHELP.FSP.OK.SLIST
+4227.0,IO_GENERIC_ERROR,1.0,E,An error ocurred during processing.,SASHELP.FSP.OK.SLIST
+4228.0,IN_CE_ATTRIBUTES_NOT_OBJ_SETTING,1.0,W,%$ cannot be set for generic object types in the Class Editor.,SASHELP.FSP.OK.SLIST
+4229.0,IN_REGISTRY_BAD_LIST_ID,1.0,E,%l Invalid item list or object id for Registry Class.,SASHELP.FSP.OK.SLIST
+4230.0,IO_ROW_EDIT,1.0,E,The last edited row cannot be saved due to the following error: %1$%NDo you want to return to make corrections?,SASHELP.FSP.YN.SLIST
+4231.0,IO_ALREADY_EXISTS,1.0,E,The %1$ already exists.,SASHELP.FSP.OK.SLIST
+4232.0,IO_DOT_NOTATION,1.0,W,"Using ""."" or embedded blanks, in the method name, may disable the use of dot notation in SCL code, for this component.",SASHELP.FSP.OK.SLIST
+4233.0,IO_INVALID_COLUMN_VALUE,1.0,E,Invalid value specified for %1$.,SASHELP.FSP.OK.SLIST
+4234.0,IN_REGISTRY_INVALID_KEY,1.0,E,%lCould not open the specified Registry key.,SASHELP.FSP.OK.SLIST
+4235.0,IO_OVERLOADED_METHOD,1.0,E,The method %1$ is overloaded.  A unique signature must be defined for each ocurrence of the method.,SASHELP.FSP.OK.SLIST
+4236.0,IN_REGISTRY_INVALID_QUERY,1.0,E,%lCould not query the specified values from the,SASHELP.FSP.OK.SLIST
+4236.0,IN_REGISTRY_INVALID_QUERY,2.0,E,registry.,SASHELP.FSP.OK.SLIST
+4237.0,IO_NO_METHOD_ENTRY,1.0,E,An entry name is required for method:  %1$.,SASHELP.FSP.OK.SLIST
+4238.0,IN_REGISTRY_FAIL_TO_LIST,1.0,E,%lCould not list the(se) value(s) from the Registry.,SASHELP.FSP.OK.SLIST
+4239.0,IN_REGISTRY_CHAR_KEY_FAILED,1.0,E,%lCould not set character value into this key,SASHELP.FSP.OK.SLIST
+4240.0,IO_METHOD_NAME,1.0,E,A method name is required.,SASHELP.FSP.OK.SLIST
+4241.0,IO_METHOD_NAME_AND_ENTRY,1.0,E,A method name and an entry name is required for the method.,SASHELP.FSP.OK.SLIST
+4242.0,IN_REGISTRY_NUM_KEY_FAILED,1.0,E,%lCould not set this numeric value into Registry,SASHELP.FSP.OK.SLIST
+4242.0,IN_REGISTRY_NUM_KEY_FAILED,2.0,E,key.,SASHELP.FSP.OK.SLIST
+4243.0,IO_NO_UNDERSCORE,1.0,E,Method names with leading underscores are reserved for SAS-supplied methods.,SASHELP.FSP.OK.SLIST
+4244.0,IO_INVALID_SEND,1.0,E,An invalid send value has been specified.,SASHELP.FSP.OK.SLIST
+4245.0,IO_NO_SIGNATURE,1.0,Q,The method %1$ has already been defined without a signature and cannot be overloaded.  Do you want to continue adding a new method by specifying a different name?,SASHELP.FSP.YN.SLIST
+4246.0,IO_INVALID_CATALOG_ENTRY_NAME,1.0,E,Invalid entry name %1$ specified.,SASHELP.FSP.OK.SLIST
+4247.0,IO_THREE_OR_FOUR_LEVEL_NAME,1.0,E,A three- or four-level catalog entry name is required.,SASHELP.FSP.OK.SLIST
+4248.0,IO_FORWARD_POP_UP,1.0,E,"The method %1$ is not forwarded.  To forward a method, select ""Forward..."" from the pop-up menu.",SASHELP.FSP.OK.SLIST
+4249.0,IO_SCOPE_LESS_RESTRICTIVE,1.0,E,The scope of an overridden %1$ cannot be less restrictive than the parent's scope.,SASHELP.FSP.OK.SLIST
+4250.0,IO_EVENT_NAME,1.0,E,An event name is required.,SASHELP.FSP.OK.SLIST
+4251.0,IO_DUPLICATE_EVENT_NAME,1.0,E,Duplicate events are not allowed.  Enter another name for this event.,SASHELP.FSP.OK.SLIST
+4252.0,IO_INVALID_SENDER,1.0,E,Sender is not a valid SAS name.,SASHELP.FSP.OK.SLIST
+4253.0,IO_SIGNATURE_DEFINED,1.0,E,The method %1$ has already been defined with a signature.  Signatures are required for each overloaded method.,SASHELP.FSP.OK.SLIST
+4254.0,IO_EXISTING_SIGNATURE,1.0,E,The method %1$ has already been defined with this signature.,SASHELP.FSP.OK.SLIST
+4255.0,IO_DIFFERENT_RETURN,1.0,E,The method %1$ has been defined with the same method arguments but with a different return argument type.,SASHELP.FSP.OK.SLIST
+4255.0,IO_DIFFERENT_RETURN,2.0,E,This is not valid.,SASHELP.FSP.OK.SLIST
+4257.0,IO_DUPLICATE_SIGNATURES,1.0,E,Duplicate signature names are not allowed.,SASHELP.FSP.OK.SLIST
+4258.0,IN_CE_ATTRIBUTES_NOT_OVERRIDDEN,1.0,W,%$ cannot be changed for overridden attributes.,SASHELP.FSP.OK.SLIST
+4259.0,DI_CE_ATTRIBUTES_REQ_NAME_TYPE,1.0,W,A unique attribute name must be specified before you can modify other metadata.,SASHELP.FSP.OK.SLIST
+4260.0,DI_CE_ATTRIBUTES_RESTRICT_PARENT,1.0,W,The %$ value for an overridden attribute cannot be less restrictive than parent.,SASHELP.FSP.OK.SLIST
+4261.0,DI_CE_ATTRIBUTES_CLASS_ENTRY,1.0,E,Attributes of type Object must specify the three- or four-level catalog entry name of a CLASS.,SASHELP.FSP.OK.SLIST
+4262.0,DI_CE_ATTRIBUTES_NOT_CLASS_TYPE,1.0,E,CLASS is the only valid type for complex attribute objects.,SASHELP.FSP.OK.SLIST
+4263.0,DI_CE_ATTRIBUTES_INVALID_TYPE,1.0,E,%$ is not a valid attribute type.,SASHELP.FSP.OK.SLIST
+4264.0,DI_CE_ATTRIBUTES_BAD_ATTR_TYPE,1.0,E,Invalid attribute type specified for %$.,SASHELP.FSP.OK.SLIST
+4265.0,IO_NO_MODEL_WARNING,1.0,W,No attached datalist.,SASHELP.FSP.OK.SLIST
+4266.0,IO_NO_DELETE_METHODS,1.0,Q,"You have selected some methods that cannot be deleted.  Only new methods, that do not begin with the underscore character, can be delete.  Do you want to delete the new methods you have selected, that",SASHELP.FSP.YN.SLIST
+4266.0,IO_NO_DELETE_METHODS,2.0,Q,do not begin with underscores?,SASHELP.FSP.YN.SLIST
+4267.0,IO_DELETE_NEW_METHODS,1.0,Q,You have selected some methods that cannot be deleted.  Only new methods can be deleted.  Do you want to delete the new methods you have selected?,SASHELP.FSP.YN.SLIST
+4268.0,IO_PREVIOUS_SIGNATURE,1.0,N,This method %1$ has already been defined with a signature.,SASHELP.FSP.OK.SLIST
+4269.0,IO_INVALID_TYPE_VALUE,1.0,E,You have specified and invalid %1$ value for %2$.,SASHELP.FSP.OK.SLIST
+4271.0,IN_FORWARD_METHOD_REQUIRED,1.0,E,Component name and component method are required when forwarding a method.,SASHELP.FSP.OK.SLIST
+4272.0,DI_CE_ATTRIBUTES_EDITOR_TYPE,1.0,E,"An Editor can only use SCL, FRAME or PROGRAM catalog entry types.",SASHELP.FSP.OK.SLIST
+4273.0,IO_CE_ATTRIBUTES_DELETE_STATE,1.0,E,You have selected some attributes that cannot be deleted.  Only new attributes can be deleted.  Do you want to delete the new attributes you have selected?,SASHELP.FSP.YN.SLIST
+4274.0,IN_WRONG_ENTRY_TYPE,1.0,E,Catalog entry type must be %1$.,SASHELP.FSP.OK.SLIST
+4275.0,IN_INTERFACE_NOT_EXIST,1.0,W,Interface does not exist.,SASHELP.FSP.OK.SLIST
+4276.0,DI_PW_ATTRIBUTES_INVALID_CHAR,1.0,E,Invalid character value for %$.,SASHELP.FSP.OK.SLIST
+4277.0,DI_PW_ATTRIBUTES_INVALID_NUM,1.0,E,Invalid numeric value for %$.,SASHELP.FSP.OK.SLIST
+4278.0,DI_PW_ATTRIBUTES_INVALID_LIST,1.0,E,An error occurred when setting the value for %$.,SASHELP.FSP.OK.SLIST
+4279.0,IO_CE_METHODS_DELETE_STATE,1.0,E,You have selected some methods that cannot be deleted.  Only new methods can be deleted.  Do you want to delete the new methods you have selected?,SASHELP.FSP.YN.SLIST
+4280.0,IO_CE_METHODS_DELETE_UNDERSCORE,1.0,E,You have selected some methods that cannot be deleted.  Only new methods that do not begin with the underscore character can be deleted.  Do you want to delete the new methods you have selected that,SASHELP.FSP.YN.SLIST
+4280.0,IO_CE_METHODS_DELETE_UNDERSCORE,2.0,E,do not begin with underscores?,SASHELP.FSP.YN.SLIST
+4282.0,IO_INVALID_CATEGORY,1.0,E,Specified category not valid.,SASHELP.FSP.OK.SLIST
+4283.0,IN_TOP,1.0,N,At Top.,SASHELP.FSP.OK.SLIST
+4284.0,IN_BOTTOM,1.0,N,At bottom.,SASHELP.FSP.OK.SLIST
+4285.0,IO_BOTTOM,1.0,N,At bottom.,SASHELP.FSP.OK.SLIST
+4296.0,IO_INVALID_VALUE,1.0,E,The value '%1$' specified for %3$'s %2$ attribute is not valid.%NSpecify another value.,SASHELP.FSP.OK.SLIST
+4312.0,IO_REGISTRY_RESOURCE_ERROR,1.0,W,No resource information was found in the registry.,SASHELP.FSP.OK.SLIST
+4312.0,IO_REGISTRY_RESOURCE_ERROR,2.0,W,The default resource will be used.,SASHELP.FSP.OK.SLIST
+4316.0,IN_BROWSEONLY_MODE,1.0,N,%lTable has been opened in browse-only mode.,SASHELP.FSP.OK.SLIST
+4317.0,IO_VERIFY_CLOSE,1.0,Q,%1$ was not created.%NDo you want to return to the %2$?,SASHELP.FSP.YN.SLIST
+4319.0,IO_FIELD_USING_SASNAME,1.0,E,%1$ requires a valid three- or four-level SAS name.,SASHELP.FSP.OK.SLIST
+4321.0,IO_INVALID_OR_MISSING_ENTRY,1.0,E,%1$ is an invalid SAS name or does not exist.,SASHELP.FSP.OK.SLIST
+4323.0,IO_MISSING_CW_REGISTRY_ENTRIES,1.0,W,The following registry items could not be added to the Components Window because they do not exist:,SASHELP.FSP.OK.SLIST
+4323.0,IO_MISSING_CW_REGISTRY_ENTRIES,2.0,W,%1$,SASHELP.FSP.OK.SLIST
+4324.0,IO_BAD_DATA_CW_REGISTRY_ENTRIES,1.0,W,The following registry items could not be added to the Components Window because they contained bad data:,SASHELP.FSP.OK.SLIST
+4324.0,IO_BAD_DATA_CW_REGISTRY_ENTRIES,2.0,W,%N%1$,SASHELP.FSP.OK.SLIST
+4325.0,IO_NOT_WIDGET_SUBCLASS,1.0,E,%lThe class '%1$' is not a subclass of the WIDGET class.,SASHELP.FSP.OK.SLIST
+4328.0,DI_CE_METHODS_BAD_METH_SCOPE,1.0,E,Invalid method scope specified for %1$.,SASHELP.FSP.OK.SLIST
+4333.0,IN_CE_ATTRIBUTES_BAD_ATTR_SCOPE,1.0,E,Invalid attribute scope specified for %1$.,SASHELP.FSP.OK.SLIST
+4336.0,IN_NO_SORT_COLS_SELECTED,1.0,W,%lNo columns were selected for sorting. Click 'OK',SASHELP.FSP.OC.SLIST
+4336.0,IN_NO_SORT_COLS_SELECTED,2.0,W,to go back or 'Cancel' to end without sorting.,SASHELP.FSP.OC.SLIST
+4375.0,DI_CE_INVALID_SAS_METHOD_NAME,1.0,E,%$ is not a valid SAS method name.,SASHELP.FSP.OK.SLIST
+4377.0,IN_METHOD_DOES_NOT_EXIST,1.0,Q,Method %1$ does not exist.  Would you like to add it now?,SASHELP.FSP.YN.SLIST
+4380.0,IN_METHOD_ADDED,1.0,N,Method %1$ has been added successfully.,SASHELP.FSP.OK.SLIST
+4422.0,IN_LIKE_COLUMNS,1.0,Q,%lSelect 'Yes' to append the new columns to existing,SASHELP.FSP.YN.SLIST
+4422.0,IN_LIKE_COLUMNS,2.0,Q,column definitions or 'No' to replace the column,SASHELP.FSP.YN.SLIST
+4422.0,IN_LIKE_COLUMNS,3.0,Q,definitions.,SASHELP.FSP.YN.SLIST
+4423.0,IO_NEW_TABLE_NAME_NEEDED,1.0,E,%lThe table %1$ was created by another process.,SASHELP.FSP.OK.SLIST
+4423.0,IO_NEW_TABLE_NAME_NEEDED,2.0,E,"Since it now exists, please specify a different",SASHELP.FSP.OK.SLIST
+4423.0,IO_NEW_TABLE_NAME_NEEDED,3.0,E,name for the output table.,SASHELP.FSP.OK.SLIST
+4428.0,IN_INVALID_NUMERIC_VALUE,1.0,E,Only numeric values between %1$ and %2$ are valid.,SASHELP.FSP.OK.SLIST
+4452.0,IN_LABEL_TRUNCATED,1.0,N,Label name supplied has been truncated to 32 characters.,SASHELP.FSP.OK.SLIST
+4514.0,IO_HALT,1.0,E,Unable to perform function. Program halted due to,SASHELP.FSP.OK.SLIST
+4514.0,IO_HALT,2.0,E,an internal error.,SASHELP.FSP.OK.SLIST
+4517.0,IN_RESERVED_ARGUMENTS,1.0,E,%lArgument names may not be any of the following values:,SASHELP.FSP.OK.SLIST
+4517.0,IN_RESERVED_ARGUMENTS,2.0,E,"optional, return, arglist, rest.",SASHELP.FSP.OK.SLIST
+4529.0,DI_METHSIG_RETARG_NOTYPE,1.0,E,%lA description has been supplied for the return,SASHELP.FSP.OC.SLIST
+4529.0,DI_METHSIG_RETARG_NOTYPE,2.0,E,argument but its type has not been defined. Choose,SASHELP.FSP.OC.SLIST
+4529.0,DI_METHSIG_RETARG_NOTYPE,3.0,E,OK to return and specify the type. Choose Cancel to,SASHELP.FSP.OC.SLIST
+4529.0,DI_METHSIG_RETARG_NOTYPE,4.0,E,exit without assigning a return argument to the,SASHELP.FSP.OC.SLIST
+4529.0,DI_METHSIG_RETARG_NOTYPE,5.0,E,signature.,SASHELP.FSP.OC.SLIST
+4531.0,DI_METHSIG_RETARG_NOCLASS,1.0,E,%lA return argument type of 'Class Name...' was,SASHELP.FSP.OC.SLIST
+4531.0,DI_METHSIG_RETARG_NOCLASS,2.0,E,"indicated, but no class was chosen from the catalog",SASHELP.FSP.OC.SLIST
+4531.0,DI_METHSIG_RETARG_NOCLASS,3.0,E,entry selector. Choose OK to return and select a,SASHELP.FSP.OC.SLIST
+4531.0,DI_METHSIG_RETARG_NOCLASS,4.0,E,class. Choose Cancel to exit without assigning a,SASHELP.FSP.OC.SLIST
+4531.0,DI_METHSIG_RETARG_NOCLASS,5.0,E,return argument to the signature.,SASHELP.FSP.OC.SLIST
+4538.0,DI_VALUE_REQUIRED,1.0,E,A value for %$ is required.,SASHELP.FSP.OK.SLIST
+4556.0,DI_DIMENSIONS_REQUIRED,1.0,E,%lNo dimensions were specified. Choose OK to return,SASHELP.FSP.OC.SLIST
+4556.0,DI_DIMENSIONS_REQUIRED,2.0,E,and specify dimensions. Choose Cancel to exit,SASHELP.FSP.OC.SLIST
+4556.0,DI_DIMENSIONS_REQUIRED,3.0,E,without assigning an array type.,SASHELP.FSP.OC.SLIST
+4567.0,IN_INVALID_CATALOG,1.0,E,%1$ is not the name of a valid catalog for %2$ attribute,SASHELP.FSP.OK.SLIST
+4568.0,IN_INVALID_LIBRARY,1.0,E,%1$ is not the name of a valid library for the %2$ attribute.,SASHELP.FSP.OK.SLIST
+4585.0,IN_NO_FSVIEW_LICENSE,1.0,E,%lDisplaying a table on a non-graphical monitor,SASHELP.FSP.OK.SLIST
+4585.0,IN_NO_FSVIEW_LICENSE,2.0,E,requires the SAS/FSP product to be licensed so that,SASHELP.FSP.OK.SLIST
+4585.0,IN_NO_FSVIEW_LICENSE,3.0,E,FSVIEW can be used. SAS/FSP is either not licensed,SASHELP.FSP.OK.SLIST
+4585.0,IN_NO_FSVIEW_LICENSE,4.0,E,or it's license has expired. Proc Print may be,SASHELP.FSP.OK.SLIST
+4585.0,IN_NO_FSVIEW_LICENSE,5.0,E,used to list the table.,SASHELP.FSP.OK.SLIST
+4589.0,IN_COMPONENT_DOES_NOT_EXIST,1.0,E,Component %1$ does not exist.,SASHELP.FSP.OK.SLIST
+4603.0,IN_PROMPT_TO_SAVEAS,1.0,W,"%lIn order for the new table to be created, changes to",SASHELP.FSP.YN.SLIST
+4603.0,IN_PROMPT_TO_SAVEAS,2.0,W,the existing table (%$) must be saved. Do you want,SASHELP.FSP.YN.SLIST
+4603.0,IN_PROMPT_TO_SAVEAS,3.0,W,to continue?,SASHELP.FSP.YN.SLIST
+4612.0,IN_INTERFACE_METHOD_NOT_EXIST,1.0,Q,There are methods in the %1$ interface that do not exist on the class.  Do you want them to be added for you now?,SASHELP.FSP.YN.SLIST
+4630.0,DI_BAD_SASNAME_V7,1.0,E,%l%$ is not a valid name. Names are limited to 32,SASHELP.FSP.OK.SLIST
+4630.0,DI_BAD_SASNAME_V7,2.0,E,characters and cannot contain special characters,SASHELP.FSP.OK.SLIST
+4630.0,DI_BAD_SASNAME_V7,3.0,E,or blanks.,SASHELP.FSP.OK.SLIST
+4634.0,IO_BAD_GENDOC_DIR_NAME,1.0,E,The directory '%$' does not exist.,SASHELP.FSP.YN.SLIST
+4634.0,IO_BAD_GENDOC_DIR_NAME,2.0,E,Do you want to create it?,SASHELP.FSP.YN.SLIST
+4635.0,DI_BAD_DOCENTRY_NAME,1.0,E,'%1$' is not a valid %2$. Please specify another value.,SASHELP.FSP.OK.SLIST
+4636.0,DI_INVALID_NUMERIC,1.0,E,The value %$ is not numeric.  Please specify a numeric value.,SASHELP.FSP.OK.SLIST
+4643.0,DI_ENTRY_NOT_EXIST,1.0,E,The editor %1$ could not be opened.,SASHELP.FSP.OK.SLIST
+4644.0,IN_ENTRY_NOT_EXIST,1.0,W,%$ does not exist.,SASHELP.FSP.OK.SLIST
+4649.0,IO_INVALID_CATALOG_NAME,1.0,E,Invalid catalog name.,SASHELP.FSP.OK.SLIST
+4651.0,IO_INVALID_DATA_SET,1.0,E,Invalid data set name.,SASHELP.FSP.OK.SLIST
+4670.0,IO_RESTRICTED_PARENT,1.0,E,Can not subclass %$ class.  Select another class.,SASHELP.FSP.OK.SLIST
+4671.0,IO_INVALID_META_CLASS,1.0,E,%1$ is an invalid meta class entry.%NA meta class must be class.class or a descendant of it.,SASHELP.FSP.OK.SLIST
+4672.0,IO_VALID_PARENT_REQUIRED,1.0,E,A valid parent class is required to create the class.,SASHELP.FSP.OK.SLIST
+4673.0,DI_METHODS_NOT_IMPLEMENTED,1.0,W,One or more methods of this class have no implementation.,SASHELP.FSP.OK.SLIST
+4674.0,DI_FAILED_LOADCLASS_REQUEST,1.0,Q,%1$ could not be loaded.  Its parent class may no longer exist.%NWould you like to choose another class to open?,SASHELP.FSP.YN.SLIST
+4675.0,IN_MSG_ENTRY_NOT_EXIST,1.0,W,%L %$ does not exist.,SASHELP.FSP.OK.SLIST
+4691.0,IN_INVALID_LINK_VALUE,1.0,E,The value specified is not valid. The correct syntax is componentname.attributename.,SASHELP.FSP.OK.SLIST
+4709.0,IO_UNABLE_TO_OPEN,1.0,W,%1$ could not be found.  The resource may exist in a library that is unassigned or it may have been deleted.%NDo you want to remove any references to this resource from the registry?,SASHELP.FSP.YN.SLIST
+4710.0,IO_INVALID_SASNAME,1.0,E,%1$ is not a valid SAS name.,SASHELP.FSP.OK.SLIST
+4711.0,DI_BAD_CLASS_DATA,1.0,W,Bad class data for %1$.%NIt will not be added to the Component Window.,SASHELP.FSP.OK.SLIST
+4712.0,IO_CANT_ADD_ABSTRACT,1.0,W,%1$ is an abstract class and cannot be instantiated in a frame.%NIt will not be added to the Component Window.,SASHELP.FSP.OK.SLIST
+4713.0,IO_CANT_ADD_ENTRY_DOESNT_EXIST,1.0,W,%1$ could not be found.  The class may exist in a resource displayed in the Component Window or stored in the registry.%NDo you want to remove any references to this class from the registry?,SASHELP.FSP.YN.SLIST
+4713.0,IO_CANT_ADD_ENTRY_DOESNT_EXIST,2.0,W,,SASHELP.FSP.YN.SLIST
+4713.0,IO_CANT_ADD_ENTRY_DOESNT_EXIST,3.0,W,,SASHELP.FSP.YN.SLIST
+4714.0,IO_CANT_ADD_THAT_TYPE,1.0,W,%1$ is of type %2$ and cannot be instantiated in a frame.%NIt will not be added to the Component Window.,SASHELP.FSP.OK.SLIST
+4716.0,IO_HTML_SAVE_ENTRY_REQUEST,1.0,W,The entry must be saved before saving it as html.%NSave changes to %1$?,SASHELP.FSP.YN.SLIST
+4717.0,IO_BROWSE_ONLY_CATALOG,1.0,N,%1$ is not editable.  Use Save As to save changes to a different catalog.,SASHELP.FSP.OK.SLIST
+4718.0,IO_BROWSE_ONLY_ENTRY,1.0,N,Entry opened in browse mode.  Use Save As to save changes to a different entry.,SASHELP.FSP.OK.SLIST
+4719.0,IO_SAVE_MSG,1.0,N,%1$ has been saved.,SASHELP.FSP.OK.SLIST
+4720.0,IO_SAVE_CHANGES_REQUEST,1.0,Q,Do you want to save the changes you made to %1$?,SASHELP.FSP.YNC.SLIST
+4721.0,IO_FAILED_SAVE_NONEDITABLE,1.0,E,Entry was not saved.  Attempt to save to a non-editable catalog.,SASHELP.FSP.OC.SLIST
+4725.0,IN_EVENT_HANDLER_DISABLED,1.0,W,"Since you have not specified an event generator for %1$, this event handler has been disabled.",SASHELP.FSP.OK.SLIST
+4773.0,IN_NO_FSVIEW_OPEN,1.0,W,"%lOn non-graphical displays, Viewtable passes",SASHELP.FSP.OK.SLIST
+4773.0,IN_NO_FSVIEW_OPEN,2.0,W,control to FSVIEW. However FSVIEW cannot open certain,SASHELP.FSP.OK.SLIST
+4773.0,IN_NO_FSVIEW_OPEN,3.0,W,"file types, such as an MDDB. Therefore, Viewtable",SASHELP.FSP.OK.SLIST
+4773.0,IN_NO_FSVIEW_OPEN,4.0,W,will end.,SASHELP.FSP.OK.SLIST
+4774.0,DI_DND_OPERATION_REQUIRED,1.0,E,At least one of the options must be selected.  Copy is the default operation.,SASHELP.FSP.OK.SLIST
+4803.0,DI_DND_DROPOP_DATA_REQUIRED,1.0,E,Popup menu text and method information are required for each enabled operation.  Defaults will be supplied where values do not exist.,SASHELP.FSP.OK.SLIST
+4835.0,IN_INVALID_ATTRIBUTE_VALUE,1.0,E,The value specified for the %1$ attribute is not valid.  Specify another value.,SASHELP.FSP.OK.SLIST
+4838.0,DI_DND_REPRESENTATION_REQUIRED,1.0,E,%l A blank %1$ was found at row %2#.,SASHELP.FSP.OK.SLIST
+4838.0,DI_DND_REPRESENTATION_REQUIRED,2.0,E,This was reset to the default value.,SASHELP.FSP.OK.SLIST
+4838.0,DI_DND_REPRESENTATION_REQUIRED,3.0,E,You may change it to some other value after clicking,SASHELP.FSP.OK.SLIST
+4838.0,DI_DND_REPRESENTATION_REQUIRED,4.0,E,OK.,SASHELP.FSP.OK.SLIST
+4840.0,IO_STATS_AND_ANLSYS_REQUIRED,1.0,E,The Statistics and Analysis dimensions are required selections.  They must be on the Across or Down dimension list.  They have been added to the list of Across dimensions.,SASHELP.FSP.OK.SLIST
+4845.0,DI_DESC_VALUE_SET,1.0,N,No value was found for the description.%NIt will be set to its previous value.,SASHELP.FSP.OK.SLIST
+4850.0,IN_INVALID_CATALOGENTRYNAME,1.0,E,%1$ is not a valid SAS catalog entry name.,SASHELP.FSP.OK.SLIST
+4851.0,IN_CBTHELP_REQUIRED,1.0,E,A 4-level catalog entry name is required and its entry type must be CBT or HELP.,SASHELP.FSP.OK.SLIST
+4856.0,DI_CANT_ADD_THAT_TYPE,1.0,E,%1$ can not be added in the %2$.,SASHELP.FSP.OK.SLIST
+4857.0,DI_ATTRS_ONLY_WHEN_MULTISELECTED,1.0,E,%1$ can not be added with more than one component selected.,SASHELP.FSP.OK.SLIST
+4858.0,DI_ATTRS_ONLY_IN_TREELESS_MODE,1.0,E,%1$ can not be added when the Navigation Tree is not being used.,SASHELP.FSP.OK.SLIST
+4867.0,IO_NO_VALUE_RETURNED,1.0,E,The value for %1$'s %2$ attribute could not be retrieved.,SASHELP.FSP.OK.SLIST
+4869.0,IO_NONCHARS_REMOVED,1.0,W,Non-character items are invalid as valid values and have been removed from the list.,SASHELP.FSP.OK.SLIST
+4870.0,IO_DATASET_NOT_FOUND,1.0,E,Data set %1$ does not exist.,SASHELP.FSP.OK.SLIST
+4881.0,DI_REMOVE_LINKS,1.0,W,All current links will be removed.  Do you want to continue?,SASHELP.FSP.YN.SLIST
+4883.0,DI_PROMPTCHARACTER_VALIDATION,1.0,W,The value for promptCharacter can only be one character.  '%1$' will be truncated to '%2$'.,SASHELP.FSP.OK.SLIST
+4890.0,IO_SAVE_CUSTOM,1.0,W,The class must be saved to access its Custom Attributes.  Save changes to %$?,SASHELP.FSP.YN.SLIST
+4923.0,IO_INVALID_CATALOG_OR_ENTRY_TYPE,1.0,E,"%l""%1$"" is invalid. A three-level catalog name or four-level name of type ""%2$"" is required.",SASHELP.FSP.OK.SLIST
+4930.0,IN_NO_CLASSBROWSER,1.0,O,Classbrowser is not available on this device.,SASHELP.FSP.OK.SLIST
+4948.0,IN_INVALID_COMPLEX_ATTRIBUTE,1.0,E,'%1$' cannot be used as a complex attribute type. The class cannot be instantiated.,SASHELP.FSP.OK.SLIST
+4955.0,IO_COMMAND_FAILED,1.0,E,Unable to process the %1$ command.%N%2$,SASHELP.FSP.OK.SLIST
+4994.0,IN_NO_SCLPROF,1.0,O,SCLPROF tools are not available on this device.,SASHELP.FSP.OK.SLIST
+4996.0,IO_INVALID_NUMERIC_VALUE,1.0,E,The value specified for %1$'s %2$ attribute is not valid.%N,SASHELP.FSP.OK.SLIST
+4996.0,IO_INVALID_NUMERIC_VALUE,2.0,E,Specify another value.,SASHELP.FSP.OK.SLIST
+5031.0,IN_SAVE_UNTITLED_CLASS,1.0,Q,"When adding a new method, the SCL entry is named based on the class entry name. %NWould you like to save the class now to provide a meaningful name?",SASHELP.FSP.YN.SLIST
+5059.0,IO_ENTRY_ALREADY_IN_CW,1.0,W,%1$ has already been added to the Component Window.,SASHELP.FSP.OK.SLIST
+5123.0,IN_IV_LINK_BROKEN,1.0,W,Changing the type of '%$' has removed the IV link.  Array and complex type attributes cannot be linked to an IV.,SASHELP.FSP.OK.SLIST
+5127.0,IN_RE_CANNOT_SAVE_RESOURCE,1.0,E,Could not save resource entry %1$.,SASHELP.FSP.OK.SLIST
+5132.0,IN_RE_CAN_NOT_SAVE_CATALOG,1.0,E,Cannot save. No catalog name supplied.,SASHELP.FSP.OK.SLIST
+5133.0,IN_RE_CANNOT_OPEN,1.0,E,Could not open catalog entry %1$,SASHELP.FSP.OK.SLIST
+5134.0,IN_RE_RESOURCE_EXISTS,1.0,E,%1$ already exists in resource entry %2$. Duplicate class not added.,SASHELP.FSP.OK.SLIST
+5135.0,IN_RE_RESOURCE_ALIAS_EXISTS,1.0,E,A class with the alias %1$ already exists in resource entry %2$.  Duplicate class not added.,SASHELP.FSP.OK.SLIST
+5136.0,IN_RE_DESCRIPTION_EXISTS,1.0,E,A class with description %1$ already exists in resource entry %2$. Duplicate class not added.,SASHELP.FSP.OK.SLIST
+5137.0,IN_RE_NO_DESCRIPTION,1.0,E,No description found in %1$. Class not added to resource.,SASHELP.FSP.OK.SLIST
+5138.0,IN_RE_CLASS_NOT_SYNCHRONIZED,1.0,N,Class %1$ was not synchronized.,SASHELP.FSP.OK.SLIST
+5139.0,IN_RE_DUPLICATE_DESC,1.0,E,A class with description %1$ already exists in this resource. Class %2$ was not synchronized.,SASHELP.FSP.OK.SLIST
+5143.0,IN_RE_ERROR_ACTIVE_FRAME,1.0,E,%1$ can not be set as the active frame.,SASHELP.FSP.OK.SLIST
+5144.0,IN_RE_CLASS_NOT_IN_RESOURCE,1.0,E,"%1$ found in resource, but does not exist.",SASHELP.FSP.OK.SLIST
+5145.0,IN_RE_CLASS_NOT_FOUND,1.0,E,Class %1$ not found in resource.,SASHELP.FSP.OK.SLIST
+5146.0,IN_RE_CLASS_NOT_EDITABLE,1.0,E,Class %1$ cannot be edited.,SASHELP.FSP.OK.SLIST
+5147.0,IO_PARM_MISS,1.0,E,Parameter list not set.,SASHELP.FSP.OK.SLIST
+5148.0,IN_RE_INVALID_PARENT,1.0,E,The parent class of %1$ is the same as one of its sibling classes.,SASHELP.FSP.OK.SLIST
+5149.0,IN_RE_INVALID_INDEX,1.0,E,Invalid index.,SASHELP.FSP.OK.SLIST
+5150.0,IN_RE_INVALID_TYPE,1.0,E,The resource entry %1$ is of type %2$. But an ancestor class %3$ is of type %4$.,SASHELP.FSP.OK.SLIST
+5151.0,IN_RE_CLASS_DELETED,1.0,N,Note: Class was deleted from resource.,SASHELP.FSP.OK.SLIST
+5152.0,IN_RE_CLASS_NOT_DELETED,1.0,N,Class not deleted.,SASHELP.FSP.OK.SLIST
+5153.0,IN_RE_NUM_CLASSES_DELETED,1.0,N,Note: %1$ classes deleted from resource.,SASHELP.FSP.OK.SLIST
+5154.0,IO_PARM_INVALID,1.0,E,Invalid parameter list.,SASHELP.FSP.OK.SLIST
+5155.0,IO_MANY_SEL,1.0,E,Too many selections.,SASHELP.FSP.OK.SLIST
+5156.0,IN_RE_CANNOT_DELETE,1.0,E,Class %1$ cannot be deleted.,SASHELP.FSP.OK.SLIST
+5157.0,IO_SELECT_ONE,1.0,N,Please select at least one variable.,SASHELP.FSP.OK.SLIST
+5158.0,IN_RE_INVALID_GETDISPLAYSTATUS,1.0,E,Invalid position passed to getDisplayStatus.,SASHELP.FSP.OK.SLIST
+5160.0,IN_RE_ANCESTOR_NOT_FOUND,1.0,E,An ancestor class %1$ of the class %2$ was not found.,SASHELP.FSP.OK.SLIST
+5161.0,IN_RE_INVALID_ENTRY_NAME,1.0,E,Invalid entry name %1$.,SASHELP.FSP.OK.SLIST
+5162.0,IN_RE_INVALID_NAME,1.0,E,Invalid %1$ entry name %2$.,SASHELP.FSP.OK.SLIST
+5165.0,IN_RE_USE_SAVEAS,1.0,E,Note: Cannot save to %1$ must use save as.,SASHELP.FSP.OK.SLIST
+5167.0,IN_RE_SAVE_CHANGES,1.0,Q,Save changes to %1$?,SASHELP.FSP.YNC.SLIST
+5168.0,IN_RE_NOT_IN_EDITMODE,1.0,E,%1$ is not open in edit mode. Resource was not saved as %2$.,SASHELP.FSP.OK.SLIST
+5169.0,IN_RE_UNABLE_TO_SAVE,1.0,E,Unable to save %1$.  Cannot edit %2$.  Select another location.,SASHELP.FSP.OK.SLIST
+5170.0,IN_RE_RESOURCE_SAVEDAS,1.0,N,Resource has been saved as %1$.,SASHELP.FSP.OK.SLIST
+5171.0,IN_RE_VERIFY_DELETE,1.0,Q,Are you sure you want to delete selected items?,SASHELP.FSP.YN.SLIST
+5172.0,IN_RE_SEE_LOG_ANALYSIS,1.0,N,Note: See log for analysis data.,SASHELP.FSP.OK.SLIST
+5173.0,IN_RE_RESOURCE_SYNCHRONIZED,1.0,N,Note: Resource has been synchronized.,SASHELP.FSP.OK.SLIST
+5174.0,IN_RE_NOT_FULLY_SYNCHRONIZED,1.0,N,Resource not fully synchronized.  See log for details.,SASHELP.FSP.OK.SLIST
+5175.0,IN_RE_UNABLE_TO_MERGE,1.0,E,Unable to merge resources.,SASHELP.FSP.OK.SLIST
+5176.0,IN_RE_RESOURCE_MERGED,1.0,N,Note: Resources have been merged.  See log for details.,SASHELP.FSP.OK.SLIST
+5182.0,IO_VAR_NOTFOUND,1.0,E,%$ variable is not in the data set.,SASHELP.FSP.OK.SLIST
+5197.0,IN_RE_NAME_NOT_FOUND,1.0,E,%1$ not found in resource entry.,SASHELP.FSP.OK.SLIST
+5216.0,IO_INVALID_FORMAT_MATCH,1.0,E,"%lThere is a mismatch between the type of this format ""%1$""",SASHELP.FSP.OK.SLIST
+5216.0,IO_INVALID_FORMAT_MATCH,2.0,E,"and the expected type of ""%2$"". Please enter a different",SASHELP.FSP.OK.SLIST
+5216.0,IO_INVALID_FORMAT_MATCH,3.0,E,format of the correct type.,SASHELP.FSP.OK.SLIST
+5217.0,IO_INVALID_FORMAT_DECIMAL,1.0,W,%lThe width plus decimal value is greater than the,SASHELP.FSP.OK.SLIST
+5217.0,IO_INVALID_FORMAT_DECIMAL,2.0,W,maximum for this format. The decimal value has been,SASHELP.FSP.OK.SLIST
+5217.0,IO_INVALID_FORMAT_DECIMAL,3.0,W,reduced.,SASHELP.FSP.OK.SLIST
+5381.0,IN_NO_SORT_MODE,1.0,W,%lSorting a table requires edit mode.,SASHELP.FSP.YN.SLIST
+5381.0,IN_NO_SORT_MODE,2.0,W,The table is currently open in browse mode. Would you like to create a new,SASHELP.FSP.YN.SLIST
+5381.0,IN_NO_SORT_MODE,3.0,W,table containing a sorted copy of the current table?,SASHELP.FSP.YN.SLIST
+5382.0,IN_NO_SORT_PERFORMED,1.0,N,%lThe sort could not be performed.,SASHELP.FSP.OK.SLIST
+5427.0,IN_TABLE_NAME_MAY_MATCH,1.0,W,%l%1$ matches %2$ except for differences in case.,SASHELP.FSP.YN.SLIST
+5427.0,IN_TABLE_NAME_MAY_MATCH,2.0,W,You might not be able to save %3$ out to %4$.,SASHELP.FSP.YN.SLIST
+5427.0,IN_TABLE_NAME_MAY_MATCH,3.0,W,"Select Yes to specify a new table name, or No to",SASHELP.FSP.YN.SLIST
+5427.0,IN_TABLE_NAME_MAY_MATCH,4.0,W,continue.,SASHELP.FSP.YN.SLIST
+5577.0,IO_CANT_ADD_CLASS_NOT_FOUND,1.0,W,%1$ could not be found.  The class may exist in a library that is unassigned or it may have been deleted.  You may want to assign the appropriate libref or delete this class from the resource.,SASHELP.FSP.OK.SLIST
+5663.0,IN_METHOD_NAME_CONVERTED,1.0,N,Your method name has been automatically converted to %1$ to be consistent with SCL naming conventions.,SASHELP.FSP.OK.SLIST
+5664.0,IO_CANNOT_REINHERIT_METHOD,1.0,W,The method %1$ cannot be reinherited because it no longer exists with a signature of %2$ on the parent class.  %1$ will be deleted from %4$.,SASHELP.FSP.OK.SLIST
+5840.0,IN_SM_ENTRYTYPEINVALID,1.0,E,The entry type %1$ is invalid.  Only entry types of %2$ are permitted.,SASHELP.FSP.OK.SLIST
+5998.0,IN_VERIFY_DELETE_IV,1.0,Q,The IV link has been removed.  Do you also want to delete instance variable %1$ from the class?,SASHELP.FSP.YN.SLIST
+5999.0,IN_CHANGE_IV_NAME,1.0,Q,The name of the instance variable is currently %1$. Do you want to change the name to %2$ to match the attribute name?,SASHELP.FSP.YN.SLIST
+6000.0,IN_CHANGE_IV_TYPE,1.0,Q,"Do you want to change the type of the associated IV to %1$ as well?  If you chose No, the link between the attribute and the IV will be broken.",SASHELP.FSP.YN.SLIST
+6001.0,IN_IV_TYPE_EXISTS,1.0,W,Attribute %1$ cannot be linked to an IV %2$.  The instance variable is previously defined with a different type.,SASHELP.FSP.OK.SLIST
+6012.0,IO_CW_UNABLE_TO_OPEN,1.0,Q,%1$ could not be found.  Do you want to specify the location of this %2$? %NSpecifying No will delete references to this %3$ so you will not be prompted again.,SASHELP.FSP.YN.SLIST
+6013.0,IO_CW_CANT_CREATE,1.0,N,"An instance of %1$ cannot be created.%NCheck to see if the class exists, if the libref has been allocated, and if the class is of a type that can be instantiated in a frame.",SASHELP.FSP.OK.SLIST
+6014.0,IO_ONENTRY_CANT_ADD_THAT_TYPE,1.0,W,%1$ is of type %2$ and cannot be instantiated in a frame.%NAll references of this class will be deleted so you will not be prompted again.,SASHELP.FSP.OK.SLIST
+6015.0,IO_ONENTRY_CANT_ADD_ABSTRACT,1.0,W,%1$ is an abstract class and cannot be instantiated in a frame.%NAll references of this class will be deleted so you will not be prompted again.,SASHELP.FSP.OK.SLIST
+6086.0,IO_INVALID_DATA,1.0,E,Invalid data set name.,SASHELP.FSP.OK.SLIST
+6204.0,IO_FRAME_IN_BROWSE_MODE,1.0,E,Unable to %1$.  The frame is in browse mode.,SASHELP.FSP.OK.SLIST
+6209.0,DI_COMPLEX_NOT_FOUND,1.0,W,%1$ is a complex attribute of type %2$.  This class cannot be found.  The value could not be set.,SASHELP.FSP.OK.SLIST
+6217.0,IO_CW_UNABLE_TO_LOAD,1.0,W,Unable to load %1$.%NIt will not be added to the Component Window.,SASHELP.FSP.OK.SLIST
+6221.0,IN_DATASET_LOCKED,1.0,W,The data set is in use by another process and cannot be accessed. The items attribute will be empty.,SASHELP.FSP.OK.SLIST
+6224.0,IN_RE_DUPLICATE_WARN,1.0,W,The resource contains classes with duplicate descriptions.  Using these classes within a frame will likely produce unexpected results.  Do you want to change the description of %1$?  Selecting,SASHELP.FSP.YN.SLIST
+6224.0,IN_RE_DUPLICATE_WARN,2.0,W,No will remove this class from the resource.,SASHELP.FSP.YN.SLIST
+6225.0,IN_RE_DUP_DESC,1.0,W,"Class %1$ has the same description, %2$, as another class.",SASHELP.FSP.OK.SLIST
+6228.0,IN_EDITOR_CANCELLED,1.0,N,%lCancel command accepted.,SASHELP.FSP.OK.SLIST
+6232.0,IN_DND_NO_ATTRIBUTE,1.0,W,"The attribute, %1$, does not exist so the value",SASHELP.FSP.OK.SLIST
+6232.0,IN_DND_NO_ATTRIBUTE,2.0,W,has been cleared.,SASHELP.FSP.OK.SLIST
+6246.0,DI_ENTRY_NOT_FOUND,1.0,E,Entry %1$ not found in catalog %2$.,SASHELP.FSP.OK.SLIST
+6251.0,DI_CUSTOM_NOT_4LEVEL_NAME,1.0,E,"An invalid entry, %1$, was specified for the Custom attribute editor.  Edit the class and specify a valid four-level entry name.",SASHELP.FSP.OK.SLIST
+6252.0,IN_NO_PROPERTY_WINDOW,1.0,W,There is no property window associated with %1$.,SASHELP.FSP.OK.SLIST
+6254.0,IN_INVALID_FONT,1.0,W,The value specified for the font attribute is not valid.  Font SWISS will be used.,SASHELP.FSP.OK.SLIST
+6258.0,IN_INVALID_VALID_VALUE_ENTRY,1.0,E,You must specify a four-level %1$ or %2$ entry type.,SASHELP.FSP.OK.SLIST
+6314.0,IN_PAGESETUP,1.0,Q,Do you want to apply the previous table's page,SASHELP.FSP.YNC.SLIST
+6314.0,IN_PAGESETUP,2.0,Q,properties values to the current table?,SASHELP.FSP.YNC.SLIST
+6346.0,IO_CONFIRM_CLASS_OVERWRITE,1.0,Q,%1$ already exists.  Do you want to replace the existing class?,SASHELP.FSP.YNC.SLIST
+6347.0,IO_CONFIRM_INTERFACE_OVERWRITE,1.0,Q,%1$ already exists.  Do you want to replace the existing interface?,SASHELP.FSP.YNC.SLIST
+6439.0,IO_SAVE_MSG_WITH_NOTE,1.0,N,%l%1$ has been saved.,SASHELP.FSP.OK.SLIST
+6441.0,IO_CANCEL_WITHOUT_NOTE,1.0,N,Cancel command accepted.,SASHELP.FSP.OK.SLIST
+6477.0,IN_INVALID_BORDER_VALUE,1.0,W,A value for %1$ cannot be set because the current %2$ attribute does not support displaying a title.,SASHELP.FSP.OK.SLIST
+6503.0,IN_NO_HOST_PRINT,1.0,E,This is not valid unless host printing is supported,SASHELP.FSP.OK.SLIST
+6503.0,IN_NO_HOST_PRINT,2.0,E,and turned on.,SASHELP.FSP.OK.SLIST
+6508.0,IN_DRM_FIRST_ROW_WARNING,1.0,N,%lFirst row is currently displayed.,SASHELP.FSP.OK.SLIST
+6509.0,IN_DRM_UNABLE_WRITE_DATASET,1.0,N,%lUnable to insert record into table with openmode = BROWSE.,SASHELP.FSP.OK.SLIST
+6510.0,DI_WEIS_INITAPPL,1.0,E,%lApplication cannot be initialized.,SASHELP.FSP.OK.SLIST
+6512.0,IN_DRM_LAST_ROW_WARNING,1.0,N,%lLast record is currently display.,SASHELP.FSP.OK.SLIST
+6513.0,IN_DRM_PROPERTIES_NOT_FOUND,1.0,N,%lWarning no properties were found for attribute %$.,SASHELP.FSP.OK.SLIST
+6514.0,DI_WEIS_INITTABLE,1.0,E,%lDatabase cannot be initialized with missing name.,SASHELP.FSP.OK.SLIST
+6515.0,DI_WEIS_INITMODEL,1.0,E,%lDatasource cannot be initialized.,SASHELP.FSP.OK.SLIST
+6516.0,DI_WEIS_INITTABLE_RC,1.0,E,%lTable could not be initialized.  Return Code: %#.,SASHELP.FSP.OK.SLIST
+6517.0,DI_WEIS_NOTREG,1.0,E,%lDatabase %1$ is not registered in the metabase %2$.,SASHELP.FSP.OK.SLIST
+6518.0,DI_WEIS_NODATABASE,1.0,E,%lDatabase %1$ does not exist.,SASHELP.FSP.OK.SLIST
+6519.0,DI_WEIS_NOACCESS,1.0,E,"%lUser, %1$, denied access to %2$.",SASHELP.FSP.OK.SLIST
+6520.0,DI_WEIS_INVALIDDIM,1.0,E,%lInvalid dimension.,SASHELP.FSP.OK.SLIST
+6521.0,DI_WEIS_NOSUBSET,1.0,W,%lNo data found that meets subset criteria.,SASHELP.FSP.OK.SLIST
+6522.0,DI_WEIS_SETCOMP,1.0,W,"%lComputed value, %1$, could not be displayed in the table.",SASHELP.FSP.OK.SLIST
+6523.0,DI_WEIS_MULTCOMP,1.0,W,%lThe following computed values could not be displayed in the table: %1$.,SASHELP.FSP.OK.SLIST
+6524.0,IN_DRM_VARIABLE_CONFLICT,1.0,N,"%lThe data set instance variable, %$, conflicts with a",SASHELP.FSP.OK.SLIST
+6524.0,IN_DRM_VARIABLE_CONFLICT,2.0,N,current attribute name.  Instance varaible will be added as,SASHELP.FSP.OK.SLIST
+6524.0,IN_DRM_VARIABLE_CONFLICT,3.0,N,%$_variable.,SASHELP.FSP.OK.SLIST
+6525.0,CL_WEIS_SORT_ASC,1.0,L,Sort Ascending,SASHELP.FSP.OK.SLIST
+6527.0,CL_WEIS_SORT_DSC,1.0,L,Sort Descending,SASHELP.FSP.OK.SLIST
+6528.0,CL_WEIS_SORT_RESET,1.0,L,Sort Reset,SASHELP.FSP.OK.SLIST
+6529.0,CL_WEIS_TOTAL_ON,1.0,L,Totals On,SASHELP.FSP.OK.SLIST
+6530.0,CL_WEIS_TOTAL_OFF,1.0,L,Totals Off,SASHELP.FSP.OK.SLIST
+6543.0,IN_DRM_UNABLE_COMMIT_RECORD,1.0,N,%lUnable to commit record to table with openmode = BROWSE.,SASHELP.FSP.OK.SLIST
+6548.0,IN_DRM_UNABLE_DELETE_RECORD,1.0,N,%lUnable to delete record from table with openmode = BROWSE.,SASHELP.FSP.OK.SLIST
+6578.0,IN_DUALSELECTOR_SAME_LIST,1.0,E,The same list of items cannot be used for both the,SASHELP.FSP.OK.SLIST
+6578.0,IN_DUALSELECTOR_SAME_LIST,2.0,E,left and right listboxes.,SASHELP.FSP.OK.SLIST
+6579.0,IN_DELETE_LINK,1.0,W,"In order to specify a value for %1$, the attribute link %N'%2$' will be removed. %NRemove the link?",SASHELP.FSP.YN.SLIST
+6583.0,IN_PROMPT_TO_SAVE_ROW,1.0,Q,Do you want to save the pending,SASHELP.FSP.YN.SLIST
+6583.0,IN_PROMPT_TO_SAVE_ROW,2.0,Q,changes to this row?,SASHELP.FSP.YN.SLIST
+6584.0,IN_NOUPDATE_LIST,1.0,E,%lThis list is not editable.,SASHELP.FSP.OK.SLIST
+6613.0,IO_DATA_SET_NOT_EXIST,1.0,W,Data set %1$ does not exist.,SASHELP.FSP.OK.SLIST
+6614.0,IO_VARIABLE_DOESNOT_EXIST,1.0,E,Variable %1$ does not exist on %2$.,SASHELP.FSP.OK.SLIST
+6615.0,IO_VARIABLE_DOESNOT_EXIST_W,1.0,W,Variable %1$ does not exist on %2$.,SASHELP.FSP.OK.SLIST
+6617.0,IO_INVALID_DATASET_ID,1.0,E,Invalid data set id.,SASHELP.FSP.OK.SLIST
+6627.0,IN_INVALID_HEX_VALUE,1.0,E,%1$ is not a valid hex value.,SASHELP.FSP.OK.SLIST
+6634.0,IN_NO_EDITDEFINITION,1.0,N,"The Edit Definition window can no longer be accessed from this location.  To edit the composite, go to the componentDefinition attribute and edit the initial value.",SASHELP.FSP.OK.SLIST
+6695.0,IO_NOSAVE_METACLASS_INERROR,1.0,E,Meta class in error.  %1$ has not been saved.,SASHELP.FSP.OK.SLIST
+6789.0,IO_DELETE_NEW_EVENTS,1.0,Q,You have selected some events that cannot be deleted.  Only new events can be deleted.  Do you want to delete the new events you have selected?,SASHELP.FSP.YN.SLIST
+6790.0,IO_DELETE_NEW_HANDLERS,1.0,Q,You have selected some event handlers that cannot be deleted.  Only new event handers can be deleted.  Do you want to delete the new event handlers you have selected?,SASHELP.FSP.YN.SLIST
+6791.0,IO_DELETE_NEW_INTERFACES,1.0,Q,You have selected some interfaces that cannot be deleted.  Only new interfaces can be deleted.  Do you want to delete the new interfaces you have selected?,SASHELP.FSP.YN.SLIST
+6794.0,IO_FAILED_SAVE,1.0,E,Unable to save %1$.  %2$,SASHELP.FSP.OK.SLIST
+6818.0,IO_COMMAND_FAILED_INVALID_ID,1.0,E,Unable to process the %1$ command.%NAn invalid %2$ has been detected.,SASHELP.FSP.OK.SLIST
+6821.0,IO_COMMAND_FAILED_BAD_METACLASS,1.0,E,Unable to process the %1$ command.%NPlease correct the meta class and try again.,SASHELP.FSP.OK.SLIST
+6822.0,IO_COMMAND_FAILED_NOT_CREATED,1.0,E,Unable to process the %1$ command.%NNo %2$ has been created.,SASHELP.FSP.OK.SLIST
+6823.0,IO_COMMAND_FAILED_MULTIPLE_SEL,1.0,E,Unable to process the %1$ command.%NMore than one component selected.,SASHELP.FSP.OK.SLIST
+6824.0,IO_COMMAND_FAILED_CANT_DELETE,1.0,E,Unable to process the %1$ command.%NThe %2$ cannot be deleted.,SASHELP.FSP.OK.SLIST
+6825.0,IO_COMMAND_FAILED_NO_TREEVIEW,1.0,E,Unable to process the %1$ command.%NThe navigation tree is not being used.,SASHELP.FSP.OK.SLIST
+6826.0,IO_COMMAND_FAILED_CANT_TOGGLE,1.0,E,The ability to switch the navigation component is disabled with no active frames.,SASHELP.FSP.OK.SLIST
+6828.0,IO_ALTATTR_V7_CUSTOM_PROP_MSG,1.0,N,"The selected component uses its own Custom%NProperties window to display its attributes.%NTo open this window, select the%NCustom Properties from the component's popup%Nmenu or use the button below.",SASHELP.FSP.OK.SLIST
+6851.0,CL_WEIS_COLLAPSE_ALL,1.0,L,Collapse All,
+6852.0,CL_WEIS_EXPAND_ALL,1.0,L,Expand All,
+6883.0,IN_LINE_ZERO_ITEM_GENERATED,1.0,N,"%$ is a generated item,",SASHELP.FSP.OK.SLIST
+6883.0,IN_LINE_ZERO_ITEM_GENERATED,2.0,N,signified by a line number of 0.,SASHELP.FSP.OK.SLIST
+6883.0,IN_LINE_ZERO_ITEM_GENERATED,3.0,N,%$ does not appear in the SCL source.,SASHELP.FSP.OK.SLIST
+6899.0,IN_DEPENDENT_ATTRIBUTE,1.0,E,The attribute %1$ cannot be set because it is,SASHELP.FSP.OK.SLIST
+6899.0,IN_DEPENDENT_ATTRIBUTE,2.0,E,dependent on the value of another attribute.,SASHELP.FSP.OK.SLIST
+6899.0,IN_DEPENDENT_ATTRIBUTE,3.0,E,Specify a value for %2$ and try again.,SASHELP.FSP.OK.SLIST
+6900.0,DI_NOT_SCLC_DATASET,1.0,E,%1%$ is not an SCL Coverage Analyzer data set.,SASHELP.FSP.OK.SLIST
+6901.0,IN_ONOT_AVAILABLE,1.0,N,%$ not available at this time.,SASHELP.FSP.OK.SLIST
+6902.0,IO_TXT_FOUND,1.0,N,%$ found.,SASHELP.FSP.OK.SLIST
+6903.0,IO_TEXT_NOTFOUND,1.0,N,%$ not found.,SASHELP.FSP.OK.SLIST
+6904.0,IO_TXT_FOUNDLINE,1.0,N,%$ found at line %2#.,SASHELP.FSP.OK.SLIST
+6909.0,IN_DATASETID_CLEARED,1.0,W,"The datasetId has been cleared by a user action.  The dataset, variable, and items attributes have been reset.",SASHELP.FSP.OK.SLIST
+6934.0,DI_BAD_COMPONENT_ID,1.0,E,Invalid Component Identifier specified.  Specify a valid component identifier.,SASHELP.FSP.OK.SLIST
+6965.0,DI_MUST_BE_VISUAL_CONTROL,1.0,E,You must specify a visual control for the %$ attribute.,SASHELP.FSP.OK.SLIST
+6966.0,IN_DATAFORM_ASSIGN,1.0,W,Assigning a dataform entry could overwrite your,SASHELP.FSP.YN.SLIST
+6966.0,IN_DATAFORM_ASSIGN,2.0,W,column customizations.  Do you want to continue?,SASHELP.FSP.YN.SLIST
+6976.0,DI_REMOVE_DATALIST,1.0,W,Removing a column will result in removing all of,SASHELP.FSP.YN.SLIST
+6976.0,DI_REMOVE_DATALIST,2.0,W,that column's data from the dataList attribute.,SASHELP.FSP.YN.SLIST
+6976.0,DI_REMOVE_DATALIST,3.0,W,Do you want to continue?,SASHELP.FSP.YN.SLIST
+7005.0,DI_BLANK_CATEGORY,1.0,N,"Attribute must have a category.  It is currently set to ""%$"".",SASHELP.FSP.OK.SLIST
+7020.0,IN_NO_TABLE_FOUND,1.0,E,The table specified for %$ cannot be found.,SASHELP.FSP.OK.SLIST
+7020.0,IN_NO_TABLE_FOUND,2.0,E,A valid value must be specified before this,SASHELP.FSP.OK.SLIST
+7020.0,IN_NO_TABLE_FOUND,3.0,E,component can be used.,SASHELP.FSP.OK.SLIST
+7034.0,IN_MULTIPLE_COLS_INVALID_VALUES,1.0,E,One or more values are not valid.  Specify different values.,SASHELP.FSP.OK.SLIST
+7035.0,IN_OUT_OF_RANGE_NUM_VALUE,1.0,E,The value '%1#' specified for %2$ is out of range.  Specify a value %3$ the %4$ and %5$ values.,SASHELP.FSP.OK.SLIST
+7036.0,IN_OUT_OF_RANGE_CHAR_VALUE,1.0,E,The value '%1$' specified for %2$ is out of range.  Specify a value %3$ the %4$ and %5$ values.,SASHELP.FSP.OK.SLIST
+7051.0,IN_NOT_ABLE_TO_SET_ON_CLASS,1.0,E,The %1$ property cannot be set in the Class Editor.  You can set this property on an instance of this class using the Properties Window or in the SCL.,SASHELP.FSP.OK.SLIST
+7082.0,IN_WARNING_FOR_INHERIT_ON_TABLE,1.0,W,'Inherit' is not a valid color for the Table Viewer control or any subclasses of the Table Viewer control.,SASHELP.FSP.OK.SLIST
+7083.0,IO_FILE_NOT_EXIST,1.0,W,File %1$ does not exist.,SASHELP.FSP.OK.SLIST
+7098.0,DI_TOO_MANY_COLUMNS_HELD,1.0,W,The value specified for the heldColumns attribute is larger than the number of columns displayed in the viewer.  The heldColumns value was set to 0.,SASHELP.FSP.OK.SLIST
+7126.0,DI_WEIS_INVALID_SUBCLASS,1.0,E,Class must be derived from SASHELP.MDDB.EMDDB_M.CLASS.,SASHELP.FSP.OK.SLIST
+7130.0,DI_INVALID_VALUE2,1.0,E,The value '%1$' specified for the %2$ attribute is not valid.  Specify another value.,SASHELP.FSP.OK.SLIST
+7138.0,DI_XRNG_INVALID_SLIST,1.0,E,The slist you entered does not contain XRANGE information.,SASHELP.FSP.OK.SLIST
+7139.0,IN_XRNG_EDIT_FRAME,1.0,O,SAS/EIS: Edit,SASHELP.FSP.OK.SLIST
+7140.0,DI_XRNG_NO_COLOR,1.0,E,A color must be specified for all range segments.,SASHELP.FSP.OK.SLIST
+7141.0,IN_XRNG_NO_EDIT,1.0,N,No editing allowed.,SASHELP.FSP.OK.SLIST
+7142.0,DI_XRNG_LOWER_GT_UPPER,1.0,E,Lower value is greater than or equal to upper value.,SASHELP.FSP.OK.SLIST
+7143.0,DI_XRNG_INVALID_STAT,1.0,E,Invalid statistic.,SASHELP.FSP.OK.SLIST
+7144.0,DI_XRNG_VALUES_MISSING,1.0,E,Both the upper and lower values are missing.,SASHELP.FSP.OK.SLIST
+7145.0,DI_XRNG_INVALID_ATTRIBUTE,1.0,E,Invalid attribute.,SASHELP.FSP.OK.SLIST
+7146.0,DI_XRNG_SORT_ERROR,1.0,E,Unable to sort range segments due to errors.,SASHELP.FSP.OK.SLIST
+7147.0,DI_XRNG_CORRECT_ERRORS,1.0,E,Correct all errors before sorting.,SASHELP.FSP.OK.SLIST
+7148.0,DI_XRNG_LOWER_CONFLICT,1.0,E,The following segment has a confilicting lower value.,SASHELP.FSP.OK.SLIST
+7149.0,IN_XRNG_COPIED_RANGE,1.0,N,Copied range entry.,SASHELP.FSP.OK.SLIST
+7150.0,IN_XRNG_SEGMENT_DELETED,1.0,N,Segment deleted.,SASHELP.FSP.OK.SLIST
+7151.0,IN_XRNG_RANGE_SEG_SORTED,1.0,N,Range segments sorted.,SASHELP.FSP.OK.SLIST
+7152.0,IN_XRNG_RANGE_SEG_CLEARED,1.0,N,Range segments cleared.,SASHELP.FSP.OK.SLIST
+7153.0,IN_XRNG_STAT_DS_CLEARED,1.0,N,Statistics data set cleared.,SASHELP.FSP.OK.SLIST
+7154.0,IN_XRNG_FORMATS_CLEARED,1.0,N,Formats cleared.,SASHELP.FSP.OK.SLIST
+7155.0,IN_XRNG_CLEARED,1.0,N,Cleared.,SASHELP.FSP.OK.SLIST
+7156.0,CL_XRNG_BLINKING,1.0,L,Blinking,SASHELP.FSP.OK.SLIST
+7157.0,CL_XRNG_HIGHLIGHT,1.0,L,Highlight,SASHELP.FSP.OK.SLIST
+7158.0,CL_XRNG_REVERSE,1.0,L,Reverse,SASHELP.FSP.OK.SLIST
+7159.0,CL_XRNG_UNDERLINE,1.0,L,Underline,SASHELP.FSP.OK.SLIST
+7160.0,CL_XRNG_HIREV,1.0,L,Hirev,SASHELP.FSP.OK.SLIST
+7161.0,CL_XRNG_NONE,1.0,L,None,SASHELP.FSP.OK.SLIST
+7162.0,CL_XRNG_DIALOG,1.0,L,Dialog,SASHELP.FSP.OK.SLIST
+7163.0,CL_XRNG_SANS_SERIF,1.0,L,Sans Serif,SASHELP.FSP.OK.SLIST
+7164.0,CL_XRNG_SERIF,1.0,L,Serif,SASHELP.FSP.OK.SLIST
+7165.0,CL_XRNG_MONOSPACED,1.0,L,Monospaced,SASHELP.FSP.OK.SLIST
+7167.0,CL_XRNG_DEFAULT,1.0,L,Default,SASHELP.FSP.OK.SLIST
+7168.0,CL_XRNG_BOLD,1.0,L,Bold,SASHELP.FSP.OK.SLIST
+7169.0,CL_XRNG_ITALIC,1.0,L,Italic,SASHELP.FSP.OK.SLIST
+7170.0,CL_XRNG_BOLD_ITALIC,1.0,L,Bold Italic,SASHELP.FSP.OK.SLIST
+7171.0,IN_XRNG_BUILD_FRAME,1.0,O,BUILD: Extended Range,SASHELP.FSP.OK.SLIST
+7172.0,CL_XRNG_COPY_RANGE,1.0,L,Copy SAS/AF range entry...,SASHELP.FSP.OK.SLIST
+7173.0,CL_XRNG_DELETE_SEGMENT,1.0,L,Delete current segment,SASHELP.FSP.OK.SLIST
+7174.0,CL_XRNG_SORT_SEGMENTS,1.0,L,Sort range segments,SASHELP.FSP.OK.SLIST
+7175.0,CL_XRNG_CLEAR_SEGMENTS,1.0,L,Clear range segments,SASHELP.FSP.OK.SLIST
+7176.0,CL_XRNG_CLEAR_STAT_DS,1.0,L,Clear statistics data set,SASHELP.FSP.OK.SLIST
+7177.0,CL_XRNG_CLEAR_FORMATS,1.0,L,Clear formats,SASHELP.FSP.OK.SLIST
+7178.0,CL_XRNG_CLEAR_ALL,1.0,L,Clear all,SASHELP.FSP.OK.SLIST
+7179.0,DI_WEIS_INVALID_AXIS,1.0,E,Invalid axis.,SASHELP.FSP.OK.SLIST
+7180.0,DI_WEIS_INVALID_COORD,1.0,E,Invalid axis coordinate.,SASHELP.FSP.OK.SLIST
+7181.0,DI_WEIS_INVALID_COORDS,1.0,E,Invalid axes coordinates.,SASHELP.FSP.OK.SLIST
+7182.0,DI_WEIS_INVALID_COORD_RANGE,1.0,E,Invalid coordinate range.,SASHELP.FSP.OK.SLIST
+7183.0,DI_WEIS_MEMBER_NOT_FOUND,1.0,E,%1$ not found.,SASHELP.FSP.OK.SLIST
+7186.0,IO_OUT_OF_RANGE_NUM_BETWEEN,1.0,E,The value '%1#' specified for initial value is out of range.  Specify a value between the minimum and maximum values.,SASHELP.FSP.OK.SLIST
+7187.0,IO_OUT_OF_RANGE_CHAR_BETWEEN,1.0,E,The value '%1$' specified for initial value is out of range.  Specify a value between the minimum and maximum values.,SASHELP.FSP.OK.SLIST
+7188.0,IO_OUT_OF_RANGE_NUM_MORETHAN,1.0,E,The value '%1#' specified for maximum value is out of range.  Specify a value more than the initial and minimum values.,SASHELP.FSP.OK.SLIST
+7189.0,IO_OUT_OF_RANGE_CHAR_MORETHAN,1.0,E,The value '%1$' specified for maximum value is out of range.  Specify a value more than the initial and minimum values.,SASHELP.FSP.OK.SLIST
+7190.0,IO_OUT_OF_RANGE_NUM_LESSTHAN,1.0,E,The value '%1#' specified for minimum value is out of range.  Specify a value less than the initial and maximum values.,SASHELP.FSP.OK.SLIST
+7191.0,IO_OUT_OF_RANGE_CHAR_LESSTHAN,1.0,E,The value '%1$' specified for minimum value  is out of range.  Specify a value less than the initial and maximum values.,SASHELP.FSP.OK.SLIST
+7193.0,IN_COLUMN_DEFINITION,1.0,O,Column Definition,SASHELP.FSP.OK.SLIST
+7194.0,IN_COMPUTED_COLUMN,1.0,O,Computed Columns,SASHELP.FSP.OK.SLIST
+7212.0,DI_BAD_VALUE_FOR_FORMAT_SINGLE,1.0,E,The format specified is not valid for the %1$ value.  Enter a compatible format or change the value.,SASHELP.FSP.OK.SLIST
+7216.0,DI_BAD_VALUE_FOR_FORMAT_MULTI,1.0,E,The format specified is not valid for the following values: %1$.  Enter a compatible format or change the values.,SASHELP.FSP.OK.SLIST
+7217.0,DI_VALUE_DOES_NOT_MATCH_FORMAT,1.0,E,The %1$ value could not be displayed with the '%2$' format.  Enter a value compatible with '%3$',SASHELP.FSP.OK.SLIST
+7239.0,IO_NO_OPEN,1.0,Q,%1$ cannot be opened. Do you want to select a,SASHELP.FSP.YNC.SLIST
+7239.0,IO_NO_OPEN,2.0,Q,different table to open?,SASHELP.FSP.YNC.SLIST
+7240.0,IN_RETAIN_PROPS,1.0,Q,If columns are found in %1$ that have matching names,SASHELP.FSP.YNC.SLIST
+7240.0,IN_RETAIN_PROPS,2.0,Q,"and types to columns in %2$, do you want to retain",SASHELP.FSP.YNC.SLIST
+7240.0,IN_RETAIN_PROPS,3.0,Q,the defined column properties?,SASHELP.FSP.YNC.SLIST
+7241.0,IO_NO_OPEN2,1.0,Q,%1$ cannot be opened. See Log for details.,SASHELP.FSP.YNC.SLIST
+7241.0,IO_NO_OPEN2,2.0,Q,Do you want to select a different table to open?,SASHELP.FSP.YNC.SLIST
+7242.0,IN_TABLE_OR_MDDB,1.0,W,Multiple SAS files with this name exist.,SASHELP.FSP.OK.SLIST
+7242.0,IN_TABLE_OR_MDDB,2.0,W,The table named %1$ will be opened.,SASHELP.FSP.OK.SLIST
+7368.0,IO_PW_NAME,1.0,N,Properties Window,SASHELP.FSP.OK.SLIST
+7369.0,IO_CE,1.0,N,Class Editor,SASHELP.FSP.OK.SLIST
+7370.0,IN_EDIT_CONSTANT,1.0,N,Edit,SASHELP.FSP.OK.SLIST
+7371.0,IN_ATTRIBUTE,1.0,O,Attribute,SASHELP.FSP.OK.SLIST
+7372.0,IN_EVENT_HANDLER,1.0,O,Event Handler,SASHELP.FSP.OK.SLIST
+7373.0,IN_OVERRIDE,1.0,O,Override,SASHELP.FSP.OK.SLIST
+7374.0,IN_BROWSE,1.0,O,Browse,SASHELP.FSP.OK.SLIST
+7375.0,IN_NEW,1.0,O,New,SASHELP.FSP.OK.SLIST
+7376.0,IN_INTERFACE,1.0,O,Interface,SASHELP.FSP.OK.SLIST
+7377.0,IN_TRANSPARENT,1.0,O,Transparent,SASHELP.FSP.OK.SLIST
+7378.0,IN_CENTIMETERS,1.0,O,centimeters,SASHELP.FSP.OK.SLIST
+7379.0,IN_INCHES,1.0,O,inches,SASHELP.FSP.OK.SLIST
+7380.0,IN_LINES,1.0,O,lines,SASHELP.FSP.OK.SLIST
+7381.0,IN_MILLIMETERS,1.0,O,millimeters,SASHELP.FSP.OK.SLIST
+7382.0,IN_PICAS,1.0,O,picas,SASHELP.FSP.OK.SLIST
+7383.0,IN_PIXELS,1.0,O,pixels,SASHELP.FSP.OK.SLIST
+7384.0,IN_POINTS,1.0,O,points,SASHELP.FSP.OK.SLIST
+7385.0,IN_VALIDVALUESENTRY_TITLE,1.0,O,Values List Entry Editor,SASHELP.FSP.OK.SLIST
+7386.0,IO_PARAMETER_LIST_NOT_SET,1.0,E,ERROR: Parameter list not set.,SASHELP.FSP.OK.SLIST
+7387.0,IO_VARIABLE_DOES_NOT_EXIST,1.0,E,ERROR: %1$ variable is not in the data set.,SASHELP.FSP.OK.SLIST
+7388.0,IO_TOO_MANY_SELECTED,1.0,E,ERROR: More than %1 items have been selected.,SASHELP.FSP.OK.SLIST
+7389.0,IN_BEST_FORMAT,1.0,O,SAS System chooses best notation,SASHELP.FSP.OK.SLIST
+7390.0,IN_BINARY_FORMAT_DESC,1.0,O,converts numeric value to binary,SASHELP.FSP.OK.SLIST
+7391.0,IN_COMMA_FORMAT_DESC,1.0,O,commas in numbers,SASHELP.FSP.OK.SLIST
+7392.0,IN_COMMAX_FORMAT_DESC,1.0,O,writes numeric value with commas,SASHELP.FSP.OK.SLIST
+7393.0,IN_D_FORMAT_DESC,1.0,O,writes significant,SASHELP.FSP.OK.SLIST
+7394.0,IN_DATE_FORMAT_DESC,1.0,O,date value,SASHELP.FSP.OK.SLIST
+7395.0,IN_DATETIME_FORMAT_DESC,1.0,O,datetime value,SASHELP.FSP.OK.SLIST
+7396.0,IN_DAY_FORMAT_DESC,1.0,O,writes day of month,SASHELP.FSP.OK.SLIST
+7397.0,IN_DDMMYY_FORMAT_DESC,1.0,O,date value (ddmmyy),SASHELP.FSP.OK.SLIST
+7398.0,IN_DOLLAR_FORMAT_DESC,1.0,O,"dollar sign, commas and decimal point",SASHELP.FSP.OK.SLIST
+7399.0,IN_DOLLARX_FORMAT_DESC,1.0,O,"writes dollar sign, dots, and commas",SASHELP.FSP.OK.SLIST
+7400.0,IN_DOWNAME_FORMAT_DESC,1.0,O,writes name of day of week,SASHELP.FSP.OK.SLIST
+7401.0,IN_E_FORMAT_DESC,1.0,O,scientific notation,SASHELP.FSP.OK.SLIST
+7402.0,IN_FLOAT_FORMAT_DESC,1.0,O,native single-precision floating point value,SASHELP.FSP.OK.SLIST
+7403.0,IN_FRACT_FORMAT_DESC,1.0,O,writes fraction,SASHELP.FSP.OK.SLIST
+7404.0,IN_HEX_FORMAT_DESC,1.0,O,numeric hexadecimal,SASHELP.FSP.OK.SLIST
+7405.0,IN_HHMM_FORMAT_DESC,1.0,O,hours and minutes,SASHELP.FSP.OK.SLIST
+7406.0,IN_HOUR_FORMAT_DESC,1.0,O,hour,SASHELP.FSP.OK.SLIST
+7407.0,IN_IB_FORMAT_DESC,1.0,O,integer binary,SASHELP.FSP.OK.SLIST
+7408.0,IN_IEEE_FORMAT_DESC,1.0,O,generate IEEE floating-point value,SASHELP.FSP.OK.SLIST
+7409.0,IN_JULIAN_FORMAT_DESC,1.0,O,Julian dates,SASHELP.FSP.OK.SLIST
+7410.0,IN_JULDAY_FORMAT_DESC,1.0,O,writes Julian day of the year,SASHELP.FSP.OK.SLIST
+7411.0,IN_MINGUO_FORMAT_DESC,1.0,O,yymmdd format using 1910 as base year,SASHELP.FSP.OK.SLIST
+7412.0,IN_MMDDYY_FORMAT_DESC,1.0,O,date values,SASHELP.FSP.OK.SLIST
+7413.0,IN_MMSS_FORMAT_DESC,1.0,O,minutes and seconds,SASHELP.FSP.OK.SLIST
+7415.0,IN_MONNAME_FORMAT_DESC,1.0,O,writes name of month,SASHELP.FSP.OK.SLIST
+7416.0,IN_MONTH_FORMAT_DESC,1.0,O,month of year,SASHELP.FSP.OK.SLIST
+7417.0,IN_MRB_FORMAT_DESC,1.0,O,Microsoft real binary (floating point) numeric,SASHELP.FSP.OK.SLIST
+7418.0,IN_NEGPAREN_FORMAT_DESC,1.0,O,displays negative value in parentheses,SASHELP.FSP.OK.SLIST
+7419.0,IN_NENGO_FORMAT_DESC,1.0,O,Japanese date (r.yymmdd),SASHELP.FSP.OK.SLIST
+7420.0,IN_OCTAL_FORMAT_DESC,1.0,O,converts numeric values to octal,SASHELP.FSP.OK.SLIST
+7421.0,IN_PD_FORMAT_DESC,1.0,O,packed decimal,SASHELP.FSP.OK.SLIST
+7422.0,IN_PERCENT_FORMAT_DESC,1.0,O,writes numbers as percentages,SASHELP.FSP.OK.SLIST
+7423.0,IN_PIB_FORMAT_DESC,1.0,O,positive integer binary,SASHELP.FSP.OK.SLIST
+7424.0,IN_PK_FORMAT_DESC,1.0,O,unsigned packed decimal,SASHELP.FSP.OK.SLIST
+7425.0,IN_QTR_FORMAT_DESC,1.0,O,writes quarter of year,SASHELP.FSP.OK.SLIST
+7426.0,IN_QTRR_FORMAT_DESC,1.0,O,writes quarter of year in Roman numerals,SASHELP.FSP.OK.SLIST
+7427.0,IN_RB_FORMAT_DESC,1.0,O,real binary (floating point),SASHELP.FSP.OK.SLIST
+7428.0,IN_ROMAN_FORMAT_DESC,1.0,O,Roman numerals,SASHELP.FSP.OK.SLIST
+7429.0,IN_SSN_FORMAT_DESC,1.0,O,Social Security numbers,SASHELP.FSP.OK.SLIST
+7430.0,IN_S370FIB_FORMAT_DESC,1.0,O,IBM 370 integer binary,SASHELP.FSP.OK.SLIST
+7431.0,IN_S370FIBU_FORMAT_DESC,1.0,O,IBM 370 unsigned integer binary,SASHELP.FSP.OK.SLIST
+7432.0,IN_S370FPD_FORMAT_DESC,1.0,O,IBM 370 packed decimal,SASHELP.FSP.OK.SLIST
+7433.0,IN_S370FPIB_FORMAT_DESC,1.0,O,IBM 370 positive integer binary,SASHELP.FSP.OK.SLIST
+7434.0,IN_S370FRB_FORMAT_DESC,1.0,O,IBM 370 real binary,SASHELP.FSP.OK.SLIST
+7435.0,IN_S370FZD_FORMAT_DESC,1.0,O,IBM 370 zoned decimal,SASHELP.FSP.OK.SLIST
+7436.0,IN_TIME_FORMAT_DESC,1.0,O,time values,SASHELP.FSP.OK.SLIST
+7437.0,IN_TOD_FORMAT_DESC,1.0,O,time-of-day,SASHELP.FSP.OK.SLIST
+7438.0,IN_WD_FORMAT_DESC,1.0,O,standard numeric width.decimal,SASHELP.FSP.OK.SLIST
+7439.0,IN_WEEKDAY_FORMAT_DESC,1.0,O,day of week,SASHELP.FSP.OK.SLIST
+7440.0,IN_WORD_FORMATS_DESC,1.0,O,converts numeric values to words,SASHELP.FSP.OK.SLIST
+7441.0,IN_YEAR_FORMAT_DESC,1.0,O,writes year part of date value,SASHELP.FSP.OK.SLIST
+7442.0,IN_YEN_FORMAT_DESC,1.0,O,yen signs with commas and decimal points,SASHELP.FSP.OK.SLIST
+7443.0,IN_YEAR_MONTH_FORMATS_DESC,1.0,O,year and month,SASHELP.FSP.OK.SLIST
+7444.0,IN_YYMON_FORMAT_DESC,1.0,O,writes year and month abbreviation,SASHELP.FSP.OK.SLIST
+7445.0,IN_YEAR_QUARTER_FORMATS_DESC,1.0,O,year and quarter,SASHELP.FSP.OK.SLIST
+7446.0,IN_YEAR_RMN_QUARTER_FORMATS_DESC,1.0,O,year and 6-32 quarter in Roman numerals separated by characters,SASHELP.FSP.OK.SLIST
+7447.0,IN_Z_FORMAT_DESC,1.0,O,displays leading zeros,SASHELP.FSP.OK.SLIST
+7448.0,IN_ZD_FORMAT_DESC,1.0,O,writes data in zoned decimal format,SASHELP.FSP.OK.SLIST
+7449.0,IN_DLR_FORMAT_DESC,1.0,O,standard character,SASHELP.FSP.OK.SLIST
+7451.0,IN_DLRBINARY_FORMAT_DESC,1.0,O,converts character values to binary,SASHELP.FSP.OK.SLIST
+7452.0,IN_DLRCHAR_FORMAT_DESC,1.0,O,characters with blanks,SASHELP.FSP.OK.SLIST
+7453.0,IN_DLREBCDIC_FORMAT_DESC,1.0,O,EBCDIC to ASCII,SASHELP.FSP.OK.SLIST
+7454.0,IN_DLRHEX_FORMAT_DESC,1.0,O,character hexadecimal,SASHELP.FSP.OK.SLIST
+7455.0,IN_DLRMSGCASE_FORMAT_DESC,1.0,O,writes values in uppercase based on value of MSGCASE option,SASHELP.FSP.OK.SLIST
+7456.0,IN_DLROCTAL_FORMAT_DESC,1.0,O,converts to octal representation,SASHELP.FSP.OK.SLIST
+7457.0,IN_DLRQUOTE_FORMAT_DESC,1.0,O,writes data values enclosed in quotes,SASHELP.FSP.OK.SLIST
+7458.0,IN_DLRUPCASE_FORMAT_DESC,1.0,O,writes all characters in uppercase,SASHELP.FSP.OK.SLIST
+7459.0,IN_DLRVARYING_FORMAT_DESC,1.0,O,varying-length characters values,SASHELP.FSP.OK.SLIST
+7460.0,IN_BITS_INFORMAT_DESC,1.0,O,extracts bits,SASHELP.FSP.OK.SLIST
+7461.0,IN_BZ_INFORMAT_DESC,1.0,O,blanks are zeros,SASHELP.FSP.OK.SLIST
+7462.0,IN_CB_INFORMAT_DESC,1.0,O,reads standard numeric values from column-binary files,SASHELP.FSP.OK.SLIST
+7463.0,IN_FLOAT_INFORMAT_DESC,1.0,O,reads native single-precision floating point value and divides it by 10,SASHELP.FSP.OK.SLIST
+7464.0,IN_IEEE_INFORMAT_DESC,1.0,O,reads an IEEE floating-point value and divides it by 10 raised to the dth power,SASHELP.FSP.OK.SLIST
+7465.0,IN_MINGUO_INFORMAT_DESC,1.0,O,converts an input value in yymmdd format to a SAS data value,SASHELP.FSP.OK.SLIST
+7466.0,IN_MSEC_INFORMAT_DESC,1.0,O,reads TIME MIC values,SASHELP.FSP.OK.SLIST
+7467.0,IN_PDTIME_INFORMAT_DESC,1.0,O,reads packed decimal time of SMF and RMF records,SASHELP.FSP.OK.SLIST
+7468.0,IN_PERCENT_INFORMAT_DESC,1.0,O,converts percentages into numeric values,SASHELP.FSP.OK.SLIST
+7469.0,IN_PUNCH_INFORMAT_DESC,1.0,O,reads whether a row of column binary data is punched,SASHELP.FSP.OK.SLIST
+7470.0,IN_RMFSTAMP_INFORMAT_DESC,1.0,O,reads time and date fields of RMF records,SASHELP.FSP.OK.SLIST
+7471.0,IN_RMFDUR_INFORMAT_DESC,1.0,O,reads real binary data,SASHELP.FSP.OK.SLIST
+7472.0,IN_ROW_INFORMAT_DESC,1.0,O,read a column binary field down a card column,SASHELP.FSP.OK.SLIST
+7473.0,IN_SMFSTAMP_INFORMAT_DESC,1.0,O,reads time and date fields of SMF records,SASHELP.FSP.OK.SLIST
+7474.0,IN_TODSTAMP_INFORMAT_DESC,1.0,O,reads 8-byte time-of-day stamp,SASHELP.FSP.OK.SLIST
+7475.0,IN_TU_INFORMAT_DESC,1.0,O,reads timer units,SASHELP.FSP.OK.SLIST
+7476.0,IN_VAXRB_INFORMAT_DESC,1.0,O,reads real binary data under VMS,SASHELP.FSP.OK.SLIST
+7477.0,IN_YEN_INFORMAT_DESC,1.0,O,"removes embedded yen signs, commas and decimal points",SASHELP.FSP.OK.SLIST
+7478.0,IN_ZD_INFORMAT_DESC,1.0,O,reads zoned decimal data,SASHELP.FSP.OK.SLIST
+7479.0,IN_ZDB_INFORMAT_DESC,1.0,O,reads zoned decimal data with blanks,SASHELP.FSP.OK.SLIST
+7480.0,IN_DLRCB_INFORMAT_DESC,1.0,O,reads standard character data from column binary files,SASHELP.FSP.OK.SLIST
+7481.0,IN_DLRZB_INFORMAT_DESC,1.0,O,characters with binary zeros as blanks,SASHELP.FSP.OK.SLIST
+7482.0,IN_DLRPHEX_INFORMAT_DESC,1.0,O,converts packed hexadecimal to character data,SASHELP.FSP.OK.SLIST
+7483.0,IN_MONTH_YEAR_FORMATS_DESC,1.0,O,month and year,SASHELP.FSP.OK.SLIST
+7485.0,IN_DLRASCII_FORMAT_DESC,1.0,O,converts character data from EBCDIC to ASCII,SASHELP.FSP.OK.SLIST
+7487.0,IN_S370FF_INFORMAT_DESC,1.0,O,EBCDIC numeric,SASHELP.FSP.OK.SLIST
+7488.0,IN_COMMAX_INFORMAT_DESC,1.0,O,removes embedded characters,SASHELP.FSP.OK.SLIST
+7490.0,IO_COLOR_NOT_IN_IMAGE,1.0,E,ERROR: Color is not in image,SASHELP.FSP.OK.SLIST
+7491.0,IO_COLOR_NAME_INVALID,1.0,E,ERROR: Color name is not valid,SASHELP.FSP.OK.SLIST
+7494.0,IN_EVENT,1.0,O,Event,SASHELP.FSP.OK.SLIST
+7495.0,IN_METHOD,1.0,O,Method,SASHELP.FSP.OK.SLIST
+7504.0,IN_VIEWTABLE_CPOP_COLOR,1.0,O,Colors...,SASHELP.FSP.OK.SLIST
+7505.0,IN_VIEWTABLE_CPOP_FONTS,1.0,O,Fonts...,SASHELP.FSP.OK.SLIST
+7506.0,IN_VIEWTABLE_CPOP_SORT,1.0,O,Sort,SASHELP.FSP.OK.SLIST
+7507.0,IN_VIEWTABLE_CPOP_HIDE,1.0,O,Hide,SASHELP.FSP.OK.SLIST
+7508.0,IN_VIEWTABLE_CPOP_HOLD,1.0,O,Hold,SASHELP.FSP.OK.SLIST
+7509.0,IN_VIEWTABLE_CPOP_DESC,1.0,O,Column Description,SASHELP.FSP.OK.SLIST
+7510.0,IN_VIEWTABLE_CPOP_ATTR,1.0,O,Column Attributes...,SASHELP.FSP.OK.SLIST
+7511.0,IN_VIEWTABLE_TITLE1,1.0,O,VIEWTABLE(New): (Untitled),SASHELP.FSP.OK.SLIST
+7512.0,IN_VIEWTABLE_TITLE2,1.0,O,VIEWTABLE(New): (Save As:,SASHELP.FSP.OK.SLIST
+7513.0,IN_VIEWTABLE_TITLE3,1.0,O,VIEWTABLE(New): (Saved As:,SASHELP.FSP.OK.SLIST
+7514.0,IN_VIEWTABLE_TITLE4,1.0,O,VIEWTABLE:,SASHELP.FSP.OK.SLIST
+7530.0,IN_DATAM_ADD,1.0,O,Add Row,SASHELP.FSP.OK.SLIST
+7531.0,IN_DATAM_COPY,1.0,O,Copy Row,SASHELP.FSP.OK.SLIST
+7532.0,IN_DATAM_COMMIT,1.0,O,Commit New Row,SASHELP.FSP.OK.SLIST
+7533.0,IN_DATAM_DELETE,1.0,O,Delete Row,SASHELP.FSP.OK.SLIST
+7534.0,IN_DATAM_CANCEL,1.0,O,Cancel Row Edits,SASHELP.FSP.OK.SLIST
+7535.0,IN_DATAM_HELP,1.0,O,Help,SASHELP.FSP.OK.SLIST
+7536.0,IN_DATAM_WHERE,1.0,O,Where,SASHELP.FSP.OK.SLIST
+7537.0,IN_DATAM_CLEAR,1.0,O,Where Clear,SASHELP.FSP.OK.SLIST
+7538.0,IN_DATAM_BROWSE,1.0,O,Browse Mode,SASHELP.FSP.OK.SLIST
+7539.0,IN_DATAM_EDIT,1.0,O,Edit Mode,SASHELP.FSP.OK.SLIST
+7541.0,IN_DATAM_TABLE,1.0,O,Table Level Locking,SASHELP.FSP.OK.SLIST
+7542.0,IN_DATAM_MEMBER,1.0,O,Member Level Locking,SASHELP.FSP.OK.SLIST
+7543.0,IN_DATAM_ROW,1.0,O,Row Level Locking,SASHELP.FSP.OK.SLIST
+7544.0,IN_DATAM_RECORD,1.0,O,Record Level Locking,SASHELP.FSP.OK.SLIST
+7545.0,IN_DATAM_OVERRIDE,1.0,O,Override,SASHELP.FSP.OK.SLIST
+7681.0,IO_RES_SCANNING,1.0,N,Scanning %$,SASHELP.FSP.OK.SLIST
+7682.0,IO_RES_NO_EXIST,1.0,E,Cannot apply changes to %$ since it does not exist,SASHELP.FSP.OK.SLIST
+7683.0,IO_RES_NO_UPDATE,1.0,E,Cannot apply changes to %$ since it exists in a read-only catalog,SASHELP.FSP.OK.SLIST
+7684.0,IO_RES_CHANGED_ITEM,1.0,N,Changed item name from %$ to %$,SASHELP.FSP.OK.SLIST
+7685.0,IO_RES_CHANGED_COMPONENT,1.0,N,Changed component from %$ to %$,SASHELP.FSP.OK.SLIST
+7686.0,IO_RES_CHANGED_METHOD,1.0,N,Changed method %$ from %$ to %$,SASHELP.FSP.OK.SLIST
+7687.0,IO_RES_CHANGED_ITEMNAME,1.0,N,Changed %$ from %$ to %$,SASHELP.FSP.OK.SLIST
+7688.0,IN_RES_LIBS,1.0,O,Libraries,SASHELP.FSP.OK.SLIST
+7689.0,IN_RES_CATS,1.0,O,Catalogs,SASHELP.FSP.OK.SLIST
+7690.0,IN_RES_REN_LIBS,1.0,O,Rename Libraries,SASHELP.FSP.OK.SLIST
+7691.0,IN_RES_REN_CATS,1.0,O,Rename Catalogs,SASHELP.FSP.OK.SLIST
+7692.0,IN_RES_SEL_LIB,1.0,O,Select library to rename.,SASHELP.FSP.OK.SLIST
+7693.0,IN_RES_SEL_CAT,1.0,O,Select catalog to rename.,SASHELP.FSP.OK.SLIST
+7694.0,IO_RES_BAD_LIB,1.0,W,Libname %$ is not assigned,SASHELP.FSP.OK.SLIST
+7695.0,IO_RES_BAD_CAT,1.0,W,Entry %$ does not exist.,SASHELP.FSP.OK.SLIST
+7696.0,IN_VIEWTABLE_PBUTTON_BROWSE,1.0,O,BROWSE,SASHELP.FSP.OK.SLIST
+7697.0,IN_VIEWTABLE_PBUTTON_EDIT,1.0,O,EDIT,SASHELP.FSP.OK.SLIST
+7698.0,IN_VIEWTABLE_PBUTTON_PRINT,1.0,0,Print,SASHELP.FSP.OK.SLIST
+7699.0,IN_VIEWTABLE_BAD_COLNAME,1.0,N,Column name does not exist:,SASHELP.FSP.OK.SLIST

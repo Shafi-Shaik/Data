@@ -1,0 +1,73 @@
+HUB,SOURCE,TYPE,REVENUE
+Frankfurt,Freight,Direct,1464938.23417199
+Frankfurt,Freight,Indirect,198942.229331999
+Frankfurt,Freight,Other,144685.257695999
+Frankfurt,Other,Direct,111193.299896
+Frankfurt,Other,Indirect,12057.104808
+Frankfurt,Other,Other,10717.4264959999
+Frankfurt,Passenger,Direct,3460389.079896
+Frankfurt,Passenger,Indirect,421998.668279999
+Frankfurt,Passenger,Other,337598.934623999
+Frankfurt,Service,Direct,444773.199583999
+Frankfurt,Service,Indirect,58945.8457279999
+Frankfurt,Service,Other,32152.279488
+London,Freight,Direct,2066788.715838
+London,Freight,Indirect,429462.590304
+London,Freight,Other,187889.883257999
+London,Other,Direct,257026.853288
+London,Other,Indirect,45549.062608
+London,Other,Other,22774.5313039999
+London,Passenger,Direct,3743156.895036
+London,Passenger,Indirect,719837.864429999
+London,Passenger,Other,335924.336733999
+London,Service,Direct,257026.853288
+London,Service,Indirect,52056.071552
+London,Service,Other,16267.52236
+New York,Freight,Direct,2636486.91801599
+New York,Freight,Indirect,353675.074367999
+New York,Freight,Other,225065.956416
+New York,Other,Direct,450131.912832
+New York,Other,Indirect,48228.419232
+New York,Other,Other,37510.992736
+New York,Passenger,Direct,7449951.093032
+New York,Passenger,Indirect,897584.46904
+New York,Passenger,Other,628309.128327999
+New York,Service,Direct,562664.89104
+New York,Service,Indirect,73682.3071599999
+New York,Service,Other,33491.9578
+San Francisco,Freight,Direct,2092768.90596
+San Francisco,Freight,Indirect,439223.10372
+San Francisco,Freight,Other,51673.30632
+San Francisco,Other,Direct,214444.221228
+San Francisco,Other,Indirect,38754.9797399999
+San Francisco,Other,Other,5167.330632
+San Francisco,Passenger,Direct,4340557.73087999
+San Francisco,Passenger,Indirect,868111.546176
+San Francisco,Passenger,Other,217027.886544
+San Francisco,Service,Direct,285925.628304
+San Francisco,Service,Indirect,58563.080496
+San Francisco,Service,Other,0.0
+Sydney,Freight,Direct,873278.876808
+Sydney,Freight,Indirect,212721.777683999
+Sydney,Freight,Other,33587.6491079999
+Sydney,Other,Direct,149278.440479999
+Sydney,Other,Indirect,31721.668602
+Sydney,Other,Other,5597.94151799999
+Sydney,Passenger,Direct,3537899.03937599
+Sydney,Passenger,Indirect,806103.578592
+Sydney,Passenger,Other,134350.596431999
+Sydney,Service,Direct,348316.361119999
+Sydney,Service,Indirect,82725.1357659999
+Sydney,Service,Other,4353.95451399999
+Tokyo,Freight,Direct,363626.970399999
+Tokyo,Freight,Indirect,100475.873399999
+Tokyo,Freight,Other,14353.6961999999
+Tokyo,Other,Direct,149278.440479999
+Tokyo,Other,Indirect,36362.6970399999
+Tokyo,Other,Other,5741.47847999999
+Tokyo,Passenger,Direct,2984133.43997999
+Tokyo,Passenger,Indirect,775099.594799999
+Tokyo,Passenger,Other,116264.93922
+Tokyo,Service,Direct,186598.050599999
+Tokyo,Service,Indirect,50237.9366999999
+Tokyo,Service,Other,2392.28269999999

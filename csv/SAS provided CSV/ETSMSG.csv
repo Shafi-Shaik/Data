@@ -1,0 +1,9 @@
+MSGID,MNEMONIC,LINENO,LEVEL,TEXT,PBUTTONS
+466.0,IO_GREATER_THAN_NUM,1.0,E,%1$ must be greater than %2#.,
+469.0,DI_NUM_GE_ANOTHER_NUM,1.0,N,%1$ must be greater than or equal to %2$.,SASHELP.FSP.OK.SLIST
+474.0,DI_NUM_LE_ANOTHER_NUM,1.0,E,%1$ must be less than or equal to %2$.,SASHELP.FSP.OK.SLIST
+475.0,DI_NUM_LE_NUM,1.0,E,%1$ must be less than or equal to $2#.,SASHELP.FSP.OK.SLIST
+483.0,DI_RATE_RANGE,1.0,E,%1$ must be between 0.0 %% and 120.0 %%.,SASHELP.FSP.OK.SLIST
+484.0,DI_NUM_RANGE,1.0,E,%1$ must be in %2# - %3# range.,SASHELP.FSP.OK.SLIST
+749.0,IO_INVALID_LIST_1,1.0,E,List %1$ is invalid or has more than %2 item(s).,SASHELP.FSP.OK.SLIST
+749.0,IO_INVALID_LIST_1,2.0,E,"(Pgm: %3$, method: %4$)",SASHELP.FSP.OK.SLIST

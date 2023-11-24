@@ -1,0 +1,131 @@
+locale,key,lineno,text
+en,AVERAGE_PLURAL,1.0,Averages
+en,AVERAGE_SINGULAR,1.0,Average
+en,COMMON_ERRMSG_PROC_ERROR,1.0,%1z (%#1s) Errors occurred in procedures while invoking this macro.  Please refer to the LOG for details.
+en,CUSTOMERIDLABEL,1.0,Customer Identifier
+en,CUSTOMER_ID_VARIABLE_NOT_FOUND,1.0,%1z (%#1s) Required customer identifier variable is not specified.
+en,CUSTOMER_INPUT_NOT_SPECIFIED,1.0,"%1z (%#1s) The Most Recent Purchase Date, or the Number of Purchases, or the Total Amount of Purchases variables for Customer Data mode are not correctly specified.  They must be numeric variables."
+en,DIST_TITLE_TOTPURCHASEAMT_BY_RF,1.0,Distribution of %#1s of Transaction Amounts by Recency Score and Frequency Score
+en,FREQUENCY_FMT_LF,1.0,%#1s Least Frequent
+en,FREQUENCY_FMT_MF,1.0,%#1s Most Frequent
+en,FREQUENCY_GROUPS_FORMED_WARNING,1.0,%3z (%#1s) Actual number of Frequency groups formed (= %#2s) is less than the specified number (= %#3s).
+en,FREQUENCY_GROUP_INT_NOT_BETWEEN_1_AND_10,1.0,%1z (%#1s) Specified number of Frequency group is not an integer between 1 and 9 inclusively.
+en,FREQUENCY_LABEL,1.0,Frequency Score
+en,FREQUENCY_SCORE_LABEL,1.0,"Frequency Score (%#1s=Least Frequent, %#2s=Most Frequent)"
+en,INPUT_DATASET_NOT_FOUND,1.0,%1z (%#1s) Required input dataset not found.
+en,INPUT_DATASET_NOT_SPECIFIED,1.0,%1z (%#1s) Required input dataset not specified.
+en,MACRO_HAS_BEEN_PROCESSED,1.0,%3z Macro %s has been processed.
+en,MAXIMUM_PLURAL,1.0,Maximums
+en,MAXIMUM_SINGULAR,1.0,Maximum
+en,MEDIAN_PLURAL,1.0,Medians
+en,MEDIAN_SINGULAR,1.0,Median
+en,MONETARY_FMT_HA,1.0,%#1s Highest Amount
+en,MONETARY_FMT_LA,1.0,%#1s Lowest Amount
+en,MONETARY_GROUPS_FORMED_WARNING,1.0,%3z (%#1s) Actual number of Monetary groups formed (= %#2s) is less than the specified number (= %#3s).
+en,MONETARY_GROUP_INT_NOT_BETWEEN_1_AND_10,1.0,%1z (%#1s) Specified number of Monetary group is not an integer between 1 and 9 inclusively.
+en,MONETARY_LABEL,1.0,Monetary Score
+en,MONETARY_SCORE_LABEL,1.0,"Monetary Score (%#1s=Lowest Amount, %#2s=Highest Amount)"
+en,MONETIZATIONMAPFOOTNOTE,1.0,Color represents Medians of %#1s within %#2s by %#3s Cell
+en,MOSTRECENTDATELABEL,1.0,Date of Most Recent Transaction
+en,NO_COMPLETE_NONMISSING_REC,1.0,"%1z (%#1s) No customer has a complete non-missing record of %#2s, %#3s, and %#4s."
+en,NPURCHASELABEL,1.0,Number of Transactions
+en,OUTDSN_NOT_SPECIFIED,1.0,%1z (%#1s) Required output dataset not specified.
+en,RECCOUNT_LABEL,1.0,Record Count
+en,RECENCY_FMT_LR,1.0,%#1s Least Recent
+en,RECENCY_FMT_MR,1.0,%#1s Most Recent
+en,RECENCY_GROUPS_FORMED_WARNING,1.0,%3z (%#1s) Actual number of Recency groups formed (= %#2s) is less than the specified number (= %#3s).
+en,RECENCY_GROUP_INT_NOT_BETWEEN_1_AND_10,1.0,%1z (%#1s) Specified number of Recency group is not an integer between 1 and 9 inclusively.
+en,RECENCY_LABEL,1.0,Recency Score
+en,RECENCY_SCORE_LABEL,1.0,"Recency Score (%#1s=Least Recent, %#2s=Most Recent)"
+en,RFMSUMMARYALL,1.0,Total for All Customers
+en,RFMSUMMARYMEDIAN,1.0,Median
+en,RFMSUMMARYN,1.0,Number of Customers
+en,RFMSUMMARYPCTN,1.0,Percent of Customers
+en,RFMSUMMARYTITLE,1.0,Summary of RFM Segments
+en,RFM_COMMON_FOOTNOTE1,1.0,"Maximum Number of Groups: %#1s (Recency), %#2s (Frequency), %#3s (Monetary)"
+en,RFM_COMMON_FOOTNOTE2I,1.0,Binning Method: Independent
+en,RFM_COMMON_FOOTNOTE2N,1.0,Binning Method: Nested
+en,RFM_FMT_MAX_SCORE,1.0,"%#1s Most Recent, Most Frequent, and Highest Amount"
+en,RFM_FMT_MIN_SCORE,1.0,"%#1s Least Recent, Least Frequent, and Lowest Amount"
+en,RFM_SCORE_LABEL,1.0,RFM Score
+en,RFM_VARIABLE_V7_INCOMPATIBLE,1.0,%2z (%#1s) The requested Right Bin Bound dataset will not be produced because the Business Rules Manager cannot handle names that are invalid under V7.
+en,SCORE_TYPE_LABEL,1.0,Type of Score
+en,SUM_PLURAL,1.0,Sums
+en,SUM_SINGULAR,1.0,Sum
+en,TITLE_FREQUENCY_BY_R,1.0,Distribution of Frequency Scores by Recency Score
+en,TITLE_MONETARY_BY_RF,1.0,Distribution of Monetary Scores by Recency Score and Frequency Score
+en,TITLE_MONETIZATION,1.0,Monetization Map of %#1s of Transaction Amounts
+en,TITLE_MONETIZATIONMAP,1.0,Monetization Map of %#1s of Transaction Amounts by Recency Score and Frequency Score
+en,TITLE_MOST_RECENT_DATE,1.0,Distribution of Dates of Most Recent Transaction
+en,TITLE_NPURCHASE_BY_R,1.0,Distribution of Numbers of Transactions by Recency Score
+en,TITLE_RECENCY,1.0,Distribution of Recency Scores
+en,TITLE_TOTPURCHASEAMT_BY_RF,1.0,Distribution of %#1s of Transaction Amounts by Recency Score and Frequency Score
+en,TOTPURCHASEAMTLABEL,1.0,%#1s of Transaction Amounts
+en,TRANSACTIONAL_INPUT_NOT_SPECIFIED,1.0,%1z (%#1s) The Purchase Date or the Purchase Amount variables for Transactional Data mode are not correctly specified. They must be numeric variables.
+en,UNEXPECTED_ANALYSIS_MODE,1.0,"%1z (%#1s) Unrecognized mode of analysis, expect either T for transactional or C for customer."
+en,UNRECOGNIZED_BINNING,1.0,"%1z (%#1s) Unrecognized binning method, expect either N for nested or I for independent."
+zh_TW,AVERAGE_PLURAL,1.0,\u5e73\u5747
+zh_TW,AVERAGE_SINGULAR,1.0,Average
+zh_TW,COMMON_ERRMSG_PROC_ERROR,1.0,%1z (%#1s) Errors occurred in procedures while invoking this macro.  Please refer to the LOG for details.
+zh_TW,CUSTOMERIDLABEL,1.0,Customer Identifier
+zh_TW,CUSTOMER_ID_VARIABLE_NOT_FOUND,1.0,%1z (%#1s) Required customer identifier variable is not specified.
+zh_TW,CUSTOMER_INPUT_NOT_SPECIFIED,1.0,"%1z (%#1s) The Most Recent Purchase Date, or the Number of Purchases, or the Total Amount of Purchases variables for Customer Data mode are not correctly specified.  They must be numeric variables."
+zh_TW,DIST_TITLE_TOTPURCHASEAMT_BY_RF,1.0,Distribution of %#1s of Transaction Amounts by Recency Score and Frequency Score
+zh_TW,FREQUENCY_FMT_LF,1.0,%#1s Least Frequent
+zh_TW,FREQUENCY_FMT_MF,1.0,%#1s Most Frequent
+zh_TW,FREQUENCY_GROUPS_FORMED_WARNING,1.0,%3z (%#1s) Actual number of Frequency groups formed (= %#2s) is less than the specified number (= %#3s).
+zh_TW,FREQUENCY_GROUP_INT_NOT_BETWEEN_1_AND_10,1.0,%1z (%#1s) Specified number of Frequency group is not an integer between 1 and 9 inclusively.
+zh_TW,FREQUENCY_LABEL,1.0,\u6b21\u6578\u8a08\u5206
+zh_TW,FREQUENCY_SCORE_LABEL,1.0,"Frequency Score (%#1s=Least Frequent, %#2s=Most Frequent)"
+zh_TW,INPUT_DATASET_NOT_FOUND,1.0,%1z (%#1s) Required input dataset not found.
+zh_TW,INPUT_DATASET_NOT_SPECIFIED,1.0,%1z (%#1s) Required input dataset not specified.
+zh_TW,MACRO_HAS_BEEN_PROCESSED,1.0,%3z Macro %s has been processed.
+zh_TW,MAXIMUM_PLURAL,1.0,Maximums
+zh_TW,MAXIMUM_SINGULAR,1.0,\u6700\u5927\u503c
+zh_TW,MEDIAN_PLURAL,1.0,Medians
+zh_TW,MEDIAN_SINGULAR,1.0,\u4e2d\u4f4d\u6578
+zh_TW,MONETARY_FMT_HA,1.0,%#1s Highest Amount
+zh_TW,MONETARY_FMT_LA,1.0,%#1s Lowest Amount
+zh_TW,MONETARY_GROUPS_FORMED_WARNING,1.0,%3z (%#1s) Actual number of Monetary groups formed (= %#2s) is less than the specified number (= %#3s).
+zh_TW,MONETARY_GROUP_INT_NOT_BETWEEN_1_AND_10,1.0,%1z (%#1s) Specified number of Monetary group is not an integer between 1 and 9 inclusively.
+zh_TW,MONETARY_LABEL,1.0,Monetary Score
+zh_TW,MONETARY_SCORE_LABEL,1.0,"Monetary Score (%#1s=Lowest Amount, %#2s=Highest Amount)"
+zh_TW,MONETIZATIONMAPFOOTNOTE,1.0,Color represents Medians of %#1s within %#2s by %#3s Cell
+zh_TW,MOSTRECENTDATELABEL,1.0,Date of Most Recent Transaction
+zh_TW,NO_COMPLETE_NONMISSING_REC,1.0,"%1z (%#1s) No customer has a complete non-missing record of %#2s, %#3s, and %#4s."
+zh_TW,NPURCHASELABEL,1.0,\u4ea4\u6613\u6578\u76ee
+zh_TW,OUTDSN_NOT_SPECIFIED,1.0,%1z (%#1s) Required output dataset not specified.
+zh_TW,RECCOUNT_LABEL,1.0,Record Count
+zh_TW,RECENCY_FMT_LR,1.0,%#1s Least Recent
+zh_TW,RECENCY_FMT_MR,1.0,%#1s Most Recent
+zh_TW,RECENCY_GROUPS_FORMED_WARNING,1.0,%3z (%#1s) Actual number of Recency groups formed (= %#2s) is less than the specified number (= %#3s).
+zh_TW,RECENCY_GROUP_INT_NOT_BETWEEN_1_AND_10,1.0,%1z (%#1s) Specified number of Recency group is not an integer between 1 and 9 inclusively.
+zh_TW,RECENCY_LABEL,1.0,Recency Score
+zh_TW,RECENCY_SCORE_LABEL,1.0,"Recency Score (%#1s=Least Recent, %#2s=Most Recent)"
+zh_TW,RFMSUMMARYALL,1.0,Total for All Customers
+zh_TW,RFMSUMMARYMEDIAN,1.0,\u4e2d\u4f4d\u6578
+zh_TW,RFMSUMMARYN,1.0,Number of Customers
+zh_TW,RFMSUMMARYPCTN,1.0,Percent of Customers
+zh_TW,RFMSUMMARYTITLE,1.0,Summary of RFM Segments
+zh_TW,RFM_COMMON_FOOTNOTE1,1.0,"Maximum Number of Groups: %#1s (Recency), %#2s (Frequency), %#3s (Monetary)"
+zh_TW,RFM_COMMON_FOOTNOTE2I,1.0,Binning Method: Independent
+zh_TW,RFM_COMMON_FOOTNOTE2N,1.0,Binning Method: Nested
+zh_TW,RFM_FMT_MAX_SCORE,1.0,"%#1s Most Recent, Most Frequent, and Highest Amount"
+zh_TW,RFM_FMT_MIN_SCORE,1.0,"%#1s Least Recent, Least Frequent, and Lowest Amount"
+zh_TW,RFM_SCORE_LABEL,1.0,RFM Score
+zh_TW,RFM_VARIABLE_V7_INCOMPATIBLE,1.0,%2z (%#1s) The requested Right Bin Bound dataset will not be produced because the Business Rules Manager cannot handle names that are invalid under V7.
+zh_TW,SCORE_TYPE_LABEL,1.0,Type of Score
+zh_TW,SUM_PLURAL,1.0,Sums
+zh_TW,SUM_SINGULAR,1.0,\u7e3d\u548c
+zh_TW,TITLE_FREQUENCY_BY_R,1.0,Distribution of Frequency Scores by Recency Score
+zh_TW,TITLE_MONETARY_BY_RF,1.0,Distribution of Monetary Scores by Recency Score and Frequency Score
+zh_TW,TITLE_MONETIZATION,1.0,Monetization Map of %#1s of Transaction Amounts
+zh_TW,TITLE_MONETIZATIONMAP,1.0,Monetization Map of %#1s of Transaction Amounts by Recency Score and Frequency Score
+zh_TW,TITLE_MOST_RECENT_DATE,1.0,Distribution of Dates of Most Recent Transaction
+zh_TW,TITLE_NPURCHASE_BY_R,1.0,Distribution of Numbers of Transactions by Recency Score
+zh_TW,TITLE_RECENCY,1.0,Distribution of Recency Scores
+zh_TW,TITLE_TOTPURCHASEAMT_BY_RF,1.0,Distribution of %#1s of Transaction Amounts by Recency Score and Frequency Score
+zh_TW,TOTPURCHASEAMTLABEL,1.0,%#1s of Transaction Amounts
+zh_TW,TRANSACTIONAL_INPUT_NOT_SPECIFIED,1.0,%1z (%#1s) The Purchase Date or the Purchase Amount variables for Transactional Data mode are not correctly specified. They must be numeric variables.
+zh_TW,UNEXPECTED_ANALYSIS_MODE,1.0,"%1z (%#1s) Unrecognized mode of analysis, expect either T for transactional or C for customer."
+zh_TW,UNRECOGNIZED_BINNING,1.0,"%1z (%#1s) Unrecognized binning method, expect either N for nested or I for independent."

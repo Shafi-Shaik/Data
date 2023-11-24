@@ -1,0 +1,138 @@
+locale,language,region,currsym,icurrsym,currrad,currsep,currfrac,currifrac
+af_ZA,Afrikaans,SouthAfrica,R,ZAR,",", ,2.0,2.0
+sq_AL,Albanian,Albania,Lekë,ALL,",", ,0.0,0.0
+ar_DZ,Arabic,Algeria,د.ج.,DZD,",",.,2.0,2.0
+ar_BH,Arabic,Bahrain,د.ب.,BHD,.,",",3.0,3.0
+ar_EG,Arabic,Egypt,ج.م.,EGP,.,",",2.0,2.0
+ar_IN,Arabic,India,₹,INR,.,",",2.0,2.0
+ar_IQ,Arabic,Iraq,د.ع.,IQD,.,",",0.0,0.0
+ar_JO,Arabic,Jordan,د.أ.,JOD,.,",",3.0,3.0
+ar_KW,Arabic,Kuwait,د.ك.,KWD,.,",",3.0,3.0
+ar_LB,Arabic,Lebanon,ل.ل.,LBP,",",.,0.0,0.0
+ar_LY,Arabic,Libya,د.ل.,LYD,",",.,3.0,3.0
+ar_MA,Arabic,Morocco,د.م.,MAD,",",.,2.0,2.0
+ar_OM,Arabic,Oman,ر.ع.,OMR,.,",",3.0,3.0
+ar_QA,Arabic,Qatar,ر.ق.,QAR,.,",",2.0,2.0
+ar_SA,Arabic,SaudiArabia,ر.س.,SAR,.,",",2.0,2.0
+ar_SD,Arabic,Sudan,ج.س.,SDG,.,",",2.0,2.0
+ar_SY,Arabic,Syria,ل.س.,SYP,.,",",0.0,0.0
+ar_TN,Arabic,Tunisia,د.ت.,TND,",",.,3.0,3.0
+ar_AE,Arabic,UnitedArabEmirates,د.إ.,AED,.,",",2.0,2.0
+ar_YE,Arabic,Yemen,ر.ي.,YER,.,",",0.0,0.0
+eu_ES,Basque,Spain,€,EUR,",",.,2.0,2.0
+bn_IN,Bengali,India,₹,INR,.,",",2.0,2.0
+bs_BA,Bosnian,BosniaHerzegovina,KM,BAM,",",.,2.0,2.0
+bg_BG,Bulgarian,Bulgaria,лв.,BGN,",", ,2.0,2.0
+be_BY,Belarusian,Belarus,Br,BYN,",", ,0.0,0.0
+ca_ES,Catalan,Spain,€,EUR,",",.,2.0,2.0
+zh_CN,Chinese,China,￥,CNY,.,",",2.0,2.0
+zh_HK,Chinese,HongKong,HK$,HKD,.,",",2.0,2.0
+zh_MO,Chinese,Macau,MOP$,MOP,.,",",2.0,2.0
+zh_SG,Chinese,Singapore,$,SGD,.,",",2.0,2.0
+zh_TW,Chinese,Taiwan,NT$,TWD,.,",",2.0,2.0
+kw_GB,Cornish,UnitedKingdom,£,GBP,.,",",2.0,2.0
+hr_BA,Croatian,BosniaHerzegovina,KM,BAM,",",.,2.0,2.0
+hr_HR,Croatian,Croatia,kn,HRK,",",.,2.0,2.0
+cs_CZ,Czech,CzechRepublic,Kč,CZK,",", ,2.0,2.0
+da_DK,Danish,Denmark,kr.,DKK,",",.,2.0,2.0
+nl_BE,Dutch,Belgium,€,EUR,",",.,2.0,2.0
+nl_NL,Dutch,Netherlands,€,EUR,",",.,2.0,2.0
+en_AU,English,Australia,$,AUD,.,",",2.0,2.0
+en_BE,English,Belgium,€,EUR,",",.,2.0,2.0
+en_BW,English,Botswana,P,BWP,.,",",2.0,2.0
+en_CA,English,Canada,$,CAD,.,",",2.0,2.0
+en_CB,English,Caribbean,$,USD,.,",",2.0,2.0
+en_HK,English,HongKong,HK$,HKD,.,",",2.0,2.0
+en_IN,English,India,₹,INR,.,",",2.0,2.0
+en_IE,English,Ireland,€,EUR,.,",",2.0,2.0
+en_JM,English,Jamaica,$,JMD,.,",",2.0,2.0
+en_MT,English,Malta,€,EUR,.,",",2.0,2.0
+en_NZ,English,NewZealand,$,NZD,.,",",2.0,2.0
+en_PH,English,Philippines,₱,PHP,.,",",2.0,2.0
+en_SG,English,Singapore,$,SGD,.,",",2.0,2.0
+en_ZA,English,SouthAfrica,R,ZAR,",", ,2.0,2.0
+en_GB,English,UnitedKingdom,£,GBP,.,",",2.0,2.0
+en_US,English,UnitedStates,$,USD,.,",",2.0,2.0
+en_ZW,English,Zimbabwe,US$,USD,.,",",2.0,2.0
+et_EE,Estonian,Estonia,€,EUR,",", ,2.0,2.0
+fo_FO,Faroese,FaroeIslands,kr,DKK,",",.,2.0,2.0
+fi_FI,Finnish,Finland,€,EUR,",", ,2.0,2.0
+fr_BE,French,Belgium,€,EUR,",", ,2.0,2.0
+fr_CA,French,Canada,$,CAD,",", ,2.0,2.0
+fr_FR,French,France,€,EUR,",", ,2.0,2.0
+fr_LU,French,Luxembourg,€,EUR,",",.,2.0,2.0
+fr_CH,French,Switzerland,CHF,CHF,., ,2.0,2.0
+de_AT,German,Austria,€,EUR,",",.,2.0,2.0
+de_DE,German,Germany,€,EUR,",",.,2.0,2.0
+de_LI,German,Liechtenstein,CHF,CHF,.,',2.0,2.0
+de_LU,German,Luxembourg,€,EUR,",",.,2.0,2.0
+de_CH,German,Switzerland,CHF,CHF,.,',2.0,2.0
+el_CY,Greek,Cyprus,€,EUR,",",.,2.0,2.0
+el_GR,Greek,Greece,€,EUR,",",.,2.0,2.0
+kl_GL,Greenlandic,Greenland,kr.,DKK,",",.,2.0,2.0
+he_IL,Hebrew,Israel,₪,ILS,.,",",2.0,2.0
+hi_IN,Hindi,India,₹,INR,.,",",2.0,2.0
+hu_HU,Hungarian,Hungary,Ft,HUF,",", ,0.0,0.0
+is_IS,Icelandic,Iceland,kr,ISK,",",.,0.0,0.0
+id_ID,Indonesian,Indonesia,Rp,IDR,",",.,0.0,0.0
+ga_IE,Irish,Ireland,€,EUR,.,",",2.0,2.0
+it_IT,Italian,Italy,€,EUR,",",.,2.0,2.0
+it_CH,Italian,Switzerland,CHF,CHF,.,',2.0,2.0
+ja_JP,Japanese,Japan,￥,JPY,.,",",0.0,0.0
+kk_KZ,Kazakh,Kazakhstan,₸,KZT,",", ,2.0,2.0
+ko_KR,Korean,SouthKorea,₩,KRW,.,",",0.0,0.0
+lv_LV,Latvian,Latvia,€,EUR,",", ,2.0,2.0
+lt_LT,Lithuanian,Lithuania,€,EUR,",", ,2.0,2.0
+mk_MK,Macedonian,Macedonia,ден,MKD,",",.,2.0,2.0
+ms_MY,Malay,Malaysia,RM,MYR,.,",",2.0,2.0
+mt_MT,Maltese,Malta,€,EUR,.,",",2.0,2.0
+mr_IN,Marathi,India,₹,INR,.,",",2.0,2.0
+nb_NO,NorwegianBokmal,Norway,kr,NOK,",", ,2.0,2.0
+nn_NO,NorwegianNynorsk,Norway,kr,NOK,",", ,2.0,2.0
+no_NO,Norwegian,Norway,kr,NOK,",", ,2.0,2.0
+fa_IN,Persian,India,₹,INR,.,",",0.0,0.0
+fa_IR,Persian,Iran,ریال,IRR,.,",",0.0,0.0
+pl_PL,Polish,Poland,zł,PLN,",", ,2.0,2.0
+pt_BR,Portuguese,Brazil,R$,BRL,",",.,2.0,2.0
+pt_PT,Portuguese,Portugal,€,EUR,",", ,2.0,2.0
+ro_RO,Romanian,Romania,lei,RON,",",.,2.0,2.0
+ru_RU,Russian,Russia,₽,RUB,",", ,2.0,2.0
+ru_UA,Russian,Ukraine,₴,UAH,",", ,2.0,2.0
+sr_BA,Serbian,BosniaHerzegovina,КМ,BAM,",",.,2.0,2.0
+sr_ME,Serbian,Montenegro,€,EUR,",",.,2.0,2.0
+sr_RS,Serbian,Serbia,RSD,RSD,",",.,0.0,0.0
+sh_BA,SerbianLatin,BosniaHerzegovina,KM,BAM,",",.,2.0,2.0
+sh_ME,SerbianLatin,Montenegro,€,EUR,",",.,2.0,2.0
+sh_RS,SerbianLatin,Serbia,RSD,RSD,",",.,0.0,0.0
+sk_SK,Slovak,Slovakia,€,EUR,",", ,2.0,2.0
+sl_SI,Slovenian,Slovenia,€,EUR,",",.,2.0,2.0
+es_AR,Spanish,Argentina,$,ARS,",",.,2.0,2.0
+es_BO,Spanish,Bolivia,Bs,BOB,",",.,2.0,2.0
+es_CL,Spanish,Chile,$,CLP,",",.,0.0,0.0
+es_CO,Spanish,Colombia,$,COP,",",.,0.0,0.0
+es_CR,Spanish,CostaRica,₡,CRC,",", ,0.0,0.0
+es_DO,Spanish,DominicanRepublic,$,DOP,.,",",2.0,2.0
+es_EC,Spanish,Ecuador,$,USD,",",.,2.0,2.0
+es_SV,Spanish,ElSalvador,$,USD,.,",",2.0,2.0
+es_GT,Spanish,Guatemala,Q,GTQ,.,",",2.0,2.0
+es_HN,Spanish,Honduras,L,HNL,.,",",2.0,2.0
+es_MX,Spanish,Mexico,$,MXN,.,",",2.0,2.0
+es_NI,Spanish,Nicaragua,C$,NIO,.,",",2.0,2.0
+es_PA,Spanish,Panama,B/.,PAB,.,",",2.0,2.0
+es_PY,Spanish,Paraguay,₲,PYG,",",.,0.0,0.0
+es_PE,Spanish,Peru,S/,PEN,.,",",2.0,2.0
+es_PR,Spanish,PuertoRico,$,USD,.,",",2.0,2.0
+es_ES,Spanish,Spain,€,EUR,",",.,2.0,2.0
+es_US,Spanish,UnitedStates,$,USD,.,",",2.0,2.0
+es_UY,Spanish,Uruguay,$,UYU,",",.,2.0,2.0
+es_VE,Spanish,Venezuela,Bs.S,VES,",",.,2.0,2.0
+sv_SE,Swedish,Sweden,kr,SEK,",", ,2.0,2.0
+tl_PH,Tagalog,Philippines,₱,PHP,.,",",2.0,2.0
+ta_IN,Tamil,India,₹,INR,.,",",2.0,2.0
+te_IN,Telugu,India,₹,INR,.,",",2.0,2.0
+th_TH,Thai,Thailand,฿,THB,.,",",2.0,2.0
+tr_TR,Turkish,Turkey,₺,TRY,",",.,2.0,2.0
+uk_UA,Ukrainian,Ukraine,₴,UAH,",", ,2.0,2.0
+vi_VN,Vietnamese,Vietnam,₫,VND,",",.,0.0,0.0
+pl_XX,Polish,XX,zł,PLN,",", ,2.0,2.0
+zh_XX,Chinese,XX,￥,CNY,.,",",2.0,2.0

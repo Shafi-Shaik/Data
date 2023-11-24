@@ -1,0 +1,73 @@
+libname,engine,path,level,fileformat,readonly,sequential,sysdesc,sysname,sysvalue,temp
+WORK,V9,/saswork/SAS_work9422000102FB_odaws01-apse1.oda.sas.com/SAS_workD035000102FB_odaws01-apse1.oda.sas.com,0.0,7,no,no,Host dependent information,Filename,/saswork/SAS_work9422000102FB_odaws01-apse1.oda.sas.com/SAS_workD035000102FB_odaws01-apse1.oda.sas.com,yes
+WORK,V9,/saswork/SAS_work9422000102FB_odaws01-apse1.oda.sas.com/SAS_workD035000102FB_odaws01-apse1.oda.sas.com,0.0,7,no,no,Host dependent information,Inode Number,1074846569,yes
+WORK,V9,/saswork/SAS_work9422000102FB_odaws01-apse1.oda.sas.com/SAS_workD035000102FB_odaws01-apse1.oda.sas.com,0.0,7,no,no,Host dependent information,Access Permission,rwx------,yes
+WORK,V9,/saswork/SAS_work9422000102FB_odaws01-apse1.oda.sas.com/SAS_workD035000102FB_odaws01-apse1.oda.sas.com,0.0,7,no,no,Host dependent information,Owner Name,u63490872,yes
+WORK,V9,/saswork/SAS_work9422000102FB_odaws01-apse1.oda.sas.com/SAS_workD035000102FB_odaws01-apse1.oda.sas.com,0.0,7,no,no,Host dependent information,File Size,0KB,yes
+WORK,V9,/saswork/SAS_work9422000102FB_odaws01-apse1.oda.sas.com/SAS_workD035000102FB_odaws01-apse1.oda.sas.com,0.0,7,no,no,Host dependent information,File Size (bytes),260,yes
+APFMTLIB,V9,/pbr/biconfig/940/Lev1/SASApp/SASEnvironment/SASFormats,0.0,7,no,no,Host dependent information,Filename,/pbr/biconfig/940/Lev1/SASApp/SASEnvironment/SASFormats,no
+APFMTLIB,V9,/pbr/biconfig/940/Lev1/SASApp/SASEnvironment/SASFormats,0.0,7,no,no,Host dependent information,Inode Number,4732930,no
+APFMTLIB,V9,/pbr/biconfig/940/Lev1/SASApp/SASEnvironment/SASFormats,0.0,7,no,no,Host dependent information,Access Permission,rwxr-xr-x,no
+APFMTLIB,V9,/pbr/biconfig/940/Lev1/SASApp/SASEnvironment/SASFormats,0.0,7,no,no,Host dependent information,Owner Name,odaowner,no
+APFMTLIB,V9,/pbr/biconfig/940/Lev1/SASApp/SASEnvironment/SASFormats,0.0,7,no,no,Host dependent information,File Size,4KB,no
+APFMTLIB,V9,/pbr/biconfig/940/Lev1/SASApp/SASEnvironment/SASFormats,0.0,7,no,no,Host dependent information,File Size (bytes),4096,no
+MAPS,V9,/pbr/sfw/sas/940/SASFoundation/9.4/maps,0.0,7,yes,no,Host dependent information,Filename,/pbr/sfw/sas/940/SASFoundation/9.4/maps,no
+MAPS,V9,/pbr/sfw/sas/940/SASFoundation/9.4/maps,0.0,7,yes,no,Host dependent information,Inode Number,5251243,no
+MAPS,V9,/pbr/sfw/sas/940/SASFoundation/9.4/maps,0.0,7,yes,no,Host dependent information,Access Permission,rwxr-xr-x,no
+MAPS,V9,/pbr/sfw/sas/940/SASFoundation/9.4/maps,0.0,7,yes,no,Host dependent information,Owner Name,odaowner,no
+MAPS,V9,/pbr/sfw/sas/940/SASFoundation/9.4/maps,0.0,7,yes,no,Host dependent information,File Size,16KB,no
+MAPS,V9,/pbr/sfw/sas/940/SASFoundation/9.4/maps,0.0,7,yes,no,Host dependent information,File Size (bytes),16384,no
+SASDATA,BASE,/pbr/biconfig/940/Lev1/SASApp/Data,0.0,7,no,no,Host dependent information,Filename,/pbr/biconfig/940/Lev1/SASApp/Data,no
+SASDATA,BASE,/pbr/biconfig/940/Lev1/SASApp/Data,0.0,7,no,no,Host dependent information,Inode Number,4732909,no
+SASDATA,BASE,/pbr/biconfig/940/Lev1/SASApp/Data,0.0,7,no,no,Host dependent information,Access Permission,rwxr-xr-x,no
+SASDATA,BASE,/pbr/biconfig/940/Lev1/SASApp/Data,0.0,7,no,no,Host dependent information,Owner Name,odaowner,no
+SASDATA,BASE,/pbr/biconfig/940/Lev1/SASApp/Data,0.0,7,no,no,Host dependent information,File Size,4KB,no
+SASDATA,BASE,/pbr/biconfig/940/Lev1/SASApp/Data,0.0,7,no,no,Host dependent information,File Size (bytes),4096,no
+STPSAMP,BASE,/pbr/sfw/sas/940/SASFoundation/9.4/samples/inttech,0.0,7,yes,no,Host dependent information,Filename,/pbr/sfw/sas/940/SASFoundation/9.4/samples/inttech,no
+STPSAMP,BASE,/pbr/sfw/sas/940/SASFoundation/9.4/samples/inttech,0.0,7,yes,no,Host dependent information,Inode Number,5253102,no
+STPSAMP,BASE,/pbr/sfw/sas/940/SASFoundation/9.4/samples/inttech,0.0,7,yes,no,Host dependent information,Access Permission,rwxr-xr-x,no
+STPSAMP,BASE,/pbr/sfw/sas/940/SASFoundation/9.4/samples/inttech,0.0,7,yes,no,Host dependent information,Owner Name,odaowner,no
+STPSAMP,BASE,/pbr/sfw/sas/940/SASFoundation/9.4/samples/inttech,0.0,7,yes,no,Host dependent information,File Size,4KB,no
+STPSAMP,BASE,/pbr/sfw/sas/940/SASFoundation/9.4/samples/inttech,0.0,7,yes,no,Host dependent information,File Size (bytes),4096,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sascfg,1.0,7,no,no,Host dependent information,Filename,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sascfg,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sascfg,1.0,7,no,no,Host dependent information,Inode Number,5244608,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sascfg,1.0,7,no,no,Host dependent information,Access Permission,rwxr-xr-x,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sascfg,1.0,7,no,no,Host dependent information,Owner Name,odaowner,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sascfg,1.0,7,no,no,Host dependent information,File Size,4KB,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sascfg,1.0,7,no,no,Host dependent information,File Size (bytes),4096,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sashelp,2.0,7,no,no,Host dependent information,Filename,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sashelp,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sashelp,2.0,7,no,no,Host dependent information,Inode Number,5244399,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sashelp,2.0,7,no,no,Host dependent information,Access Permission,rwxr-xr-x,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sashelp,2.0,7,no,no,Host dependent information,Owner Name,odaowner,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sashelp,2.0,7,no,no,Host dependent information,File Size,16KB,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/u8/sashelp,2.0,7,no,no,Host dependent information,File Size (bytes),16384,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/en/sascfg,3.0,7,no,no,Host dependent information,Filename,/pbr/sfw/sas/940/SASFoundation/9.4/nls/en/sascfg,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/en/sascfg,3.0,7,no,no,Host dependent information,Inode Number,5244612,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/en/sascfg,3.0,7,no,no,Host dependent information,Access Permission,rwxr-xr-x,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/en/sascfg,3.0,7,no,no,Host dependent information,Owner Name,odaowner,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/en/sascfg,3.0,7,no,no,Host dependent information,File Size,4KB,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/nls/en/sascfg,3.0,7,no,no,Host dependent information,File Size (bytes),4096,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/sashelp,4.0,7,no,no,Host dependent information,Filename,/pbr/sfw/sas/940/SASFoundation/9.4/sashelp,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/sashelp,4.0,7,no,no,Host dependent information,Inode Number,5251611,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/sashelp,4.0,7,no,no,Host dependent information,Access Permission,rwxr-xr-x,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/sashelp,4.0,7,no,no,Host dependent information,Owner Name,odaowner,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/sashelp,4.0,7,no,no,Host dependent information,File Size,28KB,no
+SASHELP,V9,/pbr/sfw/sas/940/SASFoundation/9.4/sashelp,4.0,7,no,no,Host dependent information,File Size (bytes),28672,no
+MAPSSAS,V9,/pbr/sfw/sas/940/SASFoundation/9.4/maps,0.0,7,yes,no,Host dependent information,Filename,/pbr/sfw/sas/940/SASFoundation/9.4/maps,no
+MAPSSAS,V9,/pbr/sfw/sas/940/SASFoundation/9.4/maps,0.0,7,yes,no,Host dependent information,Inode Number,5251243,no
+MAPSSAS,V9,/pbr/sfw/sas/940/SASFoundation/9.4/maps,0.0,7,yes,no,Host dependent information,Access Permission,rwxr-xr-x,no
+MAPSSAS,V9,/pbr/sfw/sas/940/SASFoundation/9.4/maps,0.0,7,yes,no,Host dependent information,Owner Name,odaowner,no
+MAPSSAS,V9,/pbr/sfw/sas/940/SASFoundation/9.4/maps,0.0,7,yes,no,Host dependent information,File Size,16KB,no
+MAPSSAS,V9,/pbr/sfw/sas/940/SASFoundation/9.4/maps,0.0,7,yes,no,Host dependent information,File Size (bytes),16384,no
+MAPSGFK,V9,/pbr/sfw/sas/940/SASFoundation/9.4/mapsgfk,0.0,7,yes,no,Host dependent information,Filename,/pbr/sfw/sas/940/SASFoundation/9.4/mapsgfk,no
+MAPSGFK,V9,/pbr/sfw/sas/940/SASFoundation/9.4/mapsgfk,0.0,7,yes,no,Host dependent information,Inode Number,526119,no
+MAPSGFK,V9,/pbr/sfw/sas/940/SASFoundation/9.4/mapsgfk,0.0,7,yes,no,Host dependent information,Access Permission,rwxr-xr-x,no
+MAPSGFK,V9,/pbr/sfw/sas/940/SASFoundation/9.4/mapsgfk,0.0,7,yes,no,Host dependent information,Owner Name,odaowner,no
+MAPSGFK,V9,/pbr/sfw/sas/940/SASFoundation/9.4/mapsgfk,0.0,7,yes,no,Host dependent information,File Size,28KB,no
+MAPSGFK,V9,/pbr/sfw/sas/940/SASFoundation/9.4/mapsgfk,0.0,7,yes,no,Host dependent information,File Size (bytes),28672,no
+SASUSER,V9,/home/u63490872/sasuser.v94,0.0,7,yes,no,Host dependent information,Filename,/home/u63490872/sasuser.v94,no
+SASUSER,V9,/home/u63490872/sasuser.v94,0.0,7,yes,no,Host dependent information,Inode Number,159777277,no
+SASUSER,V9,/home/u63490872/sasuser.v94,0.0,7,yes,no,Host dependent information,Access Permission,rwxr-xr-x,no
+SASUSER,V9,/home/u63490872/sasuser.v94,0.0,7,yes,no,Host dependent information,Owner Name,u63490872,no
+SASUSER,V9,/home/u63490872/sasuser.v94,0.0,7,yes,no,Host dependent information,File Size,4KB,no
+SASUSER,V9,/home/u63490872/sasuser.v94,0.0,7,yes,no,Host dependent information,File Size (bytes),4096,no

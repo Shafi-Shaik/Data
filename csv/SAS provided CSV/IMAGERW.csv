@@ -1,0 +1,22 @@
+ext,format,module,desc,display,query,read,write,offset,len,sigstr,xxtype,ra_write
+,CAT,SASIGCAT,Catalog Image,N,N,Y,Y,0.0,0.0,,6.0,N
+,CAL,SASIGCAL,Catalog Linkage,N,N,Y,Y,0.0,0.0,,6.0,N
+*.gif,GIF,SASIGGIF,Graphics Interchange Format,Y,Y,Y,Y,0.0,6.0,GIF87a,9.0,N
+*.tif,TIFF,SASIGTIF,Tagged Image File Format,Y,Y,Y,Y,0.0,4.0,\111\111\52\0,19.0,Y
+*.tif,TIFF,,,N,X,X,X,0.0,4.0,\115\115\0\52,19.0,N
+*.tif,TIF,SASIGTIF,Tagged Image File Format,N,Y,Y,Y,0.0,4.0,\111\111\52\0,19.0,Y
+*.tif,TIF,,,N,X,X,X,0.0,4.0,\115\115\0\52,19.0,N
+*.jpg,JFIF,SASIGJFF,JPEG/JFIF Format,Y,Y,Y,Y,0.0,4.0,\112\106\111\106,10.0,N
+*.png,PNG,SASIGPNG,Portable Network Graphics Format,Y,Y,Y,Y,0.0,0.0,,27.0,N
+*.pcd,PCD,SASIGPCD,Kodak Photo CD,Y,Y,Y,N,0.0,7.0,PCD_IPI,6.0,N
+*.xwd,XWD,SASIGXWD,X11 Window Dump,Y,Y,Y,N,0.0,0.0,,22.0,N
+*.pbm,PBM,SASIGPBM,Portable Bitmap,Y,Y,Y,Y,0.0,0.0,,12.0,N
+*.tga,TGA,SASIGTGA,Truevision Targa,Y,Y,Y,N,0.0,0.0,,20.0,N
+*.xbm,XBM,SASIGXBM,X11 Bitmap,Y,Y,Y,N,0.0,0.0,,21.0,N
+*.ps,PS,SASIGPS,Postscript,Y,Y,Y,Y,0.0,0.0,,23.0,N
+*.eps,EPSI,SASIGPS,Encapsulated Postscript,Y,Y,Y,Y,0.0,0.0,,8.0,N
+*.pcx,PCX,SASIGPCX,PC Paintbrush file,Y,Y,Y,N,0.0,0.0,,15.0,N
+*.bmp,BMP,SASIGBMP,Microsoft Windows Bitmap,Y,Y,Y,Y,0.0,2.0,BM,11.0,Y
+*.pcl,PCL,SASIGPCL,HP Printer Control Language,Y,N,N,Y,0.0,0.0,,25.0,N
+*.gen,GEN,SASIGGEN,Nvision GEN,N,Y,Y,Y,0.0,20.0,\000\000\000\044\116\126\111\107\105\116\105\122\111\103\040\126\060\060\061\040,6.0,N
+,DUMMY,SASIGDUM,Test Reader,N,N,Y,N,0.0,0.0,,6.0,N

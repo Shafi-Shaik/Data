@@ -1,0 +1,510 @@
+role,Term,numdocs
+Adv,a bordo,815.0
+Adv,a caballo,12.0
+Adv,a cabo,4248.0
+Adv,a centenares,2.0
+Adv,a ciegas,3.0
+Adv,a cielo abierto,23.0
+Adv,a ciencia cierta,8.0
+Conj,a condición de que,1217.0
+Prep,a consecuencia de,248.0
+Prep,a costa de,22.0
+Prep,a cuenta de,56.0
+Adv,a dentro,2.0
+Prep,a diferencia de,149.0
+Adv,a discreción,92.0
+Adv,a expensas,82.0
+Prep,a favor de,665.0
+Prep,a fin de,4375.0
+Conj,a fin de que,873.0
+Prep,a fuerza de,2.0
+Adv,a granel,371.0
+Adv,a guisa de,2.0
+Adv,a gusto,3.0
+Adv,a hilo,11.0
+Adv,a jornal,2.0
+Adv,a la antigua,22.0
+Adv,a la brida,5.0
+Adv,a la carrera,9.0
+Adv,a la continua,8.0
+Adv,a la derecha,102.0
+Adv,a la fuerza,31.0
+Adv,a la hora,1215.0
+Adv,a la intemperie,19.0
+Adv,a la larga,22.0
+Adv,a la ligera,6.0
+Adv,a la medida,135.0
+Adv,a la moda,2.0
+Adv,a la par,51.0
+Adv,a la postre,14.0
+Adv,a la sazón,10.0
+Adv,a la vista,818.0
+Adv,a la vuelta,5.0
+Adv,a la zaga,9.0
+Adv,a las ancas,2.0
+Adv,a las claras,4.0
+Adv,a las primeras,20.0
+Adv,a lo más,2.0
+Adv,a los principios,522.0
+Adv,a malas,2.0
+Adv,a manera,2.0
+Adv,a mano,249.0
+Adv,a mano armada,8.0
+Adv,a medias,6.0
+Conj,a menos que,1250.0
+Adv,a menudo,685.0
+Adv,a modo,170.0
+Adv,a muerte,25.0
+Adv,a más,4345.0
+Adv,a oscuras,5.0
+Adv,a par,5.0
+Adv,a penas,14.0
+Adv,a pesar,927.0
+Conj,a pesar de que,320.0
+Adv,a pie,367.0
+Adv,a poco,6.0
+Adv,a posteriori,400.0
+Adv,a primera vista,56.0
+Adv,a priori,112.0
+Adv,a propósito,81.0
+Adv,a prorrata,81.0
+Adv,a puertas,5.0
+Adv,a punto,235.0
+Adv,a ras,6.0
+Adv,a razón,93.0
+Prep,a razón de,171.0
+Prep,a raíz de,1253.0
+Prep,a reserva de,487.0
+Adv,a sabiendas,31.0
+Adv,a salvo,15.0
+Adv,a simple vista,37.0
+Adv,a su vez,853.0
+Adv,a tiempo,383.0
+Adv,a tiempos,7.0
+Adv,a toda costa,10.0
+Prep,a través,67.0
+Prep,a través de,3014.0
+Prep,a través del,1217.0
+Adv,a trechos,5.0
+Adv,a título,802.0
+Adv,a ultranza,3.0
+Adv,a un tiempo,33.0
+Adv,a uso,67.0
+Adv,a veces,391.0
+Adv,a voluntad,15.0
+Adv,a última hora,7.0
+Adv,a. c.,4.0
+Adv,a. m.,5.0
+Adv,ab intestato,2.0
+Prep,acerca de,1669.0
+Adv,ad hoc,413.0
+Adv,ad libitum,2.0
+Adv,ad referendum,3.0
+Prep,además de,2049.0
+Conj,ahora bien,314.0
+Adv,ahora mismo,6.0
+Adv,al aire libre,142.0
+Adv,al cabo,5.0
+Prep,al cabo de,154.0
+Prep,al cabo del,5.0
+Adv,al contrario,140.0
+Prep,al contrario de,41.0
+Adv,al descubierto,21.0
+Adv,al día,748.0
+Adv,al fin,40.0
+Adv,al fresco,3.0
+Adv,al hilo,13.0
+Conj,al igual que,596.0
+Adv,al instante,2.0
+Conj,al menos,3582.0
+Adv,al modo,82.0
+Adv,al momento,75.0
+Adv,al ojo,9.0
+Adv,al oído,4.0
+Adv,al par,16.0
+Adv,al parecer,103.0
+Adv,al paso,41.0
+Adv,al paño,2.0
+Adv,al pelo,5.0
+Adv,al pie,38.0
+Adv,al pie de la letra,13.0
+Adv,al por mayor,181.0
+Adv,al por menor,406.0
+Adv,al presente,2118.0
+Adv,al principio,852.0
+Adv,al punto,616.0
+Adv,al revés,8.0
+Adv,al trasluz,7.0
+Adv,al uso,556.0
+Adv,alguna vez,7.0
+Prep,alrededor de,540.0
+Adv,ante todo,194.0
+Conj,antes bien,18.0
+Prep,antes de,4729.0
+Conj,antes de que,1499.0
+Prep,antes del,3488.0
+Conj,antes que,135.0
+Conj,así como,8241.0
+Conj,así como también,28.0
+Conj,así como tampoco,10.0
+Adv,así mismo,22.0
+Conj,así pues,959.0
+Conj,así que,93.0
+Conj,aun cuando,466.0
+Conj,bien que,126.0
+Adv,boca abajo,2.0
+Pron,cada cual,21.0
+Adv,cada momento,28.0
+Pron,cada una,1877.0
+Pron,cada uno,2948.0
+Adv,cada vez que,339.0
+Adv,cara a cara,5.0
+Conj,caso que,155.0
+Prep,cerca de,376.0
+Conj,claro que,309.0
+Adv,codo con codo,3.0
+Conj,como quiera que,14.0
+Conj,como si,406.0
+Conj,como también,54.0
+Conj,como tampoco,46.0
+Conj,comoquiera que,3.0
+Adv,con creces,43.0
+Prep,con el fin de,4313.0
+Adv,con respecto de,19.0
+Prep,con tal de,31.0
+Conj,con tal que,25.0
+Adv,con tiempo,94.0
+Prep,conforme a,3005.0
+Prep,conforme al,2239.0
+Adv,contra corriente,6.0
+Adv,corea del sur,2.0
+Adv,costa de marfil,4.0
+Adj,cuadragésimo quinto,6.0
+Adv,cuando menos,89.0
+Adv,cuando más,14.0
+Adv,cuando quiera,2.0
+Prep,cuanto a,6.0
+Prep,cuanto al,6.0
+Adv,cuanto antes,360.0
+Adv,cuanto más,62.0
+Conj,dado que,1945.0
+Adv,de antes,9.0
+Adv,de arriba abajo,31.0
+Adv,de balde,2.0
+Adv,de buena fe,181.0
+Adv,de buena voluntad,6.0
+Adv,de canto,3.0
+Adv,de cara,380.0
+Adv,de cerca,239.0
+Adv,de cierto,41.0
+Adv,de conformidad,10463.0
+Adv,de consuno,5.0
+Adv,de continuo,4.0
+Adv,de cuando en cuando,4.0
+Adv,de dentro,15.0
+Adv,de esa manera,43.0
+Adv,de frente,16.0
+Adv,de fuera,98.0
+Adv,de golpe,11.0
+Adv,de gracia,25.0
+Adv,de hilo,35.0
+Adv,de inmediato,409.0
+Adv,de jure,11.0
+Adv,de largo,95.0
+Adv,de ligero,2.0
+Adv,de lleno,6.0
+Adv,de malas,18.0
+Conj,de manera que,1262.0
+Adv,de menos,468.0
+Conj,de modo que,1209.0
+Adv,de más,1179.0
+Adv,de noche,30.0
+Adv,de nuevo,1008.0
+Adv,de ocasión,25.0
+Adv,de oficio,155.0
+Adv,de ordinario,7.0
+Adv,de oído,6.0
+Adv,de palabra,13.0
+Adv,de parte a parte,6.0
+Adv,de perlas,34.0
+Adv,de pie,71.0
+Adv,de pies,24.0
+Adv,de planta,17.0
+Adv,de por sí,82.0
+Adv,de por vida,5.0
+Adv,de prevención,465.0
+Adv,de propósito,8.0
+Adv,de punta,29.0
+Adv,de público,8.0
+Adv,de repente,5.0
+Adv,de repuesto,157.0
+Adv,de rodillas,2.0
+Adv,de secreto,105.0
+Adv,de seguro,362.0
+Adv,de sobra,7.0
+Adv,de su peso,45.0
+Adv,de suyo,2.0
+Adv,de sí,9.0
+Adv,de todo punto,6.0
+Adv,de través,2.0
+Adv,de tránsito,462.0
+Adv,de un día a otro,2.0
+Adv,de una vez,80.0
+Adv,de vacio,6.0
+Adv,de verdad,8.0
+Adv,de vez en cuando,59.0
+Prep,debajo de,656.0
+Adv,del todo,63.0
+Prep,delante de,92.0
+Prep,dentro de,4342.0
+Prep,dentro del,2690.0
+Adv,desde ahora,57.0
+Adv,desde luego,16.0
+Prep,después de,4059.0
+Conj,después de que,543.0
+Prep,después del,1690.0
+Conj,después que,22.0
+Prep,detrás de,97.0
+Prep,detrás del,79.0
+Adv,día y noche,4.0
+Adv,el centro,2.0
+Pron,el cual,2176.0
+Pron,el nuestro,1.0
+Pron,el suyo,29.0
+Pron,el tal,2.0
+Adv,en absoluto,182.0
+Adv,en alto,6.0
+Adv,en aquel entonces,9.0
+Adv,en cambio,452.0
+Adv,en canal,45.0
+Conj,en caso de que,3450.0
+Conj,en caso que,20.0
+Adv,en común,390.0
+Adv,en conciencia,6.0
+Adv,en consideración,1919.0
+Adv,en contrario,405.0
+Conj,en cuanto,743.0
+Prep,en cuanto a,2026.0
+Prep,en cuanto al,788.0
+Adv,en demasía,4.0
+Adv,en efecto,559.0
+Adv,en el acto,68.0
+Conj,en el caso de que,1062.0
+Adv,en esto,9.0
+Adv,en falso,2.0
+Adv,en fin,23.0
+Adv,en firme,25.0
+Adv,en flor,8.0
+Adv,en general,1794.0
+Adv,en la vida,174.0
+Conj,en lugar de,526.0
+Adv,en mano,62.0
+Adv,en medio,105.0
+Adv,en mejor,12.0
+Adv,en más,611.0
+Adv,en nada,26.0
+Adv,en orden,203.0
+Adv,en particular,18600.0
+Adv,en pedazos,9.0
+Adv,en persona,17.0
+Adv,en peso,619.0
+Adv,en pie,93.0
+Adv,en poco,20.0
+Adv,en pos,50.0
+Adv,en principio,1195.0
+Adv,en privado,10.0
+Adv,en punto,60.0
+Adv,en público,11.0
+Adv,en rama,22.0
+Adv,en razón de,392.0
+Adv,en realidad,279.0
+Adv,en regla,15.0
+Adv,en rústica,7.0
+Adv,en seco,95.0
+Adv,en secreto,21.0
+Adv,en seguida,8.0
+Adv,en serie,120.0
+Adv,en señal,12.0
+Adv,en su vida,13.0
+Adv,en sustancia,30.0
+Adv,en tanto,542.0
+Adv,en todo caso,488.0
+Prep,en torno a,538.0
+Prep,en torno al,260.0
+Prep,en torno de,2.0
+Adv,en vano,6.0
+Adv,en verdad,3.0
+Adv,en vez de,377.0
+Adv,en vida,2.0
+Adv,en vigor,14202.0
+Adv,en virtud,7078.0
+Prep,en vista de,309.0
+Adv,en vivo,39.0
+Prep,encima de,49.0
+Prep,enfrente de,7.0
+Adv,entre dos luces,6.0
+Conj,entre que,2.0
+Adv,entre tanto,79.0
+Adv,eso mismo,4.0
+Adj,estados federados de micronesia,2.0
+Adv,estados unidos de américa,4.0
+Prep,frente a,1811.0
+Adv,frente a frente,3.0
+Prep,frente al,522.0
+Prep,fuera de,1849.0
+Prep,fuera del,861.0
+Prep,gracias a,833.0
+Prep,gracias al,221.0
+Adv,hasta cierto punto,66.0
+Conj,hasta que,1591.0
+Adv,hong kong,3.0
+Adv,hoy en día,127.0
+Adv,hoy por hoy,29.0
+Adv,inter vivos,6.0
+Adv,ipso facto,27.0
+Adv,ipso jure,2.0
+Prep,junto a,315.0
+Prep,junto al,84.0
+Prep,junto con,2153.0
+Pron,la cual,2050.0
+Pron,la nuestra,1.0
+Pron,la suya,26.0
+Pron,la tal,2.0
+Adv,la unión,3.0
+Pron,las cuales,1983.0
+Pron,las nuestras,2.0
+Pron,las suyas,29.0
+Prep,lejos de,106.0
+Adv,lo contrario,721.0
+Pron,lo cual,1138.0
+Conj,lo mismo que,25.0
+Pron,los cuales,2750.0
+Adv,los estados unidos de américa,7.0
+Pron,los nuestros,1.0
+Pron,los suyos,14.0
+Adj,mano de obra,3.0
+Interj,manos a la obra,3.0
+Prep,merced a,131.0
+Adv,mientras tanto,126.0
+Adv,motu proprio,2.0
+Adv,mutatis mutandis,538.0
+Adv,más bien,293.0
+Prep,más que,575.0
+Adv,más tarde o más temprano,2.0
+Adv,más y más,3.0
+Adv,nada menos,9.0
+Adv,ni más ni menos,2.0
+Adv,ni siquiera,208.0
+Det,ni un,100.0
+Pron,ni una,106.0
+Pron,ni unas,1.0
+Pron,ni uno,2.0
+Pron,ni unos,6.0
+Adv,no obstante,6356.0
+Adv,o sea,201.0
+Adv,otra vez,41.0
+Adv,p. ej.,4.0
+Conj,para que,5548.0
+Adv,per se,24.0
+Conj,pero si,36.0
+Prep,pese a,456.0
+Prep,pese al,78.0
+Adv,poco a poco,37.0
+Adv,por ahora,54.0
+Adv,por alto,49.0
+Adv,por añadidura,43.0
+Adv,por cierto,5.0
+Conj,por consiguiente,4151.0
+Conj,por cuanto,161.0
+Adv,por ejemplo,3163.0
+Adv,por el contrario,495.0
+Adv,por encima,868.0
+Adv,por ende,144.0
+Adv,por fin,37.0
+Adv,por hora,176.0
+Adv,por horas,31.0
+Adv,por igual,165.0
+Adv,por la cuenta,3.0
+Adv,por la fuerza,25.0
+Adv,por la mala,2.0
+Adv,por las buenas,3.0
+Adv,por lo bajo,2.0
+Adv,por lo demás,151.0
+Adv,por lo general,431.0
+Adv,por lo menos,1143.0
+Adv,por lo pronto,2.0
+Adv,por lo regular,3.0
+Adv,por lo tanto,3632.0
+Conj,por más que,5.0
+Adv,por nada,2.0
+Adv,por poco,4.0
+Adv,por primera vez,873.0
+Adv,por puntos,27.0
+Adv,por qué,275.0
+Adv,por si acaso,3.0
+Adv,por supuesto,123.0
+Adv,por tanto,2704.0
+Interj,por vida,2.0
+Adv,por vía,688.0
+Adv,por último,1009.0
+Conj,pues que,18.0
+Conj,puesto que,1250.0
+Adj,quincuagésima octava,2.0
+Adj,quincuagésima séptima,2.0
+Adv,república federal de alemania,6.0
+Prep,respecto a,5088.0
+Prep,respecto al,1737.0
+Prep,respecto de,2525.0
+Adv,santo tomé y príncipe,2.0
+Adj,sexagésima tercera,2.0
+Adj,sexagésimo primer,2.0
+Adj,sexagésimo quinto,2.0
+Conj,si bien,1110.0
+Conj,si como,14.0
+Conj,siempre que,4390.0
+Adv,sin duda,195.0
+Adv,sin embargo,3318.0
+Adv,sin falta,3.0
+Conj,sin que,1331.0
+Adv,sin reserva,25.0
+Adv,sine qua non,39.0
+Adv,sobre seguro,10.0
+Adv,sobre sí,5.0
+Adv,sobre todo,1527.0
+Adv,statu quo,73.0
+Adv,sui generis,19.0
+Conj,tal como,3345.0
+Adv,tal cual,45.0
+Adv,tal vez,82.0
+Conj,tales como,1786.0
+Adv,tan siquiera,5.0
+Prep,tocante a,208.0
+Prep,tocante al,78.0
+Adj,trigésima quinta,2.0
+Adj,trigésimo quinto,2.0
+Adj,trigésimo séptimo,3.0
+Adv,trinidad y tobago,3.0
+Adv,un poco,77.0
+Pron,un tal,4.0
+Adv,una por una,14.0
+Pron,una tal,3.0
+Adv,una vez más,154.0
+Pron,unas cuantas,16.0
+Adv,uno a otro,40.0
+Adv,uno a uno,7.0
+Adv,uno por uno,14.0
+Pron,unos cuantos,32.0
+Adj,vigésima novena,4.0
+Adj,vigésima octava,5.0
+Adj,vigésima primera,3.0
+Adj,vigésima quinta,4.0
+Adj,vigésima segunda,7.0
+Adj,vigésimo cuarto,4.0
+Adj,vigésimo octavo,8.0
+Adj,vigésimo primer,81.0
+Adj,vigésimo quinto,7.0
+Adj,vigésimo segundo,3.0
+Adj,vigésimo séptimo,2.0
+Adj,vigésimo tercer,3.0
+Adv,vía recta,3.0
+Conj,ya que,2269.0
